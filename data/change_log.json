@@ -4,7 +4,7 @@
     "inmateNumber": "26755",
     "name": "BURDICK, JENIFER CATHERINE",
     "bookedAt": "2026-10-10T20:35:34",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "WSP",
     "bondTotal": 500,
     "charges": [
@@ -20,9 +20,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-10-10T21:20:54",
-    "releasedAt": "2026-10-10T21:35:16",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -382,7 +382,7 @@
     "inmateNumber": "325539",
     "name": "CRUZ VALENTIN, LUIS FERNANDO",
     "bookedAt": "2026-10-10T01:57:11",
-    "location": "INTAKE H3",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1917,7 +1917,7 @@
     "inmateNumber": "240574",
     "name": "NELSON, DARRYL EDWARD",
     "bookedAt": "2026-10-04T08:34:49",
-    "location": "C12",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
