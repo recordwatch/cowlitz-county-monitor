@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T00:15:18",
+  "generatedAt": "2026-10-11T00:35:09",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 174,
-    "bookingsObserved": 8,
+    "bookingsTracked": 177,
+    "bookingsObserved": 11,
     "releasesObserved": 2,
-    "inCustody": 172,
-    "uniquePeople": 174
+    "inCustody": 175,
+    "uniquePeople": 177
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-10",
-      "booked": 15,
+      "booked": 18,
       "released": 2
     },
     {
@@ -265,39 +265,39 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 66,
-      "pct": 38.2,
+      "count": 68,
+      "pct": 38.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 47,
-      "pct": 27.2,
+      "pct": 26.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 13.9,
+      "pct": 13.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 15,
-      "pct": 8.7,
+      "pct": 8.5,
       "label": "Cowlitz County Corrections"
+    },
+    {
+      "name": "WSP",
+      "count": 7,
+      "pct": 4,
+      "label": "Washington State Patrol"
     },
     {
       "name": "DOC",
       "count": 7,
       "pct": 4,
       "label": "Dept. of Corrections"
-    },
-    {
-      "name": "WSP",
-      "count": 6,
-      "pct": 3.5,
-      "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
@@ -378,12 +378,12 @@
     {
       "name": "A",
       "count": 36,
-      "pct": 21.1
+      "pct": 20.9
     },
     {
       "name": "B",
       "count": 35,
-      "pct": 20.5
+      "pct": 20.3
     },
     {
       "name": "C",
@@ -393,12 +393,12 @@
     {
       "name": "D",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "E",
       "count": 28,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "F",
@@ -408,7 +408,7 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "H",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.8
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
@@ -456,12 +456,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 16.9,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 486.3
   },
   "bond": {
     "withBond": 91,
-    "noBond": 81,
+    "noBond": 84,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4457200

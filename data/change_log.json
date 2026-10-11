@@ -1,5 +1,47 @@
 [
   {
+    "id": "360827-20261010235626",
+    "inmateNumber": "360827",
+    "name": "ADDICKS, TIMOTHY",
+    "bookedAt": "2026-10-10T23:56:26",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T00:35:09",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "360826-20261010234802",
+    "inmateNumber": "360826",
+    "name": "TAHMAS, MANSOUR",
+    "bookedAt": "2026-10-10T23:48:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T00:35:09",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "47189-20261010232021",
+    "inmateNumber": "47189",
+    "name": "EICHE, CHRISTOPHER OWEN",
+    "bookedAt": "2026-10-10T23:20:21",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T00:35:09",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "50387-20261010215622",
     "inmateNumber": "50387",
     "name": "LEWELLEN, MORGAN CHRISTINE",
