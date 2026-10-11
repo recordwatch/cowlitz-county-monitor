@@ -4,10 +4,22 @@
     "inmateNumber": "73957",
     "name": "ROBERTS, HEIDI MARIE",
     "bookedAt": "2026-10-11T09:40:55",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "E14",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-11T09:47:59",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0687927",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T10:15:18",
     "releasedAt": null,
