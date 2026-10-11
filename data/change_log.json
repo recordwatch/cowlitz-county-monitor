@@ -1,5 +1,42 @@
 [
   {
+    "id": "307862-20261011161537",
+    "inmateNumber": "307862",
+    "name": "OKUTSU, SAVANNAH RAE",
+    "bookedAt": "2026-10-11T16:15:37",
+    "location": "INTAKE H1",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-10-11T16:18:40",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-11T16:19:26",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T16:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "73957-20261011094055",
     "inmateNumber": "73957",
     "name": "ROBERTS, HEIDI MARIE",
