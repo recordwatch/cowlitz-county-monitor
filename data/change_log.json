@@ -1,5 +1,31 @@
 [
   {
+    "id": "360834-20261011043204",
+    "inmateNumber": "360834",
+    "name": "RAYLEY, AMY LYNN",
+    "bookedAt": "2026-10-11T04:32:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-11T04:34:06",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0318858",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T05:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360827-20261010235626",
     "inmateNumber": "360827",
     "name": "ADDICKS, TIMOTHY LUKE",
