@@ -651,7 +651,7 @@
     "inmateNumber": "325539",
     "name": "CRUZ VALENTIN, LUIS FERNANDO",
     "bookedAt": "2026-10-10T01:57:11",
-    "location": "A13",
+    "location": "A12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -980,7 +980,7 @@
     "inmateNumber": "146482",
     "name": "HYATT, ROBERT DAVID III",
     "bookedAt": "2026-10-08T17:22:27",
-    "location": "A16",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1971,7 +1971,7 @@
     "inmateNumber": "55356",
     "name": "NEWTON, NIKKO ROBERTO",
     "bookedAt": "2026-10-05T14:09:51",
-    "location": "C13",
+    "location": "B25",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
