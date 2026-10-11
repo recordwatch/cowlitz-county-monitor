@@ -1,5 +1,19 @@
 [
   {
+    "id": "73957-20261011094055",
+    "inmateNumber": "73957",
+    "name": "ROBERTS, HEIDI MARIE",
+    "bookedAt": "2026-10-11T09:40:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T10:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360834-20261011043204",
     "inmateNumber": "360834",
     "name": "RAYLEY, AMY LYNN",
