@@ -4,7 +4,7 @@
     "inmateNumber": "360834",
     "name": "RAYLEY, AMY LYNN",
     "bookedAt": "2026-10-11T04:32:04",
-    "location": "1-PENDING BOOKING",
+    "location": "E14",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -1133,9 +1133,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-11T05:55:19",
     "baseline": true
   },
   {
@@ -2930,9 +2930,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-11T05:55:19",
     "baseline": true
   },
   {
