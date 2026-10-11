@@ -1,5 +1,79 @@
 [
   {
+    "id": "50387-20261010215622",
+    "inmateNumber": "50387",
+    "name": "LEWELLEN, MORGAN CHRISTINE",
+    "bookedAt": "2026-10-10T21:56:22",
+    "location": "E13",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-10T22:18:37",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610063208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T23:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "51064-20261010215622",
+    "inmateNumber": "51064",
+    "name": "WILSON, KRISTINA ANN",
+    "bookedAt": "2026-10-10T21:56:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-10T22:20:02",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0872335",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-10T22:20:48",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0872335",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-10T22:21:22",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0289962",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T23:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "26755-20261010203534",
     "inmateNumber": "26755",
     "name": "BURDICK, JENIFER CATHERINE",
@@ -20,9 +94,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:20:54",
-    "releasedAt": null,
+    "releasedAt": "2026-10-10T23:15:19",
     "baseline": false
   },
   {
