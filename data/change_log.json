@@ -20,9 +20,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T21:20:54",
-    "releasedAt": null,
+    "releasedAt": "2026-10-10T21:35:16",
     "baseline": false
   },
   {
@@ -30,7 +30,7 @@
     "inmateNumber": "10858",
     "name": "WILLIAMS, MAT JAMES",
     "bookedAt": "2026-10-10T20:03:03",
-    "location": "1-PENDING BOOKING",
+    "location": "F22",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -611,7 +611,7 @@
     "inmateNumber": "169856",
     "name": "NEWMAN, DALTON AARON",
     "bookedAt": "2026-10-09T15:54:18",
-    "location": "C11",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1639,7 +1639,7 @@
     "inmateNumber": "222260",
     "name": "ENGLAND HALL, AYDEN RAYLEE",
     "bookedAt": "2026-10-05T15:02:22",
-    "location": "C11",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -2931,9 +2931,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-10T21:35:16",
     "baseline": true
   },
   {
