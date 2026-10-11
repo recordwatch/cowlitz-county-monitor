@@ -1,5 +1,120 @@
 [
   {
+    "id": "26755-20261010203534",
+    "inmateNumber": "26755",
+    "name": "BURDICK, JENIFER CATHERINE",
+    "bookedAt": "2026-10-10T20:35:34",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-10-10T20:37:20",
+        "arrestingAgency": "WSP",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0328601",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:20:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "10858-20261010200303",
+    "inmateNumber": "10858",
+    "name": "WILLIAMS, MAT JAMES",
+    "bookedAt": "2026-10-10T20:03:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-10T20:07:44",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0417667",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-10T20:06:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0417667",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:20:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "325449-20261010180711",
+    "inmateNumber": "325449",
+    "name": "HIRST, STEVEN ALLEN",
+    "bookedAt": "2026-10-10T18:07:11",
+    "location": "A10",
+    "arrestingAgency": "WSP",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-10T18:14:12",
+        "arrestingAgency": "WSP",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0424972",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:20:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "357876-20261010174847",
+    "inmateNumber": "357876",
+    "name": "RANDLES, ZACHARY DAVID",
+    "bookedAt": "2026-10-10T17:48:47",
+    "location": "D15",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-10-10T17:54:42",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T21:20:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "293583-20261010163411",
     "inmateNumber": "293583",
     "name": "NELSON, FLOYD TODD",
@@ -205,7 +320,7 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -216,7 +331,7 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -659,7 +774,7 @@
     "inmateNumber": "179563",
     "name": "NEWMAN, AMY ELEANOR",
     "bookedAt": "2026-10-08T03:57:37",
-    "location": "INTAKE H5",
+    "location": "E24",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -959,7 +1074,7 @@
     "inmateNumber": "42108",
     "name": "LAFRENZ, NICHOLAS GREGORY",
     "bookedAt": "2026-10-07T11:24:23",
-    "location": "C10",
+    "location": "B21",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [
@@ -1280,7 +1395,7 @@
     "inmateNumber": "75464",
     "name": "GIBSON, CHARLES MARTIN",
     "bookedAt": "2026-10-06T14:14:01",
-    "location": "C10",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -1413,7 +1528,7 @@
     "inmateNumber": "14005",
     "name": "SNOW, CODY JAMES",
     "bookedAt": "2026-10-06T10:19:48",
-    "location": "D24",
+    "location": "D20",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -2791,7 +2906,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -3129,7 +3244,7 @@
     "inmateNumber": "99843",
     "name": "LHEUREUX, MATTHEW JOSEPH",
     "bookedAt": "2026-09-24T16:30:01",
-    "location": "D20",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
@@ -3808,7 +3923,7 @@
     "inmateNumber": "360146",
     "name": "GRIFFIN, CRYSTAL LYNETTE",
     "bookedAt": "2026-09-18T11:22:30",
-    "location": "D15",
+    "location": "D24",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
