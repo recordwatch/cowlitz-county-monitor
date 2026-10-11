@@ -1,5 +1,57 @@
 [
   {
+    "id": "293583-20261010163411",
+    "inmateNumber": "293583",
+    "name": "NELSON, FLOYD TODD",
+    "bookedAt": "2026-10-10T16:34:11",
+    "location": "B22",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-10T16:34:51",
+        "arrestingAgency": "DOC",
+        "court": "STATE WORK RELEASE",
+        "warrantNumber": "2410321306",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T18:11:30",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "10005-20261010154907",
+    "inmateNumber": "10005",
+    "name": "PATCHING, JASPER JAMES III",
+    "bookedAt": "2026-10-10T15:49:07",
+    "location": "A11",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-10T15:50:01",
+        "arrestingAgency": "DOC",
+        "court": "STATE WORK RELEASE",
+        "warrantNumber": "2510041208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T18:11:30",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "279949-20261010102108",
     "inmateNumber": "279949",
     "name": "JAMES, BRYCE CHRISTIAN",

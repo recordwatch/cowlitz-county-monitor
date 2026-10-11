@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-10T15:31:20",
+  "generatedAt": "2026-10-10T18:11:30",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 166,
-    "bookingsObserved": 0,
+    "bookingsTracked": 168,
+    "bookingsObserved": 2,
     "releasesObserved": 0,
-    "inCustody": 166,
-    "uniquePeople": 166
+    "inCustody": 168,
+    "uniquePeople": 168
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-10",
-      "booked": 7,
+      "booked": 9,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 39,
-      "pct": 7.4
+      "count": 41,
+      "pct": 7.7
     },
     {
       "name": "DWLS 3RD",
@@ -209,12 +209,12 @@
     {
       "name": "ASSAULT 3RD",
       "count": 13,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "RESISTING ARREST",
       "count": 13,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -266,31 +266,31 @@
     {
       "name": "LVPD",
       "count": 64,
-      "pct": 38.8,
+      "pct": 38.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 45,
-      "pct": 27.3,
+      "pct": 26.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 15,
-      "pct": 9.1,
+      "pct": 9,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
-      "count": 5,
-      "pct": 3,
+      "count": 7,
+      "pct": 4.2,
       "label": "Dept. of Corrections"
     },
     {
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 250,
-      "pct": 47.3
+      "pct": 47.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 113,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -365,8 +365,8 @@
     },
     {
       "name": "STATE WORK RELEASE",
-      "count": 1,
-      "pct": 0.2
+      "count": 3,
+      "pct": 0.6
     },
     {
       "name": "CLARK COUNTY SUPERIOR COURT",
@@ -377,28 +377,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 33,
-      "pct": 19.9
+      "count": 34,
+      "pct": 20.2
     },
     {
       "name": "B",
-      "count": 30,
-      "pct": 18.1
+      "count": 31,
+      "pct": 18.5
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.7
+      "pct": 12.5
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "E",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.1
     },
     {
       "name": "F",
@@ -408,12 +408,12 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "H",
       "count": 11,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "INTAKE",
@@ -456,12 +456,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 18.5,
-    "currentLongestDaysHeld": 485.9
+    "currentMedianDaysHeld": 18.3,
+    "currentLongestDaysHeld": 486.1
   },
   "bond": {
     "withBond": 89,
-    "noBond": 77,
+    "noBond": 79,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4451200
