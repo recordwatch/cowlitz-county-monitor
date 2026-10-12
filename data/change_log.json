@@ -1,13 +1,73 @@
 [
   {
+    "id": "19349-20261011212653",
+    "inmateNumber": "19349",
+    "name": "BURROUGHS, SHAWNA ROCHELLE",
+    "bookedAt": "2026-10-11T21:26:53",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-11T21:36:06",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "3A0255205",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 10000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T22:15:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14424-20261011212318",
     "inmateNumber": "14424",
     "name": "BOURNE, JEFFERY ALLEN",
     "bookedAt": "2026-10-11T21:23:18",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-11T21:36:42",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-11T21:37:30",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-11T21:38:08",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0361738",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T21:35:19",
     "releasedAt": null,
@@ -18,7 +78,7 @@
     "inmateNumber": "324780",
     "name": "MOSES, MOVICK M",
     "bookedAt": "2026-10-11T19:00:00",
-    "location": "1-PENDING BOOKING",
+    "location": "B23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
