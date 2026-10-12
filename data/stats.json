@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T08:15:21",
+  "generatedAt": "2026-10-12T08:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 189,
-    "bookingsObserved": 23,
+    "bookingsTracked": 190,
+    "bookingsObserved": 24,
     "releasesObserved": 13,
-    "inCustody": 176,
-    "uniquePeople": 189
+    "inCustody": 177,
+    "uniquePeople": 190
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 0,
+      "booked": 1,
       "released": 4
     }
   ],
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 65,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "DOC HOLD",
-      "count": 42,
-      "pct": 7.4
+      "count": 43,
+      "pct": 7.5
     },
     {
       "name": "DWLS 3RD",
       "count": 38,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -183,8 +183,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 29,
-      "pct": 5.1
+      "count": 30,
+      "pct": 5.2
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -194,7 +194,7 @@
     {
       "name": "DUI",
       "count": 22,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "FELONY HARASSMENT",
@@ -244,41 +244,41 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 6,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 6,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "UNLAWFUL IMPRISONMMT",
       "count": 6,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ASSAULT 2 DV",
       "count": 6,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 74,
-      "pct": 39.4,
+      "count": 75,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 51,
-      "pct": 27.1,
+      "pct": 27,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WSP",
       "count": 8,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "Washington State Patrol"
     },
     {
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 261,
-      "pct": 45.7
+      "pct": 45.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 128,
-      "pct": 22.4
+      "count": 129,
+      "pct": 22.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -330,13 +330,13 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 43,
-      "pct": 7.5
+      "count": 44,
+      "pct": 7.7
     },
     {
       "name": "DOC COURT",
-      "count": 32,
-      "pct": 5.6
+      "count": 33,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -457,11 +457,11 @@
       }
     ],
     "currentMedianDaysHeld": 16,
-    "currentLongestDaysHeld": 487.6
+    "currentLongestDaysHeld": 487.7
   },
   "bond": {
     "withBond": 101,
-    "noBond": 75,
+    "noBond": 76,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4512200

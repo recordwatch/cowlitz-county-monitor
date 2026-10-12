@@ -1,5 +1,53 @@
 [
   {
+    "id": "201907-20261012075026",
+    "inmateNumber": "201907",
+    "name": "WEESE, AARON TIMOTHY DESTIN",
+    "bookedAt": "2026-10-12T07:50:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-12T07:58:06",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "198812005",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCT LAW ENFORCE OFCR ATTEMPT",
+        "offenseDate": "2026-10-12T07:54:56",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0289960",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-12T07:54:03",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "C00068961",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T08:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360861-20261011230717",
     "inmateNumber": "360861",
     "name": "KRAELING, SPENCER WILLIAM",
@@ -188,7 +236,7 @@
         "arrestingAgency": "CCCD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0205524",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
