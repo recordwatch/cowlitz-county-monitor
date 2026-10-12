@@ -1867,7 +1867,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610001308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
