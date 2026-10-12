@@ -105,9 +105,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T10:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T13:15:20",
     "baseline": false
   },
   {
@@ -1116,7 +1116,7 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0129679",
-        "disposition": "Per. Recogn.",
+        "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 5000
