@@ -496,7 +496,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091700",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -507,7 +507,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091701",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -570,7 +570,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0687927",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
