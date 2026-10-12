@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T13:15:20",
+  "generatedAt": "2026-10-12T13:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 194,
     "bookingsObserved": 28,
-    "releasesObserved": 17,
-    "inCustody": 177,
+    "releasesObserved": 18,
+    "inCustody": 176,
     "uniquePeople": 194
   },
   "bookingsByDay": [
@@ -157,14 +157,14 @@
     {
       "date": "2026-10-12",
       "booked": 5,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 65,
-      "pct": 11.1
+      "count": 66,
+      "pct": 11.3
     },
     {
       "name": "DOC HOLD",
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 264,
-      "pct": 45.2
+      "pct": 45.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 129,
-      "pct": 22.1
+      "count": 130,
+      "pct": 22.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,7 +336,7 @@
     {
       "name": "DOC COURT",
       "count": 33,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -378,17 +378,17 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 19.8
+      "pct": 19.9
     },
     {
       "name": "B",
       "count": 35,
-      "pct": 19.8
+      "pct": 19.9
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -398,7 +398,7 @@
     {
       "name": "E",
       "count": 32,
-      "pct": 18.1
+      "pct": 18.2
     },
     {
       "name": "F",
@@ -408,17 +408,17 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 7.9
+      "pct": 8
     },
     {
       "name": "H",
       "count": 11,
-      "pct": 6.2
+      "pct": 6.3
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 5,
+      "pct": 2.8
     },
     {
       "name": "WSH",
@@ -427,13 +427,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 17,
-    "medianDays": 2.6,
-    "meanDays": 5.8,
+    "releasedCount": 18,
+    "medianDays": 2.2,
+    "meanDays": 5.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 6
+        "count": 7
       },
       {
         "label": "1–3 days",
@@ -456,11 +456,11 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 16.2,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 487.9
   },
   "bond": {
-    "withBond": 101,
+    "withBond": 100,
     "noBond": 76,
     "medianBond": 5000,
     "maxBond": 500000,

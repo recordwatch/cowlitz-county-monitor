@@ -216,9 +216,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T23:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T13:35:17",
     "baseline": false
   },
   {
@@ -448,7 +448,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0464326",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -613,7 +613,7 @@
     "bookedAt": "2026-10-10T23:56:26",
     "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
-    "bondTotal": 10000,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE > $750",
@@ -634,8 +634,8 @@
         "warrantNumber": "2610066508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -2498,6 +2498,17 @@
         "disposition": null,
         "billingAgency": "WDOC",
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-12T13:04:11",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0923470",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       },
       {
