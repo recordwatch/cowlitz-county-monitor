@@ -30,7 +30,7 @@
     "inmateNumber": "358720",
     "name": "GRIFFITH, JODI LEE",
     "bookedAt": "2026-10-11T18:47:06",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -841,7 +841,7 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "HIT RUN UNATTENDED",
+        "description": "HIT RUN UNATTENDED-AID/ABET",
         "offenseDate": "2026-10-10T02:01:18",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -3635,7 +3635,7 @@
     "inmateNumber": "171328",
     "name": "LOREN, GABRIEL JONATHAN",
     "bookedAt": "2026-09-26T04:41:45",
-    "location": "A23",
+    "location": "A22",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
