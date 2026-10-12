@@ -1,10 +1,47 @@
 [
   {
+    "id": "25742-20261011173501",
+    "inmateNumber": "25742",
+    "name": "SMITH, NATHAN VINCENT",
+    "bookedAt": "2026-10-11T17:35:01",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-11T17:37:19",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0091700",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-11T17:37:19",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0091701",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T18:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "307862-20261011161537",
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-11T16:15:37",
-    "location": "INTAKE H1",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -1217,7 +1254,7 @@
     "inmateNumber": "360749",
     "name": "SILVA, ELY RENEE",
     "bookedAt": "2026-10-07T18:48:38",
-    "location": "C11",
+    "location": "C10",
     "arrestingAgency": "CCSO",
     "bondTotal": 300000,
     "charges": [

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T17:55:17",
+  "generatedAt": "2026-10-11T18:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 180,
-    "bookingsObserved": 14,
+    "bookingsTracked": 181,
+    "bookingsObserved": 15,
     "releasesObserved": 9,
-    "inCustody": 171,
-    "uniquePeople": 180
+    "inCustody": 172,
+    "uniquePeople": 181
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 3,
+      "booked": 4,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 62,
-      "pct": 11.2
+      "count": 64,
+      "pct": 11.5
     },
     {
       "name": "DOC HOLD",
@@ -209,12 +209,12 @@
     {
       "name": "ASSAULT 3RD",
       "count": 13,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "RESISTING ARREST",
       "count": 13,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 69,
-      "pct": 38.5,
+      "pct": 38.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 49,
-      "pct": 27.4,
+      "count": 50,
+      "pct": 27.8,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 15,
-      "pct": 8.4,
+      "pct": 8.3,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -316,17 +316,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 257,
-      "pct": 46.5
+      "pct": 46.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 120,
-      "pct": 21.7
+      "count": 122,
+      "pct": 22
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 53,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -378,12 +378,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "B",
       "count": 35,
-      "pct": 20.5
+      "pct": 20.3
     },
     {
       "name": "C",
@@ -393,12 +393,12 @@
     {
       "name": "D",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "E",
       "count": 28,
-      "pct": 16.4
+      "pct": 16.3
     },
     {
       "name": "F",
@@ -408,7 +408,7 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "H",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.9
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "WSH",
@@ -456,15 +456,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.3,
-    "currentLongestDaysHeld": 487
+    "currentMedianDaysHeld": 17.2,
+    "currentLongestDaysHeld": 487.1
   },
   "bond": {
-    "withBond": 93,
+    "withBond": 94,
     "noBond": 78,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4495200
+    "totalBond": 4497200
   },
   "chargesPerBooking": 3.1
 }
