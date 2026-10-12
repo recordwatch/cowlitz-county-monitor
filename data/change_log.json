@@ -6213,8 +6213,8 @@
         "warrantNumber": "2610053408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
         "description": "DWLS 3RD",
@@ -6228,19 +6228,19 @@
         "bondAmount": null
       },
       {
-        "description": "BURGLARY 1ST",
-        "offenseDate": "2026-08-17T10:13:27",
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-08-17T10:17:23",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": null,
+        "bondAmount": null
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-08-17T10:17:23",
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-08-17T10:13:27",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
@@ -6287,15 +6287,15 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "FELONY HARASSMENT",
+        "description": "CRIMINAL IMPERSONATE 1",
         "offenseDate": "2026-08-14T14:00:44",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610052708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -6303,7 +6303,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610052708",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
