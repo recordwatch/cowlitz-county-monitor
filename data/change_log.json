@@ -4,7 +4,7 @@
     "inmateNumber": "13932",
     "name": "EVERETTE, KRISSY NICOLE",
     "bookedAt": "2026-10-12T10:13:57",
-    "location": "1-PENDING BOOKING",
+    "location": "E23",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -469,10 +469,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00659292",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -522,7 +522,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-11T16:15:37",
-    "location": "INTAKE H6",
+    "location": "D11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -673,7 +673,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0205592",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": 10000
       },
@@ -684,7 +684,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0205592",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -695,7 +695,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0225601",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 10000
       },
@@ -706,7 +706,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0225601",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -717,7 +717,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0259739",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 10000
       }
@@ -843,7 +843,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0417667",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -854,7 +854,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0417667",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -880,7 +880,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0424972",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -1256,7 +1256,7 @@
     "bookedAt": "2026-10-09T22:56:13",
     "location": "E22",
     "arrestingAgency": "CCSO",
-    "bondTotal": 7500,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1322,7 +1322,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 500
       },
       {
         "description": "DWLS 3RD",

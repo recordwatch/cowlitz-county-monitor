@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:35:20",
+  "generatedAt": "2026-10-12T11:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 194,
@@ -378,27 +378,27 @@
     {
       "name": "A",
       "count": 37,
-      "pct": 20.6
+      "pct": 20.4
     },
     {
       "name": "B",
       "count": 36,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 8.9
+      "pct": 8.8
     },
     {
       "name": "D",
-      "count": 14,
-      "pct": 7.8
+      "count": 15,
+      "pct": 8.3
     },
     {
       "name": "E",
-      "count": 32,
-      "pct": 17.8
+      "count": 33,
+      "pct": 18.2
     },
     {
       "name": "F",
@@ -408,7 +408,7 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "H",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 3.9
+      "count": 6,
+      "pct": 3.3
     },
     {
       "name": "WSH",
@@ -464,7 +464,7 @@
     "noBond": 76,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4594200
+    "totalBond": 4592700
   },
   "chargesPerBooking": 3
 }
