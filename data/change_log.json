@@ -30,7 +30,7 @@
     "inmateNumber": "211134",
     "name": "DEWOLF, BARBARA JEAN",
     "bookedAt": "2026-10-12T09:36:29",
-    "location": "1-PENDING BOOKING",
+    "location": "E11",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
@@ -78,7 +78,7 @@
     "inmateNumber": "301458",
     "name": "LORENZO CARRILLO, RUDI ALEXANDER",
     "bookedAt": "2026-10-12T09:24:20",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -210,10 +210,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00892604",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -611,7 +611,7 @@
     "inmateNumber": "360827",
     "name": "ADDICKS, TIMOTHY LUKE",
     "bookedAt": "2026-10-10T23:56:26",
-    "location": "INTAKE H2",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 10000,
     "charges": [
@@ -943,7 +943,7 @@
         "court": "STATE WORK RELEASE",
         "warrantNumber": "2410321306",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -969,7 +969,7 @@
         "court": "STATE WORK RELEASE",
         "warrantNumber": "2510041208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1117,7 +1117,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0129679",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 5000
       }
@@ -1191,7 +1191,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510073508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1202,7 +1202,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610066308",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1213,7 +1213,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610066308",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       }
@@ -1239,7 +1239,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0422579",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1265,7 +1265,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0310440",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1276,7 +1276,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0310440",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1287,7 +1287,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0095231",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1298,7 +1298,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0098033",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1309,7 +1309,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0098035",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1320,7 +1320,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233754",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1331,7 +1331,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279323",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1500
       },
@@ -1342,7 +1342,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279323",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -1394,7 +1394,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0801888",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -1419,10 +1419,10 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409706",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -1430,8 +1430,8 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409706",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1441,8 +1441,8 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409706",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -1468,7 +1468,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0328046",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1509,7 +1509,7 @@
     "inmateNumber": "78744",
     "name": "KELLEY, SUZANNE ELIZABETH",
     "bookedAt": "2026-10-09T03:49:51",
-    "location": "INTAKE H7",
+    "location": "E21",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
