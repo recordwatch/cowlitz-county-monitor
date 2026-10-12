@@ -1,10 +1,95 @@
 [
   {
+    "id": "211134-20261012093629",
+    "inmateNumber": "211134",
+    "name": "DEWOLF, BARBARA JEAN",
+    "bookedAt": "2026-10-12T09:36:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "THEFT 1ST DEGREE > $5000",
+        "offenseDate": "2026-10-12T09:56:11",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MONEY LAUNDERING",
+        "offenseDate": "2026-10-12T09:57:13",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-10-12T09:56:42",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "301458-20261012092420",
+    "inmateNumber": "301458",
+    "name": "LORENZO CARRILLO, RUDI ALEXANDER",
+    "bookedAt": "2026-10-12T09:24:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-12T09:34:14",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0879602",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-12T09:34:58",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0879602",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "9330-20261012084003",
     "inmateNumber": "9330",
     "name": "SNOW, ALLEN DAVID",
     "bookedAt": "2026-10-12T08:40:03",
-    "location": "1-PENDING BOOKING",
+    "location": "B10",
     "arrestingAgency": "KEPD",
     "bondTotal": 1500,
     "charges": [
@@ -997,7 +1082,7 @@
     "bookedAt": "2026-10-10T02:31:23",
     "location": "B25",
     "arrestingAgency": "WDPD",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -1005,10 +1090,10 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0129679",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       }
     ],
     "status": "in_custody",
@@ -1282,10 +1367,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0801888",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1951,18 +2036,18 @@
     "bookedAt": "2026-10-06T19:39:35",
     "location": "D16",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3500,
+    "bondTotal": 2000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "POSS STL PROP 2/>250",
         "offenseDate": "2026-10-06T19:40:53",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610042608",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 1500
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -8819,7 +8904,7 @@
     "bookedAt": "2026-01-14T10:20:14",
     "location": "F10",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -8851,8 +8936,8 @@
         "warrantNumber": "2610002508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
         "description": "CRIM TRESPASS 2ND",
