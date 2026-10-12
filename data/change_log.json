@@ -56,14 +56,25 @@
     "inmateNumber": "13547",
     "name": "WYMORE, JOSHUA DEAN",
     "bookedAt": "2026-10-11T22:45:48",
-    "location": "A24",
-    "arrestingAgency": "LVPD",
+    "location": "A25",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
+        "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
+        "offenseDate": "2026-10-11T23:59:00",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-11T22:50:06",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "CCSO",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2310001908",
         "disposition": null,
@@ -74,7 +85,7 @@
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-11T22:49:31",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610021808",
         "disposition": null,
