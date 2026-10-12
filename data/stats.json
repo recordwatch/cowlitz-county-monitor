@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:15:20",
+  "generatedAt": "2026-10-12T14:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 194,
@@ -169,7 +169,7 @@
     {
       "name": "DOC HOLD",
       "count": 43,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "DWLS 3RD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 30,
-      "pct": 5.1
+      "count": 31,
+      "pct": 5.3
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -219,7 +219,7 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 12,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -320,8 +320,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 130,
-      "pct": 22.2
+      "count": 131,
+      "pct": 22.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -460,11 +460,11 @@
     "currentLongestDaysHeld": 487.9
   },
   "bond": {
-    "withBond": 106,
-    "noBond": 70,
+    "withBond": 108,
+    "noBond": 68,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4610700
+    "totalBond": 4613700
   },
   "chargesPerBooking": 3
 }

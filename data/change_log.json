@@ -897,7 +897,7 @@
     "bookedAt": "2026-10-10T17:48:47",
     "location": "D15",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -907,8 +907,8 @@
         "warrantNumber": "2610066408",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -1256,7 +1256,7 @@
     "bookedAt": "2026-10-09T22:56:13",
     "location": "E22",
     "arrestingAgency": "CCSO",
-    "bondTotal": 6000,
+    "bondTotal": 5500,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1333,7 +1333,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": 1000
       },
       {
         "description": "FAIL TO TRANSFER TITLE",
@@ -1367,7 +1367,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610031508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1509,7 +1509,7 @@
     "inmateNumber": "78744",
     "name": "KELLEY, SUZANNE ELIZABETH",
     "bookedAt": "2026-10-09T03:49:51",
-    "location": "E21",
+    "location": "E10",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
@@ -3922,6 +3922,17 @@
       },
       {
         "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-12T13:47:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0375203",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
         "offenseDate": "2026-09-26T16:00:03",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -4793,7 +4804,7 @@
     "bookedAt": "2026-09-18T11:22:30",
     "location": "D24",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -4803,8 +4814,8 @@
         "warrantNumber": "2610061208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
