@@ -1,5 +1,19 @@
 [
   {
+    "id": "14424-20261011212318",
+    "inmateNumber": "14424",
+    "name": "BOURNE, JEFFERY ALLEN",
+    "bookedAt": "2026-10-11T21:23:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T21:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "324780-20261011190000",
     "inmateNumber": "324780",
     "name": "MOSES, MOVICK M",
