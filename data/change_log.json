@@ -4,7 +4,7 @@
     "inmateNumber": "25742",
     "name": "SMITH, NATHAN VINCENT",
     "bookedAt": "2026-10-11T17:35:01",
-    "location": "INTAKE H3",
+    "location": "A15",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -1391,7 +1391,7 @@
     "inmateNumber": "270621",
     "name": "WILSON, JOSHUA ALLEN",
     "bookedAt": "2026-10-07T13:20:02",
-    "location": "A15",
+    "location": "B25",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
