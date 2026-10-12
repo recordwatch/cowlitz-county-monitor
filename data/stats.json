@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T10:35:18",
+  "generatedAt": "2026-10-12T10:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 193,
-    "bookingsObserved": 27,
+    "bookingsTracked": 194,
+    "bookingsObserved": 28,
     "releasesObserved": 13,
-    "inCustody": 180,
-    "uniquePeople": 193
+    "inCustody": 181,
+    "uniquePeople": 194
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 4,
+      "booked": 5,
       "released": 4
     }
   ],
@@ -177,12 +177,12 @@
       "pct": 7
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 30,
-      "pct": 5.1
+      "name": "CONTEMPT OF COURT",
+      "count": 31,
+      "pct": 5.3
     },
     {
-      "name": "CONTEMPT OF COURT",
+      "name": "THEFT 3RD DEG",
       "count": 30,
       "pct": 5.1
     },
@@ -198,13 +198,13 @@
     },
     {
       "name": "FELONY HARASSMENT",
-      "count": 15,
-      "pct": 2.6
+      "count": 16,
+      "pct": 2.7
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 15,
-      "pct": 2.6
+      "count": 14,
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 3RD",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 75,
-      "pct": 39.1,
+      "count": 76,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 52,
-      "pct": 27.1,
+      "pct": 26.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "WSP",
       "count": 8,
-      "pct": 4.2,
+      "pct": 4.1,
       "label": "Washington State Patrol"
     },
     {
@@ -316,7 +316,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 264,
-      "pct": 45.3
+      "pct": 45.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -344,12 +344,12 @@
       "pct": 3.8
     },
     {
-      "name": "CASTLE ROCK MUNICIPAL COURT",
-      "count": 9,
-      "pct": 1.5
+      "name": "DRUG COURT",
+      "count": 10,
+      "pct": 1.7
     },
     {
-      "name": "DRUG COURT",
+      "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 9,
       "pct": 1.5
     },
@@ -456,12 +456,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 15.9,
-    "currentLongestDaysHeld": 487.7
+    "currentMedianDaysHeld": 15.8,
+    "currentLongestDaysHeld": 487.8
   },
   "bond": {
     "withBond": 105,
-    "noBond": 75,
+    "noBond": 76,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4594200

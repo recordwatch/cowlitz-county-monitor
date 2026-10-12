@@ -1,5 +1,31 @@
 [
   {
+    "id": "13932-20261012101357",
+    "inmateNumber": "13932",
+    "name": "EVERETTE, KRISSY NICOLE",
+    "bookedAt": "2026-10-12T10:13:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-12T10:23:08",
+        "arrestingAgency": "LVPD",
+        "court": "DRUG COURT",
+        "warrantNumber": "2510029008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T10:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "211134-20261012093629",
     "inmateNumber": "211134",
     "name": "DEWOLF, BARBARA JEAN",
@@ -284,10 +310,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "3A0255205",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -332,10 +358,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0361738",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -853,10 +879,10 @@
         "arrestingAgency": "WSP",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0424972",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3633,14 +3659,14 @@
     "bondTotal": 15000,
     "charges": [
       {
-        "description": "ASSAULT 2ND",
+        "description": "FELONY HARASSMENT",
         "offenseDate": "2026-09-28T05:47:40",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610063408",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Secured",
         "bondAmount": null
       },
       {
@@ -3649,18 +3675,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610063408",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-09-28T05:48:20",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610063408",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -3671,7 +3686,18 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610063408",
-        "disposition": null,
+        "disposition": "Dismissed",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VIOLATE PROTECTION ORDER DV",
+        "offenseDate": "2026-09-28T05:48:20",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610063408",
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -3682,10 +3708,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610063508",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 15000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3937,10 +3963,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0417230",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
