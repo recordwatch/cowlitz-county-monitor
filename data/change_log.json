@@ -1,5 +1,19 @@
 [
   {
+    "id": "350644-20261011182215",
+    "inmateNumber": "350644",
+    "name": "SANCHEZ JUAREZ, JOSE ALBERTO",
+    "bookedAt": "2026-10-11T18:22:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T18:55:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "25742-20261011173501",
     "inmateNumber": "25742",
     "name": "SMITH, NATHAN VINCENT",
