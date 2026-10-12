@@ -1145,7 +1145,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 7500
+        "bondAmount": null
       },
       {
         "description": "CARY/EXH/DRA DANG WE",
@@ -1244,9 +1244,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:35:19",
     "baseline": true
   },
   {
@@ -1980,9 +1980,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T15:35:19",
     "baseline": true
   },
   {
