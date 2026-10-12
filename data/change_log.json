@@ -1,13 +1,51 @@
 [
   {
+    "id": "360861-20261011230717",
+    "inmateNumber": "360861",
+    "name": "KRAELING, SPENCER WILLIAM",
+    "bookedAt": "2026-10-11T23:07:17",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-11T23:13:42",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00892604",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T23:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "205300-20261011225219",
     "inmateNumber": "205300",
     "name": "TOMASELLI, JOSEPH BRAYDEN",
     "bookedAt": "2026-10-11T22:52:19",
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-11T23:12:27",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0366063",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-11T23:35:17",
     "releasedAt": null,

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T23:35:17",
+  "generatedAt": "2026-10-11T23:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 188,
-    "bookingsObserved": 22,
+    "bookingsTracked": 189,
+    "bookingsObserved": 23,
     "releasesObserved": 9,
-    "inCustody": 179,
-    "uniquePeople": 188
+    "inCustody": 180,
+    "uniquePeople": 189
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 11,
+      "booked": 12,
       "released": 7
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 64,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "DOC HOLD",
@@ -173,13 +173,13 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 37,
-      "pct": 6.5
+      "count": 38,
+      "pct": 6.7
     },
     {
       "name": "CONTEMPT OF COURT",
       "count": 31,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,12 +189,12 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 27,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "DUI",
-      "count": 21,
-      "pct": 3.7
+      "count": 22,
+      "pct": 3.9
     },
     {
       "name": "FELONY HARASSMENT",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 74,
-      "pct": 39.6,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 51,
-      "pct": 27.3,
+      "pct": 27.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CCCD",
       "count": 16,
-      "pct": 8.6,
+      "pct": 8.5,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "WSP",
-      "count": 7,
-      "pct": 3.7,
+      "count": 8,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -316,17 +316,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 260,
-      "pct": 45.9
+      "pct": 45.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 126,
-      "pct": 22.2
+      "count": 127,
+      "pct": 22.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 54,
-      "pct": 9.5
+      "count": 55,
+      "pct": 9.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -378,17 +378,17 @@
     {
       "name": "A",
       "count": 36,
-      "pct": 20.1
+      "pct": 20
     },
     {
       "name": "B",
       "count": 37,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "D",
@@ -398,12 +398,12 @@
     {
       "name": "E",
       "count": 30,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "G",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 3.9
+      "count": 8,
+      "pct": 4.4
     },
     {
       "name": "WSH",
@@ -456,15 +456,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 15.6,
+    "currentMedianDaysHeld": 15.5,
     "currentLongestDaysHeld": 487.3
   },
   "bond": {
-    "withBond": 98,
-    "noBond": 81,
+    "withBond": 100,
+    "noBond": 80,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4509700
+    "totalBond": 4511200
   },
   "chargesPerBooking": 3
 }
