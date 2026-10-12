@@ -30,7 +30,7 @@
     "inmateNumber": "14424",
     "name": "BOURNE, JEFFERY ALLEN",
     "bookedAt": "2026-10-11T21:23:18",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -2393,7 +2393,7 @@
     "inmateNumber": "29621",
     "name": "KROLL, SHIRA AUDREY",
     "bookedAt": "2026-10-04T15:27:45",
-    "location": "E21",
+    "location": "E22",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
