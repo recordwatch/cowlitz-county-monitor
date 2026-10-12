@@ -6,8 +6,19 @@
     "bookedAt": "2026-10-12T08:40:03",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": 500,
+    "bondTotal": 1500,
     "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-12T08:50:58",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5a0924603",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-10-12T08:41:24",
