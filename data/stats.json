@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T08:35:20",
+  "generatedAt": "2026-10-12T08:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 190,
@@ -238,8 +238,8 @@
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 7,
-      "pct": 1.2
+      "count": 8,
+      "pct": 1.4
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
@@ -316,22 +316,22 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 261,
-      "pct": 45.5
+      "pct": 45.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 129,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 55,
-      "pct": 9.6
+      "count": 57,
+      "pct": 9.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 44,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "DOC COURT",
@@ -378,27 +378,27 @@
     {
       "name": "A",
       "count": 36,
-      "pct": 20.5
+      "pct": 20.3
     },
     {
       "name": "B",
       "count": 35,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "E",
       "count": 30,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "F",
@@ -408,17 +408,17 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "H",
       "count": 11,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4
+      "count": 8,
+      "pct": 4.5
     },
     {
       "name": "WSH",

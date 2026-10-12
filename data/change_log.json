@@ -4,7 +4,7 @@
     "inmateNumber": "201907",
     "name": "WEESE, AARON TIMOTHY DESTIN",
     "bookedAt": "2026-10-12T07:50:26",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -187,7 +187,7 @@
         "offenseDate": "2026-10-11T21:36:42",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610066608",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -198,7 +198,7 @@
         "offenseDate": "2026-10-11T21:37:30",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610066608",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -468,17 +468,6 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "FELONY HARASSMENT",
-        "offenseDate": "2026-10-11T01:07:44",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
         "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-10-11T01:10:20",
         "arrestingAgency": "LVPD",
@@ -488,6 +477,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 10000
+      },
+      {
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-10-11T01:07:44",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610066508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -850,6 +850,28 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-10T10:27:17",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "3A0542786",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-10T10:27:17",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "3A0542786",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -897,7 +919,7 @@
         "offenseDate": "2026-10-10T04:31:06",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610066108",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -908,7 +930,7 @@
         "offenseDate": "2026-10-10T04:32:18",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610066108",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -919,7 +941,7 @@
         "offenseDate": "2026-10-10T04:32:48",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610066108",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
