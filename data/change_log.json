@@ -1,10 +1,47 @@
 [
   {
+    "id": "358720-20261011184706",
+    "inmateNumber": "358720",
+    "name": "GRIFFITH, JODI LEE",
+    "bookedAt": "2026-10-11T18:47:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-11T18:54:51",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0372919",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-11T18:54:05",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0417668",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T19:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "350644-20261011182215",
     "inmateNumber": "350644",
     "name": "SANCHEZ JUAREZ, JOSE ALBERTO",
     "bookedAt": "2026-10-11T18:22:15",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
