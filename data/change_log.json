@@ -2790,19 +2790,30 @@
     "name": "RISMOEN, ANDREW SCOTT",
     "bookedAt": "2026-10-03T02:17:01",
     "location": "A13",
-    "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-03T02:23:51",
-        "arrestingAgency": "CCSO",
+        "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2010140508",
         "disposition": null,
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-12T01:05:44",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
