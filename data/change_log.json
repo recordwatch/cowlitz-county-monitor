@@ -1,5 +1,31 @@
 [
   {
+    "id": "324780-20261011190000",
+    "inmateNumber": "324780",
+    "name": "MOSES, MOVICK M",
+    "bookedAt": "2026-10-11T19:00:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-11T19:42:02",
+        "arrestingAgency": "CCCD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0205524",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T20:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358720-20261011184706",
     "inmateNumber": "358720",
     "name": "GRIFFITH, JODI LEE",

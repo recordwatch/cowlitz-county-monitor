@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T19:55:15",
+  "generatedAt": "2026-10-11T20:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 183,
-    "bookingsObserved": 17,
+    "bookingsTracked": 184,
+    "bookingsObserved": 18,
     "releasesObserved": 9,
-    "inCustody": 174,
-    "uniquePeople": 183
+    "inCustody": 175,
+    "uniquePeople": 184
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 6,
+      "booked": 7,
       "released": 7
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 30,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -193,8 +193,8 @@
     },
     {
       "name": "DUI",
-      "count": 20,
-      "pct": 3.6
+      "count": 21,
+      "pct": 3.7
     },
     {
       "name": "FELONY HARASSMENT",
@@ -239,7 +239,7 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 7,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 70,
-      "pct": 38.5,
+      "pct": 38.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 51,
-      "pct": 28,
+      "pct": 27.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 13.2,
+      "pct": 13.1,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 15,
-      "pct": 8.2,
+      "count": 16,
+      "pct": 8.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -316,7 +316,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 257,
-      "pct": 45.9
+      "pct": 45.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -330,8 +330,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 40,
-      "pct": 7.1
+      "count": 41,
+      "pct": 7.3
     },
     {
       "name": "DOC COURT",
@@ -461,10 +461,10 @@
   },
   "bond": {
     "withBond": 96,
-    "noBond": 78,
+    "noBond": 79,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4499200
   },
-  "chargesPerBooking": 3.1
+  "chargesPerBooking": 3
 }
