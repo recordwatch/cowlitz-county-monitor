@@ -1,5 +1,56 @@
 [
   {
+    "id": "205300-20261011225219",
+    "inmateNumber": "205300",
+    "name": "TOMASELLI, JOSEPH BRAYDEN",
+    "bookedAt": "2026-10-11T22:52:19",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T23:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "13547-20261011224548",
+    "inmateNumber": "13547",
+    "name": "WYMORE, JOSHUA DEAN",
+    "bookedAt": "2026-10-11T22:45:48",
+    "location": "A24",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-11T22:50:06",
+        "arrestingAgency": "LVPD",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "2310001908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-11T22:49:31",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610021808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T23:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "19349-20261011212653",
     "inmateNumber": "19349",
     "name": "BURROUGHS, SHAWNA ROCHELLE",

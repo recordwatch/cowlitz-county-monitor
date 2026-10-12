@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T23:15:16",
+  "generatedAt": "2026-10-11T23:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 186,
-    "bookingsObserved": 20,
+    "bookingsTracked": 188,
+    "bookingsObserved": 22,
     "releasesObserved": 9,
-    "inCustody": 177,
-    "uniquePeople": 186
+    "inCustody": 179,
+    "uniquePeople": 188
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 9,
+      "booked": 11,
       "released": 7
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 41,
-      "pct": 7.3
+      "count": 42,
+      "pct": 7.4
     },
     {
       "name": "DWLS 3RD",
@@ -178,8 +178,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 30,
-      "pct": 5.3
+      "count": 31,
+      "pct": 5.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -204,7 +204,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 15,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "ASSAULT 3RD",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 72,
-      "pct": 38.9,
+      "count": 74,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 51,
-      "pct": 27.6,
+      "pct": 27.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 24,
-      "pct": 13,
+      "pct": 12.8,
       "label": "Kelso Police"
     },
     {
@@ -290,43 +290,43 @@
     {
       "name": "WSP",
       "count": 7,
-      "pct": 3.8,
+      "pct": 3.7,
       "label": "Washington State Patrol"
     },
     {
       "name": "DOC",
       "count": 7,
-      "pct": 3.8,
+      "pct": 3.7,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WDPD",
       "count": 4,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "Woodland Police"
     },
     {
       "name": "CRPD",
       "count": 4,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "Castle Rock Police"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 259,
-      "pct": 45.8
+      "count": 260,
+      "pct": 45.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 126,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 54,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -336,7 +336,7 @@
     {
       "name": "DOC COURT",
       "count": 32,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -355,8 +355,8 @@
     },
     {
       "name": "DOC CONTRACT COURT",
-      "count": 4,
-      "pct": 0.7
+      "count": 5,
+      "pct": 0.9
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -377,28 +377,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 35,
-      "pct": 19.8
+      "count": 36,
+      "pct": 20.1
     },
     {
       "name": "B",
       "count": 37,
-      "pct": 20.9
+      "pct": 20.7
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "E",
       "count": 30,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "F",
@@ -408,17 +408,17 @@
     {
       "name": "G",
       "count": 14,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "H",
       "count": 11,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 7,
+      "pct": 3.9
     },
     {
       "name": "WSH",
@@ -456,12 +456,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 15.8,
+    "currentMedianDaysHeld": 15.6,
     "currentLongestDaysHeld": 487.3
   },
   "bond": {
     "withBond": 98,
-    "noBond": 79,
+    "noBond": 81,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4509700
