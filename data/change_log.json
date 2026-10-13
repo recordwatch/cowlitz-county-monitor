@@ -4,7 +4,7 @@
     "inmateNumber": "171720",
     "name": "VELASQUEZ, DAVID ANTHONY",
     "bookedAt": "2026-10-13T11:37:23",
-    "location": "INTAKE H6",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -2496,7 +2496,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2110023608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3432,7 +3432,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2010094621",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
