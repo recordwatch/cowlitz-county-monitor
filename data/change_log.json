@@ -472,9 +472,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T10:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T14:15:19",
     "baseline": false
   },
   {
@@ -679,8 +679,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -690,8 +690,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
@@ -2891,7 +2891,7 @@
     "bookedAt": "2026-10-05T15:02:22",
     "location": "B12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -2923,8 +2923,8 @@
         "warrantNumber": "6A0423632",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
