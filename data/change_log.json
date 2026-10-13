@@ -30,7 +30,7 @@
     "inmateNumber": "165564",
     "name": "COGDILL, THOMAS EARL RUDOLPH",
     "bookedAt": "2026-10-13T07:18:22",
-    "location": "1-PENDING BOOKING",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": 250,
     "charges": [
@@ -2061,7 +2061,7 @@
     "inmateNumber": "69506",
     "name": "ZWIEFELHOFER, RICHARD STARKEY",
     "bookedAt": "2026-10-07T16:57:28",
-    "location": "C13",
+    "location": "B25",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -2890,9 +2890,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T09:44:11",
     "baseline": true
   },
   {
