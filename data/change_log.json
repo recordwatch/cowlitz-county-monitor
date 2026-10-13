@@ -1,5 +1,19 @@
 [
   {
+    "id": "358851-20261012180228",
+    "inmateNumber": "358851",
+    "name": "LEVAN, MIKHAIL QUINCY",
+    "bookedAt": "2026-10-12T18:02:28",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T18:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "15859-20261012165227",
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
