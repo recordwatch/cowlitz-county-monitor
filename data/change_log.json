@@ -1,5 +1,31 @@
 [
   {
+    "id": "27096-20261013161244",
+    "inmateNumber": "27096",
+    "name": "CURTIS, CRYSTAL NICOLE",
+    "bookedAt": "2026-10-13T16:12:44",
+    "location": "INTAKE H5",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-13T16:16:03",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0417670",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T16:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "7723-20261013155114",
     "inmateNumber": "7723",
     "name": "ROACH, JOSEPH EUGENE",
@@ -6092,6 +6118,17 @@
         "warrantNumber": "2310099808",
         "disposition": "Guilty",
         "billingAgency": "WDOC",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-13T16:21:18",
+        "arrestingAgency": "LVPD",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "2310099808",
+        "disposition": null,
+        "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },

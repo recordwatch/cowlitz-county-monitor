@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T16:35:20",
+  "generatedAt": "2026-10-13T16:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 210,
-    "bookingsObserved": 44,
+    "bookingsTracked": 211,
+    "bookingsObserved": 45,
     "releasesObserved": 35,
-    "inCustody": 175,
+    "inCustody": 176,
     "uniquePeople": 210
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 10,
+      "booked": 11,
       "released": 11
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 70,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "DOC HOLD",
-      "count": 48,
-      "pct": 7.8
+      "count": 49,
+      "pct": 7.9
     },
     {
       "name": "DWLS 3RD",
@@ -187,14 +187,14 @@
       "pct": 5
     },
     {
-      "name": "DUI",
+      "name": "PROTECTION ORDER VIOLATION",
       "count": 27,
       "pct": 4.4
     },
     {
-      "name": "PROTECTION ORDER VIOLATION",
-      "count": 26,
-      "pct": 4.2
+      "name": "DUI",
+      "count": 27,
+      "pct": 4.4
     },
     {
       "name": "FELONY HARASSMENT",
@@ -219,7 +219,7 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 12,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 86,
-      "pct": 41.1,
+      "count": 87,
+      "pct": 41.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 52,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 25,
-      "pct": 12,
+      "pct": 11.9,
       "label": "Kelso Police"
     },
     {
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 267,
-      "pct": 43.4
+      "pct": 43.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 147,
-      "pct": 23.9
+      "count": 148,
+      "pct": 24
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -355,13 +355,13 @@
     },
     {
       "name": "DOC CONTRACT COURT",
-      "count": 6,
-      "pct": 1
+      "count": 7,
+      "pct": 1.1
     },
     {
       "name": "MENTAL HEALTH COURT",
       "count": 4,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "STATE WORK RELEASE",
@@ -378,27 +378,27 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 17.2
+      "pct": 17.1
     },
     {
       "name": "B",
       "count": 36,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "F",
@@ -408,7 +408,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "H",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.9
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
@@ -456,15 +456,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.2,
+    "currentMedianDaysHeld": 17.1,
     "currentLongestDaysHeld": 489
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 107,
     "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4616200
+    "totalBond": 4617200
   },
   "chargesPerBooking": 2.9
 }
