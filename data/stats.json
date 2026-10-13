@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:55:17",
+  "generatedAt": "2026-10-13T08:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 203,
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 32,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 26,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "FELONY HARASSMENT",
@@ -247,17 +247,17 @@
       "pct": 1.2
     },
     {
+      "name": "UNLAWFUL CAMPING",
+      "count": 6,
+      "pct": 1
+    },
+    {
       "name": "ASSAULT 4TH DEGREE",
       "count": 6,
       "pct": 1
     },
     {
       "name": "UNLAWFUL IMPRISONMMT",
-      "count": 6,
-      "pct": 1
-    },
-    {
-      "name": "ASSAULT 2 DV",
       "count": 6,
       "pct": 1
     }
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 264,
-      "pct": 44.2
+      "pct": 44.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 138,
-      "pct": 23.1
+      "count": 140,
+      "pct": 23.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -331,7 +331,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 47,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "DOC COURT",
@@ -387,8 +387,8 @@
     },
     {
       "name": "C",
-      "count": 15,
-      "pct": 8.6
+      "count": 16,
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -460,11 +460,11 @@
     "currentLongestDaysHeld": 488.6
   },
   "bond": {
-    "withBond": 109,
-    "noBond": 68,
+    "withBond": 111,
+    "noBond": 66,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4611700
+    "totalBond": 4612200
   },
-  "chargesPerBooking": 2.9
+  "chargesPerBooking": 3
 }

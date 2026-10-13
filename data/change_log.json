@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-13T07:20:03",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 250,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-13T07:28:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412660",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T07:55:17",
     "releasedAt": null,
@@ -20,8 +32,20 @@
     "bookedAt": "2026-10-13T07:18:22",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 250,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-13T07:33:04",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412661",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T07:55:17",
     "releasedAt": null,
@@ -58,7 +82,7 @@
     "inmateNumber": "235310",
     "name": "COLLIER, RICKEY LYNN",
     "bookedAt": "2026-10-12T22:39:43",
-    "location": "INTAKE H2",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -168,7 +192,7 @@
         "arrestingAgency": "CCCD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5a0731582",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
