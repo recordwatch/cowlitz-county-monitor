@@ -4,7 +4,7 @@
     "inmateNumber": "273752",
     "name": "CIFUENTES, KEVIN A",
     "bookedAt": "2026-10-13T10:31:16",
-    "location": "INTAKE H3",
+    "location": "A10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -93,7 +93,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A355465",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -119,7 +119,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091698",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -130,7 +130,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00069019",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -193,7 +193,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0687938",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -219,7 +219,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5a0731582",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -245,7 +245,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427282",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -271,7 +271,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0301693",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -282,7 +282,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0317672",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -293,7 +293,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0353643",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -304,7 +304,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427280",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
