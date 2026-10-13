@@ -102,7 +102,7 @@
         "offenseDate": "2026-10-12T22:45:48",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "C69019",
+        "warrantNumber": "C00069019",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -404,7 +404,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0924603",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -415,7 +415,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0378019",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -441,7 +441,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410070821",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -452,7 +452,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0289960",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -463,7 +463,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00068961",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1384,7 +1384,7 @@
     "inmateNumber": "329989",
     "name": "ANTEE, CHRISTOPHER JAMES",
     "bookedAt": "2026-10-10T02:31:23",
-    "location": "B25",
+    "location": "A16",
     "arrestingAgency": "WDPD",
     "bondTotal": 5000,
     "charges": [
@@ -5894,10 +5894,10 @@
         "arrestingAgency": "CCCD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0203898",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
