@@ -1,5 +1,19 @@
 [
   {
+    "id": "235310-20261012223943",
+    "inmateNumber": "235310",
+    "name": "COLLIER, RICKEY LYNN",
+    "bookedAt": "2026-10-12T22:39:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T23:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "57142-20261012221536",
     "inmateNumber": "57142",
     "name": "OSBORN, DEVIN REESE",
