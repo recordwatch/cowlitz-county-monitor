@@ -1,5 +1,57 @@
 [
   {
+    "id": "171720-20261013113723",
+    "inmateNumber": "171720",
+    "name": "VELASQUEZ, DAVID ANTHONY",
+    "bookedAt": "2026-10-13T11:37:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-13T11:43:57",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "22410030808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T12:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "220164-20261013113614",
+    "inmateNumber": "220164",
+    "name": "RIETH, JENNIFER DIANE",
+    "bookedAt": "2026-10-13T11:36:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-13T11:37:55",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2510062608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T12:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "273752-20261013103116",
     "inmateNumber": "273752",
     "name": "CIFUENTES, KEVIN A",
