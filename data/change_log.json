@@ -4,7 +4,7 @@
     "inmateNumber": "171720",
     "name": "VELASQUEZ, DAVID ANTHONY",
     "bookedAt": "2026-10-13T11:37:23",
-    "location": "C13",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -4940,7 +4940,7 @@
     "inmateNumber": "153197",
     "name": "BARRETT, RYAN ANTHONY",
     "bookedAt": "2026-09-21T14:44:16",
-    "location": "H-H03",
+    "location": "G-G41",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -5490,7 +5490,7 @@
     "inmateNumber": "157598",
     "name": "SHULER, TREVOR LEE",
     "bookedAt": "2026-09-16T15:26:43",
-    "location": "H-H08",
+    "location": "G-G47",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -5989,9 +5989,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T12:55:16",
     "baseline": true
   },
   {
@@ -7328,7 +7328,7 @@
     "inmateNumber": "28260",
     "name": "SMITH, NATHAN JAMES",
     "bookedAt": "2026-07-17T15:58:36",
-    "location": "H-H06",
+    "location": "G-G42",
     "arrestingAgency": "LVPD",
     "bondTotal": 50000,
     "charges": [
@@ -7839,7 +7839,7 @@
     "inmateNumber": "297929",
     "name": "SOWAS, KAITNES K",
     "bookedAt": "2026-07-08T14:16:09",
-    "location": "G-G48",
+    "location": "G-G23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -7898,7 +7898,7 @@
     "inmateNumber": "17233",
     "name": "DYER, DAMIEN MICHAEL",
     "bookedAt": "2026-07-08T11:03:30",
-    "location": "H-H02",
+    "location": "G-G48",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
