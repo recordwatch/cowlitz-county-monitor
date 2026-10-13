@@ -224,9 +224,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T03:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T15:35:16",
     "baseline": false
   },
   {
@@ -308,7 +308,7 @@
     "inmateNumber": "346508",
     "name": "SHAW, SIERRA RAE",
     "bookedAt": "2026-10-12T18:56:41",
-    "location": "E21",
+    "location": "H-H01",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -3403,7 +3403,7 @@
     "inmateNumber": "55883",
     "name": "NIELSON, BROOKE PATRICE",
     "bookedAt": "2026-10-03T21:51:22",
-    "location": "E13",
+    "location": "H-H04",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -5604,7 +5604,7 @@
     "inmateNumber": "255762",
     "name": "NEWMAN SANDERS, CAITLIN BELLE",
     "bookedAt": "2026-09-16T16:06:44",
-    "location": "E20",
+    "location": "H-H03",
     "arrestingAgency": "CCSO",
     "bondTotal": 12000,
     "charges": [
@@ -6922,7 +6922,7 @@
     "inmateNumber": "40878",
     "name": "HOOK, PATSY JO",
     "bookedAt": "2026-08-14T12:49:14",
-    "location": "E20",
+    "location": "H-H02",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -9560,7 +9560,7 @@
     "inmateNumber": "207948",
     "name": "RUDD, TAMARA LYNN",
     "bookedAt": "2025-12-26T14:24:43",
-    "location": "E20",
+    "location": "H-H06",
     "arrestingAgency": "LVPD",
     "bondTotal": 200000,
     "charges": [
