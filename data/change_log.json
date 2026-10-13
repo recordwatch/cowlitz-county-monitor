@@ -2164,7 +2164,7 @@
     "inmateNumber": "3699",
     "name": "MONTGOMERY, GARY MICHAEL",
     "bookedAt": "2026-10-08T02:11:38",
-    "location": "A15",
+    "location": "G-G02",
     "arrestingAgency": "CCSO",
     "bondTotal": 1500,
     "charges": [
@@ -3440,7 +3440,7 @@
     "inmateNumber": "36109",
     "name": "MCJUNKIN, CLAYTON PATRICK",
     "bookedAt": "2026-10-03T09:40:33",
-    "location": "A11",
+    "location": "G-G10",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -4471,7 +4471,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-09-26T12:13:21",
-    "location": "A16",
+    "location": "G-G06",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
