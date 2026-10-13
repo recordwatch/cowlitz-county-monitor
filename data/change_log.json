@@ -1,5 +1,42 @@
 [
   {
+    "id": "119948-20261013125205",
+    "inmateNumber": "119948",
+    "name": "DELAGASSE, JAMES EVAN EUGENE",
+    "bookedAt": "2026-10-13T12:52:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "IDENTITY THEFT 2ND DEGREE",
+        "offenseDate": "2026-10-13T13:02:20",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-10-13T13:02:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T13:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "171720-20261013113723",
     "inmateNumber": "171720",
     "name": "VELASQUEZ, DAVID ANTHONY",
@@ -162,7 +199,7 @@
     "bookedAt": "2026-10-12T22:39:43",
     "location": "C10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -173,7 +210,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 4000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -296,10 +333,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427282",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2862,7 +2899,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2310036008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -2999,7 +3036,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2210097108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3395,7 +3432,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2010140508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
