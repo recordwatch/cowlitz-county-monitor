@@ -1,5 +1,45 @@
 [
   {
+    "id": "346508-20261012185641",
+    "inmateNumber": "346508",
+    "name": "SHAW, SIERRA RAE",
+    "bookedAt": "2026-10-12T18:56:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T19:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "349547-20261012184342",
+    "inmateNumber": "349547",
+    "name": "JUDGE, KEVIN MATTHEW",
+    "bookedAt": "2026-10-12T18:43:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-12T18:44:31",
+        "arrestingAgency": "CCCD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5a0731582",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T19:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358851-20261012180228",
     "inmateNumber": "358851",
     "name": "LEVAN, MIKHAIL QUINCY",

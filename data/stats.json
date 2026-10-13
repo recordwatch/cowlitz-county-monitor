@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T19:15:16",
+  "generatedAt": "2026-10-12T19:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 196,
-    "bookingsObserved": 30,
+    "bookingsTracked": 198,
+    "bookingsObserved": 32,
     "releasesObserved": 23,
-    "inCustody": 173,
-    "uniquePeople": 196
+    "inCustody": 175,
+    "uniquePeople": 198
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 7,
+      "booked": 9,
       "released": 14
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 67,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "DWLS 3RD",
@@ -179,12 +179,12 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 31,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 31,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -193,8 +193,8 @@
     },
     {
       "name": "DUI",
-      "count": 23,
-      "pct": 3.9
+      "count": 24,
+      "pct": 4.1
     },
     {
       "name": "FELONY HARASSMENT",
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 78,
-      "pct": 40,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 52,
-      "pct": 26.7,
+      "pct": 26.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 25,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 16,
-      "pct": 8.2,
+      "count": 18,
+      "pct": 9.1,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -302,13 +302,13 @@
     {
       "name": "CRPD",
       "count": 5,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Castle Rock Police"
     },
     {
       "name": "WDPD",
       "count": 4,
-      "pct": 2.1,
+      "pct": 2,
       "label": "Woodland Police"
     }
   ],
@@ -321,7 +321,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 135,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -340,8 +340,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 22,
-      "pct": 3.7
+      "count": 23,
+      "pct": 3.9
     },
     {
       "name": "DRUG COURT",
@@ -456,12 +456,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 18.1,
+    "currentMedianDaysHeld": 16.6,
     "currentLongestDaysHeld": 488.1
   },
   "bond": {
     "withBond": 108,
-    "noBond": 65,
+    "noBond": 67,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4608200
