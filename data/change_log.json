@@ -1,5 +1,19 @@
 [
   {
+    "id": "214828-20261013025644",
+    "inmateNumber": "214828",
+    "name": "PELTIER, TAYLOR ANN MICHELLE",
+    "bookedAt": "2026-10-13T02:56:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T03:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "235310-20261012223943",
     "inmateNumber": "235310",
     "name": "COLLIER, RICKEY LYNN",
