@@ -6,8 +6,31 @@
     "bookedAt": "2026-10-12T22:39:43",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-12T22:47:37",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0091698",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-12T22:45:48",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "C69019",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T23:15:18",
     "releasedAt": null,
@@ -38,7 +61,7 @@
         "offenseDate": "2026-10-12T22:24:42",
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
-        "warrantNumber": "6a03967322",
+        "warrantNumber": "6a0396732",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
