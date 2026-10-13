@@ -1,5 +1,19 @@
 [
   {
+    "id": "15859-20261012165227",
+    "inmateNumber": "15859",
+    "name": "EDMONDS, MARK ANTHONY",
+    "bookedAt": "2026-10-12T16:52:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T17:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "13932-20261012101357",
     "inmateNumber": "13932",
     "name": "EVERETTE, KRISSY NICOLE",
