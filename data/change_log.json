@@ -6,11 +6,22 @@
     "bookedAt": "2026-10-13T13:45:52",
     "location": "D13",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CARY/EXH/DRA DANG WE",
         "offenseDate": "2026-10-13T14:09:06",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427022",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-13T14:25:53",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427022",
@@ -30,7 +41,7 @@
     "inmateNumber": "119948",
     "name": "DELAGASSE, JAMES EVAN EUGENE",
     "bookedAt": "2026-10-13T12:52:05",
-    "location": "1-PENDING BOOKING",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -67,7 +78,7 @@
     "inmateNumber": "171720",
     "name": "VELASQUEZ, DAVID ANTHONY",
     "bookedAt": "2026-10-13T11:37:23",
-    "location": "C13",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -365,9 +376,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T18:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T15:15:22",
     "baseline": false
   },
   {
@@ -738,9 +749,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T23:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T15:15:22",
     "baseline": false
   },
   {
@@ -771,8 +782,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -782,8 +793,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -860,9 +871,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T21:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T15:15:22",
     "baseline": false
   },
   {
@@ -6575,7 +6586,7 @@
     "inmateNumber": "90139",
     "name": "GRAHAM, JASON BROCK",
     "bookedAt": "2026-08-26T08:03:33",
-    "location": "H-H14",
+    "location": "G-G45",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -6819,7 +6830,7 @@
     "inmateNumber": "5444",
     "name": "ROBERTSON, DAVID ALLEN",
     "bookedAt": "2026-08-17T09:01:29",
-    "location": "H-H12",
+    "location": "G-G25",
     "arrestingAgency": "CCSO",
     "bondTotal": 75000,
     "charges": [
@@ -7092,7 +7103,7 @@
         "court": "DOC COURT",
         "warrantNumber": "221021367",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -7103,7 +7114,7 @@
         "court": "DOC COURT",
         "warrantNumber": "221021367",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
