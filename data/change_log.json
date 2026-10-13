@@ -4,10 +4,44 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "1-PENDING BOOKING",
+    "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-12T17:39:48",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0301693",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-12T17:37:43",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0317672",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-12T17:36:38",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427280",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T17:35:17",
     "releasedAt": null,
