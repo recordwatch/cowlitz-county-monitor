@@ -84,7 +84,7 @@
     "bookedAt": "2026-10-12T22:39:43",
     "location": "C10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -106,7 +106,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -395,7 +395,7 @@
     "bookedAt": "2026-10-12T08:40:03",
     "location": "B10",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1500,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -403,10 +403,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0924603",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -2821,7 +2821,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2510045721",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3498,7 +3498,7 @@
     "bookedAt": "2026-09-30T19:14:13",
     "location": "A16",
     "arrestingAgency": "CCSO",
-    "bondTotal": 37000,
+    "bondTotal": 35000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -3539,10 +3539,10 @@
         "arrestingAgency": "CCSO",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "4A0623103",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "MAKE FALSE STATEMENT",
@@ -3550,7 +3550,7 @@
         "arrestingAgency": "CCSO",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "4A0623103",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "WDPD",
         "bondType": null,
         "bondAmount": null
@@ -5495,9 +5495,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T10:55:18",
     "baseline": true
   },
   {
