@@ -30,7 +30,7 @@
     "inmateNumber": "349547",
     "name": "JUDGE, KEVIN MATTHEW",
     "bookedAt": "2026-10-12T18:43:42",
-    "location": "1-PENDING BOOKING",
+    "location": "B20",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -82,7 +82,7 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "A11",
+    "location": "B22",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
