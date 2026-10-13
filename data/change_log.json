@@ -2827,9 +2827,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T11:15:24",
     "baseline": true
   },
   {
@@ -3679,10 +3679,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0594771",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -3690,7 +3690,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0594771",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
