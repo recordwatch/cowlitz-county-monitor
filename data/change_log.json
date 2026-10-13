@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-12T19:08:55",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0687938",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-12T19:35:16",
     "releasedAt": null,
@@ -663,9 +675,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T16:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-12T19:55:19",
     "baseline": false
   },
   {
@@ -1771,7 +1783,7 @@
     "inmateNumber": "3699",
     "name": "MONTGOMERY, GARY MICHAEL",
     "bookedAt": "2026-10-08T02:11:38",
-    "location": "A16",
+    "location": "A15",
     "arrestingAgency": "CCSO",
     "bondTotal": 1500,
     "charges": [
