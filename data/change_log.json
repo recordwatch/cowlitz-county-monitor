@@ -4,10 +4,22 @@
     "inmateNumber": "360925",
     "name": "LAURSEN, JASON WAYNE",
     "bookedAt": "2026-10-13T13:45:52",
-    "location": "1-PENDING BOOKING",
+    "location": "D13",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "offenseDate": "2026-10-13T14:09:06",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427022",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T14:35:19",
     "releasedAt": null,
@@ -365,8 +377,41 @@
     "bookedAt": "2026-10-12T16:52:27",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": 6500,
+    "bondTotal": 9500,
     "charges": [
+      {
+        "description": "POSS STL PROP 2/>250",
+        "offenseDate": "2026-10-13T14:09:08",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-13T14:08:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0916886",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-13T14:09:30",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0188432",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-10-13T14:05:52",
@@ -430,8 +475,8 @@
         "warrantNumber": "6A0363663",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -690,7 +735,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -4574,7 +4619,7 @@
     "inmateNumber": "99843",
     "name": "LHEUREUX, MATTHEW JOSEPH",
     "bookedAt": "2026-09-24T16:30:01",
-    "location": "C16",
+    "location": "C26",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
@@ -6567,7 +6612,7 @@
     "inmateNumber": "92140",
     "name": "WORDEN, BENJAMIN LESTER",
     "bookedAt": "2026-08-24T17:40:56",
-    "location": "D13",
+    "location": "C16",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -6593,7 +6638,7 @@
     "inmateNumber": "173773",
     "name": "FRAHM, RYAN JAMES",
     "bookedAt": "2026-08-22T08:13:48",
-    "location": "D13",
+    "location": "C16",
     "arrestingAgency": "LVPD",
     "bondTotal": 15000,
     "charges": [
