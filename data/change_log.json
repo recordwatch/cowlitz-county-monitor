@@ -4,7 +4,7 @@
     "inmateNumber": "171720",
     "name": "VELASQUEZ, DAVID ANTHONY",
     "bookedAt": "2026-10-13T11:37:23",
-    "location": "1-PENDING BOOKING",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "220164",
     "name": "RIETH, JENNIFER DIANE",
     "bookedAt": "2026-10-13T11:36:14",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -134,7 +134,7 @@
     "inmateNumber": "214828",
     "name": "PELTIER, TAYLOR ANN MICHELLE",
     "bookedAt": "2026-10-13T02:56:44",
-    "location": "INTAKE H6",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -4176,7 +4176,7 @@
     "inmateNumber": "222367",
     "name": "DAILY, ADIN CAI RADER",
     "bookedAt": "2026-09-27T11:22:59",
-    "location": "H-H09",
+    "location": "G-G28",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
@@ -4490,7 +4490,7 @@
     "inmateNumber": "99843",
     "name": "LHEUREUX, MATTHEW JOSEPH",
     "bookedAt": "2026-09-24T16:30:01",
-    "location": "INTAKE H5",
+    "location": "C16",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
@@ -4627,7 +4627,7 @@
     "inmateNumber": "89635",
     "name": "WILSON, KEVIN JOSEPH",
     "bookedAt": "2026-09-22T08:18:37",
-    "location": "H-H11",
+    "location": "G-G26",
     "arrestingAgency": "CCSO",
     "bondTotal": 1500,
     "charges": [
@@ -6106,7 +6106,7 @@
     "inmateNumber": "68218",
     "name": "BAXTER, SEAN MICHAEL",
     "bookedAt": "2026-09-04T23:15:06",
-    "location": "H-H04",
+    "location": "G-G24",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
@@ -8289,7 +8289,7 @@
     "inmateNumber": "6617",
     "name": "JOHNSON, BOBBY LEE",
     "bookedAt": "2026-06-24T09:05:24",
-    "location": "H-H10",
+    "location": "G-G22",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -9096,7 +9096,7 @@
     "inmateNumber": "332770",
     "name": "RODRIGUEZ RIOS, SANTOS",
     "bookedAt": "2026-03-24T13:04:33",
-    "location": "H-H07",
+    "location": "G-G21",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
