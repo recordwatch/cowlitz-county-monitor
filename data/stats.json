@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-12T22:35:17",
+  "generatedAt": "2026-10-12T22:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 198,
-    "bookingsObserved": 32,
+    "bookingsTracked": 199,
+    "bookingsObserved": 33,
     "releasesObserved": 24,
-    "inCustody": 174,
-    "uniquePeople": 198
+    "inCustody": 175,
+    "uniquePeople": 199
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 9,
+      "booked": 10,
       "released": 15
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DWLS 3RD",
       "count": 43,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "DOC HOLD",
       "count": 43,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -187,14 +187,14 @@
       "pct": 5.2
     },
     {
-      "name": "PROTECTION ORDER VIOLATION",
+      "name": "DUI",
       "count": 26,
       "pct": 4.4
     },
     {
-      "name": "DUI",
-      "count": 25,
-      "pct": 4.2
+      "name": "PROTECTION ORDER VIOLATION",
+      "count": 26,
+      "pct": 4.4
     },
     {
       "name": "FELONY HARASSMENT",
@@ -203,8 +203,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 14,
-      "pct": 2.4
+      "count": 15,
+      "pct": 2.5
     },
     {
       "name": "ASSAULT 3RD",
@@ -234,12 +234,12 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 78,
-      "pct": 39.6,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 52,
-      "pct": 26.4,
+      "pct": 26.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 25,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "Kelso Police"
     },
     {
@@ -290,38 +290,38 @@
     {
       "name": "WSP",
       "count": 8,
-      "pct": 4.1,
+      "pct": 4,
       "label": "Washington State Patrol"
     },
     {
       "name": "DOC",
       "count": 7,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "Dept. of Corrections"
+    },
+    {
+      "name": "WDPD",
+      "count": 5,
+      "pct": 2.5,
+      "label": "Woodland Police"
     },
     {
       "name": "CRPD",
       "count": 5,
       "pct": 2.5,
       "label": "Castle Rock Police"
-    },
-    {
-      "name": "WDPD",
-      "count": 4,
-      "pct": 2,
-      "label": "Woodland Police"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 264,
-      "pct": 44.6
+      "pct": 44.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 136,
-      "pct": 23
+      "pct": 22.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -340,8 +340,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 23,
-      "pct": 3.9
+      "count": 25,
+      "pct": 4.2
     },
     {
       "name": "DRUG COURT",
@@ -378,17 +378,17 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "B",
       "count": 36,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "D",
@@ -398,7 +398,7 @@
     {
       "name": "E",
       "count": 33,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "F",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -456,15 +456,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.5,
-    "currentLongestDaysHeld": 488.2
+    "currentMedianDaysHeld": 16.8,
+    "currentLongestDaysHeld": 488.3
   },
   "bond": {
-    "withBond": 107,
+    "withBond": 108,
     "noBond": 67,
-    "medianBond": 5000,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4607700
+    "totalBond": 4609700
   },
   "chargesPerBooking": 3
 }

@@ -1,5 +1,42 @@
 [
   {
+    "id": "57142-20261012221536",
+    "inmateNumber": "57142",
+    "name": "OSBORN, DEVIN REESE",
+    "bookedAt": "2026-10-12T22:15:36",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-12T22:18:04",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6a0396731",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-12T22:24:42",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6a03967322",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-12T22:55:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "346508-20261012185641",
     "inmateNumber": "346508",
     "name": "SHAW, SIERRA RAE",
