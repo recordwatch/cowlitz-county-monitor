@@ -1,5 +1,33 @@
 [
   {
+    "id": "228673-20261013072003",
+    "inmateNumber": "228673",
+    "name": "HADDIX, CHRISTINA MARIE",
+    "bookedAt": "2026-10-13T07:20:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T07:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "165564-20261013071822",
+    "inmateNumber": "165564",
+    "name": "COGDILL, THOMAS EARL RUDOLPH",
+    "bookedAt": "2026-10-13T07:18:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T07:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "214828-20261013025644",
     "inmateNumber": "214828",
     "name": "PELTIER, TAYLOR ANN MICHELLE",
