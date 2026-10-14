@@ -1,5 +1,57 @@
 [
   {
+    "id": "9044-20261014145214",
+    "inmateNumber": "9044",
+    "name": "EDEN, CHARLES ALLEN",
+    "bookedAt": "2026-10-14T14:52:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-14T15:04:00",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405453",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "55024-20261014144310",
+    "inmateNumber": "55024",
+    "name": "DANIELS, SAMANTHA CARTER",
+    "bookedAt": "2026-10-14T14:43:10",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-14T14:44:55",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0379457",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "220479-20261014142404",
     "inmateNumber": "220479",
     "name": "BECK, TIANA RENEE",
@@ -30,7 +82,7 @@
     "inmateNumber": "66863",
     "name": "HILL, LLOYD CLAYTON",
     "bookedAt": "2026-10-14T14:11:28",
-    "location": "1-PENDING BOOKING",
+    "location": "B11",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -83,9 +135,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T14:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T15:55:17",
     "baseline": false
   },
   {
