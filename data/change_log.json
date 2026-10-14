@@ -80,7 +80,7 @@
     "bookedAt": "2026-10-14T02:38:53",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -103,6 +103,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "USE PARAPHENALIA",
+        "offenseDate": "2026-10-14T06:03:47",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401411",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",

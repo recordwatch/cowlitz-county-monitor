@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:35:16",
+  "generatedAt": "2026-10-14T06:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 219,
@@ -169,12 +169,12 @@
     {
       "name": "DWLS 3RD",
       "count": 49,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
       "count": 49,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -322,32 +322,32 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 274,
-      "pct": 43.4
+      "pct": 43.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 151,
-      "pct": 23.9
+      "count": 152,
+      "pct": 24
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 61,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 49,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DOC COURT",
       "count": 37,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 25,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "DRUG COURT",
@@ -470,7 +470,7 @@
     "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4614700
+    "totalBond": 4615200
   },
   "chargesPerBooking": 2.9
 }
