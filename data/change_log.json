@@ -1,5 +1,53 @@
 [
   {
+    "id": "38607-20261013195342",
+    "inmateNumber": "38607",
+    "name": "ALLSTOT, CLAYTON RYAN",
+    "bookedAt": "2026-10-13T19:53:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-13T19:55:55",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "4A0670364",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-13T19:57:39",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0722172",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-13T19:56:41",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0372695",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T20:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360943-20261013180804",
     "inmateNumber": "360943",
     "name": "TRUCKEY, DAVID MICHAEL",
@@ -6431,7 +6479,7 @@
     "inmateNumber": "144292",
     "name": "DEMENKO, NAZAR",
     "bookedAt": "2026-09-03T03:01:04",
-    "location": "G-G30",
+    "location": "G-G38",
     "arrestingAgency": "WSP",
     "bondTotal": 25000,
     "charges": [
