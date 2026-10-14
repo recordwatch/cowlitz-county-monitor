@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T08:55:22",
+  "generatedAt": "2026-10-14T09:15:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 221,
-    "bookingsObserved": 55,
+    "bookingsTracked": 222,
+    "bookingsObserved": 56,
     "releasesObserved": 46,
-    "inCustody": 175,
-    "uniquePeople": 220
+    "inCustody": 176,
+    "uniquePeople": 221
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
@@ -177,14 +177,14 @@
       "pct": 7.7
     },
     {
-      "name": "THEFT 3RD DEG",
+      "name": "CONTEMPT OF COURT",
       "count": 32,
-      "pct": 5.1
+      "pct": 5
     },
     {
-      "name": "CONTEMPT OF COURT",
-      "count": 31,
-      "pct": 4.9
+      "name": "THEFT 3RD DEG",
+      "count": 32,
+      "pct": 5
     },
     {
       "name": "DUI",
@@ -266,43 +266,43 @@
     {
       "name": "LVPD",
       "count": 88,
-      "pct": 40.6,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 54,
-      "pct": 24.9,
+      "pct": 24.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 27,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 18,
-      "pct": 8.3,
+      "count": 20,
+      "pct": 9.1,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 10,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
       "count": 8,
-      "pct": 3.7,
+      "pct": 3.6,
       "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
-      "count": 6,
-      "pct": 2.8,
+      "count": 7,
+      "pct": 3.2,
       "label": "Woodland Police"
     },
     {
@@ -321,8 +321,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 271,
-      "pct": 42.8
+      "count": 272,
+      "pct": 42.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -403,13 +403,13 @@
     },
     {
       "name": "E",
-      "count": 24,
-      "pct": 13.9
+      "count": 25,
+      "pct": 14.5
     },
     {
       "name": "F",
-      "count": 6,
-      "pct": 3.5
+      "count": 7,
+      "pct": 4
     },
     {
       "name": "G",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 8,
-      "pct": 4.6
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.9,
+    "currentMedianDaysHeld": 17.8,
     "currentLongestDaysHeld": 489.7
   },
   "bond": {
     "withBond": 106,
-    "noBond": 69,
+    "noBond": 70,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4617200

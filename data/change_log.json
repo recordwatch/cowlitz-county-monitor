@@ -1,11 +1,25 @@
 [
   {
+    "id": "156712-20261014084057",
+    "inmateNumber": "156712",
+    "name": "SHAFFER, EMMA MARIE",
+    "bookedAt": "2026-10-14T08:40:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T09:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "153432-20261014082011",
     "inmateNumber": "153432",
     "name": "UDING, TAMMARA DAWN",
     "bookedAt": "2026-10-14T08:20:11",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -19,9 +33,21 @@
     "name": "BEVERIDGE, JASON ROBERT",
     "bookedAt": "2026-10-14T08:13:22",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-14T08:27:05",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2010108408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T08:53:53",
     "releasedAt": null,
@@ -80,7 +106,7 @@
     "inmateNumber": "47869",
     "name": "BAKER, ALYSIA MARIE",
     "bookedAt": "2026-10-14T03:26:54",
-    "location": "INTAKE H6",
+    "location": "E20",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -1061,7 +1087,7 @@
     "inmateNumber": "201907",
     "name": "WEESE, AARON TIMOTHY DESTIN",
     "bookedAt": "2026-10-12T07:50:26",
-    "location": "INTAKE H1",
+    "location": "F11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
