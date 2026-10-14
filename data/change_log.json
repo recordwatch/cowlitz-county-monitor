@@ -1,5 +1,31 @@
 [
   {
+    "id": "66863-20261014141128",
+    "inmateNumber": "66863",
+    "name": "HILL, LLOYD CLAYTON",
+    "bookedAt": "2026-10-14T14:11:28",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-14T14:17:24",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2510089308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T14:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "5359-20261014132757",
     "inmateNumber": "5359",
     "name": "GARCIA, TIADORA MARIE",
@@ -772,9 +798,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T07:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T14:55:16",
     "baseline": false
   },
   {
@@ -784,8 +810,41 @@
     "bookedAt": "2026-10-13T07:18:22",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 3500,
     "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-14T14:06:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-14T14:06:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-14T14:06:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "UNLAWFUL CAMPING",
         "offenseDate": "2026-10-13T07:33:04",
