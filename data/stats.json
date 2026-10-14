@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:15:21",
+  "generatedAt": "2026-10-14T03:35:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 217,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 73,
-      "pct": 11.7
+      "count": 74,
+      "pct": 11.8
     },
     {
       "name": "DWLS 3RD",
@@ -184,7 +184,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 31,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "DUI",
@@ -316,12 +316,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 271,
-      "pct": 43.3
+      "pct": 43.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 149,
-      "pct": 23.8
+      "count": 150,
+      "pct": 23.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -378,27 +378,27 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "B",
       "count": 35,
-      "pct": 20.3
+      "pct": 20.2
     },
     {
       "name": "C",
       "count": 23,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "E",
       "count": 24,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "F",
@@ -408,7 +408,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "H",
@@ -417,8 +417,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.5
+      "count": 7,
+      "pct": 4
     },
     {
       "name": "WSH",
@@ -456,7 +456,7 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.7,
+    "currentMedianDaysHeld": 17.8,
     "currentLongestDaysHeld": 489.4
   },
   "bond": {
