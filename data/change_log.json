@@ -1,5 +1,19 @@
 [
   {
+    "id": "360943-20261013180804",
+    "inmateNumber": "360943",
+    "name": "TRUCKEY, DAVID MICHAEL",
+    "bookedAt": "2026-10-13T18:08:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T18:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "27096-20261013161244",
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
