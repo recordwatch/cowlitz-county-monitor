@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-13T21:22:39",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WDPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-13T21:27:09",
+        "arrestingAgency": "WDPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0183460",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T21:55:17",
     "releasedAt": null,
@@ -1245,7 +1257,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1256,7 +1268,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
