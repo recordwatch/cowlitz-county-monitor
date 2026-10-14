@@ -87,26 +87,48 @@
     "bondTotal": 2000,
     "charges": [
       {
-        "description": "CARY/EXH/DRA DANG WE",
+        "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-10-13T14:09:06",
         "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0427022",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "offenseDate": "2026-10-13T16:52:37",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-13T14:25:53",
+        "offenseDate": "2026-10-13T16:53:03",
         "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0427022",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSSESS ANOTHERS ID",
+        "offenseDate": "2026-10-13T14:25:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
