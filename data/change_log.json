@@ -4,7 +4,7 @@
     "inmateNumber": "47869",
     "name": "BAKER, ALYSIA MARIE",
     "bookedAt": "2026-10-14T03:26:54",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -13,7 +13,7 @@
         "offenseDate": "2026-10-14T03:31:21",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0413232",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -30,7 +30,7 @@
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
     "bookedAt": "2026-10-14T02:38:53",
-    "location": "INTAKE H3",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
