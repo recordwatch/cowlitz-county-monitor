@@ -6,40 +6,40 @@
     "bookedAt": "2026-10-14T04:59:34",
     "location": "INTAKE H3",
     "arrestingAgency": "KAPD",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
-      {
-        "description": "ASSAULT 3RD",
-        "offenseDate": "2026-10-14T05:09:56",
-        "arrestingAgency": "KAPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
       {
         "description": "DISORDERLY CONDUCT",
         "offenseDate": "2026-10-14T05:11:07",
         "arrestingAgency": "KAPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0342083",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-14T05:09:56",
+        "arrestingAgency": "KAPD",
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0342083",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "RESISTING ARREST",
         "offenseDate": "2026-10-14T05:11:35",
         "arrestingAgency": "KAPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0342083",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",

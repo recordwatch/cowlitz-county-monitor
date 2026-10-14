@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:55:17",
+  "generatedAt": "2026-10-14T08:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 219,
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 16,
-      "pct": 2.5
+      "count": 17,
+      "pct": 2.7
     },
     {
       "name": "FELONY HARASSMENT",
@@ -207,14 +207,14 @@
       "pct": 2.5
     },
     {
-      "name": "ASSAULT 3RD",
+      "name": "RESISTING ARREST",
       "count": 14,
       "pct": 2.2
     },
     {
-      "name": "RESISTING ARREST",
-      "count": 14,
-      "pct": 2.2
+      "name": "ASSAULT 3RD",
+      "count": 13,
+      "pct": 2.1
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -321,8 +321,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 274,
-      "pct": 43.3
+      "count": 271,
+      "pct": 42.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -370,14 +370,14 @@
       "pct": 0.6
     },
     {
-      "name": "STATE WORK RELEASE",
+      "name": "KALAMA MUNICIPAL COURT",
       "count": 3,
       "pct": 0.5
     },
     {
-      "name": "OTHER - OUT OF COUNTY",
-      "count": 1,
-      "pct": 0.2
+      "name": "STATE WORK RELEASE",
+      "count": 3,
+      "pct": 0.5
     }
   ],
   "housingUnits": [
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 489.6
   },
   "bond": {
-    "withBond": 105,
-    "noBond": 68,
+    "withBond": 106,
+    "noBond": 67,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4615200
+    "totalBond": 4617200
   },
   "chargesPerBooking": 2.9
 }
