@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T10:15:19",
+  "generatedAt": "2026-10-14T10:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 222,
-    "bookingsObserved": 56,
+    "bookingsTracked": 223,
+    "bookingsObserved": 57,
     "releasesObserved": 47,
-    "inCustody": 175,
-    "uniquePeople": 221
+    "inCustody": 176,
+    "uniquePeople": 222
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -177,12 +177,12 @@
       "pct": 7.7
     },
     {
-      "name": "CONTEMPT OF COURT",
-      "count": 32,
-      "pct": 5
+      "name": "THEFT 3RD DEG",
+      "count": 33,
+      "pct": 5.2
     },
     {
-      "name": "THEFT 3RD DEG",
+      "name": "CONTEMPT OF COURT",
       "count": 32,
       "pct": 5
     },
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 88,
-      "pct": 40,
+      "count": 89,
+      "pct": 40.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 54,
-      "pct": 24.5,
+      "count": 56,
+      "pct": 25.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 27,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 20,
-      "pct": 9.1,
+      "count": 18,
+      "pct": 8.1,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 274,
-      "pct": 43.1
+      "pct": 43
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 152,
-      "pct": 23.9
+      "count": 153,
+      "pct": 24
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 489.7
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 107,
     "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4617200
+    "totalBond": 4618200
   },
   "chargesPerBooking": 2.9
 }

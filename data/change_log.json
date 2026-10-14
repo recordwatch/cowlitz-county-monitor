@@ -1,5 +1,31 @@
 [
   {
+    "id": "82423-20261014100033",
+    "inmateNumber": "82423",
+    "name": "COCHRAN, BRANDON MICHAEL",
+    "bookedAt": "2026-10-14T10:00:33",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-14T10:04:02",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0357342",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T10:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "156712-20261014084057",
     "inmateNumber": "156712",
     "name": "SHAFFER, EMMA MARIE",
@@ -31,13 +57,13 @@
     "name": "UDING, TAMMARA DAWN",
     "bookedAt": "2026-10-14T08:20:11",
     "location": "INTAKE H6",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "PROB/PAROLE VIOL",
         "offenseDate": "2026-10-14T08:57:44",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2310046708",
         "disposition": null,
@@ -57,13 +83,13 @@
     "name": "BEVERIDGE, JASON ROBERT",
     "bookedAt": "2026-10-14T08:13:22",
     "location": "A15",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-14T08:27:05",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2010108408",
         "disposition": null,
@@ -303,7 +329,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0722172",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
@@ -4598,7 +4624,7 @@
     "inmateNumber": "327789",
     "name": "BENNETT, KIRSTI LEE",
     "bookedAt": "2026-09-28T11:09:59",
-    "location": "INTAKE H8",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
