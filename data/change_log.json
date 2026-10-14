@@ -1,5 +1,19 @@
 [
   {
+    "id": "50508-20261014023853",
+    "inmateNumber": "50508",
+    "name": "FERGUSON, RICHARD ZACERY",
+    "bookedAt": "2026-10-14T02:38:53",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T03:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "342344-20261013212239",
     "inmateNumber": "342344",
     "name": "BROWN, DEREK LEE",
