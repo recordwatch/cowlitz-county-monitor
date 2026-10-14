@@ -1,5 +1,31 @@
 [
   {
+    "id": "220479-20261014142404",
+    "inmateNumber": "220479",
+    "name": "BECK, TIANA RENEE",
+    "bookedAt": "2026-10-14T14:24:04",
+    "location": "E11",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-14T14:35:22",
+        "arrestingAgency": "CCCD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2210074608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T15:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "66863-20261014141128",
     "inmateNumber": "66863",
     "name": "HILL, LLOYD CLAYTON",
@@ -3286,9 +3312,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T15:15:18",
     "baseline": true
   },
   {
