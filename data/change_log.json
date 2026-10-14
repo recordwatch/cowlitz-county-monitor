@@ -4147,9 +4147,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T18:15:20",
     "baseline": true
   },
   {
@@ -5261,7 +5261,7 @@
     "inmateNumber": "162381",
     "name": "CAPPS, CRAIG TYLER",
     "bookedAt": "2026-09-20T19:00:00",
-    "location": "G-G36",
+    "location": "G-G14",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
