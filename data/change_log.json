@@ -1,5 +1,31 @@
 [
   {
+    "id": "47869-20261014032654",
+    "inmateNumber": "47869",
+    "name": "BAKER, ALYSIA MARIE",
+    "bookedAt": "2026-10-14T03:26:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-14T03:31:21",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T04:10:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "50508-20261014023853",
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
