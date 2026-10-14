@@ -356,7 +356,7 @@
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
     "bookedAt": "2026-10-13T16:12:44",
-    "location": "INTAKE H5",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -367,7 +367,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0417670",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -393,7 +393,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "141003886",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -541,7 +541,7 @@
         "court": "DOC COURT",
         "warrantNumber": "22410030808",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -556,7 +556,7 @@
     "inmateNumber": "220164",
     "name": "RIETH, JENNIFER DIANE",
     "bookedAt": "2026-10-13T11:36:14",
-    "location": "INTAKE H5",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -567,7 +567,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510062608",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -593,7 +593,7 @@
         "court": "DOC COURT",
         "warrantNumber": "CR20230469",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -619,7 +619,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412660",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
@@ -645,7 +645,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412661",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
@@ -6889,7 +6889,7 @@
         "arrestingAgency": "CCSO",
         "court": "DRUG COURT",
         "warrantNumber": "2510081908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
