@@ -1,5 +1,19 @@
 [
   {
+    "id": "331987-20261014115824",
+    "inmateNumber": "331987",
+    "name": "PHILLIPS, DELAINA MARIE",
+    "bookedAt": "2026-10-14T11:58:24",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T12:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "82423-20261014100033",
     "inmateNumber": "82423",
     "name": "COCHRAN, BRANDON MICHAEL",
