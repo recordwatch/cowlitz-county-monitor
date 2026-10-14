@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WDPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND > $750",
+        "offenseDate": "2026-10-14T08:46:04",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T09:15:22",
     "releasedAt": null,
@@ -18,10 +30,22 @@
     "inmateNumber": "153432",
     "name": "UDING, TAMMARA DAWN",
     "bookedAt": "2026-10-14T08:20:11",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "PROB/PAROLE VIOL",
+        "offenseDate": "2026-10-14T08:57:44",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2310046708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-14T08:53:53",
     "releasedAt": null,
