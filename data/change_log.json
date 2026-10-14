@@ -4,7 +4,7 @@
     "inmateNumber": "342344",
     "name": "BROWN, DEREK LEE",
     "bookedAt": "2026-10-13T21:22:39",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "WDPD",
     "bondTotal": 1000,
     "charges": [
@@ -82,7 +82,7 @@
     "inmateNumber": "38607",
     "name": "ALLSTOT, CLAYTON RYAN",
     "bookedAt": "2026-10-13T19:53:42",
-    "location": "INTAKE H3",
+    "location": "C10",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -1271,9 +1271,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T18:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T22:35:16",
     "baseline": false
   },
   {
