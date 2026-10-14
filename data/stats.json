@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-14T13:55:18",
+  "generatedAt": "2026-10-14T14:15:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 225,
-    "bookingsObserved": 59,
+    "bookingsTracked": 226,
+    "bookingsObserved": 60,
     "releasesObserved": 50,
-    "inCustody": 175,
-    "uniquePeople": 224
+    "inCustody": 176,
+    "uniquePeople": 225
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 9,
+      "booked": 10,
       "released": 6
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 90,
-      "pct": 40.4,
+      "count": 91,
+      "pct": 40.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 56,
-      "pct": 25.1,
+      "pct": 25,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 274,
-      "pct": 42.6
+      "pct": 42.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 158,
-      "pct": 24.6
+      "count": 160,
+      "pct": 24.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 37,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -462,15 +462,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 18.1,
+    "currentMedianDaysHeld": 18,
     "currentLongestDaysHeld": 489.9
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 107,
     "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4625450
+    "totalBond": 4626450
   },
   "chargesPerBooking": 2.9
 }

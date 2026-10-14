@@ -1,8 +1,45 @@
 [
   {
+    "id": "5359-20261014132757",
+    "inmateNumber": "5359",
+    "name": "GARCIA, TIADORA MARIE",
+    "bookedAt": "2026-10-14T13:27:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-10-14T13:30:48",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405457",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-10-14T13:29:44",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405457",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T14:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360433-20261014123302",
     "inmateNumber": "360433",
-    "name": "DAHLEN, RUSSEL DAVID",
+    "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-10-14T12:33:02",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
