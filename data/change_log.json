@@ -438,9 +438,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T19:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T19:35:18",
     "baseline": false
   },
   {
@@ -6711,7 +6711,7 @@
     "inmateNumber": "90139",
     "name": "GRAHAM, JASON BROCK",
     "bookedAt": "2026-08-26T08:03:33",
-    "location": "G-G45",
+    "location": "G-G46",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -7508,7 +7508,7 @@
     "inmateNumber": "219802",
     "name": "COLLINS, TIMOTHY EDWARD",
     "bookedAt": "2026-07-23T10:19:03",
-    "location": "G-G40",
+    "location": "G-G36",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -8613,7 +8613,7 @@
     "inmateNumber": "170305",
     "name": "PICKNER, JERED ROY",
     "bookedAt": "2026-06-20T22:02:42",
-    "location": "G-G46",
+    "location": "G-G45",
     "arrestingAgency": "WDPD",
     "bondTotal": null,
     "charges": [
