@@ -1,5 +1,19 @@
 [
   {
+    "id": "342344-20261013212239",
+    "inmateNumber": "342344",
+    "name": "BROWN, DEREK LEE",
+    "bookedAt": "2026-10-13T21:22:39",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "41651-20261013205032",
     "inmateNumber": "41651",
     "name": "WELSH, SARAH JUDE",
@@ -20,9 +34,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T21:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T21:55:17",
     "baseline": false
   },
   {
@@ -1308,9 +1322,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T10:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T21:55:17",
     "baseline": false
   },
   {
