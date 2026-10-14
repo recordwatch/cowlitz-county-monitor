@@ -41,7 +41,7 @@
     "inmateNumber": "360433",
     "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-10-14T12:33:02",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -228,7 +228,7 @@
   {
     "id": "360953-20261014045934",
     "inmateNumber": "360953",
-    "name": "KIRNER-TEW, TYLER JOSEPH",
+    "name": "KIRNER TEW, TYLER JOSEPH",
     "bookedAt": "2026-10-14T04:59:34",
     "location": "INTAKE H3",
     "arrestingAgency": "KAPD",
@@ -668,9 +668,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T13:35:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T14:35:28",
     "baseline": false
   },
   {
