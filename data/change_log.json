@@ -1,10 +1,36 @@
 [
   {
+    "id": "195049-20261013202002",
+    "inmateNumber": "195049",
+    "name": "RILATOS, JEFFERY STEVEN",
+    "bookedAt": "2026-10-13T20:20:02",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-13T20:21:44",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T20:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "38607-20261013195342",
     "inmateNumber": "38607",
     "name": "ALLSTOT, CLAYTON RYAN",
     "bookedAt": "2026-10-13T19:53:42",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
