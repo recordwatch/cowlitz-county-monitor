@@ -1,5 +1,31 @@
 [
   {
+    "id": "360433-20261014123302",
+    "inmateNumber": "360433",
+    "name": "DAHLEN, RUSSEL DAVID",
+    "bookedAt": "2026-10-14T12:33:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-14T12:42:16",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-14T13:15:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "331987-20261014115824",
     "inmateNumber": "331987",
     "name": "PHILLIPS, DELAINA MARIE",
@@ -89,7 +115,7 @@
     "inmateNumber": "156712",
     "name": "SHAFFER, EMMA MARIE",
     "bookedAt": "2026-10-14T08:40:57",
-    "location": "E20",
+    "location": "H-H07",
     "arrestingAgency": "WDPD",
     "bondTotal": null,
     "charges": [
@@ -231,9 +257,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T04:10:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-14T13:15:24",
     "baseline": false
   },
   {
@@ -4694,7 +4720,7 @@
     "inmateNumber": "327789",
     "name": "BENNETT, KIRSTI LEE",
     "bookedAt": "2026-09-28T11:09:59",
-    "location": "INTAKE H5",
+    "location": "E20",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -9219,10 +9245,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610037308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -9230,7 +9256,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610037308",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -9241,7 +9267,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610037308",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
