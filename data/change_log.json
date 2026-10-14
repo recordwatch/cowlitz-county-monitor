@@ -1,5 +1,31 @@
 [
   {
+    "id": "41651-20261013205032",
+    "inmateNumber": "41651",
+    "name": "WELSH, SARAH JUDE",
+    "bookedAt": "2026-10-13T20:50:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-13T20:53:38",
+        "arrestingAgency": null,
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T21:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "195049-20261013202002",
     "inmateNumber": "195049",
     "name": "RILATOS, JEFFERY STEVEN",
@@ -94,9 +120,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T18:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-13T21:35:16",
     "baseline": false
   },
   {
@@ -1279,7 +1305,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
