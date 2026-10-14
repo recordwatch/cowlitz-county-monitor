@@ -4,13 +4,47 @@
     "inmateNumber": "360953",
     "name": "KIRNER-TEW, TYLER JOSEPH",
     "bookedAt": "2026-10-14T04:59:34",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KAPD",
     "bondTotal": null,
-    "charges": [],
-    "status": "released",
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "offenseDate": "2026-10-14T05:09:56",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-14T05:11:07",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-14T05:11:35",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-10-14T05:35:16",
-    "releasedAt": "2026-10-14T05:55:15",
+    "releasedAt": null,
     "baseline": false
   },
   {
