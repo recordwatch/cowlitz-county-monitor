@@ -4,10 +4,22 @@
     "inmateNumber": "360943",
     "name": "TRUCKEY, DAVID MICHAEL",
     "bookedAt": "2026-10-13T18:08:04",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-13T19:13:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6a0321950",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-13T18:55:16",
     "releasedAt": null,
