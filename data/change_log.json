@@ -124,17 +124,6 @@
     "bondTotal": 2000,
     "charges": [
       {
-        "description": "DISORDERLY CONDUCT",
-        "offenseDate": "2026-10-14T05:11:07",
-        "arrestingAgency": "KAPD",
-        "court": "KALAMA MUNICIPAL COURT",
-        "warrantNumber": "6A0342083",
-        "disposition": null,
-        "billingAgency": "KAPD",
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-14T05:09:56",
         "arrestingAgency": "KAPD",
@@ -143,7 +132,18 @@
         "disposition": null,
         "billingAgency": "KAPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-14T05:11:07",
+        "arrestingAgency": "KAPD",
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0342083",
+        "disposition": null,
+        "billingAgency": "KAPD",
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -153,8 +153,8 @@
         "warrantNumber": "6A0342083",
         "disposition": null,
         "billingAgency": "KAPD",
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
