@@ -1,5 +1,42 @@
 [
   {
+    "id": "26580-20261015102544",
+    "inmateNumber": "26580",
+    "name": "JOHNSTON, GARY LEE JR",
+    "bookedAt": "2026-10-15T10:25:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 8500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-15T10:37:46",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0578518",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 8000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-15T10:33:19",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0326951",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T11:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "100133-20261015071040",
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
