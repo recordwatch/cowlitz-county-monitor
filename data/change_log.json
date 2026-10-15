@@ -44,7 +44,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-15T16:18:10",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "CR14217454",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T16:32:49",
     "releasedAt": null,
@@ -10806,7 +10818,7 @@
     "inmateNumber": "70172",
     "name": "LAHDE, DANIEL LYNN",
     "bookedAt": "2025-12-17T13:07:04",
-    "location": "F21",
+    "location": "F20",
     "arrestingAgency": "LVPD",
     "bondTotal": 350000,
     "charges": [
