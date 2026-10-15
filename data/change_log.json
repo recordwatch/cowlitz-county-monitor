@@ -689,7 +689,7 @@
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
     "bookedAt": "2026-10-14T02:38:53",
-    "location": "INTAKE H5",
+    "location": "D13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
@@ -967,7 +967,7 @@
     "inmateNumber": "360925",
     "name": "LAURSEN, JASON WAYNE",
     "bookedAt": "2026-10-13T13:45:52",
-    "location": "D13",
+    "location": "D11",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -2431,7 +2431,7 @@
     "inmateNumber": "357876",
     "name": "RANDLES, ZACHARY DAVID",
     "bookedAt": "2026-10-10T17:48:47",
-    "location": "D15",
+    "location": "D23",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -2655,7 +2655,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -4517,7 +4517,7 @@
     "inmateNumber": "69674",
     "name": "FOSHAUG, SARA RENEE",
     "bookedAt": "2026-10-03T08:19:59",
-    "location": "D23",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -9874,7 +9874,7 @@
     "inmateNumber": "213148",
     "name": "MEYER, JACOB ANTHONY",
     "bookedAt": "2026-05-28T07:55:34",
-    "location": "F20",
+    "location": "A24",
     "arrestingAgency": "CCSO",
     "bondTotal": 150000,
     "charges": [
