@@ -4,7 +4,7 @@
     "inmateNumber": "9044",
     "name": "EDEN, CHARLES ALLEN",
     "bookedAt": "2026-10-14T14:52:14",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCCD",
     "bondTotal": 1000,
     "charges": [
@@ -56,7 +56,7 @@
     "inmateNumber": "220479",
     "name": "BECK, TIANA RENEE",
     "bookedAt": "2026-10-14T14:24:04",
-    "location": "E11",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -282,7 +282,7 @@
     "inmateNumber": "153432",
     "name": "UDING, TAMMARA DAWN",
     "bookedAt": "2026-10-14T08:20:11",
-    "location": "INTAKE H6",
+    "location": "E11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
