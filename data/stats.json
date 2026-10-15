@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T15:15:19",
+  "generatedAt": "2026-10-15T15:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 237,
-    "bookingsObserved": 71,
-    "releasesObserved": 59,
+    "bookingsTracked": 238,
+    "bookingsObserved": 72,
+    "releasesObserved": 60,
     "inCustody": 178,
-    "uniquePeople": 236
+    "uniquePeople": 237
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 7,
-      "released": 3
+      "booked": 8,
+      "released": 4
     }
   ],
   "topCharges": [
@@ -227,14 +227,14 @@
       "pct": 1.6
     },
     {
-      "name": "CRIM TRESPASS 1ST",
+      "name": "THEFT 2ND DEGREE > $750",
       "count": 10,
       "pct": 1.5
     },
     {
-      "name": "THEFT 2ND DEGREE > $750",
-      "count": 9,
-      "pct": 1.3
+      "name": "CRIM TRESPASS 1ST",
+      "count": 10,
+      "pct": 1.5
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 93,
-      "pct": 39.6,
+      "count": 94,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 58,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 27,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 23,
-      "pct": 9.8,
+      "pct": 9.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 6,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Castle Rock Police"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 278,
+      "count": 279,
       "pct": 41.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 171,
-      "pct": 25.6
+      "pct": 25.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -383,13 +383,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 32,
-      "pct": 18.1
+      "count": 28,
+      "pct": 15.9
     },
     {
       "name": "B",
-      "count": 35,
-      "pct": 19.8
+      "count": 23,
+      "pct": 13.1
     },
     {
       "name": "C",
@@ -398,8 +398,8 @@
     },
     {
       "name": "D",
-      "count": 12,
-      "pct": 6.8
+      "count": 13,
+      "pct": 7.4
     },
     {
       "name": "E",
@@ -413,8 +413,8 @@
     },
     {
       "name": "G",
-      "count": 28,
-      "pct": 15.8
+      "count": 43,
+      "pct": 24.4
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
@@ -433,7 +433,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 59,
+    "releasedCount": 60,
     "medianDays": 1.9,
     "meanDays": 4.9,
     "buckets": [
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 4
+        "count": 5
       },
       {
         "label": "1–4 weeks",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 490.9
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 68,
+    "withBond": 109,
+    "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4706450
+    "totalBond": 4701450
   },
   "chargesPerBooking": 2.8
 }
