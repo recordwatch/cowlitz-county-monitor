@@ -4,7 +4,7 @@
     "inmateNumber": "57535",
     "name": "EAKER, CHRISTOPHER DEAN",
     "bookedAt": "2026-10-15T10:57:48",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
     "bookedAt": "2026-10-15T10:25:44",
-    "location": "1-PENDING BOOKING",
+    "location": "A15",
     "arrestingAgency": "CCSO",
     "bondTotal": 8500,
     "charges": [
@@ -3776,7 +3776,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342805",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
