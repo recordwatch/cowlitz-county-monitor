@@ -4,7 +4,7 @@
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
     "bookedAt": "2026-10-15T07:10:40",
-    "location": "1-PENDING BOOKING",
+    "location": "F23",
     "arrestingAgency": "LVPD",
     "bondTotal": 750,
     "charges": [
@@ -41,7 +41,7 @@
     "inmateNumber": "282000",
     "name": "RENIS, EICHY",
     "bookedAt": "2026-10-15T06:13:48",
-    "location": "INTAKE H6",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -50,7 +50,7 @@
         "offenseDate": "2026-10-15T06:14:55",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610067408",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -156,7 +156,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510089308",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -219,7 +219,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427023",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -256,7 +256,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -267,7 +267,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -328,7 +328,7 @@
         "offenseDate": "2026-10-14T08:46:04",
         "arrestingAgency": "WDPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610067508",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -397,7 +397,7 @@
     "inmateNumber": "360953",
     "name": "KIRNER TEW, TYLER JOSEPH",
     "bookedAt": "2026-10-14T04:59:34",
-    "location": "INTAKE H3",
+    "location": "INTAKE H7",
     "arrestingAgency": "KAPD",
     "bondTotal": 2000,
     "charges": [
