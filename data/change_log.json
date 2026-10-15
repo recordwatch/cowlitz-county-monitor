@@ -129,7 +129,7 @@
         "arrestingAgency": "CCCD",
         "court": "MENTAL HEALTH COURT",
         "warrantNumber": "2210074608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -401,6 +401,17 @@
     "arrestingAgency": "KAPD",
     "bondTotal": 2000,
     "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "offenseDate": "2026-10-14T20:00:00",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-14T05:09:56",
