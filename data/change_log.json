@@ -1,5 +1,31 @@
 [
   {
+    "id": "57535-20261015105748",
+    "inmateNumber": "57535",
+    "name": "EAKER, CHRISTOPHER DEAN",
+    "bookedAt": "2026-10-15T10:57:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FORGERY",
+        "offenseDate": "2026-10-15T10:58:54",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610047908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T11:35:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "26580-20261015102544",
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
@@ -3377,7 +3403,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0347361",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
@@ -3410,7 +3436,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00282273",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T11:15:18",
+  "generatedAt": "2026-10-15T11:35:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 233,
-    "bookingsObserved": 67,
+    "bookingsTracked": 234,
+    "bookingsObserved": 68,
     "releasesObserved": 59,
-    "inCustody": 174,
-    "uniquePeople": 232
+    "inCustody": 175,
+    "uniquePeople": 233
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 3,
+      "booked": 4,
       "released": 3
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 78,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "DWLS 3RD",
       "count": 51,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
@@ -266,37 +266,37 @@
     {
       "name": "LVPD",
       "count": 93,
-      "pct": 40.3,
+      "pct": 40.1,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 57,
-      "pct": 24.7,
+      "pct": 24.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 27,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 22,
-      "pct": 9.5,
+      "count": 23,
+      "pct": 9.9,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 11,
-      "pct": 4.8,
+      "pct": 4.7,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
       "count": 8,
-      "pct": 3.5,
+      "pct": 3.4,
       "label": "Washington State Patrol"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 276,
-      "pct": 41.9
+      "count": 277,
+      "pct": 42
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 169,
-      "pct": 25.7
+      "pct": 25.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 106,
-    "noBond": 68,
+    "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4635450
