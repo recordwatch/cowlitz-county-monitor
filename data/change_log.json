@@ -1,5 +1,31 @@
 [
   {
+    "id": "282000-20261015061348",
+    "inmateNumber": "282000",
+    "name": "RENIS, EICHY",
+    "bookedAt": "2026-10-15T06:13:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST",
+        "offenseDate": "2026-10-15T06:14:55",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T06:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "9044-20261014145214",
     "inmateNumber": "9044",
     "name": "EDEN, CHARLES ALLEN",
@@ -2891,9 +2917,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T06:55:16",
     "baseline": true
   },
   {
