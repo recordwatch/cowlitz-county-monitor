@@ -18,6 +18,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "MONEY LAUNDERING",
+        "offenseDate": "2026-10-15T15:38:25",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -568,9 +579,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T09:15:22",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T16:15:20",
     "baseline": false
   },
   {
@@ -644,6 +655,39 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 5000
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-15T15:28:01",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610067608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T15:25:30",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610067608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-15T15:26:12",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610067608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
