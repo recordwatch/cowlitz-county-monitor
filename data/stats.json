@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T11:55:18",
+  "generatedAt": "2026-10-15T12:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 234,
-    "bookingsObserved": 68,
+    "bookingsTracked": 235,
+    "bookingsObserved": 69,
     "releasesObserved": 59,
-    "inCustody": 175,
-    "uniquePeople": 233
+    "inCustody": 176,
+    "uniquePeople": 234
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 4,
+      "booked": 5,
       "released": 3
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 78,
-      "pct": 11.8
+      "count": 80,
+      "pct": 12.1
     },
     {
       "name": "DWLS 3RD",
@@ -189,7 +189,7 @@
     {
       "name": "DUI",
       "count": 30,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 93,
-      "pct": 40.1,
+      "pct": 39.9,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 57,
-      "pct": 24.6,
+      "count": 58,
+      "pct": 24.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 5,
-      "pct": 2.2,
+      "pct": 2.1,
       "label": "Castle Rock Police"
     },
     {
@@ -322,7 +322,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 277,
-      "pct": 42
+      "pct": 41.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -331,18 +331,18 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 61,
-      "pct": 9.3
+      "count": 62,
+      "pct": 9.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 50,
-      "pct": 7.6
+      "count": 51,
+      "pct": 7.7
     },
     {
       "name": "DOC COURT",
       "count": 38,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -462,15 +462,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 19,
+    "currentMedianDaysHeld": 18.9,
     "currentLongestDaysHeld": 490.8
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 107,
     "noBond": 69,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4635450
+    "totalBond": 4638450
   },
   "chargesPerBooking": 2.8
 }
