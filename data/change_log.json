@@ -244,7 +244,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -255,7 +255,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -266,7 +266,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
