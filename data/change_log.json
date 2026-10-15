@@ -4,7 +4,7 @@
     "inmateNumber": "129351",
     "name": "MENDEZ, ANTHONY JACE MCCAULEY",
     "bookedAt": "2026-10-15T13:10:44",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -77,7 +77,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610047908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
