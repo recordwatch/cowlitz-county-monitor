@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T14:15:18",
+  "generatedAt": "2026-10-15T14:35:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 236,
-    "bookingsObserved": 70,
+    "bookingsTracked": 237,
+    "bookingsObserved": 71,
     "releasesObserved": 59,
-    "inCustody": 177,
-    "uniquePeople": 235
+    "inCustody": 178,
+    "uniquePeople": 236
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 6,
+      "booked": 7,
       "released": 3
     }
   ],
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 81,
-      "pct": 12.2
+      "pct": 12.1
+    },
+    {
+      "name": "DWLS 3RD",
+      "count": 53,
+      "pct": 7.9
     },
     {
       "name": "DOC HOLD",
       "count": 51,
-      "pct": 7.7
-    },
-    {
-      "name": "DWLS 3RD",
-      "count": 51,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,7 +184,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 33,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "DUI",
@@ -194,12 +194,12 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 27,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 17,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "FELONY HARASSMENT",
@@ -224,7 +224,7 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 11,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -234,12 +234,12 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 9,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 93,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 58,
-      "pct": 24.8,
+      "pct": 24.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "CRPD",
-      "count": 5,
-      "pct": 2.1,
+      "count": 6,
+      "pct": 2.6,
       "label": "Castle Rock Police"
     },
     {
@@ -321,33 +321,38 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 277,
-      "pct": 41.7
+      "count": 278,
+      "pct": 41.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 171,
-      "pct": 25.8
+      "pct": 25.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 62,
-      "pct": 9.3
+      "count": 63,
+      "pct": 9.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 51,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "DOC COURT",
       "count": 39,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 25,
-      "pct": 3.8
+      "pct": 3.7
+    },
+    {
+      "name": "CASTLE ROCK MUNICIPAL COURT",
+      "count": 12,
+      "pct": 1.8
     },
     {
       "name": "DRUG COURT",
@@ -355,29 +360,24 @@
       "pct": 1.5
     },
     {
-      "name": "CASTLE ROCK MUNICIPAL COURT",
-      "count": 9,
-      "pct": 1.4
-    },
-    {
       "name": "DOC CONTRACT COURT",
       "count": 7,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "MENTAL HEALTH COURT",
       "count": 5,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
       "count": 3,
-      "pct": 0.5
+      "pct": 0.4
     },
     {
       "name": "STATE WORK RELEASE",
       "count": 3,
-      "pct": 0.5
+      "pct": 0.4
     }
   ],
   "housingUnits": [
@@ -462,15 +462,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 18.9,
+    "currentMedianDaysHeld": 18.5,
     "currentLongestDaysHeld": 490.9
   },
   "bond": {
-    "withBond": 107,
-    "noBond": 70,
+    "withBond": 110,
+    "noBond": 68,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4639450
+    "totalBond": 4706450
   },
   "chargesPerBooking": 2.8
 }

@@ -1,5 +1,75 @@
 [
   {
+    "id": "53077-20261015134503",
+    "inmateNumber": "53077",
+    "name": "MEINDL, TINA MARIE",
+    "bookedAt": "2026-10-15T13:45:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-10-15T13:57:05",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-15T13:46:09",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396099",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NO PRORATION/TRP PER",
+        "offenseDate": "2026-10-15T13:47:07",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396099",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "USE PARAPHENALIA",
+        "offenseDate": "2026-10-15T13:47:56",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396100",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-15T13:54:13",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00032835",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T14:35:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "129351-20261015131044",
     "inmateNumber": "129351",
     "name": "MENDEZ, ANTHONY JACE MCCAULEY",
@@ -169,7 +239,7 @@
     "bookedAt": "2026-10-15T06:13:48",
     "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 40000,
     "charges": [
       {
         "description": "ASSAULT 1ST",
@@ -179,8 +249,8 @@
         "warrantNumber": "2610067408",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 40000
       }
     ],
     "status": "in_custody",
@@ -466,7 +536,7 @@
         "arrestingAgency": "WDPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610067508",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -492,7 +562,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2310046708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -510,7 +580,7 @@
     "bookedAt": "2026-10-14T08:13:22",
     "location": "A15",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -520,8 +590,8 @@
         "warrantNumber": "2010108408",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 20000
       }
     ],
     "status": "in_custody",
@@ -536,7 +606,7 @@
     "bookedAt": "2026-10-14T04:59:34",
     "location": "INTAKE H7",
     "arrestingAgency": "KAPD",
-    "bondTotal": 2000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -546,8 +616,8 @@
         "warrantNumber": "2610067608",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
