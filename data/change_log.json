@@ -340,13 +340,13 @@
     "charges": [
       {
         "description": "ASSAULT 3RD/POLICE OFFICER",
-        "offenseDate": "2026-10-14T03:02:12",
+        "offenseDate": "2026-10-14T20:01:00",
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
