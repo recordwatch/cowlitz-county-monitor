@@ -1,5 +1,42 @@
 [
   {
+    "id": "100133-20261015071040",
+    "inmateNumber": "100133",
+    "name": "RICHTER, BRIAN DOUGLAS",
+    "bookedAt": "2026-10-15T07:10:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 750,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-15T07:18:52",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0386041",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-15T07:19:41",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0407354",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T07:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "282000-20261015061348",
     "inmateNumber": "282000",
     "name": "RENIS, EICHY",
