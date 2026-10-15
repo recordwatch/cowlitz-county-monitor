@@ -2928,9 +2928,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T10:55:17",
     "baseline": true
   },
   {
@@ -3310,7 +3310,7 @@
     "bookedAt": "2026-10-07T01:38:40",
     "location": "D12",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -3331,8 +3331,8 @@
         "warrantNumber": "6A0126294",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
