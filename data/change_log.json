@@ -1,5 +1,82 @@
 [
   {
+    "id": "14768-20261015155851",
+    "inmateNumber": "14768",
+    "name": "FRAIDENBURG, ANNETTE MARIE",
+    "bookedAt": "2026-10-15T15:58:51",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FIREARM POSSESSION UNLAWFUL-2",
+        "offenseDate": "2026-10-15T15:59:40",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T15:59:56",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T16:32:49",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "142711-20261015154956",
+    "inmateNumber": "142711",
+    "name": "MUELLER, RICK CHARLES",
+    "bookedAt": "2026-10-15T15:49:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T16:32:49",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "9468-20261015154632",
+    "inmateNumber": "9468",
+    "name": "WRIGHT, ABBIE JUNE",
+    "bookedAt": "2026-10-15T15:46:32",
+    "location": "INTAKE H1",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T15:47:38",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00841943",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T16:32:49",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "61020-20261015145352",
     "inmateNumber": "61020",
     "name": "ANDERSON, SIERRA MARIE",
@@ -959,7 +1036,7 @@
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
     "bookedAt": "2026-10-13T16:12:44",
-    "location": "E13",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
