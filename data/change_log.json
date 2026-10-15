@@ -208,7 +208,7 @@
     "inmateNumber": "360433",
     "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-10-14T12:33:02",
-    "location": "INTAKE H1",
+    "location": "D26",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -245,7 +245,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0929187",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -293,7 +293,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0357342",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -304,7 +304,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0357342",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -406,7 +406,7 @@
         "offenseDate": "2026-10-14T20:00:00",
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610067608",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
