@@ -347,7 +347,7 @@
     "bookedAt": "2026-10-15T17:56:27",
     "location": "C12",
     "arrestingAgency": "KEPD",
-    "bondTotal": 15000,
+    "bondTotal": 13500,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -355,7 +355,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "3A0263855",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -416,17 +416,6 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
-        "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6A0228372",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
-      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "KEPD",
@@ -438,6 +427,17 @@
         "bondAmount": 500
       },
       {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0228372",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "RESISTING ARREST",
         "offenseDate": "2026-10-15T18:39:33",
         "arrestingAgency": "KEPD",
@@ -445,8 +445,8 @@
         "warrantNumber": "6A0228372",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DUI",
