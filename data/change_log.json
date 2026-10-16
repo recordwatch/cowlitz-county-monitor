@@ -1,5 +1,19 @@
 [
   {
+    "id": "48393-20261015224459",
+    "inmateNumber": "48393",
+    "name": "STRODE, RONNIE DEAN JR",
+    "bookedAt": "2026-10-15T22:44:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T23:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "202210-20261015220334",
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
