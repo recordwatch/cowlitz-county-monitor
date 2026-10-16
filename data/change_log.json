@@ -1,5 +1,33 @@
 [
   {
+    "id": "126371-20261015220220",
+    "inmateNumber": "126371",
+    "name": "SPENCER, JULIE LAINE",
+    "bookedAt": "2026-10-15T22:02:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "43058-20261015215616",
+    "inmateNumber": "43058",
+    "name": "HAPGOOD, JOHNATHAN CARL",
+    "bookedAt": "2026-10-15T21:56:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "51136-20261015195349",
     "inmateNumber": "51136",
     "name": "WHITE, ANTHONY HARRISON",
