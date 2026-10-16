@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T20:15:18",
+  "generatedAt": "2026-10-15T20:35:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 250,
-    "bookingsObserved": 84,
+    "bookingsTracked": 251,
+    "bookingsObserved": 85,
     "releasesObserved": 61,
-    "inCustody": 189,
-    "uniquePeople": 249
+    "inCustody": 190,
+    "uniquePeople": 250
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 20,
+      "booked": 21,
       "released": 5
     }
   ],
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 94,
-      "pct": 37.9,
+      "pct": 37.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 59,
-      "pct": 23.8,
+      "pct": 23.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 29,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 27,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -300,16 +300,16 @@
       "label": "Washington State Patrol"
     },
     {
+      "name": "WDPD",
+      "count": 8,
+      "pct": 3.2,
+      "label": "Woodland Police"
+    },
+    {
       "name": "CRPD",
       "count": 7,
       "pct": 2.8,
       "label": "Castle Rock Police"
-    },
-    {
-      "name": "WDPD",
-      "count": 7,
-      "pct": 2.8,
-      "label": "Woodland Police"
     },
     {
       "name": "KAPD",
@@ -467,12 +467,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 16.2,
-    "currentLongestDaysHeld": 491.1
+    "currentMedianDaysHeld": 15.7,
+    "currentLongestDaysHeld": 491.2
   },
   "bond": {
     "withBond": 112,
-    "noBond": 77,
+    "noBond": 78,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4719950

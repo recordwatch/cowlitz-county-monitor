@@ -1,5 +1,19 @@
 [
   {
+    "id": "51136-20261015195349",
+    "inmateNumber": "51136",
+    "name": "WHITE, ANTHONY HARRISON",
+    "bookedAt": "2026-10-15T19:53:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T20:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358628-20261015192602",
     "inmateNumber": "358628",
     "name": "TANNERT, NATHAN DANIEL",
