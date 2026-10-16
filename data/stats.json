@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:55:17",
+  "generatedAt": "2026-10-16T00:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 255,
@@ -9,11 +9,6 @@
     "uniquePeople": 254
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-16",
-      "booked": 4,
-      "released": 0
-    },
     {
       "date": "2026-09-17",
       "booked": 0,
@@ -158,13 +153,18 @@
       "date": "2026-10-15",
       "booked": 25,
       "released": 7
+    },
+    {
+      "date": "2026-10-16",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 90,
-      "pct": 12.8
+      "count": 92,
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 37,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 290,
-      "pct": 41.2
+      "pct": 41.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 176,
-      "pct": 25
+      "count": 177,
+      "pct": 25.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 70,
-      "pct": 9.9
+      "count": 71,
+      "pct": 10.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -462,15 +462,15 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 15.3,
+    "currentMedianDaysHeld": 15.4,
     "currentLongestDaysHeld": 491.3
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 81,
+    "withBond": 112,
+    "noBond": 80,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4717950
+    "totalBond": 4728950
   },
   "chargesPerBooking": 2.8
 }
