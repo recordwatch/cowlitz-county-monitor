@@ -277,7 +277,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0339685",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -303,7 +303,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0400381",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -676,7 +676,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "CR141817467",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
