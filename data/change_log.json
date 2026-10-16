@@ -72,7 +72,7 @@
         "bondAmount": null
       },
       {
-        "description": "CRIM CONSPIR C FELON",
+        "description": "CONSPIRE/ATTEMPT TO VUCSA",
         "offenseDate": "2026-10-16T01:51:17",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
@@ -194,18 +194,7 @@
         "bondAmount": null
       },
       {
-        "description": "DELIVER SUBSTANCE IN LIEU",
-        "offenseDate": "2026-10-16T00:09:18",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
-        "description": "DELIVER SUBSTANCE IN LIEU",
+        "description": "POSS W/INTENT",
         "offenseDate": "2026-10-16T00:09:18",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
