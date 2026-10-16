@@ -251,7 +251,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0302444",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -329,7 +329,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00011197",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -675,7 +675,7 @@
         "offenseDate": "2026-10-15T16:18:10",
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
-        "warrantNumber": "CR14217454",
+        "warrantNumber": "CR141817467",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -9646,8 +9646,8 @@
     "bondTotal": 76000,
     "charges": [
       {
-        "description": "THEFT OF FIREARM",
-        "offenseDate": "2026-07-18T12:08:52",
+        "description": "ASSAULT-2 WITH DEADLY WEAPON",
+        "offenseDate": "2026-07-16T21:19:46",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610045308",
@@ -9659,17 +9659,6 @@
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-07-16T21:23:07",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610045308",
-        "disposition": null,
-        "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "ASSAULT-2 WITH DEADLY WEAPON",
-        "offenseDate": "2026-07-16T21:19:46",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610045308",
@@ -9714,6 +9703,17 @@
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-07-16T21:24:49",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610045308",
+        "disposition": null,
+        "billingAgency": "SUPR",
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT OF FIREARM",
+        "offenseDate": "2026-07-18T12:08:52",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610045308",
@@ -10276,9 +10276,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T05:55:17",
     "baseline": true
   },
   {
