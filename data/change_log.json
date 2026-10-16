@@ -1,5 +1,19 @@
 [
   {
+    "id": "103359-20261016102624",
+    "inmateNumber": "103359",
+    "name": "WALTON, RICKY DAVID JEFREY",
+    "bookedAt": "2026-10-16T10:26:24",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T11:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "144946-20261016001415",
     "inmateNumber": "144946",
     "name": "WEIL, ROBERT LAURENCE WILLIAM",
@@ -11010,7 +11024,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 25000
+        "bondAmount": null
       },
       {
         "description": "RECKLESS ENDANGERMENT",
