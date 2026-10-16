@@ -30,7 +30,7 @@
     "inmateNumber": "109008",
     "name": "WELTER, BRENDEN ARNOLD JAMES",
     "bookedAt": "2026-10-16T00:02:55",
-    "location": "1-PENDING BOOKING",
+    "location": "A16",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -56,7 +56,7 @@
     "inmateNumber": "48393",
     "name": "STRODE, RONNIE DEAN JR",
     "bookedAt": "2026-10-15T22:44:59",
-    "location": "INTAKE H1",
+    "location": "A16",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
@@ -68,7 +68,7 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
