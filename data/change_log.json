@@ -392,7 +392,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0310493",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -602,10 +602,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342808",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -613,10 +613,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342809",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -846,7 +846,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00032835",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -890,7 +890,7 @@
     "bookedAt": "2026-10-15T11:24:25",
     "location": "A14",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -912,7 +912,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       }
     ],
     "status": "in_custody",
@@ -953,7 +953,7 @@
     "bookedAt": "2026-10-15T10:25:44",
     "location": "A15",
     "arrestingAgency": "CCSO",
-    "bondTotal": 8500,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -964,7 +964,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 8000
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -4024,10 +4024,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3a0363252",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -4035,10 +4035,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3a0382368",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -4046,10 +4046,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0323618",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
