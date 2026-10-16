@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:55:18",
+  "generatedAt": "2026-10-15T23:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 254,
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 16
+      "pct": 15.7
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 14.4
+      "count": 28,
+      "pct": 14.7
     },
     {
       "name": "C",
-      "count": 22,
-      "pct": 11.7
+      "count": 21,
+      "pct": 11
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
       "count": 31,
-      "pct": 16.5
+      "pct": 16.2
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 43,
-      "pct": 22.9
+      "pct": 22.5
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.2
+      "count": 9,
+      "pct": 4.7
     },
     {
       "name": "WSH",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     }
   ],
   "stay": {
