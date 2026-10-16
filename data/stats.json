@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:55:17",
+  "generatedAt": "2026-10-15T19:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 246,
@@ -163,18 +163,18 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 84,
-      "pct": 12.2
+      "count": 87,
+      "pct": 12.5
     },
     {
       "name": "DWLS 3RD",
-      "count": 54,
-      "pct": 7.9
+      "count": 56,
+      "pct": 8.1
     },
     {
       "name": "DOC HOLD",
       "count": 52,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -198,18 +198,18 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 18,
-      "pct": 2.6
+      "count": 19,
+      "pct": 2.7
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 16,
+      "pct": 2.3
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 16,
       "pct": 2.3
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 15,
-      "pct": 2.2
     },
     {
       "name": "ASSAULT 3RD",
@@ -229,12 +229,12 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 10,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 10,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -322,22 +322,22 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 290,
-      "pct": 42.2
+      "pct": 41.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 173,
+      "count": 175,
       "pct": 25.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 66,
-      "pct": 9.6
+      "count": 67,
+      "pct": 9.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 51,
-      "pct": 7.4
+      "count": 54,
+      "pct": 7.8
     },
     {
       "name": "DOC COURT",
@@ -346,8 +346,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 25,
-      "pct": 3.6
+      "count": 26,
+      "pct": 3.7
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -357,7 +357,7 @@
     {
       "name": "DRUG COURT",
       "count": 10,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "DOC CONTRACT COURT",
@@ -471,11 +471,11 @@
     "currentLongestDaysHeld": 491.1
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 75,
+    "withBond": 112,
+    "noBond": 73,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4702950
+    "totalBond": 4708950
   },
   "chargesPerBooking": 2.8
 }
