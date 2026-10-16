@@ -1,5 +1,42 @@
 [
   {
+    "id": "168125-20261016150129",
+    "inmateNumber": "168125",
+    "name": "NETTLES, JASON CODY",
+    "bookedAt": "2026-10-16T15:01:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CHILD MOLEST 2ND",
+        "offenseDate": "2026-10-16T15:02:52",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510034808",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CHILD MOLEST 3RD",
+        "offenseDate": "2026-10-16T15:02:52",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510034808",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T15:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "28887-20261016140352",
     "inmateNumber": "28887",
     "name": "RESER, DAVID EDWARD LEROY",
@@ -260,9 +297,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T00:35:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T15:35:18",
     "baseline": false
   },
   {
@@ -382,9 +419,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T22:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T15:35:18",
     "baseline": false
   },
   {
@@ -1214,9 +1251,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T07:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T15:35:18",
     "baseline": false
   },
   {
@@ -3540,7 +3577,7 @@
     "inmateNumber": "279949",
     "name": "JAMES, BRYCE CHRISTIAN",
     "bookedAt": "2026-10-10T10:21:08",
-    "location": "G-G03",
+    "location": "G-G21",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -5670,7 +5707,7 @@
     "inmateNumber": "174313",
     "name": "COLLINS, AUSTIN TAYLOR",
     "bookedAt": "2026-10-02T10:12:27",
-    "location": "G-G21",
+    "location": "A10",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
