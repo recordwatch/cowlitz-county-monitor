@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:15:20",
+  "generatedAt": "2026-10-15T21:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 251,
@@ -394,12 +394,12 @@
     {
       "name": "C",
       "count": 22,
-      "pct": 11.7
+      "pct": 11.8
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 6.9
+      "pct": 7
     },
     {
       "name": "E",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 43,
-      "pct": 22.9
+      "pct": 23
     },
     {
       "name": "H",
@@ -425,11 +425,6 @@
       "name": "INTAKE",
       "count": 6,
       "pct": 3.2
-    },
-    {
-      "name": "TRANSPORT",
-      "count": 1,
-      "pct": 0.5
     },
     {
       "name": "WSH",
