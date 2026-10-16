@@ -1,5 +1,19 @@
 [
   {
+    "id": "106833-20261015165509",
+    "inmateNumber": "106833",
+    "name": "TUTTLE, ROBERT JON",
+    "bookedAt": "2026-10-15T16:55:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T17:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4398-20261015162628",
     "inmateNumber": "4398",
     "name": "LAFEVER, DANNY JAMES",
@@ -144,7 +158,7 @@
     "inmateNumber": "53077",
     "name": "MEINDL, TINA MARIE",
     "bookedAt": "2026-10-15T13:45:03",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "CRPD",
     "bondTotal": 2000,
     "charges": [

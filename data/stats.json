@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-15T17:15:19",
+  "generatedAt": "2026-10-15T17:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 242,
-    "bookingsObserved": 76,
+    "bookingsTracked": 243,
+    "bookingsObserved": 77,
     "releasesObserved": 61,
-    "inCustody": 181,
-    "uniquePeople": 241
+    "inCustody": 182,
+    "uniquePeople": 242
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 12,
+      "booked": 13,
       "released": 5
     }
   ],
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 94,
-      "pct": 39.2,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 58,
-      "pct": 24.2,
+      "count": 59,
+      "pct": 24.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 27,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 23,
-      "pct": 9.6,
+      "pct": 9.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 9,
-      "pct": 3.8,
+      "pct": 3.7,
       "label": "Washington State Patrol"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "B",
       "count": 23,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 13,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "E",
-      "count": 26,
-      "pct": 14.8
+      "count": 27,
+      "pct": 15.3
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 43,
-      "pct": 24.4
+      "pct": 24.3
     },
     {
       "name": "H",
@@ -462,12 +462,12 @@
         "count": 0
       }
     ],
-    "currentMedianDaysHeld": 17.8,
+    "currentMedianDaysHeld": 17.7,
     "currentLongestDaysHeld": 491
   },
   "bond": {
     "withBond": 109,
-    "noBond": 72,
+    "noBond": 73,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4701450
