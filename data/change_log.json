@@ -1,5 +1,19 @@
 [
   {
+    "id": "355671-20261015192056",
+    "inmateNumber": "355671",
+    "name": "RUSSELL, JULIA DIANA",
+    "bookedAt": "2026-10-15T19:20:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T19:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "106172-20261015175627",
     "inmateNumber": "106172",
     "name": "BOSS, TANNER ELIJAH DEAN",
@@ -129,7 +143,7 @@
     "inmateNumber": "76656",
     "name": "POND HILL, STEPHANIE LYNN",
     "bookedAt": "2026-10-15T17:38:30",
-    "location": "INTAKE H1",
+    "location": "E22",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -351,7 +365,7 @@
     "inmateNumber": "9468",
     "name": "WRIGHT, ABBIE JUNE",
     "bookedAt": "2026-10-15T15:46:32",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H7",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [
