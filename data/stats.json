@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T09:15:20",
+  "generatedAt": "2026-10-16T09:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 257,
     "bookingsObserved": 91,
-    "releasesObserved": 67,
-    "inCustody": 190,
+    "releasesObserved": 69,
+    "inCustody": 188,
     "uniquePeople": 256
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-16",
       "booked": 2,
-      "released": 4
+      "released": 6
     }
   ],
   "topCharges": [
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 53,
-      "pct": 7.4
+      "count": 54,
+      "pct": 7.5
     },
     {
       "name": "DUI",
@@ -184,7 +184,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 34,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 180,
-      "pct": 25.2
+      "pct": 25.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,12 +337,12 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 59,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "DOC COURT",
-      "count": 40,
-      "pct": 5.6
+      "count": 41,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -383,28 +383,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 30,
-      "pct": 15.8
+      "count": 29,
+      "pct": 15.4
     },
     {
       "name": "B",
       "count": 29,
-      "pct": 15.3
+      "pct": 15.4
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 11.6
+      "pct": 11.7
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 6.8
+      "pct": 6.9
     },
     {
       "name": "E",
       "count": 33,
-      "pct": 17.4
+      "pct": 17.6
     },
     {
       "name": "F",
@@ -413,8 +413,8 @@
     },
     {
       "name": "G",
-      "count": 41,
-      "pct": 21.6
+      "count": 40,
+      "pct": 21.3
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     {
       "name": "WSH",
       "count": 5,
-      "pct": 2.6
+      "pct": 2.7
     }
   ],
   "stay": {
-    "releasedCount": 67,
-    "medianDays": 1.9,
-    "meanDays": 6.8,
+    "releasedCount": 69,
+    "medianDays": 2.2,
+    "meanDays": 10.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 5
+        "count": 6
       },
       {
         "label": "1–4 weeks",
@@ -459,7 +459,7 @@
       },
       {
         "label": "3+ months",
-        "count": 1
+        "count": 2
       }
     ],
     "currentMedianDaysHeld": 15.7,
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 116,
-    "noBond": 74,
+    "noBond": 72,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4736950
