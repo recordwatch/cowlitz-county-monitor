@@ -1,5 +1,33 @@
 [
   {
+    "id": "22727-20261016135746",
+    "inmateNumber": "22727",
+    "name": "FRANKLIN, CORYDUN STEPHEN",
+    "bookedAt": "2026-10-16T13:57:46",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T14:35:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "150412-20261016135033",
+    "inmateNumber": "150412",
+    "name": "TOLER, GLEN EUGENE",
+    "bookedAt": "2026-10-16T13:50:33",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T14:35:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14232-20261016123138",
     "inmateNumber": "14232",
     "name": "KYLLO, KENNETH LEE",
@@ -172,7 +200,7 @@
     "bookedAt": "2026-10-15T22:44:59",
     "location": "A16",
     "arrestingAgency": "LVPD",
-    "bondTotal": 105000,
+    "bondTotal": 100000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -213,10 +241,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0669556",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -987,7 +1015,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0093211",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -998,7 +1026,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342807",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -1050,7 +1078,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0578518",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1061,7 +1089,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279034",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1072,7 +1100,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0326951",
         "disposition": "Dismissed",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -1097,10 +1125,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0386041",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "UNLAWFUL CAMPING",
@@ -1108,10 +1136,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0407354",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Dismissed",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6319,10 +6347,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0418187",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -6330,9 +6358,9 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0418187",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
-        "bondType": null,
+        "bondType": "Secured",
         "bondAmount": null
       }
     ],
