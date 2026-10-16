@@ -32,8 +32,20 @@
     "bookedAt": "2026-10-16T00:02:55",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-16T00:42:16",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0405445",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T00:35:15",
     "releasedAt": null,
@@ -46,8 +58,42 @@
     "bookedAt": "2026-10-15T22:44:59",
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-16T00:45:06",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-16T00:40:42",
+        "arrestingAgency": "LVPD",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "1810140208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-16T00:41:22",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0669556",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T23:35:16",
     "releasedAt": null,
@@ -121,7 +167,7 @@
     "inmateNumber": "43058",
     "name": "HAPGOOD, JOHNATHAN CARL",
     "bookedAt": "2026-10-15T21:56:16",
-    "location": "INTAKE H1",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [

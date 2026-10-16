@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:55:24",
+  "generatedAt": "2026-10-16T01:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 257,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 93,
-      "pct": 13.1
+      "count": 95,
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 52,
-      "pct": 7.3
+      "count": 53,
+      "pct": 7.4
     },
     {
       "name": "DUI",
@@ -204,12 +204,12 @@
     {
       "name": "RESISTING ARREST",
       "count": 16,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 16,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "ASSAULT 3RD",
@@ -321,18 +321,18 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 293,
-      "pct": 41.2
+      "count": 294,
+      "pct": 41.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 179,
+      "count": 180,
       "pct": 25.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 71,
-      "pct": 10
+      "count": 72,
+      "pct": 10.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -361,8 +361,8 @@
     },
     {
       "name": "DOC CONTRACT COURT",
-      "count": 7,
-      "pct": 1
+      "count": 8,
+      "pct": 1.1
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -393,8 +393,8 @@
     },
     {
       "name": "C",
-      "count": 21,
-      "pct": 10.9
+      "count": 22,
+      "pct": 11.4
     },
     {
       "name": "D",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 9,
-      "pct": 4.7
+      "count": 8,
+      "pct": 4.1
     },
     {
       "name": "WSH",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 15.3,
-    "currentLongestDaysHeld": 491.3
+    "currentLongestDaysHeld": 491.4
   },
   "bond": {
-    "withBond": 113,
-    "noBond": 81,
+    "withBond": 115,
+    "noBond": 79,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4729950
+    "totalBond": 4735950
   },
   "chargesPerBooking": 2.8
 }
