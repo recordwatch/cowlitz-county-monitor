@@ -20,8 +20,42 @@
     "bookedAt": "2026-10-16T12:07:06",
     "location": "C23",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "URINATING/DEFECATING IN PUBLIC",
+        "offenseDate": "2026-10-16T13:17:19",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0027523",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "INDECENT EXPOSURE",
+        "offenseDate": "2026-10-16T13:24:01",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0027523",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "INDECENT EXPOSURE",
+        "offenseDate": "2026-10-16T13:26:13",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0113825",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T12:55:16",
     "releasedAt": null,
@@ -96,8 +130,8 @@
         "warrantNumber": "6A0413243",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -242,10 +276,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0412977",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -260,7 +294,7 @@
     "bookedAt": "2026-10-15T21:56:16",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "CONSPIRE/ATTEMPT TO VUCSA",
@@ -270,8 +304,8 @@
         "warrantNumber": "2610067908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 25000
       },
       {
         "description": "POSS W/INTENT",
@@ -589,7 +623,7 @@
     "bookedAt": "2026-10-15T17:03:46",
     "location": "A10",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "ASSAULT 2ND",
@@ -599,8 +633,8 @@
         "warrantNumber": "2610068008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 25000
       },
       {
         "description": "CARRYING WEAPON W/O PERMIT",
@@ -722,7 +756,7 @@
     "bookedAt": "2026-10-15T15:58:51",
     "location": "E13",
     "arrestingAgency": "CRPD",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "FIREARM POSSESSION UNLAWFUL-2",
@@ -732,8 +766,8 @@
         "warrantNumber": "2610067808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -848,7 +882,7 @@
     "bookedAt": "2026-10-15T13:45:03",
     "location": "E21",
     "arrestingAgency": "CRPD",
-    "bondTotal": 2000,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "FUGITIVE FRM JUSTICE",
@@ -858,8 +892,8 @@
         "warrantNumber": "2610068208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 15000
       },
       {
         "description": "DWLS 3RD",
@@ -1007,7 +1041,7 @@
     "bookedAt": "2026-10-15T10:25:44",
     "location": "A15",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -1022,14 +1056,25 @@
       },
       {
         "description": "DWLS 3RD",
+        "offenseDate": "2026-10-16T13:19:03",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0279034",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
         "offenseDate": "2026-10-15T10:33:19",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0326951",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -4403,7 +4448,7 @@
     "bookedAt": "2026-10-07T01:38:40",
     "location": "D12",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -4446,8 +4491,8 @@
         "warrantNumber": "6A0401394",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "NVOL - WITHOUT ID",
@@ -4457,8 +4502,8 @@
         "warrantNumber": "6A0401395",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
       },
       {
         "description": "NVOL - WITHOUT ID",
