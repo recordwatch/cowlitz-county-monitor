@@ -72,6 +72,17 @@
         "bondAmount": null
       },
       {
+        "description": "CRIM CONSPIR C FELON",
+        "offenseDate": "2026-10-16T01:51:17",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-16T00:40:42",
         "arrestingAgency": "LVPD",
