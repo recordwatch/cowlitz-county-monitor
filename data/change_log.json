@@ -1,5 +1,19 @@
 [
   {
+    "id": "338026-20261016120706",
+    "inmateNumber": "338026",
+    "name": "MOREHEAD, BRANDON MICHAEL",
+    "bookedAt": "2026-10-16T12:07:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T12:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "208290-20261016115506",
     "inmateNumber": "208290",
     "name": "ANGUIANO FRANCO, ANGEL DAVID",
