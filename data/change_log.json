@@ -1,5 +1,19 @@
 [
   {
+    "id": "202210-20261015220334",
+    "inmateNumber": "202210",
+    "name": "GROMOLL, MARYSSA MARIE",
+    "bookedAt": "2026-10-15T22:03:34",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T22:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "126371-20261015220220",
     "inmateNumber": "126371",
     "name": "SPENCER, JULIE LAINE",
