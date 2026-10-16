@@ -2147,7 +2147,7 @@
     "inmateNumber": "349547",
     "name": "JUDGE, KEVIN MATTHEW",
     "bookedAt": "2026-10-12T18:43:42",
-    "location": "G-G01",
+    "location": "G-G43",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -2606,8 +2606,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -2617,8 +2617,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3279,9 +3279,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T18:11:30",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T09:55:21",
     "baseline": false
   },
   {
@@ -5297,7 +5297,7 @@
     "inmateNumber": "36109",
     "name": "MCJUNKIN, CLAYTON PATRICK",
     "bookedAt": "2026-10-03T09:40:33",
-    "location": "G-G10",
+    "location": "G-G47",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -5435,9 +5435,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T09:55:21",
     "baseline": true
   },
   {
@@ -5445,7 +5445,7 @@
     "inmateNumber": "174313",
     "name": "COLLINS, AUSTIN TAYLOR",
     "bookedAt": "2026-10-02T10:12:27",
-    "location": "G-G30",
+    "location": "G-G21",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -5534,7 +5534,7 @@
     "inmateNumber": "220277",
     "name": "KEITH, NICHOLAS ALEXANDER",
     "bookedAt": "2026-10-01T07:35:19",
-    "location": "G-G40",
+    "location": "G-G41",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6089,9 +6089,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T09:55:21",
     "baseline": true
   },
   {
@@ -6937,7 +6937,7 @@
     "inmateNumber": "153197",
     "name": "BARRETT, RYAN ANTHONY",
     "bookedAt": "2026-09-21T14:44:16",
-    "location": "G-G41",
+    "location": "G-G44",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -8721,8 +8721,8 @@
         "warrantNumber": "2610053408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -8736,19 +8736,19 @@
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-08-17T10:17:23",
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-08-17T10:13:27",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
-        "description": "BURGLARY 1ST",
-        "offenseDate": "2026-08-17T10:13:27",
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-08-17T10:17:23",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
@@ -10383,9 +10383,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T09:55:21",
     "baseline": true
   },
   {
@@ -11208,9 +11208,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T09:55:21",
     "baseline": true
   },
   {
@@ -11614,8 +11614,8 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ROBBERY 1ST DEGREE",
-        "offenseDate": "2025-06-11T19:55:13",
+        "description": "MURDER 1ST",
+        "offenseDate": "2025-06-11T16:57:13",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410058108",
@@ -11658,8 +11658,8 @@
         "bondAmount": null
       },
       {
-        "description": "MURDER 1ST",
-        "offenseDate": "2025-06-11T16:57:13",
+        "description": "ROBBERY 1ST DEGREE",
+        "offenseDate": "2025-06-11T16:58:13",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410058108",
@@ -11670,7 +11670,7 @@
       },
       {
         "description": "ROBBERY 1ST DEGREE",
-        "offenseDate": "2025-06-11T16:58:13",
+        "offenseDate": "2025-06-11T19:55:13",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410058108",
