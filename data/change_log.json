@@ -80,10 +80,33 @@
     "inmateNumber": "106833",
     "name": "TUTTLE, ROBERT JON",
     "bookedAt": "2026-10-15T16:55:09",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "CARRY CONCEAL WEAPON",
+        "offenseDate": "2026-10-15T18:09:48",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0342808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-15T18:08:27",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0342809",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T17:35:18",
     "releasedAt": null,
