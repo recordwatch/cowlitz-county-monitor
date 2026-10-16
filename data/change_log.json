@@ -1,5 +1,19 @@
 [
   {
+    "id": "106172-20261015175627",
+    "inmateNumber": "106172",
+    "name": "BOSS, TANNER ELIJAH DEAN",
+    "bookedAt": "2026-10-15T17:56:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T18:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "76656-20261015173830",
     "inmateNumber": "76656",
     "name": "POND HILL, STEPHANIE LYNN",
@@ -21,7 +35,41 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 2ND",
+        "offenseDate": "2026-10-15T17:58:48",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CARRYING WEAPON W/O PERMIT",
+        "offenseDate": "2026-10-15T18:00:10",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "offenseDate": "2026-10-15T17:59:27",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T17:55:16",
     "releasedAt": null,
