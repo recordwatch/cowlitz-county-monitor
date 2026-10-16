@@ -48,11 +48,11 @@
         "description": "INDECENT EXPOSURE",
         "offenseDate": "2026-10-16T13:26:13",
         "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0113825",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -120,7 +120,7 @@
     "bookedAt": "2026-10-16T00:14:15",
     "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -154,10 +154,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405445",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -172,7 +172,7 @@
     "bookedAt": "2026-10-15T22:44:59",
     "location": "A16",
     "arrestingAgency": "LVPD",
-    "bondTotal": 5000,
+    "bondTotal": 105000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -193,8 +193,8 @@
         "warrantNumber": "2610068308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 100000
       },
       {
         "description": "CONSPIRE/ATTEMPT TO VUCSA",
@@ -719,7 +719,7 @@
     "bookedAt": "2026-10-15T16:26:28",
     "location": "A10",
     "arrestingAgency": "KAPD",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "ASSAULT 2 DV",
@@ -729,8 +729,8 @@
         "warrantNumber": "2610068108",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 50000
       },
       {
         "description": "HARASSMENT DV",
@@ -2097,10 +2097,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355454",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "UNLAWFUL CAMPING",
@@ -2108,10 +2108,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0407351",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "UNLAWFUL CAMPING",
@@ -2119,10 +2119,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0411726",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "UNLAWFUL CAMPING",
@@ -2130,10 +2130,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412661",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3293,25 +3293,25 @@
     "bondTotal": 2000,
     "charges": [
       {
-        "description": "THEFT 3RD DEG",
-        "offenseDate": "2026-10-10T20:06:54",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0417667",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 2000
-      },
-      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-10T20:07:44",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0417667",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
-        "bondType": null,
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-10T20:06:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0417667",
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
+        "bondType": "Secured",
         "bondAmount": null
       }
     ],
