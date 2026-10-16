@@ -1,11 +1,37 @@
 [
   {
+    "id": "144946-20261016001415",
+    "inmateNumber": "144946",
+    "name": "WEIL, ROBERT LAURENCE WILLIAM",
+    "bookedAt": "2026-10-16T00:14:15",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-16T00:23:07",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0413243",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T00:55:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "109008-20261016000255",
     "inmateNumber": "109008",
     "name": "WELTER, BRENDEN ARNOLD JAMES",
     "bookedAt": "2026-10-16T00:02:55",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -69,7 +95,7 @@
     "inmateNumber": "126371",
     "name": "SPENCER, JULIE LAINE",
     "bookedAt": "2026-10-15T22:02:20",
-    "location": "INTAKE H5",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -98,7 +124,41 @@
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONSPIRE/ATTEMPT TO VUCSA",
+        "offenseDate": "2026-10-16T00:08:14",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DELIVER SUBSTANCE IN LIEU",
+        "offenseDate": "2026-10-16T00:09:18",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DELIVER SUBSTANCE IN LIEU",
+        "offenseDate": "2026-10-16T00:09:18",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T22:35:16",
     "releasedAt": null,

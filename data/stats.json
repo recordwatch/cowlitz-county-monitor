@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T00:35:15",
+  "generatedAt": "2026-10-16T00:55:24",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 256,
-    "bookingsObserved": 90,
+    "bookingsTracked": 257,
+    "bookingsObserved": 91,
     "releasesObserved": 63,
-    "inCustody": 193,
-    "uniquePeople": 255
+    "inCustody": 194,
+    "uniquePeople": 256
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 93,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
       "count": 57,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DOC HOLD",
       "count": 52,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 33,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -218,13 +218,13 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 12,
-      "pct": 1.7
+      "count": 13,
+      "pct": 1.8
     },
     {
       "name": "UNLAWFUL CAMPING",
       "count": 11,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 98,
-      "pct": 38.7,
+      "count": 99,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 59,
-      "pct": 23.3,
+      "pct": 23.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 29,
-      "pct": 11.5,
+      "count": 30,
+      "pct": 11.8,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 27,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,19 +296,19 @@
     {
       "name": "WSP",
       "count": 10,
-      "pct": 4,
+      "pct": 3.9,
       "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
       "count": 8,
-      "pct": 3.2,
+      "pct": 3.1,
       "label": "Woodland Police"
     },
     {
       "name": "CRPD",
       "count": 7,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Castle Rock Police"
     },
     {
@@ -321,12 +321,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 290,
-      "pct": 41
+      "count": 293,
+      "pct": 41.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 178,
+      "count": 179,
       "pct": 25.2
     },
     {
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 40,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 13,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
-      "count": 32,
-      "pct": 16.7
+      "count": 33,
+      "pct": 17.1
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 43,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "name": "H",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 113,
-    "noBond": 80,
+    "noBond": 81,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4729950
