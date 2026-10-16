@@ -4,10 +4,22 @@
     "inmateNumber": "51136",
     "name": "WHITE, ANTHONY HARRISON",
     "bookedAt": "2026-10-15T19:53:49",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "WDPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T20:21:53",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0129680",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T20:35:15",
     "releasedAt": null,
@@ -21,7 +33,19 @@
     "location": "B22",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T20:05:40",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0302444",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T20:06:17",
     "releasedAt": null,
@@ -58,7 +82,7 @@
     "inmateNumber": "46258",
     "name": "COX, DARRELL WAYNE",
     "bookedAt": "2026-10-15T19:23:45",
-    "location": "1-PENDING BOOKING",
+    "location": "B24",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -84,7 +108,7 @@
     "inmateNumber": "355671",
     "name": "RUSSELL, JULIA DIANA",
     "bookedAt": "2026-10-15T19:20:56",
-    "location": "1-PENDING BOOKING",
+    "location": "E23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
