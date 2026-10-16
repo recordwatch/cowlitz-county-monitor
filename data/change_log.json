@@ -1,5 +1,71 @@
 [
   {
+    "id": "358628-20261015192602",
+    "inmateNumber": "358628",
+    "name": "TANNERT, NATHAN DANIEL",
+    "bookedAt": "2026-10-15T19:26:02",
+    "location": "B22",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T20:06:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "308720-20261015192356",
+    "inmateNumber": "308720",
+    "name": "WEST, TYLER JAMES",
+    "bookedAt": "2026-10-15T19:23:56",
+    "location": "B21",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T19:41:01",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339685",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T20:06:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "46258-20261015192345",
+    "inmateNumber": "46258",
+    "name": "COX, DARRELL WAYNE",
+    "bookedAt": "2026-10-15T19:23:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T19:30:34",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0183606",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T20:06:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "355671-20261015192056",
     "inmateNumber": "355671",
     "name": "RUSSELL, JULIA DIANA",
@@ -7,7 +73,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-15T19:30:20",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00011197",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T19:55:15",
     "releasedAt": null,
@@ -18,7 +96,7 @@
     "inmateNumber": "106172",
     "name": "BOSS, TANNER ELIJAH DEAN",
     "bookedAt": "2026-10-15T17:56:27",
-    "location": "1-PENDING BOOKING",
+    "location": "C12",
     "arrestingAgency": "KEPD",
     "bondTotal": 15000,
     "charges": [
