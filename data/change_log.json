@@ -1,5 +1,19 @@
 [
   {
+    "id": "109008-20261016000255",
+    "inmateNumber": "109008",
+    "name": "WELTER, BRENDEN ARNOLD JAMES",
+    "bookedAt": "2026-10-16T00:02:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T00:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "48393-20261015224459",
     "inmateNumber": "48393",
     "name": "STRODE, RONNIE DEAN JR",
@@ -18,7 +32,7 @@
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
     "bookedAt": "2026-10-15T22:03:34",
-    "location": "INTAKE H5",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 11000,
     "charges": [
@@ -57,8 +71,20 @@
     "bookedAt": "2026-10-15T22:02:20",
     "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T23:56:33",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0412977",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-15T22:35:16",
     "releasedAt": null,
