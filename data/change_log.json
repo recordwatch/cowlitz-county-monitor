@@ -1,5 +1,19 @@
 [
   {
+    "id": "208290-20261016115506",
+    "inmateNumber": "208290",
+    "name": "ANGUIANO FRANCO, ANGEL DAVID",
+    "bookedAt": "2026-10-16T11:55:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T12:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "103359-20261016102624",
     "inmateNumber": "103359",
     "name": "WALTON, RICKY DAVID JEFREY",
