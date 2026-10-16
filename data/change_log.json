@@ -1,5 +1,19 @@
 [
   {
+    "id": "4398-20261015162628",
+    "inmateNumber": "4398",
+    "name": "LAFEVER, DANNY JAMES",
+    "bookedAt": "2026-10-15T16:26:28",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KAPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T17:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14768-20261015155851",
     "inmateNumber": "14768",
     "name": "FRAIDENBURG, ANNETTE MARIE",
