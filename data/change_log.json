@@ -18,7 +18,7 @@
     "inmateNumber": "338026",
     "name": "MOREHEAD, BRANDON MICHAEL",
     "bookedAt": "2026-10-16T12:07:06",
-    "location": "1-PENDING BOOKING",
+    "location": "C23",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [],
@@ -811,7 +811,7 @@
     "bookedAt": "2026-10-15T14:53:52",
     "location": "E12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE > $750",
@@ -821,8 +821,8 @@
         "warrantNumber": "2610067708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "MONEY LAUNDERING",
@@ -4798,7 +4798,7 @@
     "bookedAt": "2026-10-06T10:19:48",
     "location": "D20",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
@@ -4819,8 +4819,8 @@
         "warrantNumber": "6A0378886",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
