@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:35:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T21:15:20",
     "baseline": false
   },
   {
@@ -91,7 +91,7 @@
         "offenseDate": "2026-10-15T19:30:34",
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "5A0183606",
+        "warrantNumber": "5A0400381",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -2384,8 +2384,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -2395,8 +2395,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -5150,9 +5150,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-15T21:15:20",
     "baseline": true
   },
   {
