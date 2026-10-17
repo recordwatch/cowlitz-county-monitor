@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T00:15:20",
+  "generatedAt": "2026-10-17T00:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 269,
-    "bookingsObserved": 103,
+    "bookingsTracked": 270,
+    "bookingsObserved": 104,
     "releasesObserved": 92,
-    "inCustody": 177,
-    "uniquePeople": 268
+    "inCustody": 178,
+    "uniquePeople": 269
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 14,
+      "booked": 15,
       "released": 29
     },
     {
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 98,
+      "count": 99,
       "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
-      "count": 58,
-      "pct": 7.9
+      "count": 59,
+      "pct": 8
     },
     {
       "name": "DOC HOLD",
@@ -179,12 +179,12 @@
     {
       "name": "DUI",
       "count": 38,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 36,
-      "pct": 4.9
+      "count": 37,
+      "pct": 5
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -222,17 +222,17 @@
       "pct": 1.9
     },
     {
+      "name": "CRIM TRESPASS 1ST",
+      "count": 11,
+      "pct": 1.5
+    },
+    {
       "name": "UNLAWFUL CAMPING",
       "count": 11,
       "pct": 1.5
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
-      "count": 10,
-      "pct": 1.4
-    },
-    {
-      "name": "CRIM TRESPASS 1ST",
       "count": 10,
       "pct": 1.4
     },
@@ -259,14 +259,14 @@
     {
       "name": "ASSAULT 2 DV",
       "count": 7,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
       "count": 104,
-      "pct": 39,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "KEPD",
-      "count": 32,
-      "pct": 12,
+      "count": 33,
+      "pct": 12.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 28,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -321,18 +321,18 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 297,
-      "pct": 40.5
+      "count": 298,
+      "pct": 40.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 188,
-      "pct": 25.6
+      "count": 191,
+      "pct": 25.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 72,
-      "pct": 9.8
+      "count": 73,
+      "pct": 9.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -342,12 +342,12 @@
     {
       "name": "DOC COURT",
       "count": 43,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 29,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -389,7 +389,7 @@
     {
       "name": "B",
       "count": 27,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "C",
@@ -399,7 +399,7 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 20.3
+      "pct": 20.2
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 5,
+      "pct": 2.8
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 492.3
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 62,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4789200
+    "totalBond": 4796200
   },
   "chargesPerBooking": 2.7
 }
