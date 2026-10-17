@@ -4,7 +4,7 @@
     "inmateNumber": "14612",
     "name": "MAYFIELD, JOHN DOUGLAS",
     "bookedAt": "2026-10-16T18:30:05",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -13,7 +13,7 @@
         "offenseDate": "2026-10-16T18:32:30",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0365205",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -56,7 +56,7 @@
     "inmateNumber": "296897",
     "name": "HUBBARD, NECOLE LYNN",
     "bookedAt": "2026-10-16T15:26:04",
-    "location": "INTAKE H8",
+    "location": "E22",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -145,7 +145,7 @@
     "inmateNumber": "22727",
     "name": "FRANKLIN, CORYDUN STEPHEN",
     "bookedAt": "2026-10-16T13:57:46",
-    "location": "INTAKE H1",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -182,7 +182,7 @@
     "inmateNumber": "150412",
     "name": "TOLER, GLEN EUGENE",
     "bookedAt": "2026-10-16T13:50:33",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
