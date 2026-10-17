@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T19:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T22:15:20",
     "baseline": false
   },
   {
@@ -172,9 +172,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T14:35:22",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T22:15:20",
     "baseline": false
   },
   {
@@ -4140,7 +4140,7 @@
     "inmateNumber": "169856",
     "name": "NEWMAN, DALTON AARON",
     "bookedAt": "2026-10-09T15:54:18",
-    "location": "B21",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -4440,7 +4440,7 @@
     "inmateNumber": "360749",
     "name": "SILVA, ELY RENEE",
     "bookedAt": "2026-10-07T18:48:38",
-    "location": "G-G19",
+    "location": "G-G02",
     "arrestingAgency": "CCSO",
     "bondTotal": 300000,
     "charges": [
@@ -6329,7 +6329,7 @@
     "inmateNumber": "25294",
     "name": "FISHER, DANIEL JAMES",
     "bookedAt": "2026-09-29T15:31:09",
-    "location": "G-G17",
+    "location": "G-G10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
