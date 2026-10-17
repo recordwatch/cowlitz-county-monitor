@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:55:18",
+  "generatedAt": "2026-10-16T17:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 266,
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 297,
-      "pct": 40.7
+      "pct": 40.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 187,
-      "pct": 25.6
+      "count": 188,
+      "pct": 25.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 72,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 42,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "B",
       "count": 29,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "C",
-      "count": 21,
-      "pct": 11.7
+      "count": 20,
+      "pct": 11
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "E",
       "count": 30,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.3
+      "count": 8,
+      "pct": 4.4
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 492
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 64,
-    "medianBond": 5000,
+    "withBond": 118,
+    "noBond": 63,
+    "medianBond": 4500,
     "maxBond": 500000,
-    "totalBond": 4794700
+    "totalBond": 4795700
   },
   "chargesPerBooking": 2.7
 }

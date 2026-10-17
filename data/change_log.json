@@ -67,10 +67,22 @@
     "inmateNumber": "28887",
     "name": "RESER, DAVID EDWARD LEROY",
     "bookedAt": "2026-10-16T14:03:52",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "offenseDate": "2026-10-16T16:31:42",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0395411",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-16T15:15:18",
     "releasedAt": null,
@@ -81,7 +93,7 @@
     "inmateNumber": "22727",
     "name": "FRANKLIN, CORYDUN STEPHEN",
     "bookedAt": "2026-10-16T13:57:46",
-    "location": "C12",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
