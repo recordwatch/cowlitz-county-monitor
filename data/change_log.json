@@ -1,5 +1,19 @@
 [
   {
+    "id": "628-20261017015856",
+    "inmateNumber": "628",
+    "name": "MITCHELL, SUSIE IRENE",
+    "bookedAt": "2026-10-17T01:58:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T02:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "41010-20261016235330",
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE ELA",
