@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-16T17:15:20",
+  "generatedAt": "2026-10-16T17:35:14",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 266,
-    "bookingsObserved": 100,
+    "bookingsTracked": 267,
+    "bookingsObserved": 101,
     "releasesObserved": 85,
-    "inCustody": 181,
-    "uniquePeople": 265
+    "inCustody": 182,
+    "uniquePeople": 266
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 11,
+      "booked": 12,
       "released": 22
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 55,
-      "pct": 7.5
+      "count": 56,
+      "pct": 7.7
     },
     {
       "name": "DUI",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 104,
-      "pct": 39.4,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 61,
-      "pct": 23.1,
+      "pct": 23,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 30,
-      "pct": 11.4,
+      "pct": 11.3,
       "label": "Kelso Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 14,
-      "pct": 5.3,
+      "count": 15,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 7,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "Castle Rock Police"
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 42,
-      "pct": 5.7
+      "count": 43,
+      "pct": 5.9
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -383,28 +383,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 30,
-      "pct": 16.6
+      "count": 29,
+      "pct": 16.1
     },
     {
       "name": "B",
       "count": 29,
-      "pct": 16
+      "pct": 16.1
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11
+      "pct": 11.1
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.6
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 30,
-      "pct": 16.6
+      "pct": 16.7
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 19.9
+      "pct": 20
     },
     {
       "name": "H",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 118,
-    "noBond": 63,
+    "noBond": 64,
     "medianBond": 4500,
     "maxBond": 500000,
     "totalBond": 4795700
