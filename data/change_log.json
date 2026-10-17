@@ -1,5 +1,31 @@
 [
   {
+    "id": "14612-20261016183005",
+    "inmateNumber": "14612",
+    "name": "MAYFIELD, JOHN DOUGLAS",
+    "bookedAt": "2026-10-16T18:30:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-16T18:32:30",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T19:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "185953-20261016164323",
     "inmateNumber": "185953",
     "name": "FINNELL, JUSTIN SCOTT",
@@ -598,9 +624,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:06:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T19:15:19",
     "baseline": false
   },
   {
@@ -2337,9 +2363,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T07:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T19:15:19",
     "baseline": false
   },
   {
@@ -2932,8 +2958,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -2943,8 +2969,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -5254,9 +5280,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T19:15:19",
     "baseline": true
   },
   {
@@ -5850,9 +5876,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-16T19:15:19",
     "baseline": true
   },
   {
