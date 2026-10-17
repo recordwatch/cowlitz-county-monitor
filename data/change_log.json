@@ -1,5 +1,31 @@
 [
   {
+    "id": "55564-20261016214509",
+    "inmateNumber": "55564",
+    "name": "MARTIN, ROGER RAY",
+    "bookedAt": "2026-10-16T21:45:09",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-16T21:49:32",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0425539",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T22:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14612-20261016183005",
     "inmateNumber": "14612",
     "name": "MAYFIELD, JOHN DOUGLAS",
