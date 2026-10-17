@@ -4449,7 +4449,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -4460,7 +4460,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
