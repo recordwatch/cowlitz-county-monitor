@@ -4,10 +4,33 @@
     "inmateNumber": "628",
     "name": "MITCHELL, SUSIE IRENE",
     "bookedAt": "2026-10-17T01:58:56",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 10000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-17T02:06:08",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0149875",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 10000
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-17T02:09:24",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0149875",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-17T02:35:18",
     "releasedAt": null,
