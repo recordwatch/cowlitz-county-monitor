@@ -345,7 +345,7 @@
     "inmateNumber": "144946",
     "name": "WEIL, ROBERT LAURENCE WILLIAM",
     "bookedAt": "2026-10-16T00:14:15",
-    "location": "INTAKE H3",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -4066,7 +4066,7 @@
     "inmateNumber": "130841",
     "name": "GILREATH, ANTHONY BRIAN",
     "bookedAt": "2026-10-09T22:10:48",
-    "location": "G-G33",
+    "location": "G-G40",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
