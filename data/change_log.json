@@ -6,8 +6,53 @@
     "bookedAt": "2026-10-17T18:57:59",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-17T19:19:44",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2010017808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-17T19:17:21",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610018708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-17T19:18:25",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610054408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-17T19:21:29",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0395413",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-17T19:35:18",
     "releasedAt": null,

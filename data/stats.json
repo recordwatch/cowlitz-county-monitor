@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:35:18",
+  "generatedAt": "2026-10-17T19:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 274,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 99,
-      "pct": 13.3
+      "count": 100,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 56,
-      "pct": 7.5
+      "count": 57,
+      "pct": 7.6
     },
     {
       "name": "DUI",
@@ -184,32 +184,32 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 37,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 33,
-      "pct": 4.4
+      "count": 35,
+      "pct": 4.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 28,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 19,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "RESISTING ARREST",
       "count": 16,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 16,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -321,12 +321,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 299,
+      "count": 301,
       "pct": 40.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 192,
+      "count": 193,
       "pct": 25.8
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 43,
-      "pct": 5.8
+      "count": 44,
+      "pct": 5.9
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 493.1
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 59,
+    "withBond": 118,
+    "noBond": 58,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4805200
+    "totalBond": 4806200
   },
   "chargesPerBooking": 2.7
 }
