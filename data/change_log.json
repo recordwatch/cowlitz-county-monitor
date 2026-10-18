@@ -215,7 +215,7 @@
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
     "bookedAt": "2026-10-17T21:14:24",
-    "location": "INTAKE H7",
+    "location": "D13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -2424,7 +2424,7 @@
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
     "bookedAt": "2026-10-14T02:38:53",
-    "location": "D13",
+    "location": "A15",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
