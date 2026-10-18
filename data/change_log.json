@@ -1,5 +1,31 @@
 [
   {
+    "id": "157598-20261018101322",
+    "inmateNumber": "157598",
+    "name": "SHULER, TREVOR LEE",
+    "bookedAt": "2026-10-18T10:13:22",
+    "location": "B21",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND > $750",
+        "offenseDate": "2026-10-18T10:20:47",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T10:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "222622-20261018020306",
     "inmateNumber": "222622",
     "name": "NOHR, KALEY JANE",
