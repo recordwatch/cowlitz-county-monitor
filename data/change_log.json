@@ -1,5 +1,19 @@
 [
   {
+    "id": "164305-20261017185759",
+    "inmateNumber": "164305",
+    "name": "LINDSEY, TRAVIS KENNETH",
+    "bookedAt": "2026-10-17T18:57:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T19:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "7197-20261017175016",
     "inmateNumber": "7197",
     "name": "THOMAS, JAYME LEONARD",
@@ -794,9 +808,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:06:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-17T19:35:18",
     "baseline": false
   },
   {
@@ -846,9 +860,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T20:06:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-17T19:35:18",
     "baseline": false
   },
   {
@@ -872,9 +886,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T19:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-17T19:35:18",
     "baseline": false
   },
   {
