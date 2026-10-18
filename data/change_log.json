@@ -1,5 +1,19 @@
 [
   {
+    "id": "118757-20261017193402",
+    "inmateNumber": "118757",
+    "name": "MORGAN, SASHA ANNE",
+    "bookedAt": "2026-10-17T19:34:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T20:15:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "164305-20261017185759",
     "inmateNumber": "164305",
     "name": "LINDSEY, TRAVIS KENNETH",
@@ -53,9 +67,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T19:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-17T20:15:16",
     "baseline": false
   },
   {
@@ -7301,7 +7315,7 @@
     "inmateNumber": "233167",
     "name": "OWEN, KRYSTAL MARIE",
     "bookedAt": "2026-09-22T00:57:39",
-    "location": "H-H01",
+    "location": "H-H10",
     "arrestingAgency": "LVPD",
     "bondTotal": 75000,
     "charges": [
