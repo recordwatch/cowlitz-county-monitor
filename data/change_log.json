@@ -1,5 +1,42 @@
 [
   {
+    "id": "197388-20261017173511",
+    "inmateNumber": "197388",
+    "name": "JONES, ARNOLD NATHANIL JR",
+    "bookedAt": "2026-10-17T17:35:11",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-17T17:36:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510017708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "offenseDate": "2026-10-17T17:42:26",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0416163",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T18:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "628-20261017015856",
     "inmateNumber": "628",
     "name": "MITCHELL, SUSIE IRENE",
