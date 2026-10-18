@@ -836,6 +836,28 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "ID THEFT",
+        "offenseDate": "2026-10-16T00:00:00",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-16T00:00:00",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -5915,7 +5937,7 @@
     "inmateNumber": "360658",
     "name": "BIRD, GUY ROBERT",
     "bookedAt": "2026-10-04T18:20:49",
-    "location": "G-G15",
+    "location": "G-G18",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -7113,7 +7135,7 @@
     "inmateNumber": "324186",
     "name": "COOK, SEAN THOMAS",
     "bookedAt": "2026-09-26T15:49:10",
-    "location": "G-G29",
+    "location": "G-G30",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [

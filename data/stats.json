@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:35:17",
+  "generatedAt": "2026-10-18T09:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 281,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 101,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "DWLS 3RD",
@@ -177,14 +177,14 @@
       "pct": 7.5
     },
     {
-      "name": "DUI",
+      "name": "THEFT 3RD DEG",
       "count": 41,
       "pct": 5.4
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 40,
-      "pct": 5.3
+      "name": "DUI",
+      "count": 41,
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -254,7 +254,7 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "ASSAULT 2 DV",
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 302,
-      "pct": 39.7
+      "count": 304,
+      "pct": 39.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 200,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -362,7 +362,7 @@
     {
       "name": "DOC CONTRACT COURT",
       "count": 8,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "MENTAL HEALTH COURT",
