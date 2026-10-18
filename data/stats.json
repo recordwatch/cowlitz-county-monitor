@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:35:17",
+  "generatedAt": "2026-10-18T02:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 281,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 100,
-      "pct": 13.2
+      "count": 101,
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 39,
-      "pct": 5.1
+      "count": 40,
+      "pct": 5.3
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -229,7 +229,7 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 11,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 302,
-      "pct": 39.8
+      "pct": 39.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 197,
-      "pct": 26
+      "count": 200,
+      "pct": 26.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 493.4
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 61,
+    "withBond": 121,
+    "noBond": 60,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4797200
+    "totalBond": 4797700
   },
   "chargesPerBooking": 2.7
 }
