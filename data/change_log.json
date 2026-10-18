@@ -1,5 +1,53 @@
 [
   {
+    "id": "24568-20261018004254",
+    "inmateNumber": "24568",
+    "name": "BREITENBACH, JOSHUA JO",
+    "bookedAt": "2026-10-18T00:42:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 8000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-18T00:48:32",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0154661",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-18T00:49:01",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0154661",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-18T00:47:47",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0233750",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T01:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14902-20261017215253",
     "inmateNumber": "14902",
     "name": "BALCH, RONALD JOSEF",
@@ -3342,7 +3390,7 @@
     "inmateNumber": "13547",
     "name": "WYMORE, JOSHUA DEAN",
     "bookedAt": "2026-10-11T22:45:48",
-    "location": "A25",
+    "location": "A22",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
@@ -6019,7 +6067,7 @@
     "inmateNumber": "55883",
     "name": "NIELSON, BROOKE PATRICE",
     "bookedAt": "2026-10-03T21:51:22",
-    "location": "H-H04",
+    "location": "H-H02",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -7453,7 +7501,7 @@
     "inmateNumber": "233167",
     "name": "OWEN, KRYSTAL MARIE",
     "bookedAt": "2026-09-22T00:57:39",
-    "location": "H-H10",
+    "location": "H-H14",
     "arrestingAgency": "LVPD",
     "bondTotal": 75000,
     "charges": [
@@ -8220,7 +8268,7 @@
     "inmateNumber": "255762",
     "name": "NEWMAN SANDERS, CAITLIN BELLE",
     "bookedAt": "2026-09-16T16:06:44",
-    "location": "H-H03",
+    "location": "H-H08",
     "arrestingAgency": "CCSO",
     "bondTotal": 12000,
     "charges": [
@@ -9549,7 +9597,7 @@
     "inmateNumber": "40878",
     "name": "HOOK, PATSY JO",
     "bookedAt": "2026-08-14T12:49:14",
-    "location": "H-H02",
+    "location": "H-H06",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -12187,7 +12235,7 @@
     "inmateNumber": "207948",
     "name": "RUDD, TAMARA LYNN",
     "bookedAt": "2025-12-26T14:24:43",
-    "location": "H-H06",
+    "location": "H-H10",
     "arrestingAgency": "LVPD",
     "bondTotal": 200000,
     "charges": [
