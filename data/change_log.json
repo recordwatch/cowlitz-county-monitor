@@ -1,5 +1,19 @@
 [
   {
+    "id": "329627-20261018121849",
+    "inmateNumber": "329627",
+    "name": "RENDAHL, GARRETT SELMORE",
+    "bookedAt": "2026-10-18T12:18:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T12:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "157598-20261018101322",
     "inmateNumber": "157598",
     "name": "SHULER, TREVOR LEE",
@@ -7268,7 +7282,7 @@
     "inmateNumber": "116490",
     "name": "TUTTLE, BRIANA MARIE",
     "bookedAt": "2026-09-26T09:35:10",
-    "location": "INTAKE H2",
+    "location": "E20",
     "arrestingAgency": "CRPD",
     "bondTotal": 10000,
     "charges": [

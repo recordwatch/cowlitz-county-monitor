@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T12:35:14",
+  "generatedAt": "2026-10-18T12:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 282,
-    "bookingsObserved": 116,
+    "bookingsTracked": 283,
+    "bookingsObserved": 117,
     "releasesObserved": 105,
-    "inCustody": 177,
-    "uniquePeople": 280
+    "inCustody": 178,
+    "uniquePeople": 281
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 3,
+      "booked": 4,
       "released": 7
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 111,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 65,
-      "pct": 23.2,
+      "count": 66,
+      "pct": 23.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 33,
-      "pct": 11.8,
+      "pct": 11.7,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 15,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "Dept. of Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 8,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Woodland Police"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 29,
-      "pct": 16.4
+      "count": 30,
+      "pct": 16.9
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 118,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4794200
