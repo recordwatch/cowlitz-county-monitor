@@ -1,5 +1,31 @@
 [
   {
+    "id": "7197-20261017175016",
+    "inmateNumber": "7197",
+    "name": "THOMAS, JAYME LEONARD",
+    "bookedAt": "2026-10-17T17:50:16",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-17T17:51:06",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00885262",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T18:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "197388-20261017173511",
     "inmateNumber": "197388",
     "name": "JONES, ARNOLD NATHANIL JR",
@@ -9,7 +35,7 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "PROB/PAROLE VIOL",
         "offenseDate": "2026-10-17T17:36:09",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
