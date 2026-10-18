@@ -16,7 +16,7 @@
         "warrantNumber": "T00885262",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "Secured",
         "bondAmount": null
       }
     ],
