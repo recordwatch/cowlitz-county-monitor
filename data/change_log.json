@@ -1,5 +1,31 @@
 [
   {
+    "id": "361046-20261017201931",
+    "inmateNumber": "361046",
+    "name": "TYLER, KATIE NICOLE",
+    "bookedAt": "2026-10-17T20:19:31",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-17T20:21:01",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0348175",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-17T20:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "118757-20261017193402",
     "inmateNumber": "118757",
     "name": "MORGAN, SASHA ANNE",
