@@ -4,7 +4,7 @@
     "inmateNumber": "14902",
     "name": "BALCH, RONALD JOSEF",
     "bookedAt": "2026-10-17T21:52:53",
-    "location": "1-PENDING BOOKING",
+    "location": "B21",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "285756",
     "name": "BOYD, DERRICK DARNELL",
     "bookedAt": "2026-10-17T21:35:44",
-    "location": "A14",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
