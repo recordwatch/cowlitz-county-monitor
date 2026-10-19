@@ -1,5 +1,33 @@
 [
   {
+    "id": "229189-20261019004120",
+    "inmateNumber": "229189",
+    "name": "ROOKS, TIFFANY LYNN",
+    "bookedAt": "2026-10-19T00:41:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T01:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "26256-20261019002531",
+    "inmateNumber": "26256",
+    "name": "JOHNSON, ERIC ALAN",
+    "bookedAt": "2026-10-19T00:25:31",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T01:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "119781-20261018235509",
     "inmateNumber": "119781",
     "name": "TAWATER, SARAH KATHLEEN",
