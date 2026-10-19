@@ -6,7 +6,7 @@
     "bookedAt": "2026-10-18T20:01:16",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -16,8 +16,8 @@
         "warrantNumber": "6A0348178",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -27,8 +27,8 @@
         "warrantNumber": "6A0348178",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -104,7 +104,7 @@
     "inmateNumber": "136329",
     "name": "BOISSONNAULT PRADO, ERYK RAINFEATHER",
     "bookedAt": "2026-10-18T18:56:35",
-    "location": "1-PENDING BOOKING",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -3291,7 +3291,7 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "C11",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": 17000,
     "charges": [
