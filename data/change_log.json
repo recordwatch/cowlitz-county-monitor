@@ -191,7 +191,7 @@
     "bookedAt": "2026-10-19T00:25:31",
     "location": "B22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -225,6 +225,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-19T10:16:26",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0092187",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -369,10 +380,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0420550",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "MINOR POSS AND/OR CONSUMPTION LIQUOR",
@@ -380,10 +391,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0420550",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -661,7 +672,7 @@
     "bookedAt": "2026-10-17T21:35:44",
     "location": "B24",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "MAL MISCH 2ND > $750",
@@ -673,6 +684,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-19T10:12:15",
+        "arrestingAgency": "LVPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "4A0164373",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -953,7 +975,7 @@
         "offenseDate": "2026-10-17T00:08:57",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610068408",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -1220,7 +1242,7 @@
     "bookedAt": "2026-10-16T13:50:33",
     "location": "A10",
     "arrestingAgency": "DOC",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -1232,6 +1254,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-19T10:09:25",
+        "arrestingAgency": "DOC",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0352164",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -1254,10 +1287,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0076711",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1265,10 +1298,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0418191",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1339,10 +1372,10 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0320290",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1364,7 +1397,7 @@
         "offenseDate": "2026-10-16T10:51:03",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610068508",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -1375,7 +1408,7 @@
         "offenseDate": "2026-10-16T00:00:00",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610068508",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1386,7 +1419,7 @@
         "offenseDate": "2026-10-16T00:00:00",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610068508",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -2167,7 +2200,7 @@
     "bookedAt": "2026-10-15T13:45:03",
     "location": "E21",
     "arrestingAgency": "CRPD",
-    "bondTotal": 15000,
+    "bondTotal": 15250,
     "charges": [
       {
         "description": "FUGITIVE FRM JUSTICE",
@@ -2208,10 +2241,10 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396100",
-        "disposition": "Not Filed",
+        "disposition": null,
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": null
+        "bondAmount": 250
       },
       {
         "description": "DWLS 3RD",
