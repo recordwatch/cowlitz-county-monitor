@@ -4,7 +4,7 @@
     "inmateNumber": "93404",
     "name": "POTTS, BRENDEN DAVID",
     "bookedAt": "2026-10-19T09:24:04",
-    "location": "INTAKE H1",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -1240,7 +1240,7 @@
     "inmateNumber": "150412",
     "name": "TOLER, GLEN EUGENE",
     "bookedAt": "2026-10-16T13:50:33",
-    "location": "A10",
+    "location": "G-G03",
     "arrestingAgency": "DOC",
     "bondTotal": 1000,
     "charges": [
@@ -2283,7 +2283,7 @@
     "inmateNumber": "220015",
     "name": "VANGROL, SEAN GRADY",
     "bookedAt": "2026-10-15T11:24:25",
-    "location": "A14",
+    "location": "G-G05",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -2320,7 +2320,7 @@
     "inmateNumber": "57535",
     "name": "EAKER, CHRISTOPHER DEAN",
     "bookedAt": "2026-10-15T10:57:48",
-    "location": "A10",
+    "location": "G-G01",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -2346,7 +2346,7 @@
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
     "bookedAt": "2026-10-15T10:25:44",
-    "location": "A15",
+    "location": "G-G33",
     "arrestingAgency": "CCSO",
     "bondTotal": 61000,
     "charges": [
@@ -2927,7 +2927,7 @@
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
     "bookedAt": "2026-10-14T02:38:53",
-    "location": "A15",
+    "location": "G-G07",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
@@ -5331,7 +5331,7 @@
     "inmateNumber": "146482",
     "name": "HYATT, ROBERT DAVID III",
     "bookedAt": "2026-10-08T17:22:27",
-    "location": "A13",
+    "location": "G-G19",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6925,7 +6925,7 @@
     "inmateNumber": "67737",
     "name": "MERZOIAN, JARRED ROBERT",
     "bookedAt": "2026-10-01T18:50:30",
-    "location": "A13",
+    "location": "G-G17",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -8185,7 +8185,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-09-21T22:03:03",
-    "location": "A12",
+    "location": "G-G15",
     "arrestingAgency": "LVPD",
     "bondTotal": 5500,
     "charges": [
