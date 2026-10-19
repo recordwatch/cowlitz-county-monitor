@@ -1254,17 +1254,6 @@
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
-      },
-      {
-        "description": "THEFT 3RD DEG",
-        "offenseDate": "2026-10-19T10:09:25",
-        "arrestingAgency": "DOC",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0352164",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
