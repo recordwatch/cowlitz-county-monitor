@@ -9625,22 +9625,11 @@
     "bondTotal": 7000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
-        "offenseDate": "2026-08-30T10:40:26",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610038308",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
         "description": "ASSAULT 3RD",
         "offenseDate": "2026-08-30T10:39:43",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610057108",
+        "warrantNumber": "2610058008",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -9656,6 +9645,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 5000
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-08-30T10:40:26",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610058008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
