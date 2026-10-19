@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T02:55:18",
+  "generatedAt": "2026-10-19T03:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 293,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 104,
-      "pct": 13.3
+      "count": 106,
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 20,
-      "pct": 2.6
+      "count": 21,
+      "pct": 2.7
     },
     {
       "name": "RESISTING ARREST",
@@ -249,12 +249,12 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 9,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "ASSAULT 2 DV",
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 310,
-      "pct": 39.6
+      "pct": 39.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 203,
-      "pct": 26
+      "count": 206,
+      "pct": 26.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 494.4
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 63,
+    "withBond": 126,
+    "noBond": 62,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4803700
+    "totalBond": 4804700
   },
   "chargesPerBooking": 2.7
 }

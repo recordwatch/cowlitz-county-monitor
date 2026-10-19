@@ -6,8 +6,42 @@
     "bookedAt": "2026-10-19T01:48:21",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-19T02:32:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0286940",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-19T02:34:43",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0286940",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-19T02:30:04",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422576",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-19T02:35:17",
     "releasedAt": null,
