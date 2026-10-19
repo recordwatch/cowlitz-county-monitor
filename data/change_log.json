@@ -1,5 +1,33 @@
 [
   {
+    "id": "23971-20261019040306",
+    "inmateNumber": "23971",
+    "name": "WEBB, JOSEPH WAYLON",
+    "bookedAt": "2026-10-19T04:03:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T04:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "214854-20261019034608",
+    "inmateNumber": "214854",
+    "name": "NORTH, JACOB ADRIAN",
+    "bookedAt": "2026-10-19T03:46:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T04:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "22293-20261019014821",
     "inmateNumber": "22293",
     "name": "COHEN, EMERSON KANE",
