@@ -1,5 +1,31 @@
 [
   {
+    "id": "271635-20261019153419",
+    "inmateNumber": "271635",
+    "name": "HAUSINGER, ZACHARY LAWRANCE",
+    "bookedAt": "2026-10-19T15:34:19",
+    "location": "B22",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-19T15:37:52",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2510080808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T16:15:25",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "334208-20261019144320",
     "inmateNumber": "334208",
     "name": "ZAK, DAVID MICHAEL PERRY",

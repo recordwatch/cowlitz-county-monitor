@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T15:55:19",
+  "generatedAt": "2026-10-19T16:15:25",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 297,
-    "bookingsObserved": 131,
+    "bookingsTracked": 298,
+    "bookingsObserved": 132,
     "releasesObserved": 122,
-    "inCustody": 175,
-    "uniquePeople": 295
+    "inCustody": 176,
+    "uniquePeople": 296
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 7,
+      "booked": 8,
       "released": 17
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 57,
-      "pct": 7.1
+      "count": 58,
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 120,
-      "pct": 40.7,
+      "pct": 40.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 68,
-      "pct": 23.1,
+      "pct": 23,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 35,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "Kelso Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 15,
-      "pct": 5.1,
+      "count": 16,
+      "pct": 5.4,
       "label": "Dept. of Corrections"
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 44,
-      "pct": 5.5
+      "count": 45,
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -388,23 +388,23 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 17.8
+      "count": 32,
+      "pct": 18.3
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 41,
-      "pct": 23.6
+      "pct": 23.4
     },
     {
       "name": "H",
@@ -462,12 +462,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 18.9,
+    "currentMedianDaysHeld": 18.6,
     "currentLongestDaysHeld": 495
   },
   "bond": {
     "withBond": 122,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4887450
