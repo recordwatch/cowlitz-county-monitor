@@ -173,7 +173,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0225108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -343,10 +343,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0348178",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -354,10 +354,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0348178",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -469,10 +469,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338214",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -939,10 +939,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0149875",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "RECKLESS DRIVING",
@@ -950,7 +950,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0149875",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -1251,7 +1251,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510023208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1262,7 +1262,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0352164",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1288,7 +1288,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0076711",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -1299,7 +1299,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0418191",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -1325,7 +1325,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0027523",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1336,7 +1336,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0027523",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1347,7 +1347,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0113825",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1373,7 +1373,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0320290",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
