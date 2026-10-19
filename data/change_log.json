@@ -115,7 +115,7 @@
     "inmateNumber": "22293",
     "name": "COHEN, EMERSON KANE",
     "bookedAt": "2026-10-19T01:48:21",
-    "location": "C12",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -397,9 +397,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T20:35:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T13:15:18",
     "baseline": false
   },
   {
