@@ -30,7 +30,7 @@
     "inmateNumber": "23971",
     "name": "WEBB, JOSEPH WAYLON",
     "bookedAt": "2026-10-19T04:03:06",
-    "location": "INTAKE H6",
+    "location": "D15",
     "arrestingAgency": "LVPD",
     "bondTotal": 3500,
     "charges": [
@@ -598,7 +598,7 @@
     "bookedAt": "2026-10-18T00:42:54",
     "location": "A16",
     "arrestingAgency": "CCSO",
-    "bondTotal": 8000,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "DUI",
@@ -631,7 +631,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -829,7 +829,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610018708",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -840,7 +840,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610054408",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -903,7 +903,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510017708",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -914,7 +914,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0416163",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -968,7 +968,7 @@
     "bookedAt": "2026-10-16T23:53:30",
     "location": "INTAKE H8",
     "arrestingAgency": "KEPD",
-    "bondTotal": 7000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATE 1",
@@ -977,7 +977,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610068408",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -988,7 +988,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0353541",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 3000
       },
@@ -999,7 +999,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0353541",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1010,7 +1010,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0353541",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1021,9 +1021,9 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0391285",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 4000
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -1099,7 +1099,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410064906",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1125,7 +1125,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395412",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1140,7 +1140,7 @@
     "inmateNumber": "168125",
     "name": "NETTLES, JASON CODY",
     "bookedAt": "2026-10-16T15:01:29",
-    "location": "D15",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -1188,7 +1188,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395411",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
