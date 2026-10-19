@@ -41,7 +41,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "1A0401529",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -52,7 +52,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "1A0633388",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -63,7 +63,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401412",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -74,7 +74,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401412",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -100,7 +100,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422588",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -126,7 +126,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0286940",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -137,7 +137,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0286940",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -148,7 +148,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422576",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -307,7 +307,7 @@
     "inmateNumber": "352570",
     "name": "GARRISON, ARIANNA ALEXIS-ROSE",
     "bookedAt": "2026-10-18T21:47:11",
-    "location": "INTAKE H2",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
