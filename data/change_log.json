@@ -1,5 +1,19 @@
 [
   {
+    "id": "22293-20261019014821",
+    "inmateNumber": "22293",
+    "name": "COHEN, EMERSON KANE",
+    "bookedAt": "2026-10-19T01:48:21",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T02:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "229189-20261019004120",
     "inmateNumber": "229189",
     "name": "ROOKS, TIFFANY LYNN",
