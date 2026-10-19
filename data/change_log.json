@@ -2200,7 +2200,7 @@
     "bookedAt": "2026-10-15T13:45:03",
     "location": "E21",
     "arrestingAgency": "CRPD",
-    "bondTotal": 15250,
+    "bondTotal": 15750,
     "charges": [
       {
         "description": "FUGITIVE FRM JUSTICE",
@@ -2219,10 +2219,10 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396099",
-        "disposition": "Not Filed",
+        "disposition": null,
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": null
+        "bondAmount": 500
       },
       {
         "description": "NO PRORATION/TRP PER",
@@ -2230,9 +2230,9 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396099",
-        "disposition": "Not Filed",
+        "disposition": null,
         "billingAgency": "CRPD",
-        "bondType": "Secured",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -2359,8 +2359,19 @@
     "bookedAt": "2026-10-15T10:25:44",
     "location": "A15",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 61000,
     "charges": [
+      {
+        "description": "CONTEMPT",
+        "offenseDate": "2026-10-19T10:28:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610032708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 60000
+      },
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-10-15T10:37:46",

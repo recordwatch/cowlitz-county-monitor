@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:55:17",
+  "generatedAt": "2026-10-19T11:15:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 296,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 106,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -321,8 +321,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 310,
-      "pct": 39
+      "count": 311,
+      "pct": 39.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -462,7 +462,7 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 15.5,
+    "currentMedianDaysHeld": 15.6,
     "currentLongestDaysHeld": 494.8
   },
   "bond": {
@@ -470,7 +470,7 @@
     "noBond": 56,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4807950
+    "totalBond": 4868450
   },
   "chargesPerBooking": 2.7
 }
