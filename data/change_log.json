@@ -6862,7 +6862,7 @@
     "inmateNumber": "15798",
     "name": "RISMOEN, ANDREW SCOTT",
     "bookedAt": "2026-10-03T02:17:01",
-    "location": "A13",
+    "location": "A12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -8620,7 +8620,7 @@
     "inmateNumber": "50854",
     "name": "WILLIAMSON, JERRY LEE JR",
     "bookedAt": "2026-09-18T19:53:05",
-    "location": "A15",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
