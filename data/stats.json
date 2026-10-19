@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:15:18",
+  "generatedAt": "2026-10-19T01:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 292,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 103,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "DWLS 3RD",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 36,
-      "pct": 4.6
+      "count": 39,
+      "pct": 5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -198,18 +198,18 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 19,
-      "pct": 2.4
+      "count": 20,
+      "pct": 2.6
     },
     {
       "name": "RESISTING ARREST",
       "count": 16,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 16,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -223,8 +223,8 @@
     },
     {
       "name": "CRIM TRESPASS 1ST",
-      "count": 12,
-      "pct": 1.5
+      "count": 13,
+      "pct": 1.7
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -321,33 +321,33 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 307,
-      "pct": 39.6
+      "count": 310,
+      "pct": 39.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 203,
-      "pct": 26.2
+      "pct": 26
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 83,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 66,
-      "pct": 8.5
+      "count": 68,
+      "pct": 8.7
     },
     {
       "name": "DOC COURT",
       "count": 44,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 30,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 494.4
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 63,
-    "medianBond": 3500,
+    "withBond": 125,
+    "noBond": 62,
+    "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4801700
+    "totalBond": 4803700
   },
   "chargesPerBooking": 2.7
 }
