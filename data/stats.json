@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T22:15:23",
+  "generatedAt": "2026-10-18T22:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 288,
-    "bookingsObserved": 122,
+    "bookingsTracked": 289,
+    "bookingsObserved": 123,
     "releasesObserved": 105,
-    "inCustody": 183,
-    "uniquePeople": 286
+    "inCustody": 184,
+    "uniquePeople": 287
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 9,
+      "booked": 10,
       "released": 7
     }
   ],
@@ -177,14 +177,14 @@
       "pct": 7.4
     },
     {
-      "name": "DUI",
+      "name": "THEFT 3RD DEG",
       "count": 42,
       "pct": 5.4
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 41,
-      "pct": 5.3
+      "name": "DUI",
+      "count": 42,
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 112,
-      "pct": 39.2,
+      "count": 113,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 67,
-      "pct": 23.4,
+      "pct": 23.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 305,
-      "pct": 39.5
+      "pct": 39.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 202,
-      "pct": 26.1
+      "count": 203,
+      "pct": 26.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,7 +384,7 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "B",
@@ -394,7 +394,7 @@
     {
       "name": "C",
       "count": 23,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "D",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 31,
-      "pct": 16.9
+      "pct": 16.8
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 35,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.2
+      "count": 5,
+      "pct": 2.7
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 17.6,
+    "currentMedianDaysHeld": 17.4,
     "currentLongestDaysHeld": 494.2
   },
   "bond": {
-    "withBond": 123,
+    "withBond": 124,
     "noBond": 60,
-    "medianBond": 4000,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 4800700
+    "totalBond": 4801700
   },
   "chargesPerBooking": 2.7
 }
