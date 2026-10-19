@@ -105,9 +105,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T04:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:15:18",
     "baseline": false
   },
   {
@@ -323,9 +323,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T22:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:15:18",
     "baseline": false
   },
   {
@@ -797,9 +797,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T20:15:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:15:18",
     "baseline": false
   },
   {
@@ -1193,9 +1193,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T15:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:15:18",
     "baseline": false
   },
   {
@@ -1918,9 +1918,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T18:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T15:15:18",
     "baseline": false
   },
   {
@@ -10803,7 +10803,7 @@
     "bookedAt": "2026-07-17T15:58:36",
     "location": "G-G42",
     "arrestingAgency": "LVPD",
-    "bondTotal": 50000,
+    "bondTotal": 35000,
     "charges": [
       {
         "description": "FELONY HARASSMENT",
@@ -10880,7 +10880,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 50000
+        "bondAmount": 35000
       },
       {
         "description": "CYBER HARASSMENT FELONY",
