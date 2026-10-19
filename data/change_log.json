@@ -1,5 +1,31 @@
 [
   {
+    "id": "25129-20261018180610",
+    "inmateNumber": "25129",
+    "name": "SALAZ, LILLY DELIA MONIQUE",
+    "bookedAt": "2026-10-18T18:06:10",
+    "location": "INTAKE H2",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-18T18:10:20",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338214",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T18:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "329627-20261018121849",
     "inmateNumber": "329627",
     "name": "RENDAHL, GARRETT SELMORE",
