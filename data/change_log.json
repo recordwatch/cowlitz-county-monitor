@@ -272,7 +272,7 @@
     "bookedAt": "2026-10-18T23:55:09",
     "location": "E13",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -280,7 +280,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510028408",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -293,8 +293,8 @@
         "warrantNumber": "2610068808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       }
     ],
     "status": "in_custody",
@@ -317,10 +317,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422587",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -360,9 +360,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T20:35:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T13:55:18",
     "baseline": false
   },
   {
@@ -487,7 +487,7 @@
     "bookedAt": "2026-10-18T12:18:49",
     "location": "A14",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -495,10 +495,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0717863",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -524,18 +524,18 @@
     "bookedAt": "2026-10-18T10:13:22",
     "location": "B21",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "MAL MISCH 2ND > $750",
         "offenseDate": "2026-10-18T10:20:47",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610068708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -672,7 +672,7 @@
     "bookedAt": "2026-10-17T21:35:44",
     "location": "B24",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "MAL MISCH 2ND > $750",
@@ -682,8 +682,8 @@
         "warrantNumber": "2610068608",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -717,7 +717,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091703",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -728,7 +728,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091703",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -780,10 +780,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0326959",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -791,10 +791,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0326959",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -902,7 +902,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510017708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
@@ -1187,10 +1187,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395411",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1304,9 +1304,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T13:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-10-19T13:55:18",
     "baseline": false
   },
   {
@@ -1346,7 +1346,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0113825",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1560,7 +1560,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
