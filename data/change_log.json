@@ -1,5 +1,19 @@
 [
   {
+    "id": "93404-20261019092404",
+    "inmateNumber": "93404",
+    "name": "POTTS, BRENDEN DAVID",
+    "bookedAt": "2026-10-19T09:24:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T10:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "23971-20261019040306",
     "inmateNumber": "23971",
     "name": "WEBB, JOSEPH WAYLON",
@@ -208,8 +222,8 @@
         "warrantNumber": "6A0425022",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -219,8 +233,8 @@
         "warrantNumber": "6A0425022",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
