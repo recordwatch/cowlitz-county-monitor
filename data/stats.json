@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T19:55:17",
+  "generatedAt": "2026-10-18T20:15:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 285,
-    "bookingsObserved": 119,
+    "bookingsTracked": 286,
+    "bookingsObserved": 120,
     "releasesObserved": 105,
-    "inCustody": 180,
-    "uniquePeople": 283
+    "inCustody": 181,
+    "uniquePeople": 284
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 6,
+      "booked": 7,
       "released": 7
     }
   ],
@@ -177,12 +177,12 @@
       "pct": 7.4
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 41,
-      "pct": 5.3
+      "name": "DUI",
+      "count": 42,
+      "pct": 5.5
     },
     {
-      "name": "DUI",
+      "name": "THEFT 3RD DEG",
       "count": 41,
       "pct": 5.3
     },
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 112,
-      "pct": 39.6,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 67,
-      "pct": 23.7,
+      "pct": 23.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 33,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 28,
-      "pct": 9.9,
+      "count": 29,
+      "pct": 10.2,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -346,8 +346,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 29,
-      "pct": 3.8
+      "count": 30,
+      "pct": 3.9
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 30,
-      "pct": 16.8
+      "count": 31,
+      "pct": 17.3
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.2
+      "count": 3,
+      "pct": 1.7
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 18.1,
+    "currentMedianDaysHeld": 18,
     "currentLongestDaysHeld": 494.1
   },
   "bond": {
     "withBond": 121,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4796700

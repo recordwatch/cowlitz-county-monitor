@@ -1,5 +1,31 @@
 [
   {
+    "id": "356599-20261018192919",
+    "inmateNumber": "356599",
+    "name": "BARTON, JAMES EVERETT",
+    "bookedAt": "2026-10-18T19:29:19",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-18T19:32:02",
+        "arrestingAgency": "CCCD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0300215",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T20:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "136329-20261018185635",
     "inmateNumber": "136329",
     "name": "BOISSONNAULT PRADO, ERYK RAINFEATHER",
@@ -30,7 +56,7 @@
     "inmateNumber": "25129",
     "name": "SALAZ, LILLY DELIA MONIQUE",
     "bookedAt": "2026-10-18T18:06:10",
-    "location": "INTAKE H2",
+    "location": "E24",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
