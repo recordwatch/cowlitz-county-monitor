@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:15:18",
+  "generatedAt": "2026-10-19T10:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 296,
@@ -227,14 +227,14 @@
       "pct": 1.8
     },
     {
-      "name": "UNLAWFUL CAMPING",
+      "name": "CRIM TRESPASS 2ND",
       "count": 11,
       "pct": 1.4
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 10,
-      "pct": 1.3
+      "name": "UNLAWFUL CAMPING",
+      "count": 11,
+      "pct": 1.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 211,
-      "pct": 26.7
+      "count": 212,
+      "pct": 26.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,22 +384,22 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 17.9
+      "pct": 17.8
     },
     {
       "name": "B",
       "count": 32,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 12
+      "pct": 11.9
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "E",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 17.9
+      "pct": 17.8
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.7
+      "count": 6,
+      "pct": 3.2
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 494.7
   },
   "bond": {
-    "withBond": 126,
-    "noBond": 59,
-    "medianBond": 3250,
+    "withBond": 127,
+    "noBond": 58,
+    "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4806200
+    "totalBond": 4806700
   },
   "chargesPerBooking": 2.7
 }
