@@ -1,5 +1,42 @@
 [
   {
+    "id": "334208-20261019144320",
+    "inmateNumber": "334208",
+    "name": "ZAK, DAVID MICHAEL PERRY",
+    "bookedAt": "2026-10-19T14:43:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-19T14:50:44",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0419668",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-19T15:00:33",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0419669",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T15:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "93404-20261019092404",
     "inmateNumber": "93404",
     "name": "POTTS, BRENDEN DAVID",
