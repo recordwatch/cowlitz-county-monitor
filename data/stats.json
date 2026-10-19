@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T20:15:17",
+  "generatedAt": "2026-10-18T20:35:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 286,
-    "bookingsObserved": 120,
+    "bookingsTracked": 288,
+    "bookingsObserved": 122,
     "releasesObserved": 105,
-    "inCustody": 181,
-    "uniquePeople": 284
+    "inCustody": 183,
+    "uniquePeople": 286
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 7,
+      "booked": 9,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 102,
-      "pct": 13.3
+      "count": 103,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -179,7 +179,7 @@
     {
       "name": "DUI",
       "count": 42,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 35,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,37 +266,37 @@
     {
       "name": "LVPD",
       "count": 112,
-      "pct": 39.4,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 67,
-      "pct": 23.6,
+      "pct": 23.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 33,
-      "pct": 11.6,
+      "count": 35,
+      "pct": 12.2,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 29,
-      "pct": 10.2,
+      "pct": 10.1,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 15,
-      "pct": 5.3,
+      "pct": 5.2,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
       "count": 11,
-      "pct": 3.9,
+      "pct": 3.8,
       "label": "Washington State Patrol"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 7,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Castle Rock Police"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 305,
-      "pct": 39.7
+      "pct": 39.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 202,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 64,
-      "pct": 8.3
+      "count": 66,
+      "pct": 8.6
     },
     {
       "name": "DOC COURT",
@@ -367,7 +367,7 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 5,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 17.9
+      "pct": 17.8
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 15.1
+      "count": 28,
+      "pct": 15.6
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 13,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "E",
       "count": 31,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 35,
-      "pct": 19.6
+      "pct": 19.4
     },
     {
       "name": "H",
@@ -462,15 +462,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 18,
-    "currentLongestDaysHeld": 494.1
+    "currentMedianDaysHeld": 17.5,
+    "currentLongestDaysHeld": 494.2
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 60,
-    "medianBond": 5000,
+    "withBond": 122,
+    "noBond": 61,
+    "medianBond": 4500,
     "maxBond": 500000,
-    "totalBond": 4796700
+    "totalBond": 4798700
   },
   "chargesPerBooking": 2.7
 }

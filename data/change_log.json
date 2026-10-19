@@ -1,10 +1,61 @@
 [
   {
+    "id": "130404-20261018200116",
+    "inmateNumber": "130404",
+    "name": "RUPE, DARRY LEE",
+    "bookedAt": "2026-10-18T20:01:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T20:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "308450-20261018194345",
+    "inmateNumber": "308450",
+    "name": "ALEXANDER JIMENEZ, ISAIAH MATEO",
+    "bookedAt": "2026-10-18T19:43:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-18T19:51:58",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420550",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "MINOR POSS AND/OR CONSUMPTION LIQUOR",
+        "offenseDate": "2026-10-18T19:50:44",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420550",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T20:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "356599-20261018192919",
     "inmateNumber": "356599",
     "name": "BARTON, JAMES EVERETT",
     "bookedAt": "2026-10-18T19:29:19",
-    "location": "1-PENDING BOOKING",
+    "location": "B12",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -3749,7 +3800,7 @@
     "inmateNumber": "358720",
     "name": "GRIFFITH, JODI LEE",
     "bookedAt": "2026-10-11T18:47:06",
-    "location": "E21",
+    "location": "E12",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
