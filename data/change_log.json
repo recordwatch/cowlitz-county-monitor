@@ -7,7 +7,30 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-18T20:07:10",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0348178",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-18T20:08:02",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0348178",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-18T20:35:15",
     "releasedAt": null,
