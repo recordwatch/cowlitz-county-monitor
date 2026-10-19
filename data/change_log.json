@@ -1,5 +1,42 @@
 [
   {
+    "id": "119781-20261018235509",
+    "inmateNumber": "119781",
+    "name": "TAWATER, SARAH KATHLEEN",
+    "bookedAt": "2026-10-18T23:55:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-19T00:04:26",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-19T00:00:12",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510028408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T00:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "352570-20261018214711",
     "inmateNumber": "352570",
     "name": "GARRISON, ARIANNA ALEXIS-ROSE",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T00:18:16",
+  "generatedAt": "2026-10-19T00:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 289,
-    "bookingsObserved": 123,
+    "bookingsTracked": 290,
+    "bookingsObserved": 124,
     "releasesObserved": 105,
-    "inCustody": 184,
-    "uniquePeople": 287
+    "inCustody": 185,
+    "uniquePeople": 288
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 10,
+      "booked": 11,
       "released": 7
     },
     {
@@ -169,12 +169,12 @@
     {
       "name": "DWLS 3RD",
       "count": 64,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "DOC HOLD",
       "count": 57,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 35,
-      "pct": 4.5
+      "count": 36,
+      "pct": 4.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 19,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "RESISTING ARREST",
@@ -224,7 +224,7 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 12,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 113,
-      "pct": 39.4,
+      "count": 114,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -321,8 +321,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 305,
-      "pct": 39.4
+      "count": 307,
+      "pct": 39.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -352,7 +352,7 @@
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 12,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "DRUG COURT",
@@ -462,12 +462,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 17.5,
+    "currentMedianDaysHeld": 17.2,
     "currentLongestDaysHeld": 494.3
   },
   "bond": {
     "withBond": 124,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 3500,
     "maxBond": 500000,
     "totalBond": 4801700
