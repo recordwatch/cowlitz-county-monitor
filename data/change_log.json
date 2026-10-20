@@ -4,7 +4,7 @@
     "inmateNumber": "361101",
     "name": "ALEKSEYEV, TIMOFEY A",
     "bookedAt": "2026-10-19T18:22:17",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -119,7 +119,7 @@
     "inmateNumber": "93404",
     "name": "POTTS, BRENDEN DAVID",
     "bookedAt": "2026-10-19T09:24:04",
-    "location": "INTAKE H2",
+    "location": "F22",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -2798,7 +2798,7 @@
     "inmateNumber": "82423",
     "name": "COCHRAN, BRANDON MICHAEL",
     "bookedAt": "2026-10-14T10:00:33",
-    "location": "C11",
+    "location": "A16",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
