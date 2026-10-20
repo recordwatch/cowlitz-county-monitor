@@ -1,5 +1,42 @@
 [
   {
+    "id": "219627-20261019214927",
+    "inmateNumber": "219627",
+    "name": "HUMPHREY, CHAUNTE SHEA ANNE",
+    "bookedAt": "2026-10-19T21:49:27",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-10-19T22:00:10",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0425023",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-10-19T21:59:27",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0425023",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T22:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "96598-20261019195508",
     "inmateNumber": "96598",
     "name": "LEON HERNANDEZ, CAMILO",
