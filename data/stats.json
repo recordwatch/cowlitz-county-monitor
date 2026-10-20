@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T16:15:18",
+  "generatedAt": "2026-10-20T16:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 311,
-    "bookingsObserved": 145,
+    "bookingsTracked": 312,
+    "bookingsObserved": 146,
     "releasesObserved": 137,
-    "inCustody": 174,
-    "uniquePeople": 309
+    "inCustody": 175,
+    "uniquePeople": 310
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 8,
+      "booked": 9,
       "released": 14
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 106,
-      "pct": 13
+      "count": 107,
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
       "count": 65,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DOC HOLD",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 123,
-      "pct": 39.8,
+      "count": 124,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 70,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 11,
-      "pct": 3.6,
+      "pct": 3.5,
       "label": "Washington State Patrol"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 318,
-      "pct": 38.9
+      "pct": 38.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 216,
-      "pct": 26.4
+      "count": 217,
+      "pct": 26.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,13 +336,13 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 74,
-      "pct": 9.1
+      "count": 75,
+      "pct": 9.2
     },
     {
       "name": "DOC COURT",
       "count": 47,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,37 +384,37 @@
     {
       "name": "A",
       "count": 23,
-      "pct": 13.4
+      "pct": 13.2
     },
     {
       "name": "B",
       "count": 33,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "D",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 13.4
+      "pct": 13.2
     },
     {
       "name": "F",
       "count": 6,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "G",
       "count": 39,
-      "pct": 22.7
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.5
+      "count": 8,
+      "pct": 4.6
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 16.7,
+    "currentMedianDaysHeld": 16.6,
     "currentLongestDaysHeld": 496
   },
   "bond": {
     "withBond": 121,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4968450

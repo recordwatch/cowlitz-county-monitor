@@ -1,5 +1,31 @@
 [
   {
+    "id": "35130-20261020154650",
+    "inmateNumber": "35130",
+    "name": "KUBI, DONALD EUGENE",
+    "bookedAt": "2026-10-20T15:46:50",
+    "location": "INTAKE H8",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSSESSION OF CONTROLLED SUBSTANCE",
+        "offenseDate": "2026-10-20T15:51:30",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0593165",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T16:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "158045-20261020152057",
     "inmateNumber": "158045",
     "name": "BAIZ, STEPHANIE NORMA",
@@ -44,10 +70,22 @@
     "inmateNumber": "13012",
     "name": "SPOTO, CRYSANIA ELIZABETH MAUREEN",
     "bookedAt": "2026-10-20T15:04:43",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-20T15:56:29",
+        "arrestingAgency": "CCCD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0089301",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-20T15:55:15",
     "releasedAt": null,
