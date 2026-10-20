@@ -13107,7 +13107,7 @@
     "bookedAt": "2026-01-14T10:20:14",
     "location": "F10",
     "arrestingAgency": "CCSO",
-    "bondTotal": 77000,
+    "bondTotal": 78000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -13183,8 +13183,8 @@
         "warrantNumber": "6A0010440",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "MAL MISCH 3RD > $50",
