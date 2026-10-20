@@ -1,5 +1,59 @@
 [
   {
+    "id": "158045-20261020152057",
+    "inmateNumber": "158045",
+    "name": "BAIZ, STEPHANIE NORMA",
+    "bookedAt": "2026-10-20T15:20:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "32284-20261020151124",
+    "inmateNumber": "32284",
+    "name": "JENNE, CYNTHIA LYNN",
+    "bookedAt": "2026-10-20T15:11:24",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-20T15:18:39",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2210107708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "13012-20261020150443",
+    "inmateNumber": "13012",
+    "name": "SPOTO, CRYSANIA ELIZABETH MAUREEN",
+    "bookedAt": "2026-10-20T15:04:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "71771-20261020144125",
     "inmateNumber": "71771",
     "name": "WINCHESTER, KYLE JAMES",
@@ -14,6 +68,28 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0349541",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-20T15:06:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0684855",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-20T15:08:22",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0083315",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -2698,7 +2774,7 @@
     "inmateNumber": "57535",
     "name": "EAKER, CHRISTOPHER DEAN",
     "bookedAt": "2026-10-15T10:57:48",
-    "location": "G-G01",
+    "location": "G-G10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -3305,7 +3381,7 @@
     "inmateNumber": "50508",
     "name": "FERGUSON, RICHARD ZACERY",
     "bookedAt": "2026-10-14T02:38:53",
-    "location": "G-G07",
+    "location": "G-G08",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
