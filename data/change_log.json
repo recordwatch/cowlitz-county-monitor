@@ -106,7 +106,7 @@
     "bookedAt": "2026-10-20T02:37:30",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "VEHICULAR ASSAULT",
@@ -116,8 +116,8 @@
         "warrantNumber": "2610069008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 50000
       },
       {
         "description": "HIT & RUN",
@@ -178,7 +178,7 @@
     "inmateNumber": "96598",
     "name": "LEON HERNANDEZ, CAMILO",
     "bookedAt": "2026-10-19T19:55:08",
-    "location": "INTAKE H3",
+    "location": "B24",
     "arrestingAgency": "WDPD",
     "bondTotal": 1000,
     "charges": [
@@ -543,7 +543,7 @@
     "bookedAt": "2026-10-19T00:25:31",
     "location": "B22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 40000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -553,8 +553,8 @@
         "warrantNumber": "2610020708",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 40000
       },
       {
         "description": "CONTEMPT OF COURT",
@@ -564,7 +564,7 @@
         "warrantNumber": "2610020908",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -575,7 +575,7 @@
         "warrantNumber": "2610028808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
