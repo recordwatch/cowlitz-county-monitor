@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T19:35:17",
+  "generatedAt": "2026-10-19T19:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 301,
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 42,
-      "pct": 5.2
+      "count": 43,
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 69,
-      "pct": 8.6
+      "count": 70,
+      "pct": 8.7
     },
     {
       "name": "DOC COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 23,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "B",
       "count": 32,
-      "pct": 18.1
+      "pct": 18
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "D",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 27,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 41,
-      "pct": 23.2
+      "pct": 23
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 495.1
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 57,
+    "withBond": 122,
+    "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4885450
+    "totalBond": 4886450
   },
   "chargesPerBooking": 2.7
 }

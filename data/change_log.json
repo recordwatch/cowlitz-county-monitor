@@ -4,10 +4,22 @@
     "inmateNumber": "180451",
     "name": "HAVENS, TRACY ANN",
     "bookedAt": "2026-10-19T18:43:49",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-19T19:16:52",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-19T19:35:17",
     "releasedAt": null,
@@ -2475,7 +2487,7 @@
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
     "bookedAt": "2026-10-15T10:25:44",
-    "location": "G-G33",
+    "location": "G-G39",
     "arrestingAgency": "CCSO",
     "bondTotal": 61000,
     "charges": [
