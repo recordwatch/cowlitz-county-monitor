@@ -1,5 +1,42 @@
 [
   {
+    "id": "96598-20261019195508",
+    "inmateNumber": "96598",
+    "name": "LEON HERNANDEZ, CAMILO",
+    "bookedAt": "2026-10-19T19:55:08",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-10-19T20:04:38",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6a0425442",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-19T20:05:28",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6a0425442",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T20:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "180451-20261019184349",
     "inmateNumber": "180451",
     "name": "HAVENS, TRACY ANN",
@@ -30,7 +67,7 @@
     "inmateNumber": "361101",
     "name": "ALEKSEYEV, TIMOFEY A",
     "bookedAt": "2026-10-19T18:22:17",
-    "location": "INTAKE H2",
+    "location": "A10",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
