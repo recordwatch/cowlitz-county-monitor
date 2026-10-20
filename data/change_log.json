@@ -1,5 +1,19 @@
 [
   {
+    "id": "277224-20261020042200",
+    "inmateNumber": "277224",
+    "name": "HUGDAHL, CAMERON JOSEPH",
+    "bookedAt": "2026-10-20T04:22:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T04:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4332-20261020023730",
     "inmateNumber": "4332",
     "name": "CHALUPA, RANDY SCOTT",
