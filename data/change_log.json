@@ -1,5 +1,19 @@
 [
   {
+    "id": "71771-20261020144125",
+    "inmateNumber": "71771",
+    "name": "WINCHESTER, KYLE JAMES",
+    "bookedAt": "2026-10-20T14:41:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T15:05:26",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "275001-20261020120958",
     "inmateNumber": "275001",
     "name": "MARKSTROM, RYAN THOMAS",
