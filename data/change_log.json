@@ -1,5 +1,19 @@
 [
   {
+    "id": "180451-20261019184349",
+    "inmateNumber": "180451",
+    "name": "HAVENS, TRACY ANN",
+    "bookedAt": "2026-10-19T18:43:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361101-20261019182217",
     "inmateNumber": "361101",
     "name": "ALEKSEYEV, TIMOFEY A",
