@@ -372,9 +372,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T10:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T14:35:16",
     "baseline": false
   },
   {
@@ -864,9 +864,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T12:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T14:35:16",
     "baseline": false
   },
   {
@@ -5688,12 +5688,12 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-10-08T17:30:58",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610010508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
@@ -9078,7 +9078,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2210118908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
