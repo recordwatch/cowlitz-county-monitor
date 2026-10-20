@@ -15,7 +15,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401414",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -41,7 +41,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0166232",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -52,7 +52,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0430810",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -115,7 +115,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0425023",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -126,7 +126,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0425023",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -152,7 +152,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6a0425442",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -163,7 +163,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6a0425442",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -189,7 +189,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0381620",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
