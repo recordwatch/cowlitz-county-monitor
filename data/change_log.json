@@ -2386,10 +2386,10 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610067808",
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -2397,7 +2397,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610067808",
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
