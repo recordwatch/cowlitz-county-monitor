@@ -1281,7 +1281,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "INTAKE H8",
+    "location": "INTAKE H5",
     "arrestingAgency": "KEPD",
     "bondTotal": 9000,
     "charges": [
@@ -13107,7 +13107,7 @@
     "bookedAt": "2026-01-14T10:20:14",
     "location": "F10",
     "arrestingAgency": "CCSO",
-    "bondTotal": 75000,
+    "bondTotal": 77000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -13172,8 +13172,8 @@
         "warrantNumber": "6A0010428",
         "disposition": null,
         "billingAgency": "DIST",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "MAL MISCH 3RD > $50",
@@ -13194,8 +13194,8 @@
         "warrantNumber": "6A0150283",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
