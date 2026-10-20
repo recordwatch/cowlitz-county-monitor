@@ -8,9 +8,9 @@
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T15:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T16:15:18",
     "baseline": false
   },
   {
@@ -18,7 +18,7 @@
     "inmateNumber": "32284",
     "name": "JENNE, CYNTHIA LYNN",
     "bookedAt": "2026-10-20T15:11:24",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -58,7 +58,7 @@
     "inmateNumber": "71771",
     "name": "WINCHESTER, KYLE JAMES",
     "bookedAt": "2026-10-20T14:41:25",
-    "location": "B22",
+    "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -359,9 +359,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T18:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T16:15:18",
     "baseline": false
   },
   {
@@ -4096,7 +4096,7 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "A13",
+    "location": "G-G01",
     "arrestingAgency": "LVPD",
     "bondTotal": 17000,
     "charges": [
