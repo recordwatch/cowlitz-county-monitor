@@ -32,7 +32,7 @@
     "bookedAt": "2026-10-20T04:22:00",
     "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DUI",
@@ -54,7 +54,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -143,14 +143,14 @@
     "bookedAt": "2026-10-19T19:55:08",
     "location": "INTAKE H3",
     "arrestingAgency": "WDPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 1ST",
         "offenseDate": "2026-10-19T20:04:38",
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
-        "warrantNumber": "6a0425442",
+        "warrantNumber": "6A0425442",
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
@@ -164,8 +164,8 @@
         "warrantNumber": "6a0425442",
         "disposition": null,
         "billingAgency": "WDPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6089,7 +6089,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "161002550",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
