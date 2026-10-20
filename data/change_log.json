@@ -241,7 +241,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510021008",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -267,7 +267,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510080808",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -330,7 +330,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0382485",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -9995,15 +9995,15 @@
     "bondTotal": 200,
     "charges": [
       {
-        "description": "THEFT OF MOTOR VEHICLE",
+        "description": "TAKING VEH W/O PERM 2ND DEG",
         "offenseDate": "2026-09-02T07:58:10",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510036708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 200
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
