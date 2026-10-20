@@ -1,10 +1,36 @@
 [
   {
+    "id": "361101-20261019182217",
+    "inmateNumber": "361101",
+    "name": "ALEKSEYEV, TIMOFEY A",
+    "bookedAt": "2026-10-19T18:22:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FORGERY",
+        "offenseDate": "2026-10-19T18:24:14",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T18:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "278117-20261019173909",
     "inmateNumber": "278117",
     "name": "NIFON, TRAVES FREDDY",
     "bookedAt": "2026-10-19T17:39:09",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -1566,7 +1592,7 @@
     "inmateNumber": "48393",
     "name": "STRODE, RONNIE DEAN JR",
     "bookedAt": "2026-10-15T22:44:59",
-    "location": "A16",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 100000,
     "charges": [
@@ -3731,7 +3757,7 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "A10",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 17000,
     "charges": [
