@@ -4,7 +4,7 @@
     "inmateNumber": "37107",
     "name": "LATSON, MANDY RAE",
     "bookedAt": "2026-10-20T04:49:10",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "277224",
     "name": "HUGDAHL, CAMERON JOSEPH",
     "bookedAt": "2026-10-20T04:22:00",
-    "location": "INTAKE H1",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -7292,7 +7292,7 @@
     "inmateNumber": "220277",
     "name": "KEITH, NICHOLAS ALEXANDER",
     "bookedAt": "2026-10-01T07:35:19",
-    "location": "G-G41",
+    "location": "G-G46",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -9803,9 +9803,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T06:15:18",
     "baseline": true
   },
   {
