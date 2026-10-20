@@ -1,5 +1,42 @@
 [
   {
+    "id": "275001-20261020120958",
+    "inmateNumber": "275001",
+    "name": "MARKSTROM, RYAN THOMAS",
+    "bookedAt": "2026-10-20T12:09:58",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "offenseDate": "2026-10-20T12:16:06",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-20T12:16:52",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T12:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "37107-20261020044910",
     "inmateNumber": "37107",
     "name": "LATSON, MANDY RAE",
