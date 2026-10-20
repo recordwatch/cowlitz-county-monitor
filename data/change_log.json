@@ -1,5 +1,42 @@
 [
   {
+    "id": "4332-20261020023730",
+    "inmateNumber": "4332",
+    "name": "CHALUPA, RANDY SCOTT",
+    "bookedAt": "2026-10-20T02:37:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VEHICULAR ASSAULT",
+        "offenseDate": "2026-10-20T02:40:02",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-10-20T02:41:00",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T03:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "219627-20261019214927",
     "inmateNumber": "219627",
     "name": "HUMPHREY, CHAUNTE SHEA ANNE",
