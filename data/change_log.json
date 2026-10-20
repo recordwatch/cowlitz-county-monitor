@@ -4,10 +4,22 @@
     "inmateNumber": "71771",
     "name": "WINCHESTER, KYLE JAMES",
     "bookedAt": "2026-10-20T14:41:25",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "location": "B22",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-20T14:47:37",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0349541",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-20T15:05:26",
     "releasedAt": null,

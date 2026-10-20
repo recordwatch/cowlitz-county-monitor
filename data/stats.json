@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:15:21",
+  "generatedAt": "2026-10-20T15:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 308,
@@ -174,12 +174,12 @@
     {
       "name": "DOC HOLD",
       "count": 59,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 45,
-      "pct": 5.5
+      "count": 46,
+      "pct": 5.7
     },
     {
       "name": "DUI",
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 69,
-      "pct": 22.5,
+      "count": 70,
+      "pct": 22.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 30,
-      "pct": 9.8,
+      "count": 29,
+      "pct": 9.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 215,
-      "pct": 26.4
+      "count": 216,
+      "pct": 26.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -388,8 +388,8 @@
     },
     {
       "name": "B",
-      "count": 33,
-      "pct": 19.2
+      "count": 34,
+      "pct": 19.7
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 38,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "H",
