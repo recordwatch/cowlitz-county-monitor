@@ -114,10 +114,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0425023",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "NVOL - WITHOUT ID",
@@ -125,10 +125,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0425023",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -230,7 +230,7 @@
     "inmateNumber": "278117",
     "name": "NIFON, TRAVES FREDDY",
     "bookedAt": "2026-10-19T17:39:09",
-    "location": "INTAKE H3",
+    "location": "B24",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -549,8 +549,8 @@
         "warrantNumber": "6A0052187",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -987,7 +987,7 @@
     "bookedAt": "2026-10-17T21:35:44",
     "location": "B24",
     "arrestingAgency": "LVPD",
-    "bondTotal": 6000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "MAL MISCH 2ND > $750",
@@ -1006,10 +1006,10 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "4A0164373",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3652,7 +3652,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2510062608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -4240,7 +4240,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2410070821",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -4351,7 +4351,7 @@
         "arrestingAgency": "CCSO",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2310001908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5279,7 +5279,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2510073508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -6079,7 +6079,7 @@
     "inmateNumber": "194695",
     "name": "DACUS, JAMAAL RASHAD",
     "bookedAt": "2026-10-07T01:38:40",
-    "location": "D12",
+    "location": "F12",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
