@@ -53,8 +53,8 @@
         "warrantNumber": "6A0401414",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -251,7 +251,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610068908",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -366,10 +366,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0382485",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1492,7 +1492,7 @@
     "inmateNumber": "168125",
     "name": "NETTLES, JASON CODY",
     "bookedAt": "2026-10-16T15:01:29",
-    "location": "INTAKE H6",
+    "location": "A23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -8304,7 +8304,7 @@
     "inmateNumber": "99843",
     "name": "LHEUREUX, MATTHEW JOSEPH",
     "bookedAt": "2026-09-24T16:30:01",
-    "location": "C26",
+    "location": "D12",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
