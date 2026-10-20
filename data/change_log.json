@@ -1,10 +1,36 @@
 [
   {
+    "id": "278117-20261019173909",
+    "inmateNumber": "278117",
+    "name": "NIFON, TRAVES FREDDY",
+    "bookedAt": "2026-10-19T17:39:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-19T17:43:08",
+        "arrestingAgency": "KEPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2510021008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-19T18:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "271635-20261019153419",
     "inmateNumber": "271635",
     "name": "HAUSINGER, ZACHARY LAWRANCE",
     "bookedAt": "2026-10-19T15:34:19",
-    "location": "INTAKE H5",
+    "location": "B22",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [

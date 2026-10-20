@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-19T17:55:15",
+  "generatedAt": "2026-10-19T18:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 298,
-    "bookingsObserved": 132,
+    "bookingsTracked": 299,
+    "bookingsObserved": 133,
     "releasesObserved": 123,
-    "inCustody": 175,
-    "uniquePeople": 296
+    "inCustody": 176,
+    "uniquePeople": 297
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 8,
+      "booked": 9,
       "released": 18
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 58,
-      "pct": 7.3
+      "count": 59,
+      "pct": 7.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 120,
-      "pct": 40.5,
+      "pct": 40.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 68,
-      "pct": 23,
+      "pct": 22.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 35,
-      "pct": 11.8,
+      "count": 36,
+      "pct": 12.1,
       "label": "Kelso Police"
     },
     {
@@ -322,7 +322,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 313,
-      "pct": 39.2
+      "pct": 39.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 45,
-      "pct": 5.6
+      "count": 46,
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -388,8 +388,8 @@
     },
     {
       "name": "B",
-      "count": 31,
-      "pct": 17.7
+      "count": 32,
+      "pct": 18.3
     },
     {
       "name": "C",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.9
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 18.9,
-    "currentLongestDaysHeld": 495
+    "currentMedianDaysHeld": 18.7,
+    "currentLongestDaysHeld": 495.1
   },
   "bond": {
     "withBond": 121,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4885450
