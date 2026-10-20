@@ -1,5 +1,90 @@
 [
   {
+    "id": "311762-20261020161650",
+    "inmateNumber": "311762",
+    "name": "STEWART, JACK HADLEY",
+    "bookedAt": "2026-10-20T16:16:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-20T16:20:19",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2410045108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T16:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "86944-20261020160339",
+    "inmateNumber": "86944",
+    "name": "COOLEY, MICHAEL ASHTON RUIZ",
+    "bookedAt": "2026-10-20T16:03:39",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RETAIL THEFT W/ CIRCUMSTANCES",
+        "offenseDate": "2026-10-20T16:10:51",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-10-20T16:12:11",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-20T16:12:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-10-20T16:11:37",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T16:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "35130-20261020154650",
     "inmateNumber": "35130",
     "name": "KUBI, DONALD EUGENE",
@@ -5446,7 +5531,7 @@
     "inmateNumber": "192093",
     "name": "ORTEGA, JESUS",
     "bookedAt": "2026-10-10T02:04:21",
-    "location": "G-G13",
+    "location": "G-G14",
     "arrestingAgency": "KEPD",
     "bondTotal": 5000,
     "charges": [
