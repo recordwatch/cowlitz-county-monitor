@@ -68,13 +68,13 @@
     "name": "REED, CORY DANIEL",
     "bookedAt": "2026-10-21T11:01:38",
     "location": "A10",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-21T11:56:45",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0250301",
         "disposition": null,
@@ -85,7 +85,7 @@
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-10-21T11:58:19",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0250301",
         "disposition": null,
@@ -96,7 +96,7 @@
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-10-21T11:36:05",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0039258",
         "disposition": null,
@@ -107,7 +107,7 @@
       {
         "description": "DWLS 2ND",
         "offenseDate": "2026-10-21T11:36:48",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0039258",
         "disposition": null,
@@ -118,7 +118,7 @@
       {
         "description": "MAL MISCH 3RD > $50 DV",
         "offenseDate": "2026-10-21T11:37:34",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0150564",
         "disposition": null,
