@@ -370,9 +370,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T03:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T20:15:19",
     "baseline": false
   },
   {
@@ -2029,7 +2029,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
