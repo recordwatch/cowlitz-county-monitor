@@ -30,7 +30,7 @@
     "inmateNumber": "86944",
     "name": "COOLEY, MICHAEL ASHTON RUIZ",
     "bookedAt": "2026-10-20T16:03:39",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -329,7 +329,7 @@
     "inmateNumber": "4332",
     "name": "CHALUPA, RANDY SCOTT",
     "bookedAt": "2026-10-20T02:37:30",
-    "location": "INTAKE H2",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": 50000,
     "charges": [
