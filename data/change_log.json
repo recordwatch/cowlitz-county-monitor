@@ -4,10 +4,22 @@
     "inmateNumber": "269784",
     "name": "HANEY, BRANDEN TREVOR NEIL",
     "bookedAt": "2026-10-21T10:20:40",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-21T10:30:55",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0315046",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T10:55:16",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "220675",
     "name": "WILCOX, ZAKRE KARL",
     "bookedAt": "2026-10-21T10:11:45",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -424,7 +436,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0349541",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -435,7 +447,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0684855",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       },
@@ -446,7 +458,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0083315",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       }
@@ -524,7 +536,7 @@
     "inmateNumber": "277224",
     "name": "HUGDAHL, CAMERON JOSEPH",
     "bookedAt": "2026-10-20T04:22:00",
-    "location": "INTAKE H3",
+    "location": "C12",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -1047,6 +1059,17 @@
         "bondAmount": null
       },
       {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-21T10:30:45",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0159977",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "DWLS 1ST",
         "offenseDate": "2026-10-21T09:05:08",
         "arrestingAgency": "KEPD",
@@ -1058,8 +1081,8 @@
         "bondAmount": 1000
       },
       {
-        "description": "CRIM TRESPASS 1ST",
-        "offenseDate": "2026-10-19T00:57:36",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-19T00:56:23",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425022",
@@ -1069,14 +1092,14 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-19T00:56:23",
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-19T00:57:36",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425022",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -10245,12 +10268,12 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "ATTEMPT TO ELUDE",
         "offenseDate": "2026-09-09T11:59:19",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2010109608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
