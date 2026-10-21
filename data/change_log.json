@@ -1,5 +1,19 @@
 [
   {
+    "id": "168790-20261021002111",
+    "inmateNumber": "168790",
+    "name": "MALAKOWSKY, KYLE BLAKE",
+    "bookedAt": "2026-10-21T00:21:11",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T00:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "141316-20261020210756",
     "inmateNumber": "141316",
     "name": "RENIE, DAVID LEE",
