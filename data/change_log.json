@@ -4901,7 +4901,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0289960",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -7000,7 +7000,7 @@
         "offenseDate": "2026-10-07T13:15:35",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0402604",
+        "warrantNumber": "6A0371321",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
