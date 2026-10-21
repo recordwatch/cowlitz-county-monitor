@@ -155,7 +155,7 @@
     "inmateNumber": "13012",
     "name": "SPOTO, CRYSANIA ELIZABETH MAUREEN",
     "bookedAt": "2026-10-20T15:04:43",
-    "location": "E11",
+    "location": "E10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -4219,7 +4219,7 @@
     "inmateNumber": "15859",
     "name": "EDMONDS, MARK ANTHONY",
     "bookedAt": "2026-10-12T16:52:27",
-    "location": "G-G01",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 17000,
     "charges": [
