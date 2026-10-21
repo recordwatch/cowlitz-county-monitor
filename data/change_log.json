@@ -1,5 +1,31 @@
 [
   {
+    "id": "141316-20261020210756",
+    "inmateNumber": "141316",
+    "name": "RENIE, DAVID LEE",
+    "bookedAt": "2026-10-20T21:07:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-20T21:12:56",
+        "arrestingAgency": "KEPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2410071808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T21:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "94455-20261020190009",
     "inmateNumber": "94455",
     "name": "BURNETT, ROBERT DONALD",
@@ -3963,7 +3989,7 @@
     "inmateNumber": "220164",
     "name": "RIETH, JENNIFER DIANE",
     "bookedAt": "2026-10-13T11:36:14",
-    "location": "E13",
+    "location": "E11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -7461,7 +7487,7 @@
     "inmateNumber": "15798",
     "name": "RISMOEN, ANDREW SCOTT",
     "bookedAt": "2026-10-03T02:17:01",
-    "location": "A12",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
