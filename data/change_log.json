@@ -125,7 +125,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -155,6 +155,28 @@
       {
         "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-10-20T16:11:37",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": "Not Filed",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3 ATTEMPT",
+        "offenseDate": "2026-10-20T23:51:16",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-20T23:50:10",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,

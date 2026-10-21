@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:15:18",
+  "generatedAt": "2026-10-21T00:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 316,
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 66,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DOC HOLD",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 46,
-      "pct": 5.5
+      "count": 47,
+      "pct": 5.7
     },
     {
       "name": "DUI",
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 22,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "RESISTING ARREST",
@@ -321,8 +321,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 322,
-      "pct": 38.8
+      "count": 324,
+      "pct": 39
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -332,7 +332,7 @@
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 86,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "KELSO MUNICIPAL COURT",
