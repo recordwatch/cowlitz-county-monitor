@@ -8679,7 +8679,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "IDENTITY THEFT 2ND DEGREE",
