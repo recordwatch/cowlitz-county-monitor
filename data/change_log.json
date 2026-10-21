@@ -4738,7 +4738,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00068961",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
@@ -9848,7 +9848,7 @@
         "warrantNumber": "2510043808",
         "disposition": "Guilty",
         "billingAgency": "SUPR",
-        "bondType": "Secured",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -9863,7 +9863,18 @@
         "bondAmount": null
       },
       {
-        "description": "VIOLATE PROTECTION ORDER",
+        "description": "WITNESS TAMPERING",
+        "offenseDate": "2026-09-15T04:12:24",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610022508",
+        "disposition": "Guilty",
+        "billingAgency": "SUPR",
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "VIOLATION OF PROTECTION ORDER",
         "offenseDate": "2026-09-15T04:12:24",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
