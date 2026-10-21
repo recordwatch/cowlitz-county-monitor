@@ -1,11 +1,25 @@
 [
   {
+    "id": "353921-20261021110602",
+    "inmateNumber": "353921",
+    "name": "CAMACHO, BRANDON PINAULA",
+    "bookedAt": "2026-10-21T11:06:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T11:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "3963-20261021110138",
     "inmateNumber": "3963",
     "name": "REED, CORY DANIEL",
     "bookedAt": "2026-10-21T11:01:38",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -30,8 +44,8 @@
         "warrantNumber": "6A0426926",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -144,7 +158,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2510056508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -155,7 +169,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2510056508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -166,7 +180,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401415",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -192,7 +206,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410071808",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -218,7 +232,7 @@
         "court": "DOC COURT",
         "warrantNumber": "210078808",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -229,7 +243,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0328047",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -240,7 +254,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0431313",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -251,7 +265,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0431313",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -277,7 +291,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410045108",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -497,7 +511,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0083315",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
@@ -5913,7 +5927,7 @@
     "bookedAt": "2026-10-09T22:56:13",
     "location": "E22",
     "arrestingAgency": "CCSO",
-    "bondTotal": 5500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -5976,10 +5990,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233754",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -6553,7 +6567,7 @@
     "bookedAt": "2026-10-07T13:20:02",
     "location": "B25",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -6564,7 +6578,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
