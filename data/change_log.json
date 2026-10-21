@@ -173,7 +173,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069108",
-        "disposition": "Not Filed",
+        "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -206,7 +206,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069108",
-        "disposition": "Not Filed",
+        "disposition": null,
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -294,7 +294,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2210107708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -847,7 +847,7 @@
     "inmateNumber": "22293",
     "name": "COHEN, EMERSON KANE",
     "bookedAt": "2026-10-19T01:48:21",
-    "location": "INTAKE H7",
+    "location": "D14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
