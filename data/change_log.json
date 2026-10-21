@@ -16,7 +16,7 @@
         "warrantNumber": "2410045108",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -129,7 +129,7 @@
     "inmateNumber": "32284",
     "name": "JENNE, CYNTHIA LYNN",
     "bookedAt": "2026-10-20T15:11:24",
-    "location": "INTAKE H6",
+    "location": "E21",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -155,7 +155,7 @@
     "inmateNumber": "13012",
     "name": "SPOTO, CRYSANIA ELIZABETH MAUREEN",
     "bookedAt": "2026-10-20T15:04:43",
-    "location": "INTAKE H6",
+    "location": "E11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -181,7 +181,7 @@
     "inmateNumber": "71771",
     "name": "WINCHESTER, KYLE JAMES",
     "bookedAt": "2026-10-20T14:41:25",
-    "location": "1-PENDING BOOKING",
+    "location": "B22",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
