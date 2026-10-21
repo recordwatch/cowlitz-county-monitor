@@ -4,7 +4,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-10-20T16:16:50",
-    "location": "1-PENDING BOOKING",
+    "location": "A16",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -89,7 +89,7 @@
     "inmateNumber": "35130",
     "name": "KUBI, DONALD EUGENE",
     "bookedAt": "2026-10-20T15:46:50",
-    "location": "INTAKE H8",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
