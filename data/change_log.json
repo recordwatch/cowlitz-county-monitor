@@ -1,5 +1,19 @@
 [
   {
+    "id": "358304-20261021092310",
+    "inmateNumber": "358304",
+    "name": "STURGEON, LEVI RICHARD",
+    "bookedAt": "2026-10-21T09:23:10",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T09:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "168790-20261021002111",
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
@@ -923,7 +937,7 @@
     "bookedAt": "2026-10-19T00:25:31",
     "location": "B22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 40000,
+    "bondTotal": 41000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -968,6 +982,17 @@
         "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-10-21T09:05:08",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0192386",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -10114,7 +10139,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610058908",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 5000

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T09:35:17",
+  "generatedAt": "2026-10-21T09:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 317,
-    "bookingsObserved": 151,
+    "bookingsTracked": 318,
+    "bookingsObserved": 152,
     "releasesObserved": 146,
-    "inCustody": 171,
-    "uniquePeople": 314
+    "inCustody": 172,
+    "uniquePeople": 315
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 126,
-      "pct": 40,
+      "count": 127,
+      "pct": 40.2,
       "label": "Longview Police"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 9,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Woodland Police"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 221,
-      "pct": 26.5
+      "count": 222,
+      "pct": 26.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -467,10 +467,10 @@
   },
   "bond": {
     "withBond": 118,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4879950
+    "totalBond": 4880950
   },
   "chargesPerBooking": 2.6
 }
