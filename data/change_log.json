@@ -357,7 +357,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0684855",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -4515,9 +4515,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T10:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T08:15:19",
     "baseline": false
   },
   {
@@ -4781,8 +4781,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -4792,8 +4792,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -8296,7 +8296,7 @@
     "inmateNumber": "67451",
     "name": "TRUONG, MY TAN",
     "bookedAt": "2026-09-27T21:44:18",
-    "location": "D14",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
@@ -9422,7 +9422,7 @@
     "inmateNumber": "311112",
     "name": "ZIMMERMAN, KRISTINA CATHERN",
     "bookedAt": "2026-09-18T10:35:42",
-    "location": "D22",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
