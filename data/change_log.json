@@ -1,5 +1,45 @@
 [
   {
+    "id": "269784-20261021102040",
+    "inmateNumber": "269784",
+    "name": "HANEY, BRANDEN TREVOR NEIL",
+    "bookedAt": "2026-10-21T10:20:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "220675-20261021101145",
+    "inmateNumber": "220675",
+    "name": "WILCOX, ZAKRE KARL",
+    "bookedAt": "2026-10-21T10:11:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-21T10:17:06",
+        "arrestingAgency": "CCCD",
+        "court": "DRUG COURT",
+        "warrantNumber": "2510087008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358304-20261021092310",
     "inmateNumber": "358304",
     "name": "STURGEON, LEVI RICHARD",
@@ -6111,7 +6151,7 @@
     "inmateNumber": "146482",
     "name": "HYATT, ROBERT DAVID III",
     "bookedAt": "2026-10-08T17:22:27",
-    "location": "G-G19",
+    "location": "G-G02",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -8965,7 +9005,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-09-21T22:03:03",
-    "location": "G-G15",
+    "location": "G-G14",
     "arrestingAgency": "LVPD",
     "bondTotal": 5500,
     "charges": [
@@ -10545,7 +10585,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "POSS STL PROP 2/>250",
         "offenseDate": "2026-08-30T08:01:55",
         "arrestingAgency": "CCSO",
         "court": "DRUG COURT",
@@ -11096,6 +11136,17 @@
         "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-21T10:17:29",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0319285",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
