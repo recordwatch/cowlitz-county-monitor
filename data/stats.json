@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:55:16",
+  "generatedAt": "2026-10-21T01:15:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 317,
@@ -173,13 +173,13 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 63,
-      "pct": 7.6
+      "count": 65,
+      "pct": 7.8
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 47,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "DUI",
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 22,
-      "pct": 2.6
+      "count": 23,
+      "pct": 2.8
     },
     {
       "name": "RESISTING ARREST",
@@ -322,11 +322,11 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 324,
-      "pct": 39
+      "pct": 38.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 220,
+      "count": 221,
       "pct": 26.5
     },
     {
@@ -355,14 +355,14 @@
       "pct": 1.4
     },
     {
-      "name": "DRUG COURT",
+      "name": "DOC CONTRACT COURT",
       "count": 10,
       "pct": 1.2
     },
     {
-      "name": "DOC CONTRACT COURT",
-      "count": 8,
-      "pct": 1
+      "name": "DRUG COURT",
+      "count": 10,
+      "pct": 1.2
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "B",
       "count": 32,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "D",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 25,
-      "pct": 14.5
+      "pct": 14.4
     },
     {
       "name": "F",
       "count": 6,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "G",
       "count": 36,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 16.8,
-    "currentLongestDaysHeld": 496.3
+    "currentLongestDaysHeld": 496.4
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 57,
+    "withBond": 118,
+    "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4878950
+    "totalBond": 4879950
   },
   "chargesPerBooking": 2.6
 }
