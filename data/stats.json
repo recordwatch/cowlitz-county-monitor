@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T15:55:16",
+  "generatedAt": "2026-10-21T16:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 328,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 110,
+      "count": 111,
       "pct": 12.9
     },
     {
@@ -179,17 +179,17 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 51,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "DUI",
-      "count": 44,
+      "count": 45,
       "pct": 5.2
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 35,
-      "pct": 4.1
+      "count": 38,
+      "pct": 4.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -214,7 +214,7 @@
     {
       "name": "ASSAULT 3RD",
       "count": 15,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -321,38 +321,38 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 327,
-      "pct": 38.3
+      "count": 330,
+      "pct": 38.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 226,
-      "pct": 26.5
+      "pct": 26.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 87,
-      "pct": 10.2
+      "count": 88,
+      "pct": 10.3
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 81,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "DOC COURT",
       "count": 51,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 33,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
-      "count": 12,
-      "pct": 1.4
+      "count": 13,
+      "pct": 1.5
     },
     {
       "name": "DRUG COURT",
@@ -372,59 +372,59 @@
     {
       "name": "KALAMA MUNICIPAL COURT",
       "count": 3,
-      "pct": 0.4
+      "pct": 0.3
     },
     {
       "name": "STATE WORK RELEASE",
       "count": 3,
-      "pct": 0.4
+      "pct": 0.3
     }
   ],
   "housingUnits": [
     {
       "name": "A",
       "count": 31,
-      "pct": 17.9
+      "pct": 17.6
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17.3
+      "pct": 17
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.1
+      "pct": 11.9
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
-      "count": 23,
-      "pct": 13.3
+      "count": 24,
+      "pct": 13.6
     },
     {
       "name": "F",
       "count": 6,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "G",
       "count": 34,
-      "pct": 19.7
+      "pct": 19.3
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 497
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 56,
+    "withBond": 122,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4684950
+    "totalBond": 4686950
   },
   "chargesPerBooking": 2.6
 }

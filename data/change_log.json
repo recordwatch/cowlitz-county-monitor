@@ -4,10 +4,22 @@
     "inmateNumber": "117420",
     "name": "BUCHANAN, AMANDA NICOLE",
     "bookedAt": "2026-10-21T15:20:48",
-    "location": "1-PENDING BOOKING",
+    "location": "E12",
     "arrestingAgency": "CCCD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-21T15:25:42",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0401410",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:55:16",
     "releasedAt": null,
@@ -55,10 +67,44 @@
     "inmateNumber": "13674",
     "name": "SPIRES, ANGELA MARIE",
     "bookedAt": "2026-10-21T14:52:40",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H7",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-21T15:31:21",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2410078208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-21T15:33:00",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510030308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-21T15:34:09",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510043608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:35:17",
     "releasedAt": null,
@@ -69,10 +115,22 @@
     "inmateNumber": "46756",
     "name": "GALLOWAY, RICHARD JAMES JR",
     "bookedAt": "2026-10-21T14:39:04",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CRPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-21T15:40:03",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6a0396104",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:15:19",
     "releasedAt": null,
