@@ -4,10 +4,33 @@
     "inmateNumber": "358304",
     "name": "STURGEON, LEVI RICHARD",
     "bookedAt": "2026-10-21T09:23:10",
-    "location": "1-PENDING BOOKING",
+    "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-21T09:32:25",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0231691",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-21T09:33:17",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0361824",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T09:55:19",
     "releasedAt": null,
@@ -9815,48 +9838,48 @@
     "bookedAt": "2026-09-15T03:56:16",
     "location": "B25",
     "arrestingAgency": "CCSO",
-    "bondTotal": 216000,
+    "bondTotal": 16000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "FELONY HARASSMENT",
         "offenseDate": "2026-09-15T04:09:42",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510043808",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 200000
+        "bondAmount": null
       },
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "ROBBERY 2ND DEGREE",
         "offenseDate": "2026-09-15T04:10:48",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510043908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "VIOLATE PROTECTION ORDER",
         "offenseDate": "2026-09-15T04:12:24",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610022508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "TRAFF STOL PROP 1ST",
         "offenseDate": "2026-09-15T04:14:24",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610037708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
@@ -10134,6 +10157,17 @@
         "bondAmount": null
       },
       {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-09-10T18:39:49",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610058908",
+        "disposition": "Guilty",
+        "billingAgency": "SUPR",
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
         "description": "USE PARAPHENALIA",
         "offenseDate": "2026-09-10T18:38:18",
         "arrestingAgency": "LVPD",
@@ -10141,18 +10175,7 @@
         "warrantNumber": "2610058908",
         "disposition": "Dismissed",
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 5000
-      },
-      {
-        "description": "THEFT WITH INTENT TO RESELL <250",
-        "offenseDate": "2026-09-10T18:39:49",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610058908",
-        "disposition": null,
-        "billingAgency": "SUPR",
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
