@@ -1,5 +1,33 @@
 [
   {
+    "id": "75303-20261021150138",
+    "inmateNumber": "75303",
+    "name": "MINOR, ALICIA LEANNE",
+    "bookedAt": "2026-10-21T15:01:38",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "13674-20261021145240",
+    "inmateNumber": "13674",
+    "name": "SPIRES, ANGELA MARIE",
+    "bookedAt": "2026-10-21T14:52:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "46756-20261021143904",
     "inmateNumber": "46756",
     "name": "GALLOWAY, RICHARD JAMES JR",
@@ -496,9 +524,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T16:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:35:17",
     "baseline": false
   },
   {
@@ -636,9 +664,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T15:05:26",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:35:17",
     "baseline": false
   },
   {
