@@ -1,5 +1,19 @@
 [
   {
+    "id": "94455-20261020190009",
+    "inmateNumber": "94455",
+    "name": "BURNETT, ROBERT DONALD",
+    "bookedAt": "2026-10-20T19:00:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T19:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "311762-20261020161650",
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
@@ -30,7 +44,7 @@
     "inmateNumber": "86944",
     "name": "COOLEY, MICHAEL ASHTON RUIZ",
     "bookedAt": "2026-10-20T16:03:39",
-    "location": "INTAKE H8",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -1000,9 +1014,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T20:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T19:35:15",
     "baseline": false
   },
   {
