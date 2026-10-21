@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T11:15:19",
+  "generatedAt": "2026-10-21T11:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 320,
-    "bookingsObserved": 154,
+    "bookingsTracked": 322,
+    "bookingsObserved": 156,
     "releasesObserved": 146,
-    "inCustody": 174,
-    "uniquePeople": 317
+    "inCustody": 176,
+    "uniquePeople": 319
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 4,
+      "booked": 6,
       "released": 3
     }
   ],
@@ -259,20 +259,20 @@
     {
       "name": "DISORDERLY CONDUCT",
       "count": 8,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 127,
-      "pct": 39.9,
+      "count": 128,
+      "pct": 40.1,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 70,
-      "pct": 22,
+      "pct": 21.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 32,
-      "pct": 10.1,
+      "pct": 10,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 11,
-      "pct": 3.5,
+      "pct": 3.4,
       "label": "Washington State Patrol"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 224,
-      "pct": 26.6
+      "count": 225,
+      "pct": 26.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -462,15 +462,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 17.1,
+    "currentMedianDaysHeld": 16.9,
     "currentLongestDaysHeld": 496.8
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 54,
+    "withBond": 121,
+    "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4683450
+    "totalBond": 4684450
   },
   "chargesPerBooking": 2.6
 }

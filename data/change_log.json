@@ -1,5 +1,45 @@
 [
   {
+    "id": "3963-20261021110138",
+    "inmateNumber": "3963",
+    "name": "REED, CORY DANIEL",
+    "bookedAt": "2026-10-21T11:01:38",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T11:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "6738-20261021104535",
+    "inmateNumber": "6738",
+    "name": "DIXON, DOUGLAS LYNN",
+    "bookedAt": "2026-10-21T10:45:35",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTI",
+        "offenseDate": "2026-10-21T10:50:48",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0426926",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T11:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "269784-20261021102040",
     "inmateNumber": "269784",
     "name": "HANEY, BRANDEN TREVOR NEIL",
@@ -344,7 +384,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0593165",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -384,7 +424,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2210107708",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -410,7 +450,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0089301",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -536,7 +576,7 @@
     "inmateNumber": "277224",
     "name": "HUGDAHL, CAMERON JOSEPH",
     "bookedAt": "2026-10-20T04:22:00",
-    "location": "C12",
+    "location": "C11",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -10225,7 +10265,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2310099808",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
