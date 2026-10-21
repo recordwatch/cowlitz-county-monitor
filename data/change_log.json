@@ -4,10 +4,55 @@
     "inmateNumber": "94455",
     "name": "BURNETT, ROBERT DONALD",
     "bookedAt": "2026-10-20T19:00:09",
-    "location": "1-PENDING BOOKING",
+    "location": "C11",
     "arrestingAgency": "DOC",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-20T19:51:35",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "210078808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-20T19:49:17",
+        "arrestingAgency": "DOC",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0328047",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-20T19:50:20",
+        "arrestingAgency": "DOC",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431313",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-20T19:51:02",
+        "arrestingAgency": "DOC",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431313",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-20T19:35:15",
     "releasedAt": null,
@@ -2032,9 +2077,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T00:55:24",
-    "releasedAt": null,
+    "releasedAt": "2026-10-20T20:35:15",
     "baseline": false
   },
   {
