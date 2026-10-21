@@ -11542,7 +11542,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 35000
+        "bondAmount": null
       },
       {
         "description": "CYBER HARASSMENT FELONY",
