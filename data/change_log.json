@@ -1,13 +1,50 @@
 [
   {
+    "id": "117420-20261021152048",
+    "inmateNumber": "117420",
+    "name": "BUCHANAN, AMANDA NICOLE",
+    "bookedAt": "2026-10-21T15:20:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75303-20261021150138",
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "E20",
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "HARASSMENT-PREV CONV/DEATH THREAT",
+        "offenseDate": "2026-10-21T15:06:49",
+        "arrestingAgency": "CCCD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2210017608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-10-21T15:07:56",
+        "arrestingAgency": "CCCD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2210041108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-21T15:35:17",
     "releasedAt": null,

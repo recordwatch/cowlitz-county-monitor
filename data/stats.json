@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T15:35:17",
+  "generatedAt": "2026-10-21T15:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 327,
-    "bookingsObserved": 161,
+    "bookingsTracked": 328,
+    "bookingsObserved": 162,
     "releasesObserved": 152,
-    "inCustody": 175,
-    "uniquePeople": 323
+    "inCustody": 176,
+    "uniquePeople": 324
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 11,
+      "booked": 12,
       "released": 9
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DOC HOLD",
       "count": 66,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DWLS 3RD",
       "count": 66,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,31 +266,31 @@
     {
       "name": "LVPD",
       "count": 130,
-      "pct": 40.1,
+      "pct": 39.9,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 22.2,
+      "pct": 22.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 41,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 33,
-      "pct": 10.2,
+      "count": 35,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 18,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 327,
-      "pct": 38.4
+      "pct": 38.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 226,
-      "pct": 26.6
+      "pct": 26.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -366,8 +366,8 @@
     },
     {
       "name": "MENTAL HEALTH COURT",
-      "count": 5,
-      "pct": 0.6
+      "count": 7,
+      "pct": 0.8
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 12.8
+      "count": 23,
+      "pct": 13.3
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "H",
@@ -429,7 +429,7 @@
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4.1
+      "pct": 4
     }
   ],
   "stay": {
@@ -462,12 +462,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 16.9,
-    "currentLongestDaysHeld": 496.9
+    "currentMedianDaysHeld": 16.5,
+    "currentLongestDaysHeld": 497
   },
   "bond": {
     "withBond": 120,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4684950
