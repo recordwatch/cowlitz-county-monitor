@@ -1,5 +1,19 @@
 [
   {
+    "id": "46756-20261021143904",
+    "inmateNumber": "46756",
+    "name": "GALLOWAY, RICHARD JAMES JR",
+    "bookedAt": "2026-10-21T14:39:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T15:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "286562-20261021132557",
     "inmateNumber": "286562",
     "name": "LOKEY, MATTHEW CHARLES RAE",
@@ -20,9 +34,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T14:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:15:19",
     "baseline": false
   },
   {
@@ -327,13 +341,13 @@
     "name": "BURNETT, ROBERT DONALD",
     "bookedAt": "2026-10-20T19:00:09",
     "location": "C26",
-    "arrestingAgency": "DOC",
+    "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
       {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-20T19:51:35",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "210078808",
         "disposition": null,
@@ -344,7 +358,7 @@
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-10-20T19:49:17",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0328047",
         "disposition": null,
@@ -355,7 +369,7 @@
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-10-20T19:50:20",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0431313",
         "disposition": null,
@@ -366,7 +380,7 @@
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-10-20T19:51:02",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0431313",
         "disposition": null,
@@ -859,9 +873,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T19:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-21T15:15:19",
     "baseline": false
   },
   {
@@ -7161,7 +7175,7 @@
     "inmateNumber": "14005",
     "name": "SNOW, CODY JAMES",
     "bookedAt": "2026-10-06T10:19:48",
-    "location": "D20",
+    "location": "D22",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
