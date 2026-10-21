@@ -9,6 +9,17 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-21T13:10:09",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "171007813",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-21T11:29:33",
         "arrestingAgency": "CCSO",
@@ -291,7 +302,7 @@
     "bookedAt": "2026-10-20T19:00:09",
     "location": "C26",
     "arrestingAgency": "DOC",
-    "bondTotal": 3000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -324,7 +335,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 1500
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -334,8 +345,8 @@
         "warrantNumber": "6A0431313",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -379,8 +390,8 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "RETAIL THEFT W/ CIRCUMSTANCES",
-        "offenseDate": "2026-10-20T16:10:51",
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-10-20T16:12:11",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069108",
@@ -390,14 +401,14 @@
         "bondAmount": null
       },
       {
-        "description": "BURGLARY 2ND",
-        "offenseDate": "2026-10-20T16:12:11",
+        "description": "RETAIL THEFT W/ CIRCUMSTANCES",
+        "offenseDate": "2026-10-20T16:10:51",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069108",
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -417,7 +428,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069108",
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -465,7 +476,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0593165",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -597,7 +608,7 @@
     "bookedAt": "2026-10-20T12:09:58",
     "location": "A15",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -607,8 +618,8 @@
         "warrantNumber": "2610069208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "RESISTING ARREST",
@@ -985,8 +996,8 @@
         "warrantNumber": "1A0401529",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -996,8 +1007,8 @@
         "warrantNumber": "1A0633388",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -1007,8 +1018,8 @@
         "warrantNumber": "6A0401412",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1500
       },
       {
         "description": "DISORDERLY CONDUCT",
@@ -6003,10 +6014,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0310440",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CARRY CONCEAL WEAPON",
@@ -6014,7 +6025,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0310440",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -6025,10 +6036,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0095231",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -6036,10 +6047,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0098033",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -6047,10 +6058,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0098035",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -6069,10 +6080,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279323",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "FAIL TO TRANSFER TITLE",
@@ -6080,7 +6091,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279323",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null

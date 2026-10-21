@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:35:15",
+  "generatedAt": "2026-10-21T13:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 323,
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 110,
-      "pct": 13
+      "pct": 12.9
+    },
+    {
+      "name": "DOC HOLD",
+      "count": 66,
+      "pct": 7.8
     },
     {
       "name": "DWLS 3RD",
       "count": 66,
       "pct": 7.8
-    },
-    {
-      "name": "DOC HOLD",
-      "count": 65,
-      "pct": 7.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 50,
-      "pct": 5.9
+      "count": 51,
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 496.9
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 55,
+    "withBond": 123,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4686450
+    "totalBond": 4695950
   },
   "chargesPerBooking": 2.6
 }
