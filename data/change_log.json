@@ -1,10 +1,62 @@
 [
   {
+    "id": "123359-20261021201454",
+    "inmateNumber": "123359",
+    "name": "JOHNSON, BRIAN KEITH",
+    "bookedAt": "2026-10-21T20:14:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-21T20:23:19",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00885269",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "63049-20261021200950",
+    "inmateNumber": "63049",
+    "name": "FLORY, ANDREA JAYNE",
+    "bookedAt": "2026-10-21T20:09:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-21T20:10:36",
+        "arrestingAgency": "WSP",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T20:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357717-20261021191226",
     "inmateNumber": "357717",
     "name": "ROMERO, KATHARYN ELIZABETH",
     "bookedAt": "2026-10-21T19:12:26",
-    "location": "INTAKE H6",
+    "location": "E24",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [

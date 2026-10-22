@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T20:35:17",
+  "generatedAt": "2026-10-21T20:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 329,
-    "bookingsObserved": 163,
+    "bookingsTracked": 331,
+    "bookingsObserved": 165,
     "releasesObserved": 153,
-    "inCustody": 176,
-    "uniquePeople": 325
+    "inCustody": 178,
+    "uniquePeople": 327
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 13,
+      "booked": 15,
       "released": 10
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 46,
-      "pct": 5.4
+      "count": 48,
+      "pct": 5.6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 130,
-      "pct": 39.8,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 22,
+      "pct": 21.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 36,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -295,14 +295,14 @@
     },
     {
       "name": "WSP",
-      "count": 11,
-      "pct": 3.4,
+      "count": 13,
+      "pct": 4,
       "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
       "count": 9,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Woodland Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 330,
-      "pct": 38.4
+      "pct": 38.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 227,
-      "pct": 26.4
+      "count": 228,
+      "pct": 26.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 88,
-      "pct": 10.2
+      "count": 89,
+      "pct": 10.3
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 23,
-      "pct": 13.1
+      "count": 24,
+      "pct": 13.6
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 16.7,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 497.2
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 123,
     "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4685950
+    "totalBond": 4687950
   },
   "chargesPerBooking": 2.6
 }
