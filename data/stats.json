@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:55:16",
+  "generatedAt": "2026-10-21T21:15:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 331,
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 130,
-      "pct": 39.5,
+      "count": 131,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 13,
-      "pct": 4,
+      "count": 12,
+      "pct": 3.6,
       "label": "Washington State Patrol"
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "D",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 7,
+      "pct": 4
     },
     {
       "name": "WSH",
