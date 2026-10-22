@@ -12,12 +12,12 @@
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-10-21T15:25:42",
         "arrestingAgency": "CCCD",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401410",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3822,7 +3822,7 @@
     "inmateNumber": "82423",
     "name": "COCHRAN, BRANDON MICHAEL",
     "bookedAt": "2026-10-14T10:00:33",
-    "location": "A16",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
