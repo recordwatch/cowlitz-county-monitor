@@ -25,10 +25,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0381623",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -106,7 +106,7 @@
     "bookedAt": "2026-10-21T21:48:22",
     "location": "E13",
     "arrestingAgency": "LVPD",
-    "bondTotal": 9000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -114,10 +114,10 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "4A0160005",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
