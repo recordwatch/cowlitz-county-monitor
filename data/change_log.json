@@ -4,7 +4,7 @@
     "inmateNumber": "21229",
     "name": "GRIFFIN, STEVEN LEROY",
     "bookedAt": "2026-10-22T00:08:20",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -78,7 +78,7 @@
     "inmateNumber": "1685",
     "name": "DE LA CRUZ LEYVA, MAGDIEL",
     "bookedAt": "2026-10-21T22:23:57",
-    "location": "INTAKE H8",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
