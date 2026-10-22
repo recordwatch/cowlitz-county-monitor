@@ -1,10 +1,36 @@
 [
   {
+    "id": "1685-20261021222357",
+    "inmateNumber": "1685",
+    "name": "DE LA CRUZ LEYVA, MAGDIEL",
+    "bookedAt": "2026-10-21T22:23:57",
+    "location": "INTAKE H8",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "REFUSE INFO COOP OFC",
+        "offenseDate": "2026-10-21T22:34:02",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0240602",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-21T23:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "5275-20261021214822",
     "inmateNumber": "5275",
     "name": "RISCAJCHE, BRENDA JOANN",
     "bookedAt": "2026-10-21T21:48:22",
-    "location": "INTAKE H6",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 9000,
     "charges": [

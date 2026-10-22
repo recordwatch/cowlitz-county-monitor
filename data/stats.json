@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:55:17",
+  "generatedAt": "2026-10-21T23:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 332,
-    "bookingsObserved": 166,
+    "bookingsTracked": 333,
+    "bookingsObserved": 167,
     "releasesObserved": 156,
-    "inCustody": 176,
-    "uniquePeople": 328
+    "inCustody": 177,
+    "uniquePeople": 329
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 16,
+      "booked": 17,
       "released": 13
     }
   ],
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 30,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -254,7 +254,7 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 10,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 132,
-      "pct": 40,
+      "count": 133,
+      "pct": 40.2,
       "label": "Longview Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 18,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 330,
-      "pct": 38
+      "pct": 37.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 235,
-      "pct": 27
+      "count": 236,
+      "pct": 27.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -362,7 +362,7 @@
     {
       "name": "DOC CONTRACT COURT",
       "count": 10,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17
+      "pct": 16.9
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "D",
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 24,
-      "pct": 13.6
+      "count": 25,
+      "pct": 14.1
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "H",
@@ -462,12 +462,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 16.8,
+    "currentMedianDaysHeld": 16.4,
     "currentLongestDaysHeld": 497.3
   },
   "bond": {
     "withBond": 121,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4693950
