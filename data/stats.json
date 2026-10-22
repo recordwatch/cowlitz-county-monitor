@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:35:16",
+  "generatedAt": "2026-10-22T13:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 337,
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 25,
-      "pct": 14.2
+      "count": 24,
+      "pct": 13.6
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
@@ -470,7 +470,7 @@
     "noBond": 53,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4682200
+    "totalBond": 4680200
   },
   "chargesPerBooking": 2.6
 }
