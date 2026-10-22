@@ -4,7 +4,7 @@
     "inmateNumber": "147107",
     "name": "BAKER, KYLE THOMAS",
     "bookedAt": "2026-10-22T14:59:49",
-    "location": "INTAKE H3",
+    "location": "A21",
     "arrestingAgency": "DOC",
     "bondTotal": 1000,
     "charges": [
@@ -5505,7 +5505,7 @@
     "inmateNumber": "201907",
     "name": "WEESE, AARON TIMOTHY DESTIN",
     "bookedAt": "2026-10-12T07:50:26",
-    "location": "F23",
+    "location": "A12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
