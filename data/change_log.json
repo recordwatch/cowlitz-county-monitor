@@ -4,10 +4,22 @@
     "inmateNumber": "183660",
     "name": "SANTIAGO MENCHU, JUAN CARLOS",
     "bookedAt": "2026-10-22T11:41:34",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-10-22T11:51:26",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0402483",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T12:15:20",
     "releasedAt": null,
@@ -2470,7 +2482,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "INTAKE H5",
+    "location": "E23",
     "arrestingAgency": "KEPD",
     "bondTotal": 9000,
     "charges": [
@@ -10691,10 +10703,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0106644",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -10724,10 +10736,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0339576",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -10735,7 +10747,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0339576",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
@@ -10746,10 +10758,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0383687",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -10757,7 +10769,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0383687",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
@@ -10768,7 +10780,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0383687",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
