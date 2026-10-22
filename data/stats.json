@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T19:42:14",
+  "generatedAt": "2026-10-21T20:02:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 328,
-    "bookingsObserved": 162,
+    "bookingsTracked": 329,
+    "bookingsObserved": 163,
     "releasesObserved": 153,
-    "inCustody": 175,
-    "uniquePeople": 324
+    "inCustody": 176,
+    "uniquePeople": 325
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 12,
+      "booked": 13,
       "released": 10
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 45,
-      "pct": 5.2
+      "count": 46,
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,25 +266,25 @@
     {
       "name": "LVPD",
       "count": 130,
-      "pct": 39.9,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 22.1,
+      "pct": 22,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 41,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 35,
-      "pct": 10.7,
+      "count": 36,
+      "pct": 11,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 8,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Castle Rock Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 330,
-      "pct": 38.5
+      "pct": 38.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 227,
-      "pct": 26.5
+      "pct": 26.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 87,
-      "pct": 10.1
+      "count": 88,
+      "pct": 10.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17.1
+      "pct": 17
     },
     {
       "name": "C",
@@ -399,7 +399,7 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 7,
+      "pct": 4
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 17.1,
+    "currentMedianDaysHeld": 16.7,
     "currentLongestDaysHeld": 497.1
   },
   "bond": {
     "withBond": 121,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4685950
