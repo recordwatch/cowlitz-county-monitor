@@ -1,5 +1,75 @@
 [
   {
+    "id": "266596-20261022104656",
+    "inmateNumber": "266596",
+    "name": "JUSTIS, MILES EUGENE",
+    "bookedAt": "2026-10-22T10:46:56",
+    "location": "INTAKE H6",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-22T10:57:15",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0252555",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-22T10:59:38",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0252555",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-22T10:49:01",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0500068",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-22T10:50:10",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0500068",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-22T11:01:20",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0521075",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T11:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "21229-20261022000820",
     "inmateNumber": "21229",
     "name": "GRIFFIN, STEVEN LEROY",
