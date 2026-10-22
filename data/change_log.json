@@ -122,7 +122,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0381623",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -653,7 +653,7 @@
     "bookedAt": "2026-10-21T10:45:35",
     "location": "A12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOL PREV CONVICTI",
@@ -663,8 +663,8 @@
         "warrantNumber": "2610069308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
@@ -1193,7 +1193,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401414",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -4248,9 +4248,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T10:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T14:35:17",
     "baseline": false
   },
   {
@@ -6820,10 +6820,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0196839",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -7829,10 +7829,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423632",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -7969,7 +7969,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -7991,7 +7991,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -14363,7 +14363,7 @@
     "bookedAt": "2026-01-14T10:20:14",
     "location": "F10",
     "arrestingAgency": "CCSO",
-    "bondTotal": 78000,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -14393,10 +14393,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610002508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 75000
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 2ND",
