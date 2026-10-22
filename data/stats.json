@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T00:35:18",
+  "generatedAt": "2026-10-22T00:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 334,
-    "bookingsObserved": 168,
+    "bookingsTracked": 335,
+    "bookingsObserved": 169,
     "releasesObserved": 156,
-    "inCustody": 178,
-    "uniquePeople": 330
+    "inCustody": 179,
+    "uniquePeople": 331
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 66,
-      "pct": 7.6
+      "count": 67,
+      "pct": 7.7
     },
     {
       "name": "DWLS 3RD",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 38,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -203,8 +203,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 18,
-      "pct": 2.1
+      "count": 19,
+      "pct": 2.2
     },
     {
       "name": "FELONY HARASSMENT",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 134,
-      "pct": 40.4,
+      "pct": 40.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 41,
-      "pct": 12.3,
+      "count": 42,
+      "pct": 12.6,
       "label": "Kelso Police"
     },
     {
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 238,
-      "pct": 27.3
+      "pct": 27.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,13 +336,13 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 81,
-      "pct": 9.3
+      "count": 82,
+      "pct": 9.4
     },
     {
       "name": "DOC COURT",
-      "count": 51,
-      "pct": 5.8
+      "count": 52,
+      "pct": 5.9
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 497.3
   },
   "bond": {
-    "withBond": 122,
+    "withBond": 123,
     "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4694950
+    "totalBond": 4695450
   },
   "chargesPerBooking": 2.6
 }

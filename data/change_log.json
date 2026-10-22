@@ -1,5 +1,42 @@
 [
   {
+    "id": "21229-20261022000820",
+    "inmateNumber": "21229",
+    "name": "GRIFFIN, STEVEN LEROY",
+    "bookedAt": "2026-10-22T00:08:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-22T00:20:00",
+        "arrestingAgency": "KEPD",
+        "court": "DOC COURT",
+        "warrantNumber": "111002664",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-22T00:22:18",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0381623",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T00:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "100533-20261021234354",
     "inmateNumber": "100533",
     "name": "REDELF, ERNEST ROGER JR",
