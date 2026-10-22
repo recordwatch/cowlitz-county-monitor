@@ -1,5 +1,31 @@
 [
   {
+    "id": "47127-20261022143545",
+    "inmateNumber": "47127",
+    "name": "ROBESON, DRAKE ANDREW",
+    "bookedAt": "2026-10-22T14:35:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-22T14:54:50",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "4A0873871",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T15:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "183660-20261022114134",
     "inmateNumber": "183660",
     "name": "SANTIAGO MENCHU, JUAN CARLOS",
@@ -174,7 +200,7 @@
     "inmateNumber": "1685",
     "name": "DE LA CRUZ LEYVA, MAGDIEL",
     "bookedAt": "2026-10-21T22:23:57",
-    "location": "INTAKE H3",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -766,7 +792,7 @@
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
-    "location": "INTAKE H2",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -814,7 +840,7 @@
     "inmateNumber": "141316",
     "name": "RENIE, DAVID LEE",
     "bookedAt": "2026-10-20T21:07:56",
-    "location": "A10",
+    "location": "G-G15",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -1199,9 +1225,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T05:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T15:35:17",
     "baseline": false
   },
   {
@@ -2038,7 +2064,7 @@
     "inmateNumber": "157598",
     "name": "SHULER, TREVOR LEE",
     "bookedAt": "2026-10-18T10:13:22",
-    "location": "B21",
+    "location": "G-G09",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -2408,7 +2434,7 @@
     "inmateNumber": "197388",
     "name": "JONES, ARNOLD NATHANIL JR",
     "bookedAt": "2026-10-17T17:35:11",
-    "location": "B11",
+    "location": "G-G03",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -2893,7 +2919,7 @@
     "inmateNumber": "103359",
     "name": "WALTON, RICKY DAVID JEFREY",
     "bookedAt": "2026-10-16T10:26:24",
-    "location": "A15",
+    "location": "G-G13",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
@@ -4073,7 +4099,7 @@
     "inmateNumber": "66863",
     "name": "HILL, LLOYD CLAYTON",
     "bookedAt": "2026-10-14T14:11:28",
-    "location": "B11",
+    "location": "G-G07",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -4580,7 +4606,7 @@
     "inmateNumber": "38607",
     "name": "ALLSTOT, CLAYTON RYAN",
     "bookedAt": "2026-10-13T19:53:42",
-    "location": "B21",
+    "location": "G-G11",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
@@ -5576,8 +5602,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -5587,8 +5613,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -5963,7 +5989,7 @@
     "inmateNumber": "47189",
     "name": "EICHE, CHRISTOPHER OWEN",
     "bookedAt": "2026-10-10T23:20:21",
-    "location": "B11",
+    "location": "G-G01",
     "arrestingAgency": "LVPD",
     "bondTotal": 30000,
     "charges": [
@@ -6758,7 +6784,7 @@
     "inmateNumber": "169856",
     "name": "NEWMAN, DALTON AARON",
     "bookedAt": "2026-10-09T15:54:18",
-    "location": "B20",
+    "location": "G-G19",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6848,9 +6874,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T15:35:17",
     "baseline": true
   },
   {
