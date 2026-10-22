@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-21T22:15:18",
+  "generatedAt": "2026-10-21T22:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 331,
-    "bookingsObserved": 165,
-    "releasesObserved": 155,
+    "bookingsTracked": 332,
+    "bookingsObserved": 166,
+    "releasesObserved": 156,
     "inCustody": 176,
-    "uniquePeople": 327
+    "uniquePeople": 328
   },
   "bookingsByDay": [
     {
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 15,
-      "released": 12
+      "booked": 16,
+      "released": 13
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 111,
-      "pct": 12.9
+      "count": 114,
+      "pct": 13.2
     },
     {
       "name": "DOC HOLD",
       "count": 66,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "DWLS 3RD",
       "count": 66,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 48,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -242,14 +242,14 @@
       "pct": 1.4
     },
     {
-      "name": "UNLAWFUL CAMPING",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 11,
       "pct": 1.3
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 10,
-      "pct": 1.2
+      "name": "UNLAWFUL CAMPING",
+      "count": 11,
+      "pct": 1.3
     },
     {
       "name": "RECKLESS DRIVING",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 131,
-      "pct": 39.8,
+      "count": 132,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 21.9,
+      "pct": 21.8,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 41,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "Kelso Police"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 330,
-      "pct": 38.3
+      "pct": 38.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 228,
-      "pct": 26.5
+      "count": 233,
+      "pct": 26.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.2
+      "pct": 18.3
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 17
+      "pct": 17.1
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.9
     },
     {
       "name": "E",
       "count": 24,
-      "pct": 13.6
+      "pct": 13.7
     },
     {
       "name": "F",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.3
+      "pct": 19.4
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.9
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -433,13 +433,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 155,
+    "releasedCount": 156,
     "medianDays": 2.5,
-    "meanDays": 13.1,
+    "meanDays": 13,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 50
+        "count": 51
       },
       {
         "label": "1–3 days",
@@ -470,7 +470,7 @@
     "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4685950
+    "totalBond": 4689950
   },
   "chargesPerBooking": 2.6
 }
