@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:55:16",
+  "generatedAt": "2026-10-22T14:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 337,
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 497.9
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 53,
+    "withBond": 124,
+    "noBond": 52,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4680200
+    "totalBond": 4700200
   },
   "chargesPerBooking": 2.6
 }
