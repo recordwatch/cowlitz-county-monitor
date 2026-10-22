@@ -263,7 +263,7 @@
     "inmateNumber": "5275",
     "name": "RISCAJCHE, BRENDA JOANN",
     "bookedAt": "2026-10-21T21:48:22",
-    "location": "E13",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": 6000,
     "charges": [
@@ -903,7 +903,7 @@
     "inmateNumber": "94455",
     "name": "BURNETT, ROBERT DONALD",
     "bookedAt": "2026-10-20T19:00:09",
-    "location": "C26",
+    "location": "A25",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -2545,7 +2545,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "INTAKE H5",
+    "location": "E13",
     "arrestingAgency": "KEPD",
     "bondTotal": 9000,
     "charges": [
@@ -12751,7 +12751,7 @@
     "inmateNumber": "228161",
     "name": "LEWIS, LELAND SCOTT",
     "bookedAt": "2026-07-16T20:14:16",
-    "location": "C27",
+    "location": "C25",
     "arrestingAgency": "LVPD",
     "bondTotal": 76000,
     "charges": [
