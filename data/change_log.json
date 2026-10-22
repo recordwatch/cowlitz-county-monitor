@@ -4,7 +4,7 @@
     "inmateNumber": "183660",
     "name": "SANTIAGO MENCHU, JUAN CARLOS",
     "bookedAt": "2026-10-22T11:41:34",
-    "location": "INTAKE H3",
+    "location": "B20",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "266596",
     "name": "JUSTIS, MILES EUGENE",
     "bookedAt": "2026-10-22T10:46:56",
-    "location": "INTAKE H6",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -693,9 +693,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T10:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-22T12:55:19",
     "baseline": false
   },
   {
@@ -2756,7 +2756,7 @@
     "inmateNumber": "150412",
     "name": "TOLER, GLEN EUGENE",
     "bookedAt": "2026-10-16T13:50:33",
-    "location": "G-G03",
+    "location": "G-G10",
     "arrestingAgency": "DOC",
     "bondTotal": 1000,
     "charges": [
