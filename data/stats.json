@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T00:15:18",
+  "generatedAt": "2026-10-22T00:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 333,
-    "bookingsObserved": 167,
+    "bookingsTracked": 334,
+    "bookingsObserved": 168,
     "releasesObserved": 156,
-    "inCustody": 177,
-    "uniquePeople": 329
+    "inCustody": 178,
+    "uniquePeople": 330
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 17,
+      "booked": 18,
       "released": 13
     },
     {
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 114,
-      "pct": 13.1
+      "count": 115,
+      "pct": 13.2
     },
     {
       "name": "DOC HOLD",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 51,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "DUI",
@@ -209,7 +209,7 @@
     {
       "name": "FELONY HARASSMENT",
       "count": 17,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -247,14 +247,14 @@
       "pct": 1.4
     },
     {
-      "name": "UNLAWFUL CAMPING",
+      "name": "RECKLESS DRIVING",
       "count": 11,
       "pct": 1.3
     },
     {
-      "name": "RECKLESS DRIVING",
-      "count": 10,
-      "pct": 1.1
+      "name": "UNLAWFUL CAMPING",
+      "count": 11,
+      "pct": 1.3
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 133,
-      "pct": 40.2,
+      "count": 134,
+      "pct": 40.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 21.8,
+      "pct": 21.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 41,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 36,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 330,
-      "pct": 37.9
+      "pct": 37.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 236,
-      "pct": 27.1
+      "count": 238,
+      "pct": 27.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 51,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,7 +384,7 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.1
+      "pct": 18
     },
     {
       "name": "B",
@@ -394,17 +394,17 @@
     {
       "name": "C",
       "count": 21,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4
+      "pct": 3.9
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 497.3
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 56,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4693950
+    "totalBond": 4694950
   },
   "chargesPerBooking": 2.6
 }

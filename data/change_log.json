@@ -1,5 +1,42 @@
 [
   {
+    "id": "100533-20261021234354",
+    "inmateNumber": "100533",
+    "name": "REDELF, ERNEST ROGER JR",
+    "bookedAt": "2026-10-21T23:43:54",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-21T23:50:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0384862",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-21T23:56:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0355469",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T00:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "1685-20261021222357",
     "inmateNumber": "1685",
     "name": "DE LA CRUZ LEYVA, MAGDIEL",
