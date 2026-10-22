@@ -93,7 +93,7 @@
     "inmateNumber": "266596",
     "name": "JUSTIS, MILES EUGENE",
     "bookedAt": "2026-10-22T10:46:56",
-    "location": "INTAKE H6",
+    "location": "C26",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -263,7 +263,7 @@
     "inmateNumber": "5275",
     "name": "RISCAJCHE, BRENDA JOANN",
     "bookedAt": "2026-10-21T21:48:22",
-    "location": "INTAKE H8",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": 6000,
     "charges": [
@@ -470,7 +470,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "E12",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
