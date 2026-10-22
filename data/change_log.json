@@ -10548,7 +10548,7 @@
     "bookedAt": "2026-09-15T03:56:16",
     "location": "B25",
     "arrestingAgency": "CCSO",
-    "bondTotal": 16000,
+    "bondTotal": 9000,
     "charges": [
       {
         "description": "FELONY HARASSMENT",
@@ -10644,7 +10644,7 @@
         "arrestingAgency": "CCSO",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0490036",
-        "disposition": "Per. Recogn.",
+        "disposition": "Guilty",
         "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": null
@@ -10655,10 +10655,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5a0837434",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -10666,10 +10666,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6a0106643",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -11761,17 +11761,6 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "CRIMINAL IMPERSONATE 1",
-        "offenseDate": "2026-08-14T14:00:44",
-        "arrestingAgency": "KEPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610052708",
-        "disposition": "Guilty",
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": null
-      },
-      {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-08-14T14:01:37",
         "arrestingAgency": "KEPD",
@@ -11780,6 +11769,28 @@
         "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CRIMINAL IMPERSONATE 1",
+        "offenseDate": "2026-08-14T14:00:44",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610052708",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-22T11:04:38",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0002142",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
         "bondAmount": null
       }
     ],
