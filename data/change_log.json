@@ -1,10 +1,24 @@
 [
   {
+    "id": "339767-20261022190114",
+    "inmateNumber": "339767",
+    "name": "ARNETT, MONICE RENEE",
+    "bookedAt": "2026-10-22T19:01:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "12779-20261022172617",
     "inmateNumber": "12779",
     "name": "DEMYAN, TYLER LINCOLN",
     "bookedAt": "2026-10-22T17:26:17",
-    "location": "INTAKE H8",
+    "location": "B20",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
