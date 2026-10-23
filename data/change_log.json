@@ -161,14 +161,25 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "DOC HOLD",
+        "description": "PROB/PAROLE VIOL",
         "offenseDate": "2026-10-22T17:27:57",
         "arrestingAgency": "DOC",
-        "court": "DOC COURT",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410041808",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROB/PAROLE VIOL",
+        "offenseDate": "2026-10-23T07:43:28",
+        "arrestingAgency": "DOC",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2410043908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -198,9 +209,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T17:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T08:15:18",
     "baseline": false
   },
   {
@@ -5843,8 +5854,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -5854,8 +5865,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -8746,9 +8757,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T08:15:18",
     "baseline": true
   },
   {
