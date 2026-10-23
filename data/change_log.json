@@ -1,5 +1,31 @@
 [
   {
+    "id": "12779-20261022172617",
+    "inmateNumber": "12779",
+    "name": "DEMYAN, TYLER LINCOLN",
+    "bookedAt": "2026-10-22T17:26:17",
+    "location": "INTAKE H8",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-22T17:27:57",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T18:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "351399-20261022162809",
     "inmateNumber": "351399",
     "name": "BANKS, DAVID LEE",
