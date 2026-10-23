@@ -6,8 +6,42 @@
     "bookedAt": "2026-10-23T15:38:36",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-23T15:57:40",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "1A0649737",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-23T15:46:54",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0235544",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-23T15:45:48",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427285",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T16:15:18",
     "releasedAt": null,
@@ -762,7 +796,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "INTAKE H2",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -10509,7 +10543,7 @@
     "inmateNumber": "50854",
     "name": "WILLIAMSON, JERRY LEE JR",
     "bookedAt": "2026-09-18T19:53:05",
-    "location": "A13",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
