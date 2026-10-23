@@ -2788,7 +2788,7 @@
     "bookedAt": "2026-10-16T23:53:30",
     "location": "E13",
     "arrestingAgency": "KEPD",
-    "bondTotal": 9000,
+    "bondTotal": 8000,
     "charges": [
       {
         "description": "CRIMINAL IMPERSONATE 1",
@@ -2840,10 +2840,10 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0391285",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -7435,10 +7435,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0165123",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "IIL VIO-IGNITION INTERLK DRIVER LIC",
@@ -7446,7 +7446,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0165123",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
