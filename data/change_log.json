@@ -313,28 +313,6 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-10-22T10:57:15",
-        "arrestingAgency": "CCCD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "5A0252555",
-        "disposition": "Guilty",
-        "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
-        "description": "RESISTING ARREST",
-        "offenseDate": "2026-10-22T10:59:38",
-        "arrestingAgency": "CCCD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "5A0252555",
-        "disposition": "Guilty",
-        "billingAgency": "LVPD",
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-22T10:49:01",
         "arrestingAgency": "CCCD",
@@ -365,6 +343,28 @@
         "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-22T10:57:15",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0252555",
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-22T10:59:38",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0252555",
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -1963,7 +1963,7 @@
     "bookedAt": "2026-10-19T00:25:31",
     "location": "B22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 41000,
+    "bondTotal": 42000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -2039,8 +2039,8 @@
         "warrantNumber": "6A0425022",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "CRIM TRESPASS 1ST",
