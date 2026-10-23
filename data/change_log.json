@@ -267,7 +267,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0873871",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -318,8 +318,8 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0252555",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -329,8 +329,8 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0252555",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -340,8 +340,8 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0500068",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -351,8 +351,8 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0500068",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -362,8 +362,8 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0521075",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -4424,10 +4424,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427023",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -15043,7 +15043,7 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0289256",
-        "disposition": "Per. Recogn.",
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
