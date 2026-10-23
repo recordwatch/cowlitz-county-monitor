@@ -1,5 +1,31 @@
 [
   {
+    "id": "211862-20261023111253",
+    "inmateNumber": "211862",
+    "name": "BABBS, WESLEY ANDREW NICHOLAS",
+    "bookedAt": "2026-10-23T11:12:53",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-23T11:17:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0418193",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T11:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361199-20261023035353",
     "inmateNumber": "361199",
     "name": "SANCHEZ ALCOCER, GABRIEL E",
@@ -114,7 +140,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0024286",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null

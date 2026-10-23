@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T11:35:16",
+  "generatedAt": "2026-10-23T11:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 346,
-    "bookingsObserved": 180,
+    "bookingsTracked": 347,
+    "bookingsObserved": 181,
     "releasesObserved": 179,
-    "inCustody": 167,
-    "uniquePeople": 342
+    "inCustody": 168,
+    "uniquePeople": 343
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 1,
+      "booked": 2,
       "released": 13
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 118,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DOC HOLD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 50,
-      "pct": 5.6
+      "count": 51,
+      "pct": 5.7
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -204,7 +204,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 22,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "FELONY HARASSMENT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 134,
-      "pct": 39,
+      "count": 135,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 249,
+      "count": 250,
       "pct": 27.8
     },
     {
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.1,
+    "currentMedianDaysHeld": 17,
     "currentLongestDaysHeld": 498.8
   },
   "bond": {
     "withBond": 119,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4627000
