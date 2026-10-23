@@ -41,7 +41,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0414614",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -52,7 +52,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0414614",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -63,7 +63,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0414614",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -141,7 +141,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0448098",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -230,7 +230,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2110035308",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -241,7 +241,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355470",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
