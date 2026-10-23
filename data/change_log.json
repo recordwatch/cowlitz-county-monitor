@@ -4,7 +4,7 @@
     "inmateNumber": "29409",
     "name": "ARCHER, DEBRA MAXINE",
     "bookedAt": "2026-10-23T15:38:36",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -79,9 +79,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T14:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T16:55:17",
     "baseline": false
   },
   {
@@ -9975,7 +9975,7 @@
     "inmateNumber": "5131",
     "name": "MICKENS, DESTIENIE ANN",
     "bookedAt": "2026-09-23T20:52:28",
-    "location": "E13",
+    "location": "E14",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
