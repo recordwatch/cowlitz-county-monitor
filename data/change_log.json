@@ -4,7 +4,7 @@
     "inmateNumber": "211862",
     "name": "BABBS, WESLEY ANDREW NICHOLAS",
     "bookedAt": "2026-10-23T11:12:53",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -56,7 +56,7 @@
     "inmateNumber": "361193",
     "name": "LYON, OLIVIA KAY ANN",
     "bookedAt": "2026-10-22T23:17:05",
-    "location": "INTAKE H3",
+    "location": "E10",
     "arrestingAgency": "KEPD",
     "bondTotal": 3000,
     "charges": [
@@ -156,7 +156,7 @@
     "inmateNumber": "339767",
     "name": "ARNETT, MONICE RENEE",
     "bookedAt": "2026-10-22T19:01:14",
-    "location": "INTAKE H3",
+    "location": "E10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -7452,9 +7452,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T12:46:22",
     "baseline": true
   },
   {
@@ -8413,9 +8413,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T12:46:22",
     "baseline": true
   },
   {
