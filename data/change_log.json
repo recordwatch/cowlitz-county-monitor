@@ -633,7 +633,7 @@
     "inmateNumber": "357717",
     "name": "ROMERO, KATHARYN ELIZABETH",
     "bookedAt": "2026-10-21T19:12:26",
-    "location": "E24",
+    "location": "H-H12",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -1177,7 +1177,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-10-20T16:16:50",
-    "location": "A16",
+    "location": "INTAKE H6",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -6190,7 +6190,7 @@
     "inmateNumber": "360827",
     "name": "ADDICKS, TIMOTHY LUKE",
     "bookedAt": "2026-10-10T23:56:26",
-    "location": "C13",
+    "location": "C15",
     "arrestingAgency": "LVPD",
     "bondTotal": 11000,
     "charges": [
@@ -6563,7 +6563,7 @@
     "inmateNumber": "279949",
     "name": "JAMES, BRYCE CHRISTIAN",
     "bookedAt": "2026-10-10T10:21:08",
-    "location": "G-G21",
+    "location": "G-G22",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
