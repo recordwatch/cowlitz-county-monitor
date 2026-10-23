@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:55:17",
+  "generatedAt": "2026-10-23T14:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 347,
@@ -203,8 +203,8 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 22,
-      "pct": 2.4
+      "count": 21,
+      "pct": 2.3
     },
     {
       "name": "FELONY HARASSMENT",
