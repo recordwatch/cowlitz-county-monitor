@@ -140,7 +140,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0448098",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -266,7 +266,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0873871",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1092,7 +1092,7 @@
     "inmateNumber": "141316",
     "name": "RENIE, DAVID LEE",
     "bookedAt": "2026-10-20T21:07:56",
-    "location": "G-G15",
+    "location": "G-G16",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -1193,9 +1193,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-20T16:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T09:15:20",
     "baseline": false
   },
   {
@@ -2601,7 +2601,7 @@
     "inmateNumber": "164305",
     "name": "LINDSEY, TRAVIS KENNETH",
     "bookedAt": "2026-10-17T18:57:59",
-    "location": "C12",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": 40000,
     "charges": [
@@ -10570,9 +10570,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T09:15:20",
     "baseline": true
   },
   {
@@ -11097,9 +11097,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T09:15:20",
     "baseline": true
   },
   {
@@ -11529,9 +11529,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T09:15:20",
     "baseline": true
   },
   {
@@ -11603,9 +11603,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T09:15:20",
     "baseline": true
   },
   {
