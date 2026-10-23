@@ -1,5 +1,31 @@
 [
   {
+    "id": "154951-20261022224447",
+    "inmateNumber": "154951",
+    "name": "OBRIEN, PATRICK DANIEL",
+    "bookedAt": "2026-10-22T22:44:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-22T23:01:38",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0002039",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T23:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "43730-20261022210815",
     "inmateNumber": "43730",
     "name": "FALTER, BRANDON ALLEN",
