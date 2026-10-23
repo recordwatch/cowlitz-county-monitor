@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T21:35:16",
+  "generatedAt": "2026-10-22T21:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 342,
-    "bookingsObserved": 176,
+    "bookingsTracked": 343,
+    "bookingsObserved": 177,
     "releasesObserved": 166,
-    "inCustody": 176,
-    "uniquePeople": 338
+    "inCustody": 177,
+    "uniquePeople": 339
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 8,
+      "booked": 9,
       "released": 10
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 118,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "DOC HOLD",
       "count": 69,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DWLS 3RD",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 134,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 72,
-      "pct": 21.2,
+      "count": 73,
+      "pct": 21.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 39,
-      "pct": 11.5,
+      "pct": 11.4,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 8,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 331,
-      "pct": 37.2
+      "pct": 37.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 249,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 91,
-      "pct": 10.2
+      "count": 92,
+      "pct": 10.3
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 14.2
+      "count": 26,
+      "pct": 14.7
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "D",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 42,
-      "pct": 23.9
+      "pct": 23.7
     },
     {
       "name": "H",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 120,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4626200
