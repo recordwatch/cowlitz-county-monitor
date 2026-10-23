@@ -4,7 +4,7 @@
     "inmateNumber": "317146",
     "name": "ALLEMAN, VISTA MARIE",
     "bookedAt": "2026-10-23T14:16:07",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "WSP",
     "bondTotal": 2000,
     "charges": [
@@ -1008,9 +1008,9 @@
         "bondAmount": 10000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T11:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T15:15:18",
     "baseline": false
   },
   {
@@ -4151,7 +4151,7 @@
     "inmateNumber": "220015",
     "name": "VANGROL, SEAN GRADY",
     "bookedAt": "2026-10-15T11:24:25",
-    "location": "G-G05",
+    "location": "G-G18",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
