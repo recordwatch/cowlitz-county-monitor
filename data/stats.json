@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:55:16",
+  "generatedAt": "2026-10-23T00:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 345,
@@ -9,11 +9,6 @@
     "uniquePeople": 341
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-23",
-      "booked": 1,
-      "released": 0
-    },
     {
       "date": "2026-09-24",
       "booked": 3,
@@ -158,6 +153,11 @@
       "date": "2026-10-22",
       "booked": 11,
       "released": 10
+    },
+    {
+      "date": "2026-10-23",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 66,
-      "pct": 7.4
+      "count": 67,
+      "pct": 7.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -183,13 +183,13 @@
     },
     {
       "name": "DUI",
-      "count": 49,
-      "pct": 5.5
+      "count": 50,
+      "pct": 5.6
     },
     {
       "name": "CONTEMPT OF COURT",
       "count": 38,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 331,
-      "pct": 37.1
+      "pct": 37
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 249,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,13 +336,13 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 82,
-      "pct": 9.2
+      "count": 85,
+      "pct": 9.5
     },
     {
       "name": "DOC COURT",
       "count": 54,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "C",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "F",
-      "count": 5,
-      "pct": 2.8
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "G",
-      "count": 42,
-      "pct": 23.6
+      "count": 41,
+      "pct": 22.9
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.2
     },
     {
       "name": "WSH",

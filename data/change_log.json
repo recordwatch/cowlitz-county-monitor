@@ -4,10 +4,44 @@
     "inmateNumber": "361193",
     "name": "LYON, OLIVIA KAY ANN",
     "bookedAt": "2026-10-22T23:17:05",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-22T23:29:21",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0414614",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-22T23:31:11",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0414614",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "IIL VIO-IGNITION INTERLK DRIVER LIC",
+        "offenseDate": "2026-10-22T23:31:57",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0414614",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T23:55:16",
     "releasedAt": null,
@@ -4280,7 +4314,7 @@
     "inmateNumber": "66863",
     "name": "HILL, LLOYD CLAYTON",
     "bookedAt": "2026-10-14T14:11:28",
-    "location": "G-G07",
+    "location": "F23",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
