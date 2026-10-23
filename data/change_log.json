@@ -1,5 +1,31 @@
 [
   {
+    "id": "351399-20261022162809",
+    "inmateNumber": "351399",
+    "name": "BANKS, DAVID LEE",
+    "bookedAt": "2026-10-22T16:28:09",
+    "location": "INTAKE H1",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-22T16:35:59",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "18CR79984",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T17:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "147107-20261022145949",
     "inmateNumber": "147107",
     "name": "BAKER, KYLE THOMAS",

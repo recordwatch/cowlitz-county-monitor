@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-22T16:55:18",
+  "generatedAt": "2026-10-22T17:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 339,
-    "bookingsObserved": 173,
+    "bookingsTracked": 340,
+    "bookingsObserved": 174,
     "releasesObserved": 164,
-    "inCustody": 175,
-    "uniquePeople": 335
+    "inCustody": 176,
+    "uniquePeople": 336
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 67,
-      "pct": 7.6
+      "count": 68,
+      "pct": 7.7
     },
     {
       "name": "DWLS 3RD",
@@ -266,31 +266,31 @@
     {
       "name": "LVPD",
       "count": 134,
-      "pct": 39.8,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 72,
-      "pct": 21.4,
+      "pct": 21.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 43,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 38,
-      "pct": 11.3,
+      "pct": 11.2,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
-      "count": 19,
-      "pct": 5.6,
+      "count": 20,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 331,
-      "pct": 37.4
+      "pct": 37.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 247,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,12 +337,12 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 82,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "DOC COURT",
-      "count": 52,
-      "pct": 5.9
+      "count": 53,
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "C",
@@ -399,32 +399,32 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
       "count": 22,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "F",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "G",
       "count": 42,
-      "pct": 24
+      "pct": 23.9
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 122,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4630700
