@@ -1,10 +1,24 @@
 [
   {
+    "id": "361193-20261022231705",
+    "inmateNumber": "361193",
+    "name": "LYON, OLIVIA KAY ANN",
+    "bookedAt": "2026-10-22T23:17:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T23:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "154951-20261022224447",
     "inmateNumber": "154951",
     "name": "OBRIEN, PATRICK DANIEL",
     "bookedAt": "2026-10-22T22:44:47",
-    "location": "1-PENDING BOOKING",
+    "location": "B11",
     "arrestingAgency": "WSP",
     "bondTotal": 5000,
     "charges": [
