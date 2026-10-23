@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:35:17",
+  "generatedAt": "2026-10-22T19:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 342,
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 134,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "KEPD",
       "count": 43,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 38,
-      "pct": 11.2,
+      "count": 39,
+      "pct": 11.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 9,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "Woodland Police"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 248,
-      "pct": 27.9
+      "count": 249,
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "D",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 42,
-      "pct": 23.9
+      "pct": 23.7
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",

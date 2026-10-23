@@ -4,10 +4,22 @@
     "inmateNumber": "339767",
     "name": "ARNETT, MONICE RENEE",
     "bookedAt": "2026-10-22T19:01:14",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "INTAKE H1",
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "offenseDate": "2026-10-22T19:06:05",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0448098",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-22T19:35:17",
     "releasedAt": null,
