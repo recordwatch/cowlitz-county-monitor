@@ -32,7 +32,7 @@
     "bookedAt": "2026-10-22T23:17:05",
     "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -42,8 +42,8 @@
         "warrantNumber": "6A0414614",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 3000
       },
       {
         "description": "DUI",
@@ -1963,7 +1963,7 @@
     "bookedAt": "2026-10-19T00:25:31",
     "location": "B22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 42000,
+    "bondTotal": 44000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -2006,8 +2006,8 @@
         "warrantNumber": "6A0052187",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -2017,8 +2017,8 @@
         "warrantNumber": "6A0159977",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 1ST",
@@ -4367,9 +4367,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T14:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T10:55:16",
     "baseline": false
   },
   {
@@ -8381,10 +8381,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0413226",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
