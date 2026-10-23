@@ -205,7 +205,7 @@
         "warrantNumber": "2410043908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -266,10 +266,10 @@
         "arrestingAgency": "DOC",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355470",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -13003,7 +13003,7 @@
     "inmateNumber": "228161",
     "name": "LEWIS, LELAND SCOTT",
     "bookedAt": "2026-07-16T20:14:16",
-    "location": "C25",
+    "location": "C27",
     "arrestingAgency": "LVPD",
     "bondTotal": 76000,
     "charges": [
