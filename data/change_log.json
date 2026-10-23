@@ -1,5 +1,31 @@
 [
   {
+    "id": "361199-20261023035353",
+    "inmateNumber": "361199",
+    "name": "SANCHEZ ALCOCER, GABRIEL E",
+    "bookedAt": "2026-10-23T03:53:53",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-10-23T04:00:44",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T04:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361193-20261022231705",
     "inmateNumber": "361193",
     "name": "LYON, OLIVIA KAY ANN",
