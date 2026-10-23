@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:15:20",
+  "generatedAt": "2026-10-22T17:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 340,
@@ -222,12 +222,12 @@
       "pct": 1.7
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 14,
-      "pct": 1.6
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 15,
+      "pct": 1.7
     },
     {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 14,
       "pct": 1.6
     },
@@ -326,13 +326,13 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 247,
-      "pct": 27.8
+      "count": 248,
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 91,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -383,8 +383,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 34,
-      "pct": 19.3
+      "count": 35,
+      "pct": 19.9
     },
     {
       "name": "B",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 3,
+      "pct": 1.7
     },
     {
       "name": "WSH",
@@ -470,7 +470,7 @@
     "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4630700
+    "totalBond": 4633200
   },
   "chargesPerBooking": 2.6
 }
