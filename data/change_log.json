@@ -1,5 +1,42 @@
 [
   {
+    "id": "317146-20261023141607",
+    "inmateNumber": "317146",
+    "name": "ALLEMAN, VISTA MARIE",
+    "bookedAt": "2026-10-23T14:16:07",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "MINOR OPER.M/V WITH ALCOHOL",
+        "offenseDate": "2026-10-23T14:17:12",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00710612",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-23T14:18:13",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00945821",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T14:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "211862-20261023111253",
     "inmateNumber": "211862",
     "name": "BABBS, WESLEY ANDREW NICHOLAS",
@@ -748,7 +785,7 @@
     "inmateNumber": "13674",
     "name": "SPIRES, ANGELA MARIE",
     "bookedAt": "2026-10-21T14:52:40",
-    "location": "INTAKE H7",
+    "location": "E12",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -5880,8 +5917,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -5891,8 +5928,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
@@ -8050,9 +8087,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T14:55:17",
     "baseline": true
   },
   {
@@ -8383,9 +8420,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T14:55:17",
     "baseline": true
   },
   {
