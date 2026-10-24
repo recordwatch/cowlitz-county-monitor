@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T14:15:17",
+  "generatedAt": "2026-10-24T14:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 359,
-    "bookingsObserved": 193,
+    "bookingsTracked": 360,
+    "bookingsObserved": 194,
     "releasesObserved": 195,
-    "inCustody": 164,
-    "uniquePeople": 354
+    "inCustody": 165,
+    "uniquePeople": 355
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 2,
+      "booked": 3,
       "released": 6
     }
   ],
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 39,
-      "pct": 4.2
+      "count": 40,
+      "pct": 4.3
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 137,
-      "pct": 38.4,
+      "pct": 38.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 76,
-      "pct": 21.3,
+      "pct": 21.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 46,
-      "pct": 12.9,
+      "count": 47,
+      "pct": 13.1,
       "label": "Kelso Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 335,
+      "count": 336,
       "pct": 36.4
     },
     {
@@ -348,7 +348,7 @@
     {
       "name": "DOC COURT",
       "count": 53,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20.1
+      "pct": 20
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 15.2
+      "count": 26,
+      "pct": 15.8
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "D",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "G",
       "count": 37,
-      "pct": 22.6
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -430,7 +430,7 @@
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     }
   ],
   "stay": {
@@ -468,7 +468,7 @@
   },
   "bond": {
     "withBond": 119,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4618000

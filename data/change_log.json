@@ -1,5 +1,31 @@
 [
   {
+    "id": "13995-20261024135521",
+    "inmateNumber": "13995",
+    "name": "PARKER, KEVIN RENE",
+    "bookedAt": "2026-10-24T13:55:21",
+    "location": "B21",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-24T13:57:27",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610051508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T14:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "303505-20261024111544",
     "inmateNumber": "303505",
     "name": "REICHENBACH, ROGER ANTHONY",
