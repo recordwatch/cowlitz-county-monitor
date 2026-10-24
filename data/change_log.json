@@ -1,5 +1,42 @@
 [
   {
+    "id": "361216-20261023224820",
+    "inmateNumber": "361216",
+    "name": "FREDERICK, KOBE MARCUS",
+    "bookedAt": "2026-10-23T22:48:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-10-23T22:55:13",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "251035834",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-23T23:02:26",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0413169",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T23:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361215-20261023222555",
     "inmateNumber": "361215",
     "name": "Harris, Frank Alan",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T23:15:21",
+  "generatedAt": "2026-10-23T23:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 354,
-    "bookingsObserved": 188,
+    "bookingsTracked": 355,
+    "bookingsObserved": 189,
     "releasesObserved": 189,
-    "inCustody": 165,
-    "uniquePeople": 350
+    "inCustody": 166,
+    "uniquePeople": 351
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 9,
+      "booked": 10,
       "released": 23
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 119,
+      "count": 120,
       "pct": 13.1
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 68,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DUI",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 136,
-      "pct": 38.6,
+      "count": 137,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 76,
-      "pct": 21.6,
+      "pct": 21.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CCCD",
       "count": 39,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 21,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 9,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Woodland Police"
     },
     {
@@ -327,12 +327,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 335,
+      "count": 336,
       "pct": 36.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 253,
+      "count": 254,
       "pct": 27.8
     },
     {
@@ -473,7 +473,7 @@
   },
   "bond": {
     "withBond": 118,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4616000
