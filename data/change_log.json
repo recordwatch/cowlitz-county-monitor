@@ -1,13 +1,61 @@
 [
   {
+    "id": "235301-20261024000334",
+    "inmateNumber": "235301",
+    "name": "HEBERT, DAMON KYLE",
+    "bookedAt": "2026-10-24T00:03:34",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-24T00:15:22",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0407350",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T00:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "345065-20261023234722",
     "inmateNumber": "345065",
     "name": "SANCHEZ JUAREZ, MIGUEL",
     "bookedAt": "2026-10-23T23:47:22",
-    "location": "1-PENDING BOOKING",
+    "location": "B20",
     "arrestingAgency": "WDPD",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-24T00:07:19",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0414859",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-10-24T00:08:46",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0414859",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-10-24T00:01:58",
