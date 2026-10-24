@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-23T20:51:50",
     "location": "INTAKE H3",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-23T21:28:41",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00892617",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T21:35:17",
     "releasedAt": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:55:17",
+  "generatedAt": "2026-10-23T22:15:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 352,
@@ -177,14 +177,14 @@
       "pct": 7.5
     },
     {
-      "name": "THEFT 3RD DEG",
+      "name": "DUI",
       "count": 52,
       "pct": 5.7
     },
     {
-      "name": "DUI",
-      "count": 51,
-      "pct": 5.6
+      "name": "THEFT 3RD DEG",
+      "count": 52,
+      "pct": 5.7
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -327,12 +327,12 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 253,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 98,
-      "pct": 10.8
+      "count": 99,
+      "pct": 10.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 499.2
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 48,
+    "withBond": 116,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4613000
+    "totalBond": 4614000
   },
   "chargesPerBooking": 2.6
 }
