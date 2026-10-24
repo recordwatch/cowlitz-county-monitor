@@ -1,5 +1,42 @@
 [
   {
+    "id": "135654-20261023193550",
+    "inmateNumber": "135654",
+    "name": "BULL, ERIC KENOHI",
+    "bookedAt": "2026-10-23T19:35:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-23T19:41:37",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0936963",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-23T19:43:41",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0359410",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T20:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "150828-20261023183722",
     "inmateNumber": "150828",
     "name": "ROSS, AUSTIN JAMES",
@@ -4129,7 +4166,7 @@
     "inmateNumber": "53077",
     "name": "MEINDL, TINA MARIE",
     "bookedAt": "2026-10-15T13:45:03",
-    "location": "E21",
+    "location": "E22",
     "arrestingAgency": "CRPD",
     "bondTotal": 15000,
     "charges": [
