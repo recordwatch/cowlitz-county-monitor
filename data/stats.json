@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T08:35:16",
+  "generatedAt": "2026-10-24T08:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 358,
     "bookingsObserved": 192,
-    "releasesObserved": 191,
-    "inCustody": 167,
+    "releasesObserved": 192,
+    "inCustody": 166,
     "uniquePeople": 353
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-24",
       "booked": 1,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.2
+      "pct": 19.3
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.4
+      "pct": 14.5
     },
     {
       "name": "C",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.2
+      "pct": 13.3
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 37,
-      "pct": 22.2
+      "pct": 22.3
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.6
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
@@ -439,13 +439,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 191,
+    "releasedCount": 192,
     "medianDays": 2.6,
-    "meanDays": 13.6,
+    "meanDays": 13.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 58
+        "count": 59
       },
       {
         "label": "1–3 days",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 499.7
   },
   "bond": {
-    "withBond": 122,
+    "withBond": 121,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4621500
+    "totalBond": 4620500
   },
   "chargesPerBooking": 2.6
 }
