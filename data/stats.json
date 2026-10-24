@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:15:16",
+  "generatedAt": "2026-10-23T19:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 350,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 38,
-      "pct": 4.2
+      "count": 39,
+      "pct": 4.3
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 334,
-      "pct": 36.9
+      "count": 335,
+      "pct": 37
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 253,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 53,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.9
+      "pct": 14.8
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "D",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 37,
-      "pct": 23
+      "pct": 22.8
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 2,
-      "pct": 1.2
+      "count": 3,
+      "pct": 1.9
     },
     {
       "name": "WSH",

@@ -4,10 +4,22 @@
     "inmateNumber": "150828",
     "name": "ROSS, AUSTIN JAMES",
     "bookedAt": "2026-10-23T18:37:22",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-23T18:44:27",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2410091008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T19:15:16",
     "releasedAt": null,
