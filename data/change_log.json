@@ -1,5 +1,19 @@
 [
   {
+    "id": "150828-20261023183722",
+    "inmateNumber": "150828",
+    "name": "ROSS, AUSTIN JAMES",
+    "bookedAt": "2026-10-23T18:37:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T19:15:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "29409-20261023153836",
     "inmateNumber": "29409",
     "name": "ARCHER, DEBRA MAXINE",
