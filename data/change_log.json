@@ -1,5 +1,19 @@
 [
   {
+    "id": "30752-20261023222031",
+    "inmateNumber": "30752",
+    "name": "GONZALES, PABLO",
+    "bookedAt": "2026-10-23T22:20:31",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T22:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "300214-20261023205150",
     "inmateNumber": "300214",
     "name": "CRAWFORD, CORY CLINTON",

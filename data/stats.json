@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T22:35:16",
+  "generatedAt": "2026-10-23T22:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 352,
-    "bookingsObserved": 186,
+    "bookingsTracked": 353,
+    "bookingsObserved": 187,
     "releasesObserved": 189,
-    "inCustody": 163,
-    "uniquePeople": 348
+    "inCustody": 164,
+    "uniquePeople": 349
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 7,
+      "booked": 8,
       "released": 23
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 136,
-      "pct": 38.9,
+      "pct": 38.7,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 75,
-      "pct": 21.4,
+      "count": 76,
+      "pct": 21.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 44,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "Kelso Police"
     },
     {
@@ -463,11 +463,11 @@
       }
     ],
     "currentMedianDaysHeld": 17.3,
-    "currentLongestDaysHeld": 499.2
+    "currentLongestDaysHeld": 499.3
   },
   "bond": {
     "withBond": 116,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4614000
