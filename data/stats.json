@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T11:35:17",
+  "generatedAt": "2026-10-24T11:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 358,
-    "bookingsObserved": 192,
+    "bookingsTracked": 359,
+    "bookingsObserved": 193,
     "releasesObserved": 194,
-    "inCustody": 164,
-    "uniquePeople": 353
+    "inCustody": 165,
+    "uniquePeople": 354
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 1,
+      "booked": 2,
       "released": 5
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 120,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -177,14 +177,14 @@
       "pct": 7.4
     },
     {
-      "name": "DUI",
-      "count": 52,
-      "pct": 5.7
+      "name": "THEFT 3RD DEG",
+      "count": 54,
+      "pct": 5.9
     },
     {
-      "name": "THEFT 3RD DEG",
+      "name": "DUI",
       "count": 52,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 137,
-      "pct": 38.5,
+      "pct": 38.4,
       "label": "Longview Police"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "KEPD",
-      "count": 45,
-      "pct": 12.6,
+      "count": 46,
+      "pct": 12.9,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 39,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 335,
-      "pct": 36.5
+      "pct": 36.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 254,
-      "pct": 27.6
+      "count": 256,
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -343,7 +343,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 87,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "DOC COURT",
@@ -389,18 +389,18 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 33,
-      "pct": 20.1
+      "count": 34,
+      "pct": 20.6
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "D",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "G",
       "count": 37,
-      "pct": 22.6
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 499.8
   },
   "bond": {
-    "withBond": 119,
+    "withBond": 120,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4618500
+    "totalBond": 4620500
   },
   "chargesPerBooking": 2.6
 }
