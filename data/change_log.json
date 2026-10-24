@@ -261,6 +261,17 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "US MARSHALL HOLD",
+        "offenseDate": "2026-10-24T01:00:29",
+        "arrestingAgency": "CCSO",
+        "court": "FEDERAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-23T18:44:27",
         "arrestingAgency": "CCSO",

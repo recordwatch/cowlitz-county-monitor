@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:15:18",
+  "generatedAt": "2026-10-24T01:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 358,
@@ -209,12 +209,12 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 17,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 17,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -333,7 +333,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 254,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
