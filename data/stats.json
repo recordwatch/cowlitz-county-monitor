@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T17:35:16",
+  "generatedAt": "2026-10-23T17:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 349,
     "bookingsObserved": 183,
-    "releasesObserved": 187,
-    "inCustody": 162,
+    "releasesObserved": 188,
+    "inCustody": 161,
     "uniquePeople": 345
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-23",
       "booked": 4,
-      "released": 21
+      "released": 22
     }
   ],
   "topCharges": [
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.9
+      "pct": 18
     },
     {
       "name": "B",
-      "count": 26,
-      "pct": 16
+      "count": 24,
+      "pct": 14.9
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.5
+      "pct": 10.6
     },
     {
       "name": "D",
@@ -403,18 +403,18 @@
     },
     {
       "name": "E",
-      "count": 23,
-      "pct": 14.2
+      "count": 22,
+      "pct": 13.7
     },
     {
       "name": "F",
-      "count": 6,
-      "pct": 3.7
+      "count": 7,
+      "pct": 4.3
     },
     {
       "name": "G",
       "count": 37,
-      "pct": 22.8
+      "pct": 23
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 1,
-      "pct": 0.6
+      "count": 2,
+      "pct": 1.2
     },
     {
       "name": "WSH",
@@ -433,13 +433,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 187,
+    "releasedCount": 188,
     "medianDays": 2.6,
-    "meanDays": 13.9,
+    "meanDays": 13.8,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 56
+        "count": 57
       },
       {
         "label": "1–3 days",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.2,
+    "currentMedianDaysHeld": 17.3,
     "currentLongestDaysHeld": 499
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 115,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4618000
+    "totalBond": 4613000
   },
   "chargesPerBooking": 2.6
 }

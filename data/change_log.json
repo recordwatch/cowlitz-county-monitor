@@ -205,9 +205,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T23:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T17:55:18",
     "baseline": false
   },
   {
@@ -215,7 +215,7 @@
     "inmateNumber": "43730",
     "name": "FALTER, BRANDON ALLEN",
     "bookedAt": "2026-10-22T21:08:15",
-    "location": "B11",
+    "location": "F11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -3441,7 +3441,7 @@
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
     "bookedAt": "2026-10-15T22:03:34",
-    "location": "E14",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
