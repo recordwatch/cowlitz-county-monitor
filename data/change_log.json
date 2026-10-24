@@ -293,7 +293,7 @@
     "inmateNumber": "150828",
     "name": "ROSS, AUSTIN JAMES",
     "bookedAt": "2026-10-23T18:37:22",
-    "location": "INTAKE H5",
+    "location": "B11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -330,7 +330,7 @@
     "inmateNumber": "29409",
     "name": "ARCHER, DEBRA MAXINE",
     "bookedAt": "2026-10-23T15:38:36",
-    "location": "E21",
+    "location": "H-H01",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -3767,7 +3767,7 @@
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
     "bookedAt": "2026-10-15T22:03:34",
-    "location": "INTAKE H7",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
