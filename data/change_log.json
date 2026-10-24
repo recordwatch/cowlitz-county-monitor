@@ -6,8 +6,42 @@
     "bookedAt": "2026-10-24T14:53:58",
     "location": "B20",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 6000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-24T15:06:09",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0081995",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-10-24T15:07:07",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0363882",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "CONSUME LIQUOR IN PUBLIC PLACE",
+        "offenseDate": "2026-10-24T15:05:19",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0367249",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T15:35:17",
     "releasedAt": null,
@@ -18,7 +52,7 @@
     "inmateNumber": "13995",
     "name": "PARKER, KEVIN RENE",
     "bookedAt": "2026-10-24T13:55:21",
-    "location": "B21",
+    "location": "A16",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
