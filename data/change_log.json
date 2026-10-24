@@ -4,7 +4,7 @@
     "inmateNumber": "300214",
     "name": "CRAWFORD, CORY CLINTON",
     "bookedAt": "2026-10-23T20:51:50",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [],
@@ -45,9 +45,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T20:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-23T21:55:17",
     "baseline": false
   },
   {
