@@ -1,5 +1,19 @@
 [
   {
+    "id": "125470-20261024145358",
+    "inmateNumber": "125470",
+    "name": "MCCABE, JAMES CHRISTOPHER",
+    "bookedAt": "2026-10-24T14:53:58",
+    "location": "B20",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T15:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "13995-20261024135521",
     "inmateNumber": "13995",
     "name": "PARKER, KEVIN RENE",
@@ -7526,9 +7540,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T15:35:17",
     "baseline": true
   },
   {
