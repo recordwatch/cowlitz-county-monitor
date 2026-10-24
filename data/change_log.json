@@ -104,20 +104,20 @@
     "inmateNumber": "361216",
     "name": "FREDERICK, KOBE MARCUS",
     "bookedAt": "2026-10-23T22:48:20",
-    "location": "1-PENDING BOOKING",
+    "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
         "offenseDate": "2026-10-23T22:55:13",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "court": "OTHER - OUT OF COUNTY",
         "warrantNumber": "251035834",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -141,7 +141,7 @@
     "inmateNumber": "361215",
     "name": "Harris, Frank Alan",
     "bookedAt": "2026-10-23T22:25:55",
-    "location": "INTAKE H6",
+    "location": "A14",
     "arrestingAgency": "CCSE",
     "bondTotal": 1000,
     "charges": [
@@ -167,7 +167,7 @@
     "inmateNumber": "30752",
     "name": "GONZALES, PABLO",
     "bookedAt": "2026-10-23T22:20:31",
-    "location": "INTAKE H6",
+    "location": "A14",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
