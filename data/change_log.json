@@ -139,7 +139,7 @@
   {
     "id": "361215-20261023222555",
     "inmateNumber": "361215",
-    "name": "Harris, Frank Alan",
+    "name": "HARRIS, FRANK ALAN",
     "bookedAt": "2026-10-23T22:25:55",
     "location": "A14",
     "arrestingAgency": "CCSE",
@@ -150,7 +150,7 @@
         "offenseDate": "2026-10-23T22:26:49",
         "arrestingAgency": "CCSE",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "6a0338217",
+        "warrantNumber": "6A0338217",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
