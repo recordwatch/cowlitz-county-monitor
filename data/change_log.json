@@ -1,12 +1,26 @@
 [
   {
+    "id": "300214-20261023205150",
+    "inmateNumber": "300214",
+    "name": "CRAWFORD, CORY CLINTON",
+    "bookedAt": "2026-10-23T20:51:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T21:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "135654-20261023193550",
     "inmateNumber": "135654",
     "name": "BULL, ERIC KENOHI",
     "bookedAt": "2026-10-23T19:35:50",
     "location": "A13",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -17,7 +31,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
