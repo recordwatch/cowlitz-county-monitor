@@ -8,9 +8,9 @@
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T23:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-24T00:15:17",
     "baseline": false
   },
   {
