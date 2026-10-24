@@ -1,5 +1,19 @@
 [
   {
+    "id": "109063-20261023232308",
+    "inmateNumber": "109063",
+    "name": "PERRY, BRYAN HENRY",
+    "bookedAt": "2026-10-23T23:23:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T23:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361216-20261023224820",
     "inmateNumber": "361216",
     "name": "FREDERICK, KOBE MARCUS",
