@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-23T22:55:15",
+  "generatedAt": "2026-10-23T23:11:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 353,
-    "bookingsObserved": 187,
+    "bookingsTracked": 354,
+    "bookingsObserved": 188,
     "releasesObserved": 189,
-    "inCustody": 164,
-    "uniquePeople": 349
+    "inCustody": 165,
+    "uniquePeople": 350
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 8,
+      "booked": 9,
       "released": 23
     }
   ],
@@ -214,17 +214,17 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 15,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 3RD",
       "count": 15,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 15,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 136,
-      "pct": 38.7,
+      "pct": 38.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 76,
-      "pct": 21.7,
+      "pct": 21.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 16,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Washington State Patrol"
     },
     {
@@ -316,13 +316,19 @@
       "count": 2,
       "pct": 0.6,
       "label": "KAPD"
+    },
+    {
+      "name": "CCSE",
+      "count": 1,
+      "pct": 0.3,
+      "label": "CCSE"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 335,
-      "pct": 36.9
+      "pct": 36.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -331,13 +337,13 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 99,
-      "pct": 10.9
+      "count": 101,
+      "pct": 11.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 86,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "DOC COURT",
@@ -384,17 +390,17 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.6
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.7
+      "pct": 14.5
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "D",
@@ -404,32 +410,32 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.5
+      "pct": 13.3
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "G",
       "count": 37,
-      "pct": 22.7
+      "pct": 22.4
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.5
+      "count": 6,
+      "pct": 3.6
     },
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     }
   ],
   "stay": {
@@ -466,11 +472,11 @@
     "currentLongestDaysHeld": 499.3
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 48,
+    "withBond": 118,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4614000
+    "totalBond": 4616000
   },
   "chargesPerBooking": 2.6
 }

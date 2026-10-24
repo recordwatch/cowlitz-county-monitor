@@ -1,13 +1,51 @@
 [
   {
+    "id": "361215-20261023222555",
+    "inmateNumber": "361215",
+    "name": "Harris, Frank Alan",
+    "bookedAt": "2026-10-23T22:25:55",
+    "location": "INTAKE H6",
+    "arrestingAgency": "CCSE",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG-NOT EXCEED $750 VALUE",
+        "offenseDate": "2026-10-23T22:26:49",
+        "arrestingAgency": "CCSE",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6a0338217",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T23:11:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "30752-20261023222031",
     "inmateNumber": "30752",
     "name": "GONZALES, PABLO",
     "bookedAt": "2026-10-23T22:20:31",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG-NOT EXCEED $750 VALUE",
+        "offenseDate": "2026-10-23T22:26:03",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338216",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-23T22:55:15",
     "releasedAt": null,
