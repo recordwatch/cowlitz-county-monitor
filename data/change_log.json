@@ -407,7 +407,7 @@
     "inmateNumber": "15464",
     "name": "HARDIN, MARK DOUGLAS",
     "bookedAt": "2026-10-24T20:31:12",
-    "location": "INTAKE H5",
+    "location": "D12",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -5883,7 +5883,7 @@
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
     "bookedAt": "2026-10-13T16:12:44",
-    "location": "E20",
+    "location": "E24",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -10815,7 +10815,7 @@
     "inmateNumber": "5131",
     "name": "MICKENS, DESTIENIE ANN",
     "bookedAt": "2026-09-23T20:52:28",
-    "location": "INTAKE H8",
+    "location": "E20",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
