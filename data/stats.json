@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T10:15:18",
+  "generatedAt": "2026-10-25T10:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 367,
-    "bookingsObserved": 201,
+    "bookingsTracked": 368,
+    "bookingsObserved": 202,
     "releasesObserved": 202,
-    "inCustody": 165,
-    "uniquePeople": 362
+    "inCustody": 166,
+    "uniquePeople": 363
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 2,
+      "booked": 3,
       "released": 1
     }
   ],
@@ -174,32 +174,32 @@
     {
       "name": "DOC HOLD",
       "count": 69,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 55,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "DUI",
       "count": 53,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 41,
-      "pct": 4.4
+      "count": 42,
+      "pct": 4.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 30,
-      "pct": 3.2
+      "count": 31,
+      "pct": 3.3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 23,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "RESISTING ARREST",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 142,
-      "pct": 38.9,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 77,
-      "pct": 21.1,
+      "pct": 21,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,14 +283,14 @@
     },
     {
       "name": "CCCD",
-      "count": 39,
-      "pct": 10.7,
+      "count": 40,
+      "pct": 10.9,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 21,
-      "pct": 5.8,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 341,
-      "pct": 36.4
+      "count": 346,
+      "pct": 36.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 258,
-      "pct": 27.6
+      "pct": 27.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 54,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 120,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4620500

@@ -1,5 +1,75 @@
 [
   {
+    "id": "339276-20261025095205",
+    "inmateNumber": "339276",
+    "name": "PEARSON, COLBY THEODORE",
+    "bookedAt": "2026-10-25T09:52:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-25T10:03:41",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510009408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "STALKING-PREV CONV/ORD VIO/WEAPON",
+        "offenseDate": "2026-10-25T09:55:22",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510019308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "FELONY TELEPHONE HARASSMENT",
+        "offenseDate": "2026-10-25T10:00:32",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510019308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-10-25T10:01:23",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510019308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-25T10:02:41",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510019308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T10:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "35776-20261025080944",
     "inmateNumber": "35776",
     "name": "REID, SAMUEL BRYCE",
