@@ -1,5 +1,19 @@
 [
   {
+    "id": "35776-20261025080944",
+    "inmateNumber": "35776",
+    "name": "REID, SAMUEL BRYCE",
+    "bookedAt": "2026-10-25T08:09:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T08:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "348850-20261025032304",
     "inmateNumber": "348850",
     "name": "HERNANDEZ FLORES, JOSE ALFONZO",
