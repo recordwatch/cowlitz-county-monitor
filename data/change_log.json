@@ -4,7 +4,7 @@
     "inmateNumber": "359576",
     "name": "CONNER, JOHN LUCKY MICHAEL",
     "bookedAt": "2026-10-24T20:47:42",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "15464",
     "name": "HARDIN, MARK DOUGLAS",
     "bookedAt": "2026-10-24T20:31:12",
-    "location": "INTAKE H2",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -8808,7 +8808,7 @@
     "inmateNumber": "27900",
     "name": "OLIVER, CYNTHIA ANN",
     "bookedAt": "2026-10-05T13:28:55",
-    "location": "E11",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
