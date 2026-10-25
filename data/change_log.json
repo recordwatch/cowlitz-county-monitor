@@ -1,17 +1,43 @@
 [
   {
+    "id": "288868-20261025102855",
+    "inmateNumber": "288868",
+    "name": "FISK, BONNIE MARIE",
+    "bookedAt": "2026-10-25T10:28:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-25T10:31:28",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0163081",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T11:06:51",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "339276-20261025095205",
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "location": "A11",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-25T10:03:41",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510009408",
         "disposition": null,
@@ -22,7 +48,7 @@
       {
         "description": "STALKING-PREV CONV/ORD VIO/WEAPON",
         "offenseDate": "2026-10-25T09:55:22",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510019308",
         "disposition": null,
@@ -33,7 +59,7 @@
       {
         "description": "FELONY TELEPHONE HARASSMENT",
         "offenseDate": "2026-10-25T10:00:32",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510019308",
         "disposition": null,
@@ -44,7 +70,7 @@
       {
         "description": "HARASSMENT",
         "offenseDate": "2026-10-25T10:01:23",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510019308",
         "disposition": null,
@@ -55,7 +81,7 @@
       {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-10-25T10:02:41",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510019308",
         "disposition": null,
