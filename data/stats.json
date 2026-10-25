@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:35:15",
+  "generatedAt": "2026-10-25T13:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 370,
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 75,
-      "pct": 8
+      "count": 76,
+      "pct": 8.1
     },
     {
       "name": "DOC HOLD",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 42,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 259,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 92,
-      "pct": 9.8
+      "count": 94,
+      "pct": 10
     },
     {
       "name": "DOC COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 500.9
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 47,
+    "withBond": 122,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4621500
+    "totalBond": 4622500
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.6
 }
