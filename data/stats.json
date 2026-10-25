@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:15:18",
+  "generatedAt": "2026-10-25T05:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 366,
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 76,
-      "pct": 20.9,
+      "count": 77,
+      "pct": 21.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -316,12 +316,6 @@
       "count": 2,
       "pct": 0.5,
       "label": "KAPD"
-    },
-    {
-      "name": "CCSE",
-      "count": 1,
-      "pct": 0.3,
-      "label": "CCSE"
     }
   ],
   "courts": [

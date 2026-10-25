@@ -405,13 +405,13 @@
     "name": "HARRIS, FRANK ALAN",
     "bookedAt": "2026-10-23T22:25:55",
     "location": "A14",
-    "arrestingAgency": "CCSE",
+    "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
       {
         "description": "THEFT 3RD DEG-NOT EXCEED $750 VALUE",
         "offenseDate": "2026-10-23T22:26:49",
-        "arrestingAgency": "CCSE",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338217",
         "disposition": null,
