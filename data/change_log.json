@@ -1,13 +1,51 @@
 [
   {
+    "id": "359576-20261024204742",
+    "inmateNumber": "359576",
+    "name": "CONNER, JOHN LUCKY MICHAEL",
+    "bookedAt": "2026-10-24T20:47:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-24T20:55:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0390265",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T21:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "15464-20261024203112",
     "inmateNumber": "15464",
     "name": "HARDIN, MARK DOUGLAS",
     "bookedAt": "2026-10-24T20:31:12",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT 3 ATTEMPT",
+        "offenseDate": "2026-10-24T20:46:07",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "C00068957",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-24T21:15:20",
     "releasedAt": null,
@@ -10389,7 +10427,7 @@
     "inmateNumber": "5131",
     "name": "MICKENS, DESTIENIE ANN",
     "bookedAt": "2026-09-23T20:52:28",
-    "location": "E14",
+    "location": "INTAKE H8",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
