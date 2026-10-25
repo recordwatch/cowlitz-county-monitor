@@ -1,5 +1,42 @@
 [
   {
+    "id": "357362-20261025150558",
+    "inmateNumber": "357362",
+    "name": "GOMEZ, SAMUEL",
+    "bookedAt": "2026-10-25T15:05:58",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-10-25T15:06:38",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0320945",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-10-25T15:07:29",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420552",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T15:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "222622-20261025135150",
     "inmateNumber": "222622",
     "name": "NOHR, KALEY JANE",
