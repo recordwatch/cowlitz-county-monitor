@@ -30,7 +30,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "INTAKE H1",
+    "location": "B20",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -159,7 +159,7 @@
     "inmateNumber": "348850",
     "name": "HERNANDEZ FLORES, JOSE ALFONZO",
     "bookedAt": "2026-10-25T03:23:04",
-    "location": "INTAKE H3",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
