@@ -4,7 +4,7 @@
     "inmateNumber": "125470",
     "name": "MCCABE, JAMES CHRISTOPHER",
     "bookedAt": "2026-10-24T14:53:58",
-    "location": "B20",
+    "location": "C13",
     "arrestingAgency": "KEPD",
     "bondTotal": 6000,
     "charges": [
@@ -404,7 +404,7 @@
     "inmateNumber": "29409",
     "name": "ARCHER, DEBRA MAXINE",
     "bookedAt": "2026-10-23T15:38:36",
-    "location": "H-H01",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
