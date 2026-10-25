@@ -1,5 +1,19 @@
 [
   {
+    "id": "348850-20261025032304",
+    "inmateNumber": "348850",
+    "name": "HERNANDEZ FLORES, JOSE ALFONZO",
+    "bookedAt": "2026-10-25T03:23:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T03:42:30",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "157922-20261024222437",
     "inmateNumber": "157922",
     "name": "SCHRIBER, ZACH J",
@@ -109,10 +123,10 @@
         "bondAmount": null
       },
       {
-        "description": "THEFT 3 ATTEMPT",
+        "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-24T20:46:07",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00068957",
         "disposition": null,
         "billingAgency": null,

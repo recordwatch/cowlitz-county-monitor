@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T03:35:15",
+  "generatedAt": "2026-10-25T03:42:30",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 365,
-    "bookingsObserved": 199,
+    "bookingsTracked": 366,
+    "bookingsObserved": 200,
     "releasesObserved": 201,
-    "inCustody": 164,
-    "uniquePeople": 360
+    "inCustody": 165,
+    "uniquePeople": 361
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 54,
-      "pct": 5.8
+      "count": 55,
+      "pct": 5.9
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 141,
-      "pct": 38.8,
+      "count": 142,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 10,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Woodland Police"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "KAPD",
       "count": 2,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "KAPD"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 338,
-      "pct": 36.3
+      "count": 337,
+      "pct": 36.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 91,
-      "pct": 9.8
+      "count": 92,
+      "pct": 9.9
     },
     {
       "name": "DOC COURT",
@@ -468,15 +468,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.8,
-    "currentLongestDaysHeld": 500.4
+    "currentMedianDaysHeld": 17.6,
+    "currentLongestDaysHeld": 500.5
   },
   "bond": {
     "withBond": 120,
-    "noBond": 44,
+    "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4625000
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }
