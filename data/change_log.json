@@ -1,10 +1,24 @@
 [
   {
+    "id": "180840-20261025130223",
+    "inmateNumber": "180840",
+    "name": "HARLAN, AIDEN PAUL",
+    "bookedAt": "2026-10-25T13:02:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T13:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "288868-20261025102855",
     "inmateNumber": "288868",
     "name": "FISK, BONNIE MARIE",
     "bookedAt": "2026-10-25T10:28:55",
-    "location": "INTAKE H6",
+    "location": "E22",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [

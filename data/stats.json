@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T13:15:18",
+  "generatedAt": "2026-10-25T13:35:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 369,
-    "bookingsObserved": 203,
+    "bookingsTracked": 370,
+    "bookingsObserved": 204,
     "releasesObserved": 202,
-    "inCustody": 167,
-    "uniquePeople": 364
+    "inCustody": 168,
+    "uniquePeople": 365
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 4,
+      "booked": 5,
       "released": 1
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 143,
-      "pct": 39,
+      "pct": 38.9,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 78,
-      "pct": 21.3,
+      "pct": 21.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 49,
-      "pct": 13.4,
+      "count": 50,
+      "pct": 13.6,
       "label": "Kelso Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 16,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 9,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Castle Rock Police"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 19,
-      "pct": 11.4
+      "count": 20,
+      "pct": 12
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 4,
+      "pct": 2.4
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.8,
+    "currentMedianDaysHeld": 17.3,
     "currentLongestDaysHeld": 500.9
   },
   "bond": {
     "withBond": 121,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4621500
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }
