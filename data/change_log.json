@@ -1,5 +1,57 @@
 [
   {
+    "id": "96144-20261025161959",
+    "inmateNumber": "96144",
+    "name": "IRWIN, JESSE MICHAEL",
+    "bookedAt": "2026-10-25T16:19:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-10-25T16:21:19",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0427288",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T16:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "158045-20261025160828",
+    "inmateNumber": "158045",
+    "name": "BAIZ, STEPHANIE NORMA",
+    "bookedAt": "2026-10-25T16:08:28",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-25T16:24:22",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T16:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357362-20261025150558",
     "inmateNumber": "357362",
     "name": "GOMEZ, SAMUEL",

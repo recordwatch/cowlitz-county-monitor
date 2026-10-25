@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-25T16:35:17",
+  "generatedAt": "2026-10-25T16:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 372,
-    "bookingsObserved": 206,
+    "bookingsTracked": 374,
+    "bookingsObserved": 208,
     "releasesObserved": 202,
-    "inCustody": 170,
-    "uniquePeople": 366
+    "inCustody": 172,
+    "uniquePeople": 367
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 7,
+      "booked": 9,
       "released": 1
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 69,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 144,
-      "pct": 38.9,
+      "count": 146,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 78,
-      "pct": 21.1,
+      "pct": 21,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 51,
-      "pct": 13.8,
+      "pct": 13.7,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 21,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -321,18 +321,18 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 346,
+      "count": 347,
       "pct": 36.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 264,
+      "count": 265,
       "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 105,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 16.4,
+    "currentMedianDaysHeld": 15.7,
     "currentLongestDaysHeld": 501
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 46,
+    "withBond": 125,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4625500
+    "totalBond": 4626500
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }
