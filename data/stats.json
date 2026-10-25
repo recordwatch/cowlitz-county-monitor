@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:55:15",
+  "generatedAt": "2026-10-25T04:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 366,
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 52,
-      "pct": 5.6
+      "count": 53,
+      "pct": 5.7
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 257,
-      "pct": 27.6
+      "count": 258,
+      "pct": 27.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 34,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "B",
       "count": 23,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "D",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 21,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "G",
       "count": 34,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.4
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 500.5
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 45,
+    "withBond": 121,
+    "noBond": 44,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4625000
+    "totalBond": 4626000
   },
   "chargesPerBooking": 2.5
 }
