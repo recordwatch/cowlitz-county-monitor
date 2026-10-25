@@ -1,10 +1,36 @@
 [
   {
+    "id": "157922-20261024222437",
+    "inmateNumber": "157922",
+    "name": "SCHRIBER, ZACH J",
+    "bookedAt": "2026-10-24T22:24:37",
+    "location": "C11",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-24T23:04:53",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2310098805",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T23:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4937-20261024213120",
     "inmateNumber": "4937",
     "name": "MCCRACKEN, BOBBY LEE",
     "bookedAt": "2026-10-24T21:31:20",
-    "location": "1-PENDING BOOKING",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -71,6 +97,17 @@
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-24T22:04:46",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610039808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "THEFT 3 ATTEMPT",
         "offenseDate": "2026-10-24T20:46:07",
@@ -14734,7 +14771,7 @@
     "inmateNumber": "328859",
     "name": "SANDOVAL, NATHAN NOAH",
     "bookedAt": "2026-05-01T13:04:55",
-    "location": "B13",
+    "location": "F23",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
