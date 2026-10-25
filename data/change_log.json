@@ -1,5 +1,42 @@
 [
   {
+    "id": "4937-20261024213120",
+    "inmateNumber": "4937",
+    "name": "MCCRACKEN, BOBBY LEE",
+    "bookedAt": "2026-10-24T21:31:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-24T21:45:03",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0017838",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-24T21:46:09",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0408017",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T22:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "359576-20261024204742",
     "inmateNumber": "359576",
     "name": "CONNER, JOHN LUCKY MICHAEL",
@@ -32,7 +69,7 @@
     "bookedAt": "2026-10-24T20:31:12",
     "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "THEFT 3 ATTEMPT",
@@ -42,8 +79,8 @@
         "warrantNumber": "C00068957",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2000
       }
     ],
     "status": "in_custody",
