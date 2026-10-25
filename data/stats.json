@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T20:55:16",
+  "generatedAt": "2026-10-24T21:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 361,
-    "bookingsObserved": 195,
+    "bookingsTracked": 362,
+    "bookingsObserved": 196,
     "releasesObserved": 201,
-    "inCustody": 160,
-    "uniquePeople": 356
+    "inCustody": 161,
+    "uniquePeople": 357
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 4,
+      "booked": 5,
       "released": 12
     }
   ],
@@ -265,26 +265,26 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 137,
-      "pct": 38.2,
+      "count": 138,
+      "pct": 38.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 76,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 48,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 39,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 16,
-      "pct": 4.5,
+      "pct": 4.4,
       "label": "Washington State Patrol"
     },
     {
@@ -468,7 +468,7 @@
   },
   "bond": {
     "withBond": 117,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4619500

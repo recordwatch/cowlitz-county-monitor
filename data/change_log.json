@@ -1,5 +1,19 @@
 [
   {
+    "id": "15464-20261024203112",
+    "inmateNumber": "15464",
+    "name": "HARDIN, MARK DOUGLAS",
+    "bookedAt": "2026-10-24T20:31:12",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T21:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "125470-20261024145358",
     "inmateNumber": "125470",
     "name": "MCCABE, JAMES CHRISTOPHER",
