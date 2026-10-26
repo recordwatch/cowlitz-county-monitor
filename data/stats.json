@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T13:15:28",
+  "generatedAt": "2026-10-26T13:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 384,
-    "bookingsObserved": 218,
+    "bookingsTracked": 385,
+    "bookingsObserved": 219,
     "releasesObserved": 211,
-    "inCustody": 173,
+    "inCustody": 174,
     "uniquePeople": 377
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 9,
+      "booked": 10,
       "released": 5
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 127,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -178,13 +178,13 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 60,
-      "pct": 6.2
+      "count": 61,
+      "pct": 6.3
     },
     {
       "name": "DUI",
       "count": 53,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -209,12 +209,12 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 18,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 17,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "POSS W/INTENT",
       "count": 9,
       "pct": 0.9
     }
@@ -265,32 +265,32 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 148,
-      "pct": 38.9,
+      "count": 150,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 80,
-      "pct": 21.1,
+      "pct": 20.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 52,
-      "pct": 13.7,
+      "pct": 13.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 39,
-      "pct": 10.3,
+      "pct": 10.2,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 23,
-      "pct": 6.1,
+      "pct": 6,
       "label": "Dept. of Corrections"
     },
     {
@@ -321,12 +321,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 352,
+      "count": 354,
       "pct": 36.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 267,
+      "count": 268,
       "pct": 27.5
     },
     {
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 54,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 21,
-      "pct": 12.4
+      "count": 22,
+      "pct": 13
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.6
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 16.1,
+    "currentMedianDaysHeld": 16,
     "currentLongestDaysHeld": 501.9
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 52,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4610500
+    "totalBond": 4615500
   },
   "chargesPerBooking": 2.5
 }

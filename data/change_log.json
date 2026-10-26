@@ -1,5 +1,19 @@
 [
   {
+    "id": "4332-20261026125237",
+    "inmateNumber": "4332",
+    "name": "CHALUPA, RANDY SCOTT",
+    "bookedAt": "2026-10-26T12:52:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T13:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "293671-20261026123815",
     "inmateNumber": "293671",
     "name": "TINGLE, JEREMY BRANDON",
@@ -47,9 +61,21 @@
     "name": "LAKE, BETHANN MARIE",
     "bookedAt": "2026-10-26T11:15:58",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-26T12:47:08",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0289399",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T11:56:07",
     "releasedAt": null,
@@ -86,7 +112,7 @@
     "inmateNumber": "4711",
     "name": "HAASE, RANA LEE",
     "bookedAt": "2026-10-26T11:11:50",
-    "location": "INTAKE H6",
+    "location": "E20",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -288,7 +314,7 @@
     "bookedAt": "2026-10-25T16:08:28",
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": 6000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -298,8 +324,8 @@
         "warrantNumber": "2610069508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "INTRODUCE CONTR SUB TO JAIL",
@@ -1336,7 +1362,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0418193",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -2032,7 +2058,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "D26",
+    "location": "D11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -2958,7 +2984,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -7212,8 +7238,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -7223,8 +7249,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -11795,14 +11821,25 @@
     "bondTotal": 2500,
     "charges": [
       {
-        "description": "THEFT 1ST DEGREE > $5000",
-        "offenseDate": "2026-09-18T19:59:55",
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-26T13:00:43",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610061308",
-        "disposition": "Dismissed",
+        "warrantNumber": "2510017108",
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-26T13:02:18",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510043708",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -11812,6 +11849,17 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061308",
         "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 1ST DEGREE > $5000",
+        "offenseDate": "2026-09-18T19:59:55",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610061308",
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
