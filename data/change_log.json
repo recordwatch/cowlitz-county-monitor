@@ -1,5 +1,19 @@
 [
   {
+    "id": "293671-20261026123815",
+    "inmateNumber": "293671",
+    "name": "TINGLE, JEREMY BRANDON",
+    "bookedAt": "2026-10-26T12:38:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T13:15:28",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "334466-20261026121026",
     "inmateNumber": "334466",
     "name": "HOMOLA, JARED WILLIAM",
@@ -47,13 +61,13 @@
     "name": "RENTERIA, JOSE ARMANDO",
     "bookedAt": "2026-10-26T11:12:38",
     "location": "B11",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-26T11:19:29",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2010102208",
         "disposition": null,
@@ -73,13 +87,13 @@
     "name": "HAASE, RANA LEE",
     "bookedAt": "2026-10-26T11:11:50",
     "location": "INTAKE H6",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-26T11:42:18",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "MENTAL HEALTH COURT",
         "warrantNumber": "2410098308",
         "disposition": null,
@@ -1090,9 +1104,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T23:11:23",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T13:15:28",
     "baseline": false
   },
   {
@@ -11786,7 +11800,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061308",
-        "disposition": "Guilty",
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -11797,7 +11811,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
