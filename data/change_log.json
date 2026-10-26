@@ -12091,10 +12091,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510060808",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 15000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
