@@ -1,5 +1,33 @@
 [
   {
+    "id": "334466-20261026121026",
+    "inmateNumber": "334466",
+    "name": "HOMOLA, JARED WILLIAM",
+    "bookedAt": "2026-10-26T12:10:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T12:44:07",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "8860-20261026120848",
+    "inmateNumber": "8860",
+    "name": "DAVIS, FRANK ALLEN",
+    "bookedAt": "2026-10-26T12:08:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T12:44:07",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "236713-20261026111558",
     "inmateNumber": "236713",
     "name": "LAKE, BETHANN MARIE",
@@ -44,7 +72,7 @@
     "inmateNumber": "4711",
     "name": "HAASE, RANA LEE",
     "bookedAt": "2026-10-26T11:11:50",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [

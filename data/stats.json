@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T12:35:17",
+  "generatedAt": "2026-10-26T12:44:07",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 381,
-    "bookingsObserved": 215,
+    "bookingsTracked": 383,
+    "bookingsObserved": 217,
     "releasesObserved": 210,
-    "inCustody": 171,
-    "uniquePeople": 374
+    "inCustody": 173,
+    "uniquePeople": 376
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 6,
+      "booked": 8,
       "released": 4
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 148,
-      "pct": 39.2,
+      "pct": 38.9,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 78,
-      "pct": 20.6,
+      "pct": 20.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 52,
-      "pct": 13.8,
+      "pct": 13.7,
       "label": "Kelso Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 21,
-      "pct": 5.6,
+      "count": 23,
+      "pct": 6.1,
       "label": "Dept. of Corrections"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "C",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 16.4,
+    "currentMedianDaysHeld": 16.1,
     "currentLongestDaysHeld": 501.8
   },
   "bond": {
     "withBond": 122,
-    "noBond": 49,
+    "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4611500
