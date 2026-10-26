@@ -1,5 +1,67 @@
 [
   {
+    "id": "31152-20261026022257",
+    "inmateNumber": "31152",
+    "name": "HARREN, WILLIAM ROBERT",
+    "bookedAt": "2026-10-26T02:22:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T02:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "297195-20261026020738",
+    "inmateNumber": "297195",
+    "name": "NEWMAN, JASMYN KATIEANN",
+    "bookedAt": "2026-10-26T02:07:38",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-26T02:12:17",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0337459",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-26T02:15:57",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0372344",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-26T02:17:48",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0372345",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T02:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "116467-20261025174545",
     "inmateNumber": "116467",
     "name": "CISSNEY, JASON ALLEN",
