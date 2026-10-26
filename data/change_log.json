@@ -4,7 +4,7 @@
     "inmateNumber": "184164",
     "name": "WILLIAMS, DUSTIN WILLIAM",
     "bookedAt": "2026-10-26T14:31:51",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -298,9 +298,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T02:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T16:15:19",
     "baseline": false
   },
   {
@@ -2546,7 +2546,7 @@
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
-    "location": "C10",
+    "location": "B21",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -2786,7 +2786,7 @@
     "inmateNumber": "35130",
     "name": "KUBI, DONALD EUGENE",
     "bookedAt": "2026-10-20T15:46:50",
-    "location": "C10",
+    "location": "B21",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -2989,7 +2989,7 @@
     "inmateNumber": "277224",
     "name": "HUGDAHL, CAMERON JOSEPH",
     "bookedAt": "2026-10-20T04:22:00",
-    "location": "C11",
+    "location": "B21",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
