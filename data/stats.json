@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T11:35:19",
+  "generatedAt": "2026-10-26T11:56:07",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 378,
-    "bookingsObserved": 212,
+    "bookingsTracked": 381,
+    "bookingsObserved": 215,
     "releasesObserved": 210,
-    "inCustody": 168,
-    "uniquePeople": 371
+    "inCustody": 171,
+    "uniquePeople": 374
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 3,
+      "booked": 6,
       "released": 4
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 76,
+      "count": 77,
       "pct": 7.9
     },
     {
@@ -188,7 +188,7 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 44,
+      "count": 45,
       "pct": 4.6
     },
     {
@@ -224,12 +224,12 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 15,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 3RD",
       "count": 15,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 148,
-      "pct": 39.4,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 78,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 39,
-      "pct": 10.4,
+      "count": 41,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 16,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "Washington State Patrol"
     },
     {
@@ -321,7 +321,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 351,
+      "count": 352,
       "pct": 36.3
     },
     {
@@ -331,7 +331,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 105,
+      "count": 106,
       "pct": 10.9
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 13.7
+      "count": 24,
+      "pct": 14.2
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "D",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 21,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "G",
       "count": 33,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "H",
@@ -429,7 +429,7 @@
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.4
+      "pct": 5.3
     }
   ],
   "stay": {
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.2,
+    "currentMedianDaysHeld": 16.4,
     "currentLongestDaysHeld": 501.8
   },
   "bond": {
     "withBond": 122,
-    "noBond": 46,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4613500
+    "totalBond": 4611500
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }

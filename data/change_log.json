@@ -1,5 +1,59 @@
 [
   {
+    "id": "236713-20261026111558",
+    "inmateNumber": "236713",
+    "name": "LAKE, BETHANN MARIE",
+    "bookedAt": "2026-10-26T11:15:58",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T11:56:07",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "293988-20261026111238",
+    "inmateNumber": "293988",
+    "name": "RENTERIA, JOSE ARMANDO",
+    "bookedAt": "2026-10-26T11:12:38",
+    "location": "B11",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T11:19:29",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2010102208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T11:56:07",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "4711-20261026111150",
+    "inmateNumber": "4711",
+    "name": "HAASE, RANA LEE",
+    "bookedAt": "2026-10-26T11:11:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T11:56:07",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "43454-20261026050915",
     "inmateNumber": "43454",
     "name": "RICH, JAMIE LEE",
@@ -623,7 +677,7 @@
     "bookedAt": "2026-10-24T21:31:20",
     "location": "C10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -634,7 +688,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -5381,7 +5435,7 @@
     "bookedAt": "2026-10-15T10:25:44",
     "location": "G-G30",
     "arrestingAgency": "CCSO",
-    "bondTotal": 61000,
+    "bondTotal": 60000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -5400,10 +5454,21 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0578518",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-26T11:11:54",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0229161",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -7082,8 +7147,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -7093,8 +7158,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
