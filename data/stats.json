@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:15:21",
+  "generatedAt": "2026-10-26T14:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 385,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 70,
-      "pct": 7.1
+      "count": 71,
+      "pct": 7.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -321,7 +321,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 358,
+      "count": 359,
       "pct": 36.5
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 55,
-      "pct": 5.6
+      "count": 56,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -383,28 +383,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 32,
-      "pct": 18.8
+      "count": 33,
+      "pct": 19.2
     },
     {
       "name": "B",
-      "count": 23,
-      "pct": 13.5
+      "count": 24,
+      "pct": 14
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.8
+      "pct": 11.6
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.4
+      "pct": 19.2
     },
     {
       "name": "H",
@@ -429,7 +429,7 @@
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.3
+      "pct": 5.2
     }
   ],
   "stay": {
@@ -470,7 +470,7 @@
     "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4769500
+    "totalBond": 4767000
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.6
 }

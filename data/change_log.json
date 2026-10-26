@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSS CS W/OUT RX",
+        "offenseDate": "2026-10-26T13:56:58",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T13:35:17",
     "releasedAt": null,
@@ -66,10 +78,22 @@
     "inmateNumber": "334466",
     "name": "HOMOLA, JARED WILLIAM",
     "bookedAt": "2026-10-26T12:10:26",
-    "location": "1-PENDING BOOKING",
+    "location": "A24",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-26T13:48:04",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "86CR223491",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T12:44:07",
     "releasedAt": null,
@@ -80,7 +104,7 @@
     "inmateNumber": "8860",
     "name": "DAVIS, FRANK ALLEN",
     "bookedAt": "2026-10-26T12:08:48",
-    "location": "1-PENDING BOOKING",
+    "location": "B10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -242,10 +266,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0406417",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -269,7 +293,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0337459",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -280,7 +304,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0372344",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -291,7 +315,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0372345",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -892,10 +916,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0390265",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -9958,7 +9982,7 @@
     "bookedAt": "2026-10-04T01:08:10",
     "location": "C22",
     "arrestingAgency": "KEPD",
-    "bondTotal": 5500,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -9968,8 +9992,8 @@
         "warrantNumber": "5A0837258",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 2500
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
