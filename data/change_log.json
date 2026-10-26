@@ -4,7 +4,7 @@
     "inmateNumber": "31152",
     "name": "HARREN, WILLIAM ROBERT",
     "bookedAt": "2026-10-26T02:22:57",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "297195",
     "name": "NEWMAN, JASMYN KATIEANN",
     "bookedAt": "2026-10-26T02:07:38",
-    "location": "INTAKE H2",
+    "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -3940,7 +3940,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "E13",
+    "location": "D11",
     "arrestingAgency": "KEPD",
     "bondTotal": 8000,
     "charges": [
@@ -6190,7 +6190,7 @@
     "inmateNumber": "360925",
     "name": "LAURSEN, JASON WAYNE",
     "bookedAt": "2026-10-13T13:45:52",
-    "location": "D11",
+    "location": "D21",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
