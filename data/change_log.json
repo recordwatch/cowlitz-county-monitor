@@ -1,5 +1,19 @@
 [
   {
+    "id": "116467-20261025174545",
+    "inmateNumber": "116467",
+    "name": "CISSNEY, JASON ALLEN",
+    "bookedAt": "2026-10-25T17:45:45",
+    "location": "INTAKE H8",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-25T18:29:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "96144-20261025161959",
     "inmateNumber": "96144",
     "name": "IRWIN, JESSE MICHAEL",
