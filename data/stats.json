@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:55:18",
+  "generatedAt": "2026-10-26T03:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 377,
@@ -208,8 +208,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 17,
-      "pct": 1.8
+      "count": 18,
+      "pct": 1.9
     },
     {
       "name": "FELONY HARASSMENT",
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 266,
-      "pct": 27.6
+      "count": 267,
+      "pct": 27.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 501.4
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 47,
+    "withBond": 124,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4625500
+    "totalBond": 4626500
   },
   "chargesPerBooking": 2.6
 }
