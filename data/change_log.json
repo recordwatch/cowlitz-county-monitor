@@ -47,7 +47,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T11:42:18",
+        "arrestingAgency": "CCCD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2410098308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T11:56:07",
     "releasedAt": null,
@@ -335,7 +347,7 @@
     "inmateNumber": "357362",
     "name": "GOMEZ, SAMUEL",
     "bookedAt": "2026-10-25T15:05:58",
-    "location": "INTAKE H3",
+    "location": "A11",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -2031,7 +2043,7 @@
         "bondAmount": null
       },
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-21T15:34:09",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",

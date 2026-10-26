@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:56:07",
+  "generatedAt": "2026-10-26T12:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 381,
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 59,
-      "pct": 6.1
+      "count": 60,
+      "pct": 6.2
     },
     {
       "name": "DUI",
@@ -219,7 +219,7 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 16,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 267,
-      "pct": 27.6
+      "pct": 27.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -360,14 +360,14 @@
       "pct": 1.1
     },
     {
-      "name": "DOC CONTRACT COURT",
+      "name": "MENTAL HEALTH COURT",
       "count": 10,
       "pct": 1
     },
     {
-      "name": "MENTAL HEALTH COURT",
-      "count": 9,
-      "pct": 0.9
+      "name": "DOC CONTRACT COURT",
+      "count": 10,
+      "pct": 1
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -383,8 +383,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 32,
-      "pct": 18.9
+      "count": 33,
+      "pct": 19.5
     },
     {
       "name": "B",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.6
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
