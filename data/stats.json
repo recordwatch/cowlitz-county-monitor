@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:35:16",
+  "generatedAt": "2026-10-25T18:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 375,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 123,
-      "pct": 12.9
+      "count": 125,
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 58,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "DUI",
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 24,
-      "pct": 2.5
+      "count": 25,
+      "pct": 2.6
     },
     {
       "name": "RESISTING ARREST",
@@ -254,7 +254,7 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 11,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -321,23 +321,23 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 348,
-      "pct": 36.4
+      "count": 350,
+      "pct": 36.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 265,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 105,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 98,
-      "pct": 10.3
+      "count": 100,
+      "pct": 10.4
     },
     {
       "name": "DOC COURT",
@@ -347,7 +347,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 34,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -357,7 +357,7 @@
     {
       "name": "DRUG COURT",
       "count": 11,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DOC CONTRACT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 501.1
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 47,
+    "withBond": 125,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4630500
+    "totalBond": 4635500
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.6
 }
