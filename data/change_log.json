@@ -1,10 +1,36 @@
 [
   {
+    "id": "184164-20261026143151",
+    "inmateNumber": "184164",
+    "name": "WILLIAMS, DUSTIN WILLIAM",
+    "bookedAt": "2026-10-26T14:31:51",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-26T14:41:01",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0414234",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T15:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4332-20261026125237",
     "inmateNumber": "4332",
     "name": "CHALUPA, RANDY SCOTT",
     "bookedAt": "2026-10-26T12:52:37",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -30,7 +56,7 @@
     "inmateNumber": "293671",
     "name": "TINGLE, JEREMY BRANDON",
     "bookedAt": "2026-10-26T12:38:15",
-    "location": "D15",
+    "location": "D26",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -398,8 +424,8 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "POSS W/INTENT",
-        "offenseDate": "2026-10-25T16:24:22",
+        "description": "TAMPERING W EVIDENCE",
+        "offenseDate": "2026-10-25T18:18:00",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
@@ -431,8 +457,8 @@
         "bondAmount": null
       },
       {
-        "description": "RESISTING ARREST",
-        "offenseDate": "2026-10-25T16:25:11",
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-25T16:24:22",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
@@ -442,8 +468,8 @@
         "bondAmount": null
       },
       {
-        "description": "TAMPERING W EVIDENCE",
-        "offenseDate": "2026-10-25T18:18:00",
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-25T16:25:11",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
@@ -645,9 +671,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T11:06:51",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:15:21",
     "baseline": false
   },
   {
@@ -1407,9 +1433,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T16:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T15:15:21",
     "baseline": false
   },
   {
