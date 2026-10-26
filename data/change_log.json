@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T16:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-25T17:15:22",
     "baseline": false
   },
   {
@@ -30,7 +30,7 @@
     "inmateNumber": "158045",
     "name": "BAIZ, STEPHANIE NORMA",
     "bookedAt": "2026-10-25T16:08:28",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -43,6 +43,17 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-25T16:25:11",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
