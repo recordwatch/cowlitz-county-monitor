@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T17:55:18",
+  "generatedAt": "2026-10-25T18:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 374,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 121,
-      "pct": 12.7
+      "count": 123,
+      "pct": 12.9
     },
     {
       "name": "DWLS 3RD",
       "count": 76,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "DOC HOLD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 53,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 31,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 348,
-      "pct": 36.5
+      "pct": 36.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 265,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,13 +336,13 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 95,
-      "pct": 10
+      "count": 98,
+      "pct": 10.3
     },
     {
       "name": "DOC COURT",
       "count": 54,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 16.4,
-    "currentLongestDaysHeld": 501
+    "currentLongestDaysHeld": 501.1
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 47,
+    "withBond": 124,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4624500
+    "totalBond": 4630500
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.6
 }

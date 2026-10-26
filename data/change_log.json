@@ -32,7 +32,7 @@
     "bookedAt": "2026-10-25T16:08:28",
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -51,6 +51,39 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "TRIP PERMIT VIOLATION-USAGE",
+        "offenseDate": "2026-10-25T17:37:02",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0228369",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-25T17:38:52",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0357310",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-25T17:39:37",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0357310",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
