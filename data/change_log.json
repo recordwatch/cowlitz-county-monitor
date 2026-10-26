@@ -1,5 +1,42 @@
 [
   {
+    "id": "43454-20261026050915",
+    "inmateNumber": "43454",
+    "name": "RICH, JAMIE LEE",
+    "bookedAt": "2026-10-26T05:09:15",
+    "location": "INTAKE H8",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T05:10:02",
+        "arrestingAgency": "WDPD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2010067008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T05:10:45",
+        "arrestingAgency": "WDPD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2010067108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T05:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "31152-20261026022257",
     "inmateNumber": "31152",
     "name": "HARREN, WILLIAM ROBERT",
@@ -1300,9 +1337,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T21:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T05:55:18",
     "baseline": false
   },
   {

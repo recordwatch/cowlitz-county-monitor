@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T05:35:17",
+  "generatedAt": "2026-10-26T05:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 377,
-    "bookingsObserved": 211,
-    "releasesObserved": 207,
+    "bookingsTracked": 378,
+    "bookingsObserved": 212,
+    "releasesObserved": 208,
     "inCustody": 170,
-    "uniquePeople": 370
+    "uniquePeople": 371
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 2,
-      "released": 1
+      "booked": 3,
+      "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 127,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 69,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 42,
-      "pct": 4.4
+      "count": 44,
+      "pct": 4.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -234,7 +234,7 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 14,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 148,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 78,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 52,
-      "pct": 13.9,
+      "pct": 13.8,
       "label": "Kelso Police"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 10,
-      "pct": 2.7,
+      "count": 11,
+      "pct": 2.9,
       "label": "Woodland Police"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 350,
-      "pct": 36.3
+      "pct": 36.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 267,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -352,7 +352,7 @@
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 14,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "DRUG COURT",
@@ -366,8 +366,8 @@
     },
     {
       "name": "MENTAL HEALTH COURT",
-      "count": 7,
-      "pct": 0.7
+      "count": 9,
+      "pct": 0.9
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -408,8 +408,8 @@
     },
     {
       "name": "F",
-      "count": 8,
-      "pct": 4.7
+      "count": 7,
+      "pct": 4.1
     },
     {
       "name": "G",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.5
+      "count": 7,
+      "pct": 4.1
     },
     {
       "name": "WSH",
@@ -433,9 +433,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 207,
+    "releasedCount": 208,
     "medianDays": 2.5,
-    "meanDays": 13.3,
+    "meanDays": 13.2,
     "buckets": [
       {
         "label": "< 1 day",
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 19
+        "count": 20
       },
       {
         "label": "1–4 weeks",
