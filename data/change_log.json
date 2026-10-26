@@ -72,8 +72,8 @@
     "bondTotal": 6000,
     "charges": [
       {
-        "description": "TAMPERING W EVIDENCE",
-        "offenseDate": "2026-10-25T18:18:00",
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-25T16:24:22",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -94,8 +94,8 @@
         "bondAmount": null
       },
       {
-        "description": "POSS W/INTENT",
-        "offenseDate": "2026-10-25T16:24:22",
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-25T16:25:11",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -105,8 +105,8 @@
         "bondAmount": null
       },
       {
-        "description": "RESISTING ARREST",
-        "offenseDate": "2026-10-25T16:25:11",
+        "description": "TAMPERING W EVIDENCE",
+        "offenseDate": "2026-10-25T18:18:00",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -1289,9 +1289,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-22T18:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-25T20:55:16",
     "baseline": false
   },
   {
