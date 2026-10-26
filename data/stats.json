@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T13:55:18",
+  "generatedAt": "2026-10-26T14:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 385,
     "bookingsObserved": 219,
-    "releasesObserved": 211,
-    "inCustody": 174,
+    "releasesObserved": 212,
+    "inCustody": 173,
     "uniquePeople": 377
   },
   "bookingsByDay": [
@@ -157,29 +157,29 @@
     {
       "date": "2026-10-26",
       "booked": 10,
-      "released": 5
+      "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 127,
+      "count": 128,
       "pct": 13
     },
     {
       "name": "DWLS 3RD",
       "count": 77,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "DOC HOLD",
-      "count": 69,
+      "count": 70,
       "pct": 7.1
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 61,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "DUI",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 45,
-      "pct": 4.6
+      "count": 46,
+      "pct": 4.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -199,12 +199,12 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 25,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "RESISTING ARREST",
       "count": 22,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 150,
-      "pct": 39.3,
+      "count": 151,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 9,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -321,28 +321,28 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 354,
-      "pct": 36.3
+      "count": 358,
+      "pct": 36.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 268,
-      "pct": 27.5
+      "count": 269,
+      "pct": 27.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 106,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 102,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "DOC COURT",
-      "count": 54,
-      "pct": 5.5
+      "count": 55,
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -370,12 +370,12 @@
       "pct": 1
     },
     {
-      "name": "KALAMA MUNICIPAL COURT",
+      "name": "OTHER - OUT OF COUNTY",
       "count": 3,
       "pct": 0.3
     },
     {
-      "name": "STATE WORK RELEASE",
+      "name": "KALAMA MUNICIPAL COURT",
       "count": 3,
       "pct": 0.3
     }
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 14.2
+      "count": 23,
+      "pct": 13.5
     },
     {
       "name": "C",
@@ -398,13 +398,13 @@
     },
     {
       "name": "D",
-      "count": 10,
-      "pct": 5.9
+      "count": 11,
+      "pct": 6.5
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 13
+      "count": 23,
+      "pct": 13.5
     },
     {
       "name": "F",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "INTAKE",
       "count": 5,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -433,7 +433,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 211,
+    "releasedCount": 212,
     "medianDays": 2.6,
     "meanDays": 13.1,
     "buckets": [
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 20
+        "count": 21
       },
       {
         "label": "1–4 weeks",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 16,
+    "currentMedianDaysHeld": 16.2,
     "currentLongestDaysHeld": 501.9
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 52,
+    "withBond": 125,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4615500
+    "totalBond": 4769500
   },
   "chargesPerBooking": 2.5
 }
