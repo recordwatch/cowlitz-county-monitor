@@ -623,7 +623,7 @@
     "bookedAt": "2026-10-24T21:31:20",
     "location": "C10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -642,10 +642,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0408017",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -15464,10 +15464,10 @@
         "arrestingAgency": "DOC",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510086608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 50000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
