@@ -11672,8 +11672,8 @@
         "warrantNumber": "2610061308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 2500
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "POSS STL PROP 1/>1500",
