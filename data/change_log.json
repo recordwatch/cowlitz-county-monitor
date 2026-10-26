@@ -99,7 +99,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0372345",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -243,10 +243,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228369",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -254,10 +254,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0357310",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -265,7 +265,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0357310",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -283,7 +283,7 @@
     "bookedAt": "2026-10-25T15:05:58",
     "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "NVOL - WITHOUT ID",
@@ -302,10 +302,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0420552",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -686,7 +686,7 @@
     "bookedAt": "2026-10-24T20:31:12",
     "location": "D12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -708,7 +708,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -1123,7 +1123,7 @@
     "bookedAt": "2026-10-23T15:38:36",
     "location": "E10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -1131,10 +1131,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "1A0649737",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -2736,10 +2736,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0430810",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -12727,8 +12727,8 @@
         "warrantNumber": "2610057508",
         "disposition": "Guilty",
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 25000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 1ST",
