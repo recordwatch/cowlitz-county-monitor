@@ -88,7 +88,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0372344",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -3850,10 +3850,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610018708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 40000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "CONTEMPT OF COURT",
@@ -3861,7 +3861,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610054408",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
@@ -12725,7 +12725,7 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610057508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 25000
@@ -12736,7 +12736,7 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610057508",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -12747,7 +12747,7 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610057508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
