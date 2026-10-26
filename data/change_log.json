@@ -581,6 +581,17 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T11:58:15",
+        "arrestingAgency": "KEPD",
+        "court": "DRUG COURT",
+        "warrantNumber": "2610039708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "ATTEMPT TO ELUDE",
         "offenseDate": "2026-10-25T08:47:32",
         "arrestingAgency": "KEPD",
@@ -3096,7 +3107,7 @@
     "inmateNumber": "23971",
     "name": "WEBB, JOSEPH WAYLON",
     "bookedAt": "2026-10-19T04:03:06",
-    "location": "D15",
+    "location": "F11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
@@ -12163,7 +12174,7 @@
     "bondTotal": 15000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "ATTEMPT TO ELUDE",
         "offenseDate": "2026-09-15T15:59:02",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
