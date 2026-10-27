@@ -122,7 +122,7 @@
     "inmateNumber": "286001",
     "name": "MILNER, MAVIS ISABEL",
     "bookedAt": "2026-10-27T09:00:37",
-    "location": "E13",
+    "location": "D13",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -148,7 +148,7 @@
     "inmateNumber": "105065",
     "name": "THOMPSON, THOMAS EUGENE",
     "bookedAt": "2026-10-27T01:54:14",
-    "location": "B24",
+    "location": "G-G17",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -2345,7 +2345,7 @@
     "inmateNumber": "21229",
     "name": "GRIFFIN, STEVEN LEROY",
     "bookedAt": "2026-10-22T00:08:20",
-    "location": "B12",
+    "location": "G-G39",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -2382,7 +2382,7 @@
     "inmateNumber": "100533",
     "name": "REDELF, ERNEST ROGER JR",
     "bookedAt": "2026-10-21T23:43:54",
-    "location": "B24",
+    "location": "G-G15",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -3251,7 +3251,7 @@
     "inmateNumber": "35130",
     "name": "KUBI, DONALD EUGENE",
     "bookedAt": "2026-10-20T15:46:50",
-    "location": "B21",
+    "location": "G-G31",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -3454,7 +3454,7 @@
     "inmateNumber": "277224",
     "name": "HUGDAHL, CAMERON JOSEPH",
     "bookedAt": "2026-10-20T04:22:00",
-    "location": "B21",
+    "location": "G-G33",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -4194,7 +4194,7 @@
     "inmateNumber": "136329",
     "name": "BOISSONNAULT PRADO, ERYK RAINFEATHER",
     "bookedAt": "2026-10-18T18:56:35",
-    "location": "A13",
+    "location": "G-G05",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -4357,7 +4357,7 @@
     "inmateNumber": "24568",
     "name": "BREITENBACH, JOSHUA JO",
     "bookedAt": "2026-10-18T00:42:54",
-    "location": "A16",
+    "location": "G-G13",
     "arrestingAgency": "CCSO",
     "bondTotal": 6000,
     "charges": [
@@ -4468,7 +4468,7 @@
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
     "bookedAt": "2026-10-17T21:14:24",
-    "location": "D13",
+    "location": "D25",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -4568,7 +4568,7 @@
     "inmateNumber": "164305",
     "name": "LINDSEY, TRAVIS KENNETH",
     "bookedAt": "2026-10-17T18:57:59",
-    "location": "B25",
+    "location": "G-G19",
     "arrestingAgency": "LVPD",
     "bondTotal": 40000,
     "charges": [
@@ -5549,7 +5549,7 @@
     "inmateNumber": "106172",
     "name": "BOSS, TANNER ELIJAH DEAN",
     "bookedAt": "2026-10-15T17:56:27",
-    "location": "A14",
+    "location": "G-G07",
     "arrestingAgency": "KEPD",
     "bondTotal": 10500,
     "charges": [
