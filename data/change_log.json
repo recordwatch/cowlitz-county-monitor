@@ -101,18 +101,18 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
-        "offenseDate": "2026-10-26T21:59:00",
+        "offenseDate": "2026-10-26T20:28:03",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -169,17 +169,6 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
-      },
-      {
-        "description": "THEFT 3RD DEG",
-        "offenseDate": "2026-10-26T20:28:03",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "6A0405459",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
       }
     ],
     "status": "in_custody",
