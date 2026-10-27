@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T20:15:18",
+  "generatedAt": "2026-10-26T20:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 388,
-    "bookingsObserved": 222,
+    "bookingsTracked": 389,
+    "bookingsObserved": 223,
     "releasesObserved": 221,
-    "inCustody": 167,
-    "uniquePeople": 379
+    "inCustody": 168,
+    "uniquePeople": 380
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-26",
-      "booked": 13,
+      "booked": 14,
       "released": 15
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 128,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "DWLS 3RD",
-      "count": 77,
-      "pct": 7.8
+      "count": 78,
+      "pct": 7.9
     },
     {
       "name": "DOC HOLD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 53,
-      "pct": 5.4
+      "count": 54,
+      "pct": 5.5
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -265,32 +265,32 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 152,
-      "pct": 39.4,
+      "count": 153,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 81,
-      "pct": 21,
+      "pct": 20.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 52,
-      "pct": 13.5,
+      "pct": 13.4,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 40,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 23,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 362,
-      "pct": 36.7
+      "pct": 36.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 270,
-      "pct": 27.4
+      "pct": 27.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 106,
-      "pct": 10.7
+      "count": 107,
+      "pct": 10.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.1,
-    "currentLongestDaysHeld": 502.1
+    "currentMedianDaysHeld": 17.5,
+    "currentLongestDaysHeld": 502.2
   },
   "bond": {
     "withBond": 118,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4760500

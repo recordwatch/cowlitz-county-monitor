@@ -1,5 +1,19 @@
 [
   {
+    "id": "13952-20261026194526",
+    "inmateNumber": "13952",
+    "name": "DYER, ALICIA LYNN",
+    "bookedAt": "2026-10-26T19:45:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T20:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "351234-20261026193645",
     "inmateNumber": "351234",
     "name": "JANSSEN, BRADLEY SCOTT",
@@ -7,7 +21,30 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-26T19:50:56",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00069763",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-26T19:52:24",
+        "arrestingAgency": "CCCD",
+        "court": null,
+        "warrantNumber": "T00069763",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T20:15:18",
     "releasedAt": null,
