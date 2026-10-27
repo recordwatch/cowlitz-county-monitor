@@ -191,7 +191,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00069763",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -202,7 +202,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00069763",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
