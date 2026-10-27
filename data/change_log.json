@@ -1,5 +1,53 @@
 [
   {
+    "id": "105065-20261027015414",
+    "inmateNumber": "105065",
+    "name": "THOMPSON, THOMAS EUGENE",
+    "bookedAt": "2026-10-27T01:54:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW USE PUBLIC",
+        "offenseDate": "2026-10-27T02:00:31",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5a0292322",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-27T02:01:19",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6a0348187",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-27T02:02:10",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6a0348187",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T02:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "18066-20261026221757",
     "inmateNumber": "18066",
     "name": "BLOOMFELDT, KEVIN CASEY",
