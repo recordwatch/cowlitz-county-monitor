@@ -1,5 +1,19 @@
 [
   {
+    "id": "307862-20261026191714",
+    "inmateNumber": "307862",
+    "name": "OKUTSU, SAVANNAH RAE",
+    "bookedAt": "2026-10-26T19:17:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T19:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "184164-20261026143151",
     "inmateNumber": "184164",
     "name": "WILLIAMS, DUSTIN WILLIAM",
@@ -424,8 +438,19 @@
     "bondTotal": 10000,
     "charges": [
       {
-        "description": "TAMPERING W EVIDENCE",
-        "offenseDate": "2026-10-25T18:18:00",
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-10-26T19:08:26",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510051208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-10-25T16:24:22",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
@@ -457,8 +482,8 @@
         "bondAmount": null
       },
       {
-        "description": "POSS W/INTENT",
-        "offenseDate": "2026-10-25T16:24:22",
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-25T16:25:11",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
@@ -468,8 +493,8 @@
         "bondAmount": null
       },
       {
-        "description": "RESISTING ARREST",
-        "offenseDate": "2026-10-25T16:25:11",
+        "description": "TAMPERING W EVIDENCE",
+        "offenseDate": "2026-10-25T18:18:00",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069508",
