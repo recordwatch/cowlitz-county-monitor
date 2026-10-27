@@ -1,13 +1,50 @@
 [
   {
+    "id": "351234-20261026193645",
+    "inmateNumber": "351234",
+    "name": "JANSSEN, BRADLEY SCOTT",
+    "bookedAt": "2026-10-26T19:36:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T20:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "307862-20261026191714",
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-10-26T19:31:36",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-26T19:32:15",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T19:55:18",
     "releasedAt": null,
@@ -947,9 +984,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T22:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T20:15:18",
     "baseline": false
   },
   {
