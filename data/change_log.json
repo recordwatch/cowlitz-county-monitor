@@ -1,10 +1,36 @@
 [
   {
+    "id": "18066-20261026221757",
+    "inmateNumber": "18066",
+    "name": "BLOOMFELDT, KEVIN CASEY",
+    "bookedAt": "2026-10-26T22:17:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-26T22:25:03",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420553",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-26T22:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357622-20261026201644",
     "inmateNumber": "357622",
     "name": "LOPEZ GALVEZ, JOSE ANGEL",
     "bookedAt": "2026-10-26T20:16:44",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -31,9 +57,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-10-26T20:55:17",
-    "releasedAt": "2026-10-26T22:35:16",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -43,7 +69,7 @@
     "bookedAt": "2026-10-26T19:45:26",
     "location": "E13",
     "arrestingAgency": "LVPD",
-    "bondTotal": 9000,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -53,8 +79,8 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -64,8 +90,8 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -141,8 +167,8 @@
         "warrantNumber": "6A0405459",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -470,7 +496,7 @@
     "inmateNumber": "43454",
     "name": "RICH, JAMIE LEE",
     "bookedAt": "2026-10-26T05:09:15",
-    "location": "INTAKE H8",
+    "location": "INTAKE H5",
     "arrestingAgency": "WDPD",
     "bondTotal": null,
     "charges": [
