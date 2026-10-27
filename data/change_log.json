@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-26T20:16:44",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-26T21:25:11",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0402265",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-26T20:55:17",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "13952",
     "name": "DYER, ALICIA LYNN",
     "bookedAt": "2026-10-26T19:45:26",
-    "location": "1-PENDING BOOKING",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 9000,
     "charges": [
@@ -121,7 +133,7 @@
     "inmateNumber": "351234",
     "name": "JANSSEN, BRADLEY SCOTT",
     "bookedAt": "2026-10-26T19:36:45",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -158,7 +170,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "INTAKE H2",
+    "location": "D15",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -714,9 +726,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-25T16:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-26T21:35:18",
     "baseline": false
   },
   {

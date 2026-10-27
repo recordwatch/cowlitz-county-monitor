@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-26T21:15:19",
+  "generatedAt": "2026-10-26T21:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 390,
     "bookingsObserved": 224,
-    "releasesObserved": 221,
-    "inCustody": 169,
+    "releasesObserved": 222,
+    "inCustody": 168,
     "uniquePeople": 381
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-26",
       "booked": 15,
-      "released": 15
+      "released": 16
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 63,
-      "pct": 6.3
+      "count": 64,
+      "pct": 6.4
     },
     {
       "name": "DUI",
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 273,
-      "pct": 27.4
+      "count": 274,
+      "pct": 27.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -383,13 +383,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 31,
-      "pct": 18.7
+      "count": 32,
+      "pct": 19.2
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "C",
@@ -398,13 +398,13 @@
     },
     {
       "name": "D",
-      "count": 11,
-      "pct": 6.6
+      "count": 12,
+      "pct": 7.2
     },
     {
       "name": "E",
-      "count": 21,
-      "pct": 12.7
+      "count": 22,
+      "pct": 13.2
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.4
+      "count": 2,
+      "pct": 1.2
     },
     {
       "name": "WSH",
@@ -433,9 +433,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 221,
+    "releasedCount": 222,
     "medianDays": 2.5,
-    "meanDays": 12.7,
+    "meanDays": 12.6,
     "buckets": [
       {
         "label": "< 1 day",
@@ -443,7 +443,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 55
+        "count": 56
       },
       {
         "label": "3–7 days",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17,
+    "currentMedianDaysHeld": 17.6,
     "currentLongestDaysHeld": 502.2
   },
   "bond": {
     "withBond": 119,
-    "noBond": 50,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4769500
+    "totalBond": 4760500
   },
   "chargesPerBooking": 2.6
 }
