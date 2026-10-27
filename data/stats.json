@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T11:55:18",
+  "generatedAt": "2026-10-27T12:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 393,
-    "bookingsObserved": 227,
+    "bookingsTracked": 394,
+    "bookingsObserved": 228,
     "releasesObserved": 224,
-    "inCustody": 169,
+    "inCustody": 170,
     "uniquePeople": 384
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 2,
+      "booked": 3,
       "released": 2
     }
   ],
@@ -169,11 +169,11 @@
     {
       "name": "DWLS 3RD",
       "count": 78,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
-      "count": 71,
+      "count": 72,
       "pct": 7.1
     },
     {
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 155,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 82,
-      "pct": 21,
+      "pct": 20.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 53,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Kelso Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 23,
-      "pct": 5.9,
+      "count": 24,
+      "pct": 6.1,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,7 +322,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 367,
-      "pct": 36.5
+      "pct": 36.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 56,
-      "pct": 5.6
+      "count": 57,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.4,
+    "currentMedianDaysHeld": 17.3,
     "currentLongestDaysHeld": 502.8
   },
   "bond": {
     "withBond": 122,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4743000

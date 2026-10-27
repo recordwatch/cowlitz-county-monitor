@@ -1,5 +1,19 @@
 [
   {
+    "id": "165564-20261027114336",
+    "inmateNumber": "165564",
+    "name": "COGDILL, THOMAS EARL RUDOLPH",
+    "bookedAt": "2026-10-27T11:43:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T12:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "286001-20261027090037",
     "inmateNumber": "286001",
     "name": "MILNER, MAVIS ISABEL",
@@ -4893,7 +4907,18 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2510023208",
-        "disposition": null,
+        "disposition": "Guilty",
+        "billingAgency": "WDOC",
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-16T14:41:32",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2510023208",
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5130,7 +5155,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "1810140208",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -11002,7 +11027,7 @@
         "arrestingAgency": "LVPD",
         "court": "STATE WORK RELEASE",
         "warrantNumber": "2510008806",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
