@@ -122,7 +122,7 @@
     "inmateNumber": "286001",
     "name": "MILNER, MAVIS ISABEL",
     "bookedAt": "2026-10-27T09:00:37",
-    "location": "INTAKE H1",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -260,9 +260,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T20:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T15:15:22",
     "baseline": false
   },
   {
