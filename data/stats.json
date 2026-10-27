@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T21:35:18",
+  "generatedAt": "2026-10-26T21:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 390,
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 64,
-      "pct": 6.4
+      "count": 65,
+      "pct": 6.5
     },
     {
       "name": "DUI",
@@ -322,11 +322,11 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 362,
-      "pct": 36.3
+      "pct": 36.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 274,
+      "count": 275,
       "pct": 27.5
     },
     {
@@ -470,7 +470,7 @@
     "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4760500
+    "totalBond": 4761500
   },
   "chargesPerBooking": 2.6
 }
