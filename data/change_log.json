@@ -32,7 +32,7 @@
     "bookedAt": "2026-10-27T01:54:14",
     "location": "B24",
     "arrestingAgency": "CCSO",
-    "bondTotal": 2500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW USE PUBLIC",
@@ -54,7 +54,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -64,8 +64,8 @@
         "warrantNumber": "6a0348187",
         "disposition": null,
         "billingAgency": "DIST",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
