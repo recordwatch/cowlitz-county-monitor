@@ -6,14 +6,47 @@
     "bookedAt": "2026-10-27T13:10:54",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": 4000,
+    "bondTotal": 5500,
     "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-27T13:28:44",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "25CR52996",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-10-27T13:20:55",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0272244",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-27T13:26:22",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339404",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-27T13:27:21",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339405",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -73,7 +106,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2410073608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -479,7 +512,7 @@
     "bookedAt": "2026-10-26T12:38:15",
     "location": "D26",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 200000,
     "charges": [
       {
         "description": "BURGLARY 1ST",
@@ -489,8 +522,8 @@
         "warrantNumber": "2610065108",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 200000
       },
       {
         "description": "MAL MISCHIEF 3",
