@@ -122,7 +122,7 @@
     "inmateNumber": "286001",
     "name": "MILNER, MAVIS ISABEL",
     "bookedAt": "2026-10-27T09:00:37",
-    "location": "D13",
+    "location": "D15",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -399,7 +399,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "D15",
+    "location": "D16",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
@@ -3769,7 +3769,7 @@
     "inmateNumber": "23971",
     "name": "WEBB, JOSEPH WAYLON",
     "bookedAt": "2026-10-19T04:03:06",
-    "location": "F11",
+    "location": "D13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
