@@ -9692,12 +9692,12 @@
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "description": "LONGVIEW DISORDERLY CONDUCT",
         "offenseDate": "2026-10-22T17:00:05",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0321008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 2500

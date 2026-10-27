@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:15:20",
+  "generatedAt": "2026-10-27T10:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 393,
@@ -208,8 +208,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 18,
-      "pct": 1.8
+      "count": 17,
+      "pct": 1.7
     },
     {
       "name": "FELONY HARASSMENT",
