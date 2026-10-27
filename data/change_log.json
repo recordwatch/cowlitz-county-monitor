@@ -1,5 +1,19 @@
 [
   {
+    "id": "286001-20261027090037",
+    "inmateNumber": "286001",
+    "name": "MILNER, MAVIS ISABEL",
+    "bookedAt": "2026-10-27T09:00:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T09:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "105065-20261027015414",
     "inmateNumber": "105065",
     "name": "THOMPSON, THOMAS EUGENE",
@@ -425,7 +439,7 @@
         "court": "DOC COURT",
         "warrantNumber": "86CR223491",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -451,7 +465,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2310023908",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -488,7 +502,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0289399",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -16087,7 +16101,7 @@
         "bondAmount": null
       },
       {
-        "description": "ATTEMPT TO ELUDE",
+        "description": "CRIMINAL MISCHIEF ARMED DEADLY WEAPON",
         "offenseDate": "2026-04-15T12:56:46",
         "arrestingAgency": "DOC",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
