@@ -131,9 +131,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T22:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T12:55:19",
     "baseline": false
   },
   {
@@ -4936,9 +4936,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T14:35:22",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T12:55:19",
     "baseline": false
   },
   {
@@ -8870,7 +8870,7 @@
     "inmateNumber": "130841",
     "name": "GILREATH, ANTHONY BRIAN",
     "bookedAt": "2026-10-09T22:10:48",
-    "location": "G-G23",
+    "location": "G-G40",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
