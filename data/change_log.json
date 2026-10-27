@@ -382,9 +382,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T13:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-27T11:15:18",
     "baseline": false
   },
   {
@@ -10374,10 +10374,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0203781",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "IIL VIO-IGNITION INTERLK DRIVER LIC",
@@ -10385,7 +10385,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0203781",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
