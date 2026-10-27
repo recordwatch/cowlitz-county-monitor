@@ -219,7 +219,7 @@
     "inmateNumber": "4711",
     "name": "HAASE, RANA LEE",
     "bookedAt": "2026-10-26T11:11:50",
-    "location": "E20",
+    "location": "E22",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -308,7 +308,7 @@
     "inmateNumber": "297195",
     "name": "NEWMAN, JASMYN KATIEANN",
     "bookedAt": "2026-10-26T02:07:38",
-    "location": "E13",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
