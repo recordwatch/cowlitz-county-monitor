@@ -243,17 +243,6 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
-      },
-      {
-        "description": "DWLS 3RD",
-        "offenseDate": "2026-10-26T19:52:24",
-        "arrestingAgency": "CCCD",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "T00069763",
-        "disposition": "Guilty",
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -338,7 +327,7 @@
         "offenseDate": "2026-10-26T13:56:58",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610069008",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -413,7 +402,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "86CR223491",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -439,7 +428,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2310023908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
