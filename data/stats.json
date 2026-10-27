@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:55:19",
+  "generatedAt": "2026-10-26T23:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 391,
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 366,
-      "pct": 36.6
+      "pct": 36.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 272,
-      "pct": 27.2
+      "pct": 27.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 108,
-      "pct": 10.8
+      "count": 109,
+      "pct": 10.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "C",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "G",
       "count": 33,
-      "pct": 19.6
+      "pct": 19.5
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.8
+      "count": 4,
+      "pct": 2.4
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.4
+      "pct": 5.3
     }
   ],
   "stay": {
@@ -470,7 +470,7 @@
     "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4759500
+    "totalBond": 4760500
   },
   "chargesPerBooking": 2.6
 }

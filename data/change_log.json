@@ -4,13 +4,24 @@
     "inmateNumber": "18066",
     "name": "BLOOMFELDT, KEVIN CASEY",
     "bookedAt": "2026-10-26T22:17:57",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DUI",
         "offenseDate": "2026-10-26T22:25:03",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420553",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-10-26T22:25:39",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0420553",
