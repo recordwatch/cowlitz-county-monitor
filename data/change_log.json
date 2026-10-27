@@ -320,7 +320,7 @@
     "bookedAt": "2026-10-26T12:52:37",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "POSS CS W/OUT RX",
@@ -330,7 +330,29 @@
         "warrantNumber": "2610069008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": "Secured",
+        "bondAmount": 50000
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-10-27T08:10:39",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610069008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICULAR ASSAULT",
+        "offenseDate": "2026-10-27T08:10:39",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610069008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
