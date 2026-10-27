@@ -150,18 +150,18 @@
     "bookedAt": "2026-10-27T01:54:14",
     "location": "B24",
     "arrestingAgency": "CCSO",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW USE PUBLIC",
         "offenseDate": "2026-10-27T02:00:31",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "5a0292322",
-        "disposition": null,
+        "warrantNumber": "5A0292322",
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -10492,7 +10492,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0837258",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
