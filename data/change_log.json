@@ -1,13 +1,73 @@
 [
   {
+    "id": "361355-20261028140353",
+    "inmateNumber": "361355",
+    "name": "YEARBY, JAZZMYNE",
+    "bookedAt": "2026-10-28T14:03:53",
+    "location": "INTAKE H6",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "offenseDate": "2026-10-28T14:16:08",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401911",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "MINOR INTOXICATED IN PUBLIC PLACE",
+        "offenseDate": "2026-10-28T14:17:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401911",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-28T14:12:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401911",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T14:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358851-20261028135911",
     "inmateNumber": "358851",
     "name": "LEVAN, MIKHAIL QUINCY",
     "bookedAt": "2026-10-28T13:59:11",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-28T14:07:34",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401910",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-28T14:30:03",
     "releasedAt": null,
