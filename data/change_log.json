@@ -5935,17 +5935,6 @@
         "bondAmount": 1000
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-28T09:02:03",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "5A0930504",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
         "description": "DWLS 3RD",
         "offenseDate": "2026-10-15T18:49:27",
         "arrestingAgency": "LVPD",
