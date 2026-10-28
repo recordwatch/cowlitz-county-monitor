@@ -1,5 +1,19 @@
 [
   {
+    "id": "358851-20261028135911",
+    "inmateNumber": "358851",
+    "name": "LEVAN, MIKHAIL QUINCY",
+    "bookedAt": "2026-10-28T13:59:11",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T14:30:03",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "11107-20261028095223",
     "inmateNumber": "11107",
     "name": "VIEIRA, LADON MORDACI",
