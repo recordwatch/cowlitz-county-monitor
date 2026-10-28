@@ -1,5 +1,31 @@
 [
   {
+    "id": "357177-20261028074617",
+    "inmateNumber": "357177",
+    "name": "NELSON, TANYA MARIE",
+    "bookedAt": "2026-10-28T07:46:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-28T07:52:31",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0300410",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T08:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "309107-20261028023623",
     "inmateNumber": "309107",
     "name": "FOXGLOVE, CHUCKIE DALE",
