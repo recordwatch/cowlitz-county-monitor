@@ -5,19 +5,30 @@
     "name": "BURKE, SEAN MICHAEL",
     "bookedAt": "2026-10-28T14:48:35",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
-    "bondTotal": null,
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
     "charges": [
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-10-28T15:15:09",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0402267",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
       {
         "description": "FLD TO OBEY POLICE OFFICER",
         "offenseDate": "2026-10-28T14:50:51",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0414857",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -3315,7 +3326,7 @@
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
-    "location": "B21",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
