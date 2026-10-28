@@ -966,7 +966,7 @@
     "inmateNumber": "297195",
     "name": "NEWMAN, JASMYN KATIEANN",
     "bookedAt": "2026-10-26T02:07:38",
-    "location": "E14",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1759,7 +1759,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0393730",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
@@ -2549,7 +2549,7 @@
     "inmateNumber": "21229",
     "name": "GRIFFIN, STEVEN LEROY",
     "bookedAt": "2026-10-22T00:08:20",
-    "location": "G-G39",
+    "location": "G-G40",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
@@ -4878,10 +4878,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0555145",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -4889,10 +4889,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0113766",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "MAKE FALSE STATEMENT",
@@ -5534,7 +5534,7 @@
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
     "bookedAt": "2026-10-15T22:03:34",
-    "location": "E21",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
