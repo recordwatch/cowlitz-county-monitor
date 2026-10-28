@@ -1,10 +1,36 @@
 [
   {
+    "id": "172774-20261028144835",
+    "inmateNumber": "172774",
+    "name": "BURKE, SEAN MICHAEL",
+    "bookedAt": "2026-10-28T14:48:35",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FLD TO OBEY POLICE OFFICER",
+        "offenseDate": "2026-10-28T14:50:51",
+        "arrestingAgency": "CCCD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0414857",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T15:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361355-20261028140353",
     "inmateNumber": "361355",
     "name": "YEARBY, JAZZMYNE SHAEVELL",
     "bookedAt": "2026-10-28T14:03:53",
-    "location": "INTAKE H6",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
