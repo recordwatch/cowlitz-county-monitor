@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:35:16",
+  "generatedAt": "2026-10-28T12:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 402,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 77,
-      "pct": 7.5
+      "count": 78,
+      "pct": 7.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 62,
-      "pct": 6
+      "count": 63,
+      "pct": 6.1
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
