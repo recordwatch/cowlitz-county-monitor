@@ -4,7 +4,7 @@
     "inmateNumber": "361319",
     "name": "LINDER, BRANDON ROSS",
     "bookedAt": "2026-10-27T19:31:17",
-    "location": "INTAKE H2",
+    "location": "A14",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -3743,7 +3743,7 @@
     "inmateNumber": "278117",
     "name": "NIFON, TRAVES FREDDY",
     "bookedAt": "2026-10-19T17:39:09",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -8031,7 +8031,7 @@
     "inmateNumber": "324780",
     "name": "MOSES, MOVICK M",
     "bookedAt": "2026-10-11T19:00:00",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -11033,7 +11033,7 @@
     "inmateNumber": "330122",
     "name": "ATYPUT, ESETONG",
     "bookedAt": "2026-09-30T17:43:00",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -12838,7 +12838,7 @@
     "inmateNumber": "355126",
     "name": "YKELAP, ANTONIUS ALIWIS",
     "bookedAt": "2026-09-16T21:19:05",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": 35000,
     "charges": [
