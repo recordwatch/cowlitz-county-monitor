@@ -2,7 +2,7 @@
   {
     "id": "361355-20261028140353",
     "inmateNumber": "361355",
-    "name": "YEARBY, JAZZMYNE",
+    "name": "YEARBY, JAZZMYNE SHAEVELL",
     "bookedAt": "2026-10-28T14:03:53",
     "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
@@ -194,9 +194,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T03:25:22",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T15:15:20",
     "baseline": false
   },
   {
