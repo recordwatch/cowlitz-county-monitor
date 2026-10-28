@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:35:18",
+  "generatedAt": "2026-10-28T13:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 402,
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 81,
-      "pct": 7.9
+      "count": 80,
+      "pct": 7.8
     },
     {
       "name": "DOC HOLD",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 66,
-      "pct": 6.4
+      "count": 67,
+      "pct": 6.5
     },
     {
       "name": "DUI",
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 282,
-      "pct": 27.4
+      "count": 281,
+      "pct": 27.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.7,
+    "currentMedianDaysHeld": 17.8,
     "currentLongestDaysHeld": 503.9
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 48,
+    "withBond": 117,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4885000
+    "totalBond": 4911500
   },
   "chargesPerBooking": 2.6
 }

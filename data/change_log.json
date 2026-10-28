@@ -132,7 +132,7 @@
     "bookedAt": "2026-10-27T19:31:17",
     "location": "A14",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -150,11 +150,11 @@
         "offenseDate": "2026-10-27T19:38:34",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "261007008",
+        "warrantNumber": "2610070008",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 25000
       }
     ],
     "status": "in_custody",
@@ -221,7 +221,7 @@
     "bookedAt": "2026-10-27T13:10:54",
     "location": "C11",
     "arrestingAgency": "CCSO",
-    "bondTotal": 6000,
+    "bondTotal": 7000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -243,7 +243,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "DWLS 3RD",
@@ -276,18 +276,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
-      },
-      {
-        "description": "DWLS 3RD",
-        "offenseDate": "2026-10-27T13:23:01",
-        "arrestingAgency": "CCSO",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0412658",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "DWLS 3RD",
@@ -339,10 +328,10 @@
     "bookedAt": "2026-10-27T09:00:37",
     "location": "D15",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 1000,
     "charges": [
       {
-        "description": "SHOPPING CART THEFT",
+        "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-27T09:10:55",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -350,7 +339,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -1559,7 +1548,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0289965",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1759,10 +1748,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0393729",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -1773,7 +1762,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
