@@ -1,5 +1,31 @@
 [
   {
+    "id": "309107-20261028023623",
+    "inmateNumber": "309107",
+    "name": "FOXGLOVE, CHUCKIE DALE",
+    "bookedAt": "2026-10-28T02:36:23",
+    "location": "INTAKE H7",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2 DV",
+        "offenseDate": "2026-10-28T02:44:03",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T03:25:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361319-20261027193117",
     "inmateNumber": "361319",
     "name": "LINDER, BRANDON ROSS",
