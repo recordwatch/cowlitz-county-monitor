@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:35:16",
+  "generatedAt": "2026-10-27T18:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 397,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 75,
-      "pct": 7.4
+      "count": 76,
+      "pct": 7.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 278,
-      "pct": 27.4
+      "pct": 27.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 60,
-      "pct": 5.9
+      "count": 61,
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -462,7 +462,7 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.3,
+    "currentMedianDaysHeld": 17.4,
     "currentLongestDaysHeld": 503.1
   },
   "bond": {

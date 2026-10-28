@@ -4,10 +4,22 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-10-27T16:58:39",
-    "location": "INTAKE H6",
+    "location": "INTAKE H3",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-27T18:06:27",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2410045108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-27T17:35:19",
     "releasedAt": null,
@@ -3694,7 +3706,7 @@
     "inmateNumber": "278117",
     "name": "NIFON, TRAVES FREDDY",
     "bookedAt": "2026-10-19T17:39:09",
-    "location": "B24",
+    "location": "B23",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -6887,7 +6899,7 @@
     "inmateNumber": "38607",
     "name": "ALLSTOT, CLAYTON RYAN",
     "bookedAt": "2026-10-13T19:53:42",
-    "location": "G-G11",
+    "location": "G-G10",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
