@@ -210,7 +210,7 @@
     "bookedAt": "2026-10-27T13:10:54",
     "location": "C11",
     "arrestingAgency": "CCSO",
-    "bondTotal": 5500,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -243,7 +243,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -11102,7 +11102,7 @@
     "bookedAt": "2026-09-30T19:14:13",
     "location": "G-G06",
     "arrestingAgency": "CCSO",
-    "bondTotal": 5000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -11168,7 +11168,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 4000
+        "bondAmount": null
       },
       {
         "description": "NO PRORATION/TRP PER",
