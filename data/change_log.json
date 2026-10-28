@@ -6278,9 +6278,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T14:35:22",
-    "releasedAt": null,
+    "releasedAt": "2026-10-28T12:35:16",
     "baseline": false
   },
   {
@@ -17313,9 +17313,9 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "4A0192518",
-        "disposition": "Per. Recogn.",
+        "disposition": null,
         "billingAgency": "DIST",
-        "bondType": "Secured",
+        "bondType": "None",
         "bondAmount": null
       },
       {
