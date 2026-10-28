@@ -6,29 +6,29 @@
     "bookedAt": "2026-10-28T08:34:00",
     "location": "INTAKE H3",
     "arrestingAgency": "WSP",
-    "bondTotal": 1500,
+    "bondTotal": 500,
     "charges": [
-      {
-        "description": "DUI",
-        "offenseDate": "2026-10-28T08:46:23",
-        "arrestingAgency": "WSP",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
       {
         "description": "NVOL - WITHOUT ID",
         "offenseDate": "2026-10-28T08:47:57",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
+        "warrantNumber": "T00945822",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 500
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-28T08:46:23",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00945822",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -4833,7 +4833,7 @@
     "bookedAt": "2026-10-17T17:35:11",
     "location": "G-G02",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "PROB/PAROLE VIOL",
@@ -4845,6 +4845,28 @@
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-28T09:11:18",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0555145",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-28T09:09:09",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0113766",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "MAKE FALSE STATEMENT",
@@ -5774,6 +5796,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-28T09:02:03",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0930504",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -17035,8 +17068,8 @@
         "warrantNumber": "2510088508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 350000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "ASSAULT CHILD 1ST",
