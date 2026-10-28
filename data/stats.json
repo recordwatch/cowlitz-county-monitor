@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T13:15:19",
+  "generatedAt": "2026-10-28T13:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 402,
     "bookingsObserved": 236,
-    "releasesObserved": 237,
-    "inCustody": 165,
+    "releasesObserved": 238,
+    "inCustody": 164,
     "uniquePeople": 390
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-28",
       "booked": 4,
-      "released": 8
+      "released": 9
     }
   ],
   "topCharges": [
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.7
     },
     {
       "name": "B",
       "count": 19,
-      "pct": 11.5
+      "pct": 11.6
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9.7
+      "pct": 9.8
     },
     {
       "name": "D",
@@ -404,22 +404,22 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.3
+      "pct": 13.4
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.3
     },
     {
       "name": "G",
-      "count": 39,
-      "pct": 23.6
+      "count": 38,
+      "pct": 23.2
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.7
     },
     {
       "name": "INTAKE",
@@ -433,9 +433,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 237,
+    "releasedCount": 238,
     "medianDays": 2.5,
-    "meanDays": 12.8,
+    "meanDays": 12.7,
     "buckets": [
       {
         "label": "< 1 day",
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 23
+        "count": 24
       },
       {
         "label": "1–4 weeks",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.6,
+    "currentMedianDaysHeld": 17.7,
     "currentLongestDaysHeld": 503.9
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 116,
     "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4886000
+    "totalBond": 4885000
   },
   "chargesPerBooking": 2.6
 }
