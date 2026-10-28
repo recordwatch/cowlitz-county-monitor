@@ -21,7 +21,19 @@
     "location": "INTAKE H6",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-27T17:41:55",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2110058508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-27T17:35:19",
     "releasedAt": null,
