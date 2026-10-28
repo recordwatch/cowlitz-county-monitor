@@ -1,5 +1,33 @@
 [
   {
+    "id": "311762-20261027165839",
+    "inmateNumber": "311762",
+    "name": "STEWART, JACK HADLEY",
+    "bookedAt": "2026-10-27T16:58:39",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T17:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "21157-20261027164922",
+    "inmateNumber": "21157",
+    "name": "LAYTON, JEREMY DEAN",
+    "bookedAt": "2026-10-27T16:49:22",
+    "location": "INTAKE H6",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-27T17:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "3154-20261027131054",
     "inmateNumber": "3154",
     "name": "SHRULL, EDWARD EUGENE",
