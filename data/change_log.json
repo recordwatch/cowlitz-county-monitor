@@ -4,7 +4,7 @@
     "inmateNumber": "11107",
     "name": "VIEIRA, LADON MORDACI",
     "bookedAt": "2026-10-28T09:52:23",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -6231,7 +6231,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 15000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
