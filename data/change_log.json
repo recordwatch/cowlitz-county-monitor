@@ -1,5 +1,31 @@
 [
   {
+    "id": "11107-20261028095223",
+    "inmateNumber": "11107",
+    "name": "VIEIRA, LADON MORDACI",
+    "bookedAt": "2026-10-28T09:52:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-28T09:57:02",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T10:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361343-20261028083400",
     "inmateNumber": "361343",
     "name": "JONES, SJ",
@@ -76,7 +102,7 @@
         "offenseDate": "2026-10-28T02:44:03",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610069908",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -98,17 +124,6 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "PROTECTION ORDER VIOLATION",
-        "offenseDate": "2026-10-27T19:38:34",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-27T19:34:25",
         "arrestingAgency": "CCSO",
@@ -116,6 +131,17 @@
         "warrantNumber": "2510178806",
         "disposition": null,
         "billingAgency": "WDOC",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-27T19:38:34",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "261007008",
+        "disposition": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       }
@@ -11076,7 +11102,7 @@
     "bookedAt": "2026-09-30T19:14:13",
     "location": "G-G06",
     "arrestingAgency": "CCSO",
-    "bondTotal": 35000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -11084,10 +11110,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610064508",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 30000
+        "bondAmount": null
       },
       {
         "description": "UNLAW POSS FIREARM",
@@ -11095,7 +11121,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610064508",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
@@ -14438,23 +14464,23 @@
     "bondTotal": 5000,
     "charges": [
       {
-        "description": "ASSAULT 2 DV",
+        "description": "ASSAULT 3RD",
         "offenseDate": "2026-08-08T16:18:14",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610051008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
-        "description": "FELONY HARASSMENT",
+        "description": "MALICIOUS MISCHIEF-2",
         "offenseDate": "2026-08-08T16:18:38",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610051008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -17066,7 +17092,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510088508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -17077,7 +17103,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510088508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
