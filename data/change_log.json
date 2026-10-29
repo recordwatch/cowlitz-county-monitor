@@ -67,7 +67,7 @@
     "inmateNumber": "340683",
     "name": "WHIPPLE, HELEN ELIZABETH",
     "bookedAt": "2026-10-29T10:09:44",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -545,25 +545,25 @@
     "bondTotal": 500,
     "charges": [
       {
-        "description": "NVOL - WITHOUT ID",
-        "offenseDate": "2026-10-28T08:47:57",
-        "arrestingAgency": "WSP",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "T00945822",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
         "description": "DUI",
         "offenseDate": "2026-10-28T08:46:23",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00945822",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-10-28T08:47:57",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00945822",
+        "disposition": "Per. Recogn.",
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -1104,7 +1104,7 @@
     "bookedAt": "2026-10-26T19:17:14",
     "location": "D16",
     "arrestingAgency": "CCSO",
-    "bondTotal": 11000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -1134,10 +1134,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0348188",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -10236,6 +10236,17 @@
     "bondTotal": 500,
     "charges": [
       {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-29T11:13:54",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0123146",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-10-07T13:32:52",
         "arrestingAgency": "CCSO",
@@ -10479,6 +10490,17 @@
         "warrantNumber": "2110023608",
         "disposition": "Guilty",
         "billingAgency": "WDOC",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-29T11:11:44",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2110023608",
+        "disposition": null,
+        "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
