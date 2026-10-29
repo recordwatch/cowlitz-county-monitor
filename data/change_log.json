@@ -7780,9 +7780,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-13T16:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T15:55:18",
     "baseline": false
   },
   {
@@ -8394,9 +8394,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T17:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T15:55:18",
     "baseline": false
   },
   {
@@ -8686,8 +8686,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -8697,8 +8697,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
@@ -8838,9 +8838,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T19:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T15:55:18",
     "baseline": false
   },
   {
