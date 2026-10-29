@@ -1,5 +1,31 @@
 [
   {
+    "id": "14004-20261028184536",
+    "inmateNumber": "14004",
+    "name": "DAVIS, LESLIE ANNE",
+    "bookedAt": "2026-10-28T18:45:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "MATERIAL WITNESS",
+        "offenseDate": "2026-10-28T18:50:54",
+        "arrestingAgency": "CCSO",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "2510000635",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T19:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "172774-20261028144835",
     "inmateNumber": "172774",
     "name": "BURKE, SEAN MICHAEL",
