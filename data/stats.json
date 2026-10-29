@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T01:55:18",
+  "generatedAt": "2026-10-29T02:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 408,
-    "bookingsObserved": 242,
+    "bookingsTracked": 409,
+    "bookingsObserved": 243,
     "releasesObserved": 239,
-    "inCustody": 169,
-    "uniquePeople": 395
+    "inCustody": 170,
+    "uniquePeople": 396
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 81,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 57,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -207,17 +207,17 @@
       "pct": 2.1
     },
     {
+      "name": "CRIM TRESPASS 1ST",
+      "count": 17,
+      "pct": 1.6
+    },
+    {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 17,
       "pct": 1.6
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 16,
-      "pct": 1.5
-    },
-    {
-      "name": "CRIM TRESPASS 1ST",
       "count": 16,
       "pct": 1.5
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 162,
-      "pct": 39.9,
+      "count": 163,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 86,
-      "pct": 21.2,
+      "pct": 21.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 40,
-      "pct": 9.9,
+      "pct": 9.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 12,
-      "pct": 3,
+      "pct": 2.9,
       "label": "Woodland Police"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 292,
-      "pct": 27.9
+      "count": 293,
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.1,
+    "currentMedianDaysHeld": 17.7,
     "currentLongestDaysHeld": 504.4
   },
   "bond": {
-    "withBond": 123,
+    "withBond": 124,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4932500
+    "totalBond": 4933500
   },
   "chargesPerBooking": 2.6
 }
