@@ -1,5 +1,75 @@
 [
   {
+    "id": "112951-20261028194511",
+    "inmateNumber": "112951",
+    "name": "EPPERSON, AUSTEN DAVID",
+    "bookedAt": "2026-10-28T19:45:11",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 7500,
+    "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-28T19:56:13",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "1A0378425",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 4000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-28T19:57:45",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "1A0378425",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-28T19:59:40",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "XZ0207082",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3500
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-28T20:01:27",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "XZ0207082",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-28T20:02:49",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "XZ0207082",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T20:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14004-20261028184536",
     "inmateNumber": "14004",
     "name": "DAVIS, LESLIE ANNE",
@@ -13595,7 +13665,7 @@
     "inmateNumber": "31360",
     "name": "HANSON, DANIELLE LYNN",
     "bookedAt": "2026-09-10T17:34:36",
-    "location": "H-H01",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
@@ -13644,9 +13714,9 @@
         "bondAmount": null
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": "2026-10-28T20:15:19",
+    "releasedAt": null,
     "baseline": true
   },
   {
