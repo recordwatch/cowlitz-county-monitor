@@ -4,7 +4,7 @@
     "inmateNumber": "73506",
     "name": "DUDONSKY, DONALD SCOTT",
     "bookedAt": "2026-10-29T01:39:14",
-    "location": "1-PENDING BOOKING",
+    "location": "D14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -186,9 +186,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T19:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T02:35:17",
     "baseline": false
   },
   {
@@ -4372,7 +4372,7 @@
     "inmateNumber": "22293",
     "name": "COHEN, EMERSON KANE",
     "bookedAt": "2026-10-19T01:48:21",
-    "location": "D14",
+    "location": "D20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
