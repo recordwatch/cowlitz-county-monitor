@@ -1,5 +1,19 @@
 [
   {
+    "id": "97369-20261029135105",
+    "inmateNumber": "97369",
+    "name": "WILLIAMS, TORI ANN",
+    "bookedAt": "2026-10-29T13:51:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T14:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "8501-20261029125705",
     "inmateNumber": "8501",
     "name": "JONES, NATHANIEL NED",
@@ -280,7 +294,7 @@
     "bookedAt": "2026-10-28T19:45:11",
     "location": "A11",
     "arrestingAgency": "CCSO",
-    "bondTotal": 7500,
+    "bondTotal": 52500,
     "charges": [
       {
         "description": "DWLS 2ND",
@@ -323,8 +337,8 @@
         "warrantNumber": "2610070108",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 45000
       },
       {
         "description": "DWLS 2ND",
