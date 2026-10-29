@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T20:35:17",
+  "generatedAt": "2026-10-28T20:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 407,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 136,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -237,6 +237,11 @@
       "pct": 1.4
     },
     {
+      "name": "RECKLESS DRIVING",
+      "count": 14,
+      "pct": 1.3
+    },
+    {
       "name": "CRIM TRESPASS 2ND",
       "count": 14,
       "pct": 1.3
@@ -244,20 +249,15 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 13,
-      "pct": 1.3
-    },
-    {
-      "name": "RECKLESS DRIVING",
-      "count": 13,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 13,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
-      "name": "POSS W/INTENT",
+      "name": "DWLS 2ND",
       "count": 10,
       "pct": 1
     }
@@ -321,18 +321,18 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 370,
+      "count": 371,
       "pct": 35.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 288,
-      "pct": 27.7
+      "count": 291,
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 115,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 63,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -470,7 +470,7 @@
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4928500
+    "totalBond": 4930500
   },
   "chargesPerBooking": 2.6
 }

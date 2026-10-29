@@ -6,8 +6,19 @@
     "bookedAt": "2026-10-28T19:45:11",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": 7500,
+    "bondTotal": 9500,
     "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-10-28T20:13:22",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "DWLS 2ND",
         "offenseDate": "2026-10-28T19:56:13",
@@ -29,6 +40,28 @@
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
+      },
+      {
+        "description": "DWLS 2ND DEGREE AID/ABET",
+        "offenseDate": "2026-10-28T20:10:40",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "1A0682400",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-10-28T20:12:11",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "2A0021026",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -55,6 +88,17 @@
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-10-28T20:02:49",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "XZ0207082",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-28T20:09:27",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "XZ0207082",
