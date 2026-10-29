@@ -1,5 +1,33 @@
 [
   {
+    "id": "116467-20261029103937",
+    "inmateNumber": "116467",
+    "name": "CISSNEY, JASON ALLEN",
+    "bookedAt": "2026-10-29T10:39:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T11:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "25742-20261029103850",
+    "inmateNumber": "25742",
+    "name": "SMITH, NATHAN VINCENT",
+    "bookedAt": "2026-10-29T10:38:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T11:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "340683-20261029100944",
     "inmateNumber": "340683",
     "name": "WHIPPLE, HELEN ELIZABETH",
@@ -67,7 +95,7 @@
     "inmateNumber": "335201",
     "name": "MEASE, ANDREW RYAN",
     "bookedAt": "2026-10-29T08:44:15",
-    "location": "1-PENDING BOOKING",
+    "location": "A24",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
