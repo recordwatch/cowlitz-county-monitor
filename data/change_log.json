@@ -1,5 +1,31 @@
 [
   {
+    "id": "85019-20261029094416",
+    "inmateNumber": "85019",
+    "name": "KINNEY, JAMES ARTHUR",
+    "bookedAt": "2026-10-29T09:44:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-29T09:49:06",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0324887",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T10:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "335201-20261029084415",
     "inmateNumber": "335201",
     "name": "MEASE, ANDREW RYAN",
@@ -461,10 +487,10 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0300410",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3601,7 +3627,7 @@
     "bookedAt": "2026-10-21T00:21:11",
     "location": "B20",
     "arrestingAgency": "KEPD",
-    "bondTotal": 6000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -3620,10 +3646,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0387143",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -3642,10 +3668,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C69020",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

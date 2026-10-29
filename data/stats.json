@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T10:15:19",
+  "generatedAt": "2026-10-29T10:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 410,
-    "bookingsObserved": 244,
+    "bookingsTracked": 411,
+    "bookingsObserved": 245,
     "releasesObserved": 243,
-    "inCustody": 167,
-    "uniquePeople": 397
+    "inCustody": 168,
+    "uniquePeople": 398
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 2,
+      "booked": 3,
       "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 136,
-      "pct": 12.9
+      "count": 137,
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 162,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 40,
-      "pct": 9.8,
+      "count": 41,
+      "pct": 10,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 293,
+      "count": 294,
       "pct": 27.9
     },
     {
@@ -337,7 +337,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 111,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "DOC COURT",
@@ -362,7 +362,7 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 10,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "DOC CONTRACT COURT",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.4,
+    "currentMedianDaysHeld": 18.1,
     "currentLongestDaysHeld": 504.7
   },
   "bond": {
-    "withBond": 123,
+    "withBond": 124,
     "noBond": 44,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4933500
+    "totalBond": 4929500
   },
   "chargesPerBooking": 2.6
 }
