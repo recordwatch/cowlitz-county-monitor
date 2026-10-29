@@ -1,5 +1,42 @@
 [
   {
+    "id": "340683-20261029100944",
+    "inmateNumber": "340683",
+    "name": "WHIPPLE, HELEN ELIZABETH",
+    "bookedAt": "2026-10-29T10:09:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VUSCA",
+        "offenseDate": "2026-10-29T10:17:04",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510010908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-29T10:17:54",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510010908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T10:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "85019-20261029094416",
     "inmateNumber": "85019",
     "name": "KINNEY, JAMES ARTHUR",
@@ -8501,8 +8538,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -8512,8 +8549,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -12401,9 +12438,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T10:55:17",
     "baseline": true
   },
   {
