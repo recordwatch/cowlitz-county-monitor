@@ -2211,7 +2211,7 @@
     "inmateNumber": "361216",
     "name": "FREDERICK, KOBE MARCUS",
     "bookedAt": "2026-10-23T22:48:20",
-    "location": "C12",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6661,7 +6661,7 @@
     "inmateNumber": "220015",
     "name": "VANGROL, SEAN GRADY",
     "bookedAt": "2026-10-15T11:24:25",
-    "location": "G-G18",
+    "location": "G-G45",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -9354,7 +9354,7 @@
     "inmateNumber": "192093",
     "name": "ORTEGA, JESUS",
     "bookedAt": "2026-10-10T02:04:21",
-    "location": "G-G43",
+    "location": "G-G44",
     "arrestingAgency": "KEPD",
     "bondTotal": 5000,
     "charges": [

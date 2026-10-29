@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T08:55:18",
+  "generatedAt": "2026-10-29T09:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 409,
@@ -383,8 +383,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 30,
-      "pct": 18.1
+      "count": 31,
+      "pct": 18.7
     },
     {
       "name": "B",
@@ -393,8 +393,8 @@
     },
     {
       "name": "C",
-      "count": 17,
-      "pct": 10.2
+      "count": 16,
+      "pct": 9.6
     },
     {
       "name": "D",
