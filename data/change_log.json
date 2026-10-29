@@ -882,7 +882,7 @@
     "bookedAt": "2026-10-26T19:17:14",
     "location": "D16",
     "arrestingAgency": "CCSO",
-    "bondTotal": 10000,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -905,6 +905,17 @@
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-28T23:15:50",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0348188",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
