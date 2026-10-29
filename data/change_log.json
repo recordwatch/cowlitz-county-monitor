@@ -3530,13 +3530,13 @@
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
     "location": "B20",
-    "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "arrestingAgency": "KEPD",
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-21T00:37:19",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "KEPD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2510056508",
         "disposition": null,
@@ -3547,7 +3547,7 @@
       {
         "description": "DOC HOLD",
         "offenseDate": "2026-10-21T00:37:19",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "KEPD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2510056508",
         "disposition": null,
@@ -3556,9 +3556,20 @@
         "bondAmount": null
       },
       {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-10-29T04:41:46",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0387143",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-21T00:34:47",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401415",
         "disposition": null,
