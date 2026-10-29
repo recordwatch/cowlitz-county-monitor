@@ -170,7 +170,7 @@
     "inmateNumber": "14004",
     "name": "DAVIS, LESLIE ANNE",
     "bookedAt": "2026-10-28T18:45:36",
-    "location": "D20",
+    "location": "INTAKE H1",
     "arrestingAgency": "CCSO",
     "bondTotal": 5000,
     "charges": [
@@ -186,9 +186,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-10-28T19:35:16",
-    "releasedAt": "2026-10-29T02:35:17",
+    "releasedAt": null,
     "baseline": false
   },
   {
