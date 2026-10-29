@@ -83,17 +83,6 @@
     "bondTotal": 9500,
     "charges": [
       {
-        "description": "ATTEMPT TO ELUDE",
-        "offenseDate": "2026-10-28T20:13:22",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
         "description": "DWLS 2ND",
         "offenseDate": "2026-10-28T19:56:13",
         "arrestingAgency": "CCSO",
@@ -125,6 +114,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-10-28T20:13:22",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610070108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -334,22 +334,22 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "PROTECTION ORDER VIOLATION",
-        "offenseDate": "2026-10-28T09:57:02",
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-28T12:21:55",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "court": "DOC COURT",
+        "warrantNumber": "2210086108",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "DOC HOLD",
-        "offenseDate": "2026-10-28T12:21:55",
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-28T09:57:02",
         "arrestingAgency": "LVPD",
-        "court": "DOC COURT",
-        "warrantNumber": "2210086108",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610070208",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
