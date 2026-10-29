@@ -1,5 +1,19 @@
 [
   {
+    "id": "69897-20261028204233",
+    "inmateNumber": "69897",
+    "name": "RAAPPANA, BILLIE DAWN",
+    "bookedAt": "2026-10-28T20:42:33",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-28T21:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "112951-20261028194511",
     "inmateNumber": "112951",
     "name": "EPPERSON, AUSTEN DAVID",
@@ -42,7 +56,7 @@
         "bondAmount": null
       },
       {
-        "description": "DWLS 2ND DEGREE AID/ABET",
+        "description": "DWLS 2ND",
         "offenseDate": "2026-10-28T20:10:40",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
