@@ -4,7 +4,7 @@
     "inmateNumber": "8501",
     "name": "JONES, NATHANIEL NED",
     "bookedAt": "2026-10-29T12:57:05",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -56,7 +56,7 @@
     "inmateNumber": "25742",
     "name": "SMITH, NATHAN VINCENT",
     "bookedAt": "2026-10-29T10:38:50",
-    "location": "A15",
+    "location": "B25",
     "arrestingAgency": "CCCD",
     "bondTotal": 4000,
     "charges": [
@@ -214,10 +214,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0433754",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -264,8 +264,8 @@
         "warrantNumber": "6A0431427",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -531,7 +531,7 @@
     "bookedAt": "2026-10-28T09:52:23",
     "location": "A13",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -552,8 +552,8 @@
         "warrantNumber": "2610070208",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       }
     ],
     "status": "in_custody",
