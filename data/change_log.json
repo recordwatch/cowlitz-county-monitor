@@ -1,5 +1,53 @@
 [
   {
+    "id": "335201-20261029084415",
+    "inmateNumber": "335201",
+    "name": "MEASE, ANDREW RYAN",
+    "bookedAt": "2026-10-29T08:44:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "SEX/DEPICT/MIN MFG",
+        "offenseDate": "2026-10-29T08:49:04",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "IMMORAL COMM W/ MINOR",
+        "offenseDate": "2026-10-29T08:50:36",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS DEPICTION MIN/SEX",
+        "offenseDate": "2026-10-29T08:49:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T09:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "73506-20261029013914",
     "inmateNumber": "73506",
     "name": "DUDONSKY, DONALD SCOTT",

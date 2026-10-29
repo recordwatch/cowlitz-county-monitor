@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T09:15:20",
+  "generatedAt": "2026-10-29T09:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 409,
-    "bookingsObserved": 243,
+    "bookingsTracked": 410,
+    "bookingsObserved": 244,
     "releasesObserved": 243,
-    "inCustody": 166,
-    "uniquePeople": 396
+    "inCustody": 167,
+    "uniquePeople": 397
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 1,
+      "booked": 2,
       "released": 4
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 136,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "DWLS 3RD",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 162,
-      "pct": 39.8,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 86,
-      "pct": 21.1,
+      "count": 87,
+      "pct": 21.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 373,
-      "pct": 35.5
+      "count": 376,
+      "pct": 35.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 293,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,7 +337,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 111,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "DOC COURT",
@@ -362,12 +362,12 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 10,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "DOC CONTRACT COURT",
       "count": 10,
-      "pct": 1
+      "pct": 0.9
     },
     {
       "name": "OTHER - OUT OF COUNTY",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 123,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4933500
