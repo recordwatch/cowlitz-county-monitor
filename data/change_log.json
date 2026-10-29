@@ -1,5 +1,19 @@
 [
   {
+    "id": "27096-20261029162249",
+    "inmateNumber": "27096",
+    "name": "CURTIS, CRYSTAL NICOLE",
+    "bookedAt": "2026-10-29T16:22:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T16:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "97369-20261029135105",
     "inmateNumber": "97369",
     "name": "WILLIAMS, TORI ANN",
@@ -52,7 +66,7 @@
     "inmateNumber": "8501",
     "name": "JONES, NATHANIEL NED",
     "bookedAt": "2026-10-29T12:57:05",
-    "location": "INTAKE H1",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
