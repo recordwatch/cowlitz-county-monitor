@@ -35,6 +35,28 @@
     "bondTotal": 1000,
     "charges": [
       {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-10-29T07:40:11",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "FORGERY",
+        "offenseDate": "2026-10-29T07:41:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "MAL MISCH 3RD > $50 DV",
         "offenseDate": "2026-10-28T20:49:04",
         "arrestingAgency": "LVPD",
@@ -186,9 +208,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T19:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T08:15:21",
     "baseline": false
   },
   {
@@ -1092,9 +1114,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T12:44:07",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T08:15:21",
     "baseline": false
   },
   {
@@ -1118,9 +1140,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T12:44:07",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T08:15:21",
     "baseline": false
   },
   {
@@ -12884,9 +12906,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-29T08:15:21",
     "baseline": true
   },
   {
