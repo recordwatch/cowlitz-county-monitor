@@ -5,9 +5,21 @@
     "name": "RAAPPANA, BILLIE DAWN",
     "bookedAt": "2026-10-28T20:42:33",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50 DV",
+        "offenseDate": "2026-10-28T20:49:04",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431427",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-28T21:15:17",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "112951",
     "name": "EPPERSON, AUSTEN DAVID",
     "bookedAt": "2026-10-28T19:45:11",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "CCSO",
     "bondTotal": 9500,
     "charges": [
@@ -6261,7 +6273,7 @@
     "inmateNumber": "106833",
     "name": "TUTTLE, ROBERT JON",
     "bookedAt": "2026-10-15T16:55:09",
-    "location": "A11",
+    "location": "A10",
     "arrestingAgency": "CCSO",
     "bondTotal": 1500,
     "charges": [
