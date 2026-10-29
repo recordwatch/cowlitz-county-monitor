@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:55:19",
+  "generatedAt": "2026-10-29T10:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 410,
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 78,
-      "pct": 7.4
+      "count": 77,
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 46,
-      "pct": 4.4
+      "count": 45,
+      "pct": 4.3
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 293,
-      "pct": 27.8
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,7 +337,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 111,
-      "pct": 10.5
+      "pct": 10.6
     },
     {
       "name": "DOC COURT",
@@ -362,11 +362,11 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 10,
-      "pct": 0.9
+      "pct": 1
     },
     {
       "name": "DOC CONTRACT COURT",
-      "count": 10,
+      "count": 9,
       "pct": 0.9
     },
     {

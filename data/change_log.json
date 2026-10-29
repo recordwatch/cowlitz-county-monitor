@@ -3609,18 +3609,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2510056508",
-        "disposition": null,
-        "billingAgency": "WDOC",
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
-        "description": "DOC HOLD",
-        "offenseDate": "2026-10-21T00:37:19",
-        "arrestingAgency": "KEPD",
-        "court": "DOC CONTRACT COURT",
-        "warrantNumber": "2510056508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -4274,7 +4263,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2510021008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -12364,15 +12353,15 @@
     "bondTotal": 1500,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "FIREARM POSSESSION UNLAWFUL-2",
         "offenseDate": "2026-09-26T04:43:32",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510091708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
