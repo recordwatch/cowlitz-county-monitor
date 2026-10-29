@@ -3531,7 +3531,7 @@
     "bookedAt": "2026-10-21T00:21:11",
     "location": "B20",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3000,
+    "bondTotal": 6000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -3576,6 +3576,17 @@
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-29T04:45:16",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "C69020",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
       }
     ],
     "status": "in_custody",
