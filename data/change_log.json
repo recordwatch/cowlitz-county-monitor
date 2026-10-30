@@ -1,5 +1,31 @@
 [
   {
+    "id": "39975-20261029221539",
+    "inmateNumber": "39975",
+    "name": "LYDIC, BRANDON JAMES",
+    "bookedAt": "2026-10-29T22:15:39",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-29T22:18:13",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401417",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T22:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "26651-20261029214410",
     "inmateNumber": "26651",
     "name": "WICKLANDER, JONATHAN GEORGE",
