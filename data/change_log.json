@@ -1,5 +1,19 @@
 [
   {
+    "id": "270171-20261030133741",
+    "inmateNumber": "270171",
+    "name": "NELSON, ANDREW MATTHEW",
+    "bookedAt": "2026-10-30T13:37:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T14:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "5597-20261030113347",
     "inmateNumber": "5597",
     "name": "HICKS, ALAN CARL",
@@ -30,7 +44,7 @@
     "inmateNumber": "42870",
     "name": "PROSHOLD, ALLEN DAVID",
     "bookedAt": "2026-10-30T11:15:30",
-    "location": "INTAKE H8",
+    "location": "A13",
     "arrestingAgency": "CRPD",
     "bondTotal": 2000,
     "charges": [
