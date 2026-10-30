@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:35:19",
+  "generatedAt": "2026-10-30T06:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 429,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 142,
-      "pct": 13.1
+      "count": 143,
+      "pct": 13.2
     },
     {
       "name": "DWLS 3RD",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 72,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "DUI",
@@ -326,7 +326,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 306,
+      "count": 307,
       "pct": 28.3
     },
     {
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 17.9,
+    "currentMedianDaysHeld": 18,
     "currentLongestDaysHeld": 505.6
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 46,
-    "medianBond": 5000,
+    "withBond": 126,
+    "noBond": 45,
+    "medianBond": 4500,
     "maxBond": 500000,
-    "totalBond": 4914500
+    "totalBond": 4915500
   },
   "chargesPerBooking": 2.5
 }
