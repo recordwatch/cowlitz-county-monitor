@@ -20,8 +20,8 @@
         "bondAmount": 1000
       },
       {
-        "description": "INTERFERING DV REPORTING",
-        "offenseDate": "2026-10-30T13:56:06",
+        "description": "HARASSMENT DV",
+        "offenseDate": "2026-10-30T13:57:12",
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396108",
@@ -32,7 +32,7 @@
       },
       {
         "description": "INTERFERING DV REPORTING",
-        "offenseDate": "2026-10-30T13:57:12",
+        "offenseDate": "2026-10-30T13:56:06",
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396108",
@@ -390,9 +390,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T00:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T14:55:16",
     "baseline": false
   },
   {
@@ -696,7 +696,7 @@
     "inmateNumber": "8501",
     "name": "JONES, NATHANIEL NED",
     "bookedAt": "2026-10-29T12:57:05",
-    "location": "INTAKE H7",
+    "location": "D22",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -11207,7 +11207,7 @@
     "inmateNumber": "155143",
     "name": "SCHROTH, ROBIN JONAH",
     "bookedAt": "2026-10-06T16:25:50",
-    "location": "INTAKE H2",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
