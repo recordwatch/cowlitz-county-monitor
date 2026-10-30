@@ -6,8 +6,53 @@
     "bookedAt": "2026-10-30T13:37:41",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CRPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 3500,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-30T13:54:08",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "INTERFERING DV REPORTING",
+        "offenseDate": "2026-10-30T13:56:06",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "INTERFERING DV REPORTING",
+        "offenseDate": "2026-10-30T13:57:12",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-30T13:58:13",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396109",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T14:15:19",
     "releasedAt": null,
@@ -71,9 +116,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T11:43:49",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T14:35:17",
     "baseline": false
   },
   {
@@ -482,9 +527,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T22:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T14:35:17",
     "baseline": false
   },
   {
@@ -593,9 +638,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T16:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T14:35:17",
     "baseline": false
   },
   {
