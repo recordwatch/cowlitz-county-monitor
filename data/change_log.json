@@ -194,7 +194,7 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-10-30T00:18:51",
         "arrestingAgency": null,
         "court": "KALAMA MUNICIPAL COURT",
@@ -202,7 +202,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

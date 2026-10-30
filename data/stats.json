@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T10:15:20",
+  "generatedAt": "2026-10-30T10:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 430,
@@ -217,17 +217,17 @@
       "pct": 1.7
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 17,
-      "pct": 1.6
-    },
-    {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 17,
-      "pct": 1.6
+      "count": 18,
+      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 2ND",
+      "count": 16,
+      "pct": 1.5
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
       "count": 16,
       "pct": 1.5
     },
