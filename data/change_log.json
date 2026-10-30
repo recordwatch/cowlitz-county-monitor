@@ -1,5 +1,86 @@
 [
   {
+    "id": "102163-20261030091120",
+    "inmateNumber": "102163",
+    "name": "WELCH, DAKOTA VICTOR",
+    "bookedAt": "2026-10-30T09:11:20",
+    "location": "INTAKE H8",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-10-30T09:24:08",
+        "arrestingAgency": "CCSO",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "2310106108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-30T09:16:50",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0071073",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-30T09:19:04",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0071073",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-30T09:21:36",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0071074",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-30T09:19:57",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0233695",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-30T09:20:40",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0233695",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T09:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "1393-20261030060327",
     "inmateNumber": "1393",
     "name": "STUMP, TONY SCOTT",
@@ -4443,7 +4524,7 @@
     "inmateNumber": "35130",
     "name": "KUBI, DONALD EUGENE",
     "bookedAt": "2026-10-20T15:46:50",
-    "location": "G-G31",
+    "location": "G-G30",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -9466,7 +9547,7 @@
     "inmateNumber": "47189",
     "name": "EICHE, CHRISTOPHER OWEN",
     "bookedAt": "2026-10-10T23:20:21",
-    "location": "G-G01",
+    "location": "G-G18",
     "arrestingAgency": "LVPD",
     "bondTotal": 30000,
     "charges": [

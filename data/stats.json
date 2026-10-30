@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T09:35:18",
+  "generatedAt": "2026-10-30T09:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 429,
-    "bookingsObserved": 263,
+    "bookingsTracked": 430,
+    "bookingsObserved": 264,
     "releasesObserved": 262,
-    "inCustody": 167,
-    "uniquePeople": 410
+    "inCustody": 168,
+    "uniquePeople": 411
   },
   "bookingsByDay": [
     {
@@ -156,24 +156,24 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 4,
+      "booked": 5,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 143,
+      "count": 144,
       "pct": 13.2
     },
     {
       "name": "DWLS 3RD",
-      "count": 82,
-      "pct": 7.6
+      "count": 84,
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
-      "count": 79,
+      "count": 80,
       "pct": 7.3
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 45,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -207,17 +207,17 @@
       "pct": 2.1
     },
     {
+      "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 19,
+      "pct": 1.7
+    },
+    {
       "name": "CRIM TRESPASS 1ST",
       "count": 19,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 17,
-      "pct": 1.6
-    },
-    {
-      "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 17,
       "pct": 1.6
     },
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 170,
-      "pct": 39.9,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 87,
-      "pct": 20.4,
+      "count": 88,
+      "pct": 20.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -296,13 +296,13 @@
     {
       "name": "WSP",
       "count": 19,
-      "pct": 4.5,
+      "pct": 4.4,
       "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
       "count": 13,
-      "pct": 3.1,
+      "pct": 3,
       "label": "Woodland Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 379,
-      "pct": 35
+      "pct": 34.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 307,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 121,
-      "pct": 11.2
+      "count": 126,
+      "pct": 11.6
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -360,14 +360,14 @@
       "pct": 1.1
     },
     {
-      "name": "MENTAL HEALTH COURT",
+      "name": "DOC CONTRACT COURT",
       "count": 10,
       "pct": 0.9
     },
     {
-      "name": "DOC CONTRACT COURT",
-      "count": 9,
-      "pct": 0.8
+      "name": "MENTAL HEALTH COURT",
+      "count": 10,
+      "pct": 0.9
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "B",
       "count": 22,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "E",
       "count": 22,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 35,
-      "pct": 21
+      "pct": 20.8
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 8,
-      "pct": 4.8
+      "count": 9,
+      "pct": 5.4
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.5,
+    "currentMedianDaysHeld": 18.3,
     "currentLongestDaysHeld": 505.7
   },
   "bond": {
     "withBond": 124,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 4500,
     "maxBond": 500000,
     "totalBond": 4904500
