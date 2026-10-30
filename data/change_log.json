@@ -4,7 +4,7 @@
     "inmateNumber": "1393",
     "name": "STUMP, TONY SCOTT",
     "bookedAt": "2026-10-30T06:03:27",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1175,9 +1175,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T17:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T08:15:20",
     "baseline": false
   },
   {
