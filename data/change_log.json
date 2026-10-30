@@ -4,10 +4,22 @@
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
     "bookedAt": "2026-10-29T16:22:49",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "E24",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-10-29T16:30:10",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0435472",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T16:55:19",
     "releasedAt": null,
@@ -10330,7 +10342,7 @@
     "inmateNumber": "270621",
     "name": "WILSON, JOSHUA ALLEN",
     "bookedAt": "2026-10-07T13:20:02",
-    "location": "F11",
+    "location": "F21",
     "arrestingAgency": "CCSO",
     "bondTotal": 500,
     "charges": [
@@ -17024,7 +17036,7 @@
     "inmateNumber": "328859",
     "name": "SANDOVAL, NATHAN NOAH",
     "bookedAt": "2026-05-01T13:04:55",
-    "location": "F23",
+    "location": "F11",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [

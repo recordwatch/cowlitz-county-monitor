@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:55:19",
+  "generatedAt": "2026-10-29T17:05:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 417,
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 57,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 37,
-      "pct": 3.5
+      "count": 38,
+      "pct": 3.6
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 163,
-      "pct": 39.4,
+      "count": 164,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 299,
+      "count": 300,
       "pct": 28.1
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.9
+      "pct": 17.8
     },
     {
       "name": "B",
@@ -394,17 +394,17 @@
     {
       "name": "C",
       "count": 16,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "D",
       "count": 15,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 13.6
+      "count": 23,
+      "pct": 14.1
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 22.2
+      "pct": 22.1
     },
     {
       "name": "H",
@@ -424,12 +424,12 @@
     {
       "name": "INTAKE",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.6
+      "pct": 5.5
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 505
   },
   "bond": {
-    "withBond": 118,
-    "noBond": 45,
+    "withBond": 119,
+    "noBond": 44,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4963500
+    "totalBond": 4964500
   },
   "chargesPerBooking": 2.6
 }
