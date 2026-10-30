@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T16:15:18",
+  "generatedAt": "2026-10-30T16:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 434,
-    "bookingsObserved": 268,
+    "bookingsTracked": 435,
+    "bookingsObserved": 269,
     "releasesObserved": 279,
-    "inCustody": 155,
-    "uniquePeople": 415
+    "inCustody": 156,
+    "uniquePeople": 416
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 9,
+      "booked": 10,
       "released": 24
     }
   ],
@@ -179,12 +179,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 72,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "DUI",
       "count": 61,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 171,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "KEPD",
       "count": 55,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 45,
-      "pct": 10.4,
+      "count": 46,
+      "pct": 10.6,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -321,7 +321,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 379,
+      "count": 380,
       "pct": 34.5
     },
     {
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 113,
-    "noBond": 42,
+    "noBond": 43,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4783500
