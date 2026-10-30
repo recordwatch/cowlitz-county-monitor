@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-30T00:29:28",
     "location": "INTAKE H6",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-30T01:12:25",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0302214",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T01:15:19",
     "releasedAt": null,

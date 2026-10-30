@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:35:16",
+  "generatedAt": "2026-10-30T01:56:05",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 426,
@@ -327,7 +327,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 305,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 112,
-      "pct": 10.4
+      "count": 113,
+      "pct": 10.5
     },
     {
       "name": "DOC COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 505.4
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 46,
+    "withBond": 126,
+    "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4923500
+    "totalBond": 4924000
   },
   "chargesPerBooking": 2.5
 }
