@@ -1,5 +1,19 @@
 [
   {
+    "id": "361408-20261030025259",
+    "inmateNumber": "361408",
+    "name": "JOHNSON, ROSZELL",
+    "bookedAt": "2026-10-30T02:52:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T03:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361403-20261030002928",
     "inmateNumber": "361403",
     "name": "ORTIZ, CESAR A",
