@@ -1,5 +1,53 @@
 [
   {
+    "id": "26651-20261029214410",
+    "inmateNumber": "26651",
+    "name": "WICKLANDER, JONATHAN GEORGE",
+    "bookedAt": "2026-10-29T21:44:10",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-29T21:53:26",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-10-29T21:54:14",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-29T21:52:54",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "122933-20261029211835",
     "inmateNumber": "122933",
     "name": "KNIGHT, TYSON MICHAEL",

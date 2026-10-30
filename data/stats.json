@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T22:15:20",
+  "generatedAt": "2026-10-29T22:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 418,
-    "bookingsObserved": 252,
+    "bookingsTracked": 419,
+    "bookingsObserved": 253,
     "releasesObserved": 255,
-    "inCustody": 163,
-    "uniquePeople": 402
+    "inCustody": 164,
+    "uniquePeople": 403
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 10,
+      "booked": 11,
       "released": 16
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 81,
-      "pct": 7.6
+      "count": 82,
+      "pct": 7.7
     },
     {
       "name": "DOC HOLD",
@@ -179,12 +179,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 70,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "DUI",
-      "count": 57,
-      "pct": 5.3
+      "count": 58,
+      "pct": 5.4
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -204,7 +204,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 23,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -212,14 +212,14 @@
       "pct": 1.7
     },
     {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 17,
       "pct": 1.6
     },
     {
-      "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 16,
-      "pct": 1.5
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 17,
+      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 164,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "DOC",
       "count": 26,
-      "pct": 6.3,
+      "pct": 6.2,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
-      "count": 17,
-      "pct": 4.1,
+      "count": 18,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 379,
-      "pct": 35.5
+      "pct": 35.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 300,
-      "pct": 28.1
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 117,
-      "pct": 11
+      "count": 120,
+      "pct": 11.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 14,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "F",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 22.1
+      "pct": 22
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.8
+      "count": 4,
+      "pct": 2.4
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 505.2
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 119,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4911500
+    "totalBond": 4913500
   },
   "chargesPerBooking": 2.6
 }
