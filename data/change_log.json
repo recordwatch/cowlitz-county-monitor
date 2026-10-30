@@ -116,7 +116,7 @@
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-10-30T00:18:51",
         "arrestingAgency": null,
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0363235",
         "disposition": null,
         "billingAgency": null,
@@ -7365,7 +7365,7 @@
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
     "bookedAt": "2026-10-15T10:25:44",
-    "location": "G-G30",
+    "location": "G-G21",
     "arrestingAgency": "CCSO",
     "bondTotal": 60000,
     "charges": [
