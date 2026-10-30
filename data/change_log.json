@@ -4,7 +4,7 @@
     "inmateNumber": "270171",
     "name": "NELSON, ANDREW MATTHEW",
     "bookedAt": "2026-10-30T13:37:41",
-    "location": "1-PENDING BOOKING",
+    "location": "B10",
     "arrestingAgency": "CRPD",
     "bondTotal": 3500,
     "charges": [
@@ -586,9 +586,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T22:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T15:15:19",
     "baseline": false
   },
   {
@@ -861,7 +861,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 20000
+        "bondAmount": null
       },
       {
         "description": "IMMORAL COMM W/ MINOR",
@@ -6652,9 +6652,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T11:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T15:15:19",
     "baseline": false
   },
   {
