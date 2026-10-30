@@ -2239,7 +2239,7 @@
     "bookedAt": "2026-10-24T20:31:12",
     "location": "D12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -2258,10 +2258,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00068957",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
