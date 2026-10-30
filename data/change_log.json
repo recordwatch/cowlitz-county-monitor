@@ -1,5 +1,31 @@
 [
   {
+    "id": "5597-20261030113347",
+    "inmateNumber": "5597",
+    "name": "HICKS, ALAN CARL",
+    "bookedAt": "2026-10-30T11:33:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-30T11:37:27",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339696",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T12:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "42870-20261030111530",
     "inmateNumber": "42870",
     "name": "PROSHOLD, ALLEN DAVID",
