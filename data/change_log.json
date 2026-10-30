@@ -1,5 +1,31 @@
 [
   {
+    "id": "356034-20261030051815",
+    "inmateNumber": "356034",
+    "name": "KNIGHT, TOMMIE RAE GERETTA",
+    "bookedAt": "2026-10-30T05:18:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-30T05:20:58",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0435602",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T05:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361408-20261030025259",
     "inmateNumber": "361408",
     "name": "JOHNSON, ROSZELL",
@@ -2690,9 +2716,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-24T11:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T05:55:18",
     "baseline": false
   },
   {
@@ -5198,9 +5224,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T00:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T05:55:18",
     "baseline": false
   },
   {
@@ -12816,9 +12842,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T05:55:18",
     "baseline": true
   },
   {
