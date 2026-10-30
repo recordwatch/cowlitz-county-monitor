@@ -1,5 +1,31 @@
 [
   {
+    "id": "122933-20261029211835",
+    "inmateNumber": "122933",
+    "name": "KNIGHT, TYSON MICHAEL",
+    "bookedAt": "2026-10-29T21:18:35",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-10-29T21:20:51",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T21:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "27096-20261029162249",
     "inmateNumber": "27096",
     "name": "CURTIS, CRYSTAL NICOLE",
