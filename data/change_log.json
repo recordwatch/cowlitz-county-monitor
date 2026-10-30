@@ -4,9 +4,9 @@
     "inmateNumber": "361408",
     "name": "JOHNSON, ROSZELL",
     "bookedAt": "2026-10-30T02:52:59",
-    "location": "INTAKE H3",
+    "location": "INTAKE H8",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DUI",
@@ -16,8 +16,8 @@
         "warrantNumber": "T00882002",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
