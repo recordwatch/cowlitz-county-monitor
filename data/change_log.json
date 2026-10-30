@@ -4,10 +4,22 @@
     "inmateNumber": "361408",
     "name": "JOHNSON, ROSZELL",
     "bookedAt": "2026-10-30T02:52:59",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-30T03:09:17",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00882002",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T03:35:16",
     "releasedAt": null,
