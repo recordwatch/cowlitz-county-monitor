@@ -30,7 +30,7 @@
     "inmateNumber": "356034",
     "name": "KNIGHT, TOMMIE RAE GERETTA",
     "bookedAt": "2026-10-30T05:18:15",
-    "location": "INTAKE H8",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -12964,9 +12964,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T07:35:17",
     "baseline": true
   },
   {
