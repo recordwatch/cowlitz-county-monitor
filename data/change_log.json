@@ -365,7 +365,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -387,7 +387,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "ATTEMPT TO ELUDE",
@@ -398,7 +398,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 45000
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -409,7 +409,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -420,7 +420,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 3500
+        "bondAmount": null
       },
       {
         "description": "DUI",
