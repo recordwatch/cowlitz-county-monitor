@@ -2137,7 +2137,7 @@
     "inmateNumber": "157922",
     "name": "SCHRIBER, ZACH J",
     "bookedAt": "2026-10-24T22:24:37",
-    "location": "C12",
+    "location": "B10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -3910,7 +3910,7 @@
     "inmateNumber": "94455",
     "name": "BURNETT, ROBERT DONALD",
     "bookedAt": "2026-10-20T19:00:09",
-    "location": "A25",
+    "location": "A20",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
