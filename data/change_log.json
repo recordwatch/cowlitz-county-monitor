@@ -1,10 +1,24 @@
 [
   {
+    "id": "361403-20261030002928",
+    "inmateNumber": "361403",
+    "name": "ORTIZ, CESAR A",
+    "bookedAt": "2026-10-30T00:29:28",
+    "location": "INTAKE H6",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T01:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "351883-20261029234018",
     "inmateNumber": "351883",
     "name": "LANDOE, DAVID JAMES",
     "bookedAt": "2026-10-29T23:40:18",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": null,
     "bondTotal": 1000,
     "charges": [
@@ -12,7 +26,7 @@
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-10-30T00:18:51",
         "arrestingAgency": null,
-        "court": "KALAMA MUNICIPAL COURT",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0363235",
         "disposition": null,
         "billingAgency": null,
@@ -56,7 +70,7 @@
     "inmateNumber": "108582",
     "name": "HOMER, KADIN XANTHUS",
     "bookedAt": "2026-10-29T23:06:33",
-    "location": "INTAKE H1",
+    "location": "B23",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [

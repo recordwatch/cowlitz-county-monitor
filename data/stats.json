@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T00:55:18",
+  "generatedAt": "2026-10-30T01:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 425,
-    "bookingsObserved": 259,
+    "bookingsTracked": 426,
+    "bookingsObserved": 260,
     "releasesObserved": 255,
-    "inCustody": 170,
-    "uniquePeople": 407
+    "inCustody": 171,
+    "uniquePeople": 408
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 168,
-      "pct": 39.8,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 54,
-      "pct": 12.8,
+      "count": 55,
+      "pct": 13,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 26,
-      "pct": 6.2,
+      "pct": 6.1,
       "label": "Dept. of Corrections"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 120,
-      "pct": 11.1
+      "count": 121,
+      "pct": 11.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -370,41 +370,41 @@
       "pct": 0.8
     },
     {
-      "name": "KALAMA MUNICIPAL COURT",
+      "name": "OTHER - OUT OF COUNTY",
       "count": 4,
       "pct": 0.4
     },
     {
-      "name": "OTHER - OUT OF COUNTY",
-      "count": 4,
-      "pct": 0.4
+      "name": "KALAMA MUNICIPAL COURT",
+      "count": 3,
+      "pct": 0.3
     }
   ],
   "housingUnits": [
     {
       "name": "A",
       "count": 29,
-      "pct": 17.2
+      "pct": 17
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 12.4
+      "count": 22,
+      "pct": 12.9
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.1
+      "pct": 9.9
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "E",
       "count": 24,
-      "pct": 14.2
+      "pct": 14
     },
     {
       "name": "F",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 21.3
+      "pct": 21.1
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4.1
+      "count": 8,
+      "pct": 4.7
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.2,
-    "currentLongestDaysHeld": 505.3
+    "currentMedianDaysHeld": 18.1,
+    "currentLongestDaysHeld": 505.4
   },
   "bond": {
     "withBond": 125,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4923500
