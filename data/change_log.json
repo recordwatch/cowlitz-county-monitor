@@ -1,5 +1,19 @@
 [
   {
+    "id": "12825-20261029224808",
+    "inmateNumber": "12825",
+    "name": "MCQUILLIAMS, SHYLEE MICHELLE",
+    "bookedAt": "2026-10-29T22:48:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T23:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "39975-20261029221539",
     "inmateNumber": "39975",
     "name": "LYDIC, BRANDON JAMES",
