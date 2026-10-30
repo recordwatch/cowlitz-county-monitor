@@ -6,8 +6,20 @@
     "bookedAt": "2026-10-29T23:40:18",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-10-30T00:18:51",
+        "arrestingAgency": null,
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0363235",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T00:15:18",
     "releasedAt": null,
@@ -18,10 +30,22 @@
     "inmateNumber": "73506",
     "name": "DUDONSKY, DONALD SCOTT",
     "bookedAt": "2026-10-29T23:28:34",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-30T00:15:52",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422589",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-30T00:15:18",
     "releasedAt": null,
@@ -106,7 +130,7 @@
     "inmateNumber": "12825",
     "name": "MCQUILLIAMS, SHYLEE MICHELLE",
     "bookedAt": "2026-10-29T22:48:08",
-    "location": "INTAKE H6",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [

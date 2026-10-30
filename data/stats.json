@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:35:17",
+  "generatedAt": "2026-10-30T00:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 425,
@@ -212,6 +212,11 @@
       "pct": 1.8
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 17,
+      "pct": 1.6
+    },
+    {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 17,
       "pct": 1.6
@@ -222,7 +227,7 @@
       "pct": 1.6
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
+      "name": "CRIM TRESPASS 2ND",
       "count": 16,
       "pct": 1.5
     },
@@ -235,11 +240,6 @@
       "name": "FELONY HARASSMENT",
       "count": 16,
       "pct": 1.5
-    },
-    {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 15,
-      "pct": 1.4
     },
     {
       "name": "THEFT 2ND DEGREE > $750",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 167,
-      "pct": 39.7,
+      "count": 168,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 87,
-      "pct": 20.7,
+      "pct": 20.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 44,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 379,
-      "pct": 35.2
+      "pct": 35.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 304,
-      "pct": 28.2
+      "count": 305,
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -370,26 +370,26 @@
       "pct": 0.8
     },
     {
-      "name": "OTHER - OUT OF COUNTY",
+      "name": "KALAMA MUNICIPAL COURT",
       "count": 4,
       "pct": 0.4
     },
     {
-      "name": "KALAMA MUNICIPAL COURT",
-      "count": 3,
-      "pct": 0.3
+      "name": "OTHER - OUT OF COUNTY",
+      "count": 4,
+      "pct": 0.4
     }
   ],
   "housingUnits": [
     {
       "name": "A",
       "count": 29,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "C",
@@ -403,18 +403,18 @@
     },
     {
       "name": "E",
-      "count": 23,
-      "pct": 13.7
+      "count": 24,
+      "pct": 14.2
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "G",
       "count": 36,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "H",
@@ -424,12 +424,12 @@
     {
       "name": "INTAKE",
       "count": 7,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.4
+      "pct": 5.3
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 505.3
   },
   "bond": {
-    "withBond": 123,
-    "noBond": 47,
+    "withBond": 125,
+    "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4922000
+    "totalBond": 4923500
   },
   "chargesPerBooking": 2.5
 }
