@@ -1,5 +1,42 @@
 [
   {
+    "id": "42870-20261030111530",
+    "inmateNumber": "42870",
+    "name": "PROSHOLD, ALLEN DAVID",
+    "bookedAt": "2026-10-30T11:15:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "offenseDate": "2026-10-30T11:18:54",
+        "arrestingAgency": "CRPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0444153",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "HIT RUN UNATTENDED PROPERTY",
+        "offenseDate": "2026-10-30T11:22:16",
+        "arrestingAgency": "CRPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0444153",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T11:43:49",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "102163-20261030091120",
     "inmateNumber": "102163",
     "name": "WELCH, DAKOTA VICTOR",
