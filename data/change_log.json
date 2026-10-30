@@ -30,7 +30,7 @@
     "inmateNumber": "42870",
     "name": "PROSHOLD, ALLEN DAVID",
     "bookedAt": "2026-10-30T11:15:30",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "CRPD",
     "bondTotal": 2000,
     "charges": [
@@ -431,9 +431,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T23:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-30T12:55:19",
     "baseline": false
   },
   {
