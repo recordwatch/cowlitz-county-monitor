@@ -1,5 +1,19 @@
 [
   {
+    "id": "1393-20261030060327",
+    "inmateNumber": "1393",
+    "name": "STUMP, TONY SCOTT",
+    "bookedAt": "2026-10-30T06:03:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T06:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "356034-20261030051815",
     "inmateNumber": "356034",
     "name": "KNIGHT, TOMMIE RAE GERETTA",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T06:18:24",
+  "generatedAt": "2026-10-30T06:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 428,
-    "bookingsObserved": 262,
+    "bookingsTracked": 429,
+    "bookingsObserved": 263,
     "releasesObserved": 258,
-    "inCustody": 170,
-    "uniquePeople": 409
+    "inCustody": 171,
+    "uniquePeople": 410
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 3,
+      "booked": 4,
       "released": 3
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 169,
-      "pct": 39.8,
+      "count": 170,
+      "pct": 39.9,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 87,
-      "pct": 20.5,
+      "pct": 20.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 44,
-      "pct": 10.4,
+      "pct": 10.3,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 10,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -462,12 +462,12 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.1,
+    "currentMedianDaysHeld": 17.9,
     "currentLongestDaysHeld": 505.6
   },
   "bond": {
     "withBond": 125,
-    "noBond": 45,
+    "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4914500
