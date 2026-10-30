@@ -4,7 +4,7 @@
     "inmateNumber": "122933",
     "name": "KNIGHT, TYSON MICHAEL",
     "bookedAt": "2026-10-29T21:18:35",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
@@ -5319,7 +5319,7 @@
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
     "bookedAt": "2026-10-17T21:14:24",
-    "location": "D25",
+    "location": "C22",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -5600,7 +5600,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "D11",
+    "location": "D25",
     "arrestingAgency": "KEPD",
     "bondTotal": 8000,
     "charges": [
