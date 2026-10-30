@@ -199,7 +199,7 @@
         "arrestingAgency": null,
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0363235",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": null
@@ -299,10 +299,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0302213",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -325,10 +325,10 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "PC0006039",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 4000
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -336,7 +336,7 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "PC0006039",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -480,7 +480,7 @@
     "bookedAt": "2026-10-29T13:51:05",
     "location": "D14",
     "arrestingAgency": "WDPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -512,8 +512,19 @@
         "warrantNumber": "6A0337338",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-29T14:35:13",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0337338",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
