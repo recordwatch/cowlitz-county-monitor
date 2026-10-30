@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-29T23:55:16",
+  "generatedAt": "2026-10-30T00:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 423,
-    "bookingsObserved": 257,
+    "bookingsTracked": 425,
+    "bookingsObserved": 259,
     "releasesObserved": 255,
-    "inCustody": 168,
-    "uniquePeople": 406
+    "inCustody": 170,
+    "uniquePeople": 407
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-30",
-      "booked": 6,
-      "released": 0
-    },
     {
       "date": "2026-10-01",
       "booked": 3,
@@ -156,15 +151,20 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 15,
+      "booked": 17,
       "released": 16
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 140,
-      "pct": 13
+      "count": 141,
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
@@ -174,12 +174,12 @@
     {
       "name": "DOC HOLD",
       "count": 79,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 71,
-      "pct": 6.6
+      "count": 72,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 166,
-      "pct": 39.5,
+      "count": 167,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 54,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "Kelso Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 379,
-      "pct": 35.3
+      "pct": 35.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 301,
-      "pct": 28
+      "count": 304,
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 122,
-      "pct": 11.4
+      "count": 120,
+      "pct": 11.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -342,12 +342,12 @@
     {
       "name": "DOC COURT",
       "count": 65,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 38,
-      "pct": 3.5
+      "count": 40,
+      "pct": 3.7
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.2,
+    "currentMedianDaysHeld": 18.1,
     "currentLongestDaysHeld": 505.3
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 46,
+    "withBond": 123,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4919000
+    "totalBond": 4922000
   },
   "chargesPerBooking": 2.5
 }
