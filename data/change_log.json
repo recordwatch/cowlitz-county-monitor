@@ -1,13 +1,76 @@
 [
   {
+    "id": "108582-20261029230633",
+    "inmateNumber": "108582",
+    "name": "HOMER, KADIN XANTHUS",
+    "bookedAt": "2026-10-29T23:06:33",
+    "location": "INTAKE H1",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T23:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "12950-20261029225032",
+    "inmateNumber": "12950",
+    "name": "NORTON, DAVID ANDREW",
+    "bookedAt": "2026-10-29T22:50:32",
+    "location": "INTAKE H8",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-10-29T23:01:08",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0302213",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-29T23:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "12825-20261029224808",
     "inmateNumber": "12825",
     "name": "MCQUILLIAMS, SHYLEE MICHELLE",
     "bookedAt": "2026-10-29T22:48:08",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-29T23:20:38",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0006039",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 4000
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-10-29T23:22:34",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0006039",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-29T23:35:18",
     "releasedAt": null,

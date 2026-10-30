@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T23:35:18",
+  "generatedAt": "2026-10-29T23:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 421,
-    "bookingsObserved": 255,
+    "bookingsTracked": 423,
+    "bookingsObserved": 257,
     "releasesObserved": 255,
-    "inCustody": 166,
-    "uniquePeople": 405
+    "inCustody": 168,
+    "uniquePeople": 406
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 13,
+      "booked": 15,
       "released": 16
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 140,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "DWLS 3RD",
       "count": 82,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "DOC HOLD",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 70,
-      "pct": 6.5
+      "count": 71,
+      "pct": 6.6
     },
     {
       "name": "DUI",
@@ -208,8 +208,8 @@
     },
     {
       "name": "CRIM TRESPASS 1ST",
-      "count": 18,
-      "pct": 1.7
+      "count": 19,
+      "pct": 1.8
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -237,17 +237,17 @@
       "pct": 1.5
     },
     {
+      "name": "CRIM TRESPASS 2ND",
+      "count": 15,
+      "pct": 1.4
+    },
+    {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 14,
       "pct": 1.3
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 14,
-      "pct": 1.3
-    },
-    {
-      "name": "CRIM TRESPASS 2ND",
       "count": 14,
       "pct": 1.3
     },
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 166,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 87,
-      "pct": 20.8,
+      "pct": 20.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 53,
-      "pct": 12.6,
+      "count": 54,
+      "pct": 12.9,
       "label": "Kelso Police"
     },
     {
@@ -322,21 +322,21 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 379,
-      "pct": 35.4
+      "pct": 35.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 301,
-      "pct": 28.1
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 120,
-      "pct": 11.2
+      "count": 122,
+      "pct": 11.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 111,
+      "count": 112,
       "pct": 10.4
     },
     {
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.3
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.7
+      "pct": 12.5
     },
     {
       "name": "C",
       "count": 16,
-      "pct": 9.7
+      "pct": 9.5
     },
     {
       "name": "D",
       "count": 14,
-      "pct": 8.5
+      "pct": 8.3
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 13.9
+      "pct": 13.7
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 36,
-      "pct": 21.8
+      "pct": 21.4
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 8,
+      "pct": 4.8
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.5
+      "pct": 5.4
     }
   ],
   "stay": {
@@ -462,15 +462,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 18.6,
+    "currentMedianDaysHeld": 18.2,
     "currentLongestDaysHeld": 505.3
   },
   "bond": {
-    "withBond": 120,
+    "withBond": 122,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4914500
+    "totalBond": 4919000
   },
   "chargesPerBooking": 2.5
 }
