@@ -5,7 +5,7 @@
     "name": "RUDBERG, AARON CYRIL",
     "bookedAt": "2026-10-30T19:22:25",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
