@@ -6,14 +6,25 @@
     "bookedAt": "2026-10-31T13:00:36",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-31T13:03:40",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0261643",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-31T13:01:47",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0261644",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
