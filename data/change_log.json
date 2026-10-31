@@ -1,5 +1,45 @@
 [
   {
+    "id": "44922-20261030192225",
+    "inmateNumber": "44922",
+    "name": "RUDBERG, AARON CYRIL",
+    "bookedAt": "2026-10-30T19:22:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T19:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "134637-20261030190839",
+    "inmateNumber": "134637",
+    "name": "BYRNES, LOGAN JAMES PAUL",
+    "bookedAt": "2026-10-30T19:08:39",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-30T19:11:24",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0435932",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T19:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "59600-20261030181256",
     "inmateNumber": "59600",
     "name": "SKEIE, STEPHEN SCOTT",
