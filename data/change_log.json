@@ -156,7 +156,7 @@
     "inmateNumber": "282773",
     "name": "CHIPPO, RITREZ DRESON",
     "bookedAt": "2026-10-31T03:27:23",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -352,7 +352,7 @@
     "inmateNumber": "59600",
     "name": "SKEIE, STEPHEN SCOTT",
     "bookedAt": "2026-10-30T18:12:56",
-    "location": "INTAKE H2",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
