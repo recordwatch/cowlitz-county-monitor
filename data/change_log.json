@@ -1,5 +1,31 @@
 [
   {
+    "id": "16981-20261031095338",
+    "inmateNumber": "16981",
+    "name": "BREWER, ANTHONEY ALLEN",
+    "bookedAt": "2026-10-31T09:53:38",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-31T09:58:55",
+        "arrestingAgency": null,
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0177832",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T10:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361428-20261031034925",
     "inmateNumber": "361428",
     "name": "LUCHAU, TANNER ANDREW",
