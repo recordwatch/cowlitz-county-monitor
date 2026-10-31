@@ -1,5 +1,19 @@
 [
   {
+    "id": "361437-20261031155357",
+    "inmateNumber": "361437",
+    "name": "HERNANDEZ CALLEJAS, MARIO",
+    "bookedAt": "2026-10-31T15:53:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T16:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "108218-20261031134445",
     "inmateNumber": "108218",
     "name": "SEIBERT, ZACHARY BLAINE",
