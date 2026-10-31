@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T00:15:30",
+  "generatedAt": "2026-10-31T00:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 439,
-    "bookingsObserved": 273,
+    "bookingsTracked": 440,
+    "bookingsObserved": 274,
     "releasesObserved": 281,
-    "inCustody": 158,
-    "uniquePeople": 419
+    "inCustody": 159,
+    "uniquePeople": 420
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 14,
+      "booked": 15,
       "released": 26
     },
     {
@@ -207,6 +207,11 @@
       "pct": 2.1
     },
     {
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 19,
+      "pct": 1.7
+    },
+    {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 19,
       "pct": 1.7
@@ -215,11 +220,6 @@
       "name": "CRIM TRESPASS 1ST",
       "count": 19,
       "pct": 1.7
-    },
-    {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 18,
-      "pct": 1.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 174,
-      "pct": 39.9,
+      "count": 175,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
@@ -284,19 +284,19 @@
     {
       "name": "CCCD",
       "count": 46,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 26,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
       "count": 19,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 12,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Castle Rock Police"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 313,
-      "pct": 28.2
+      "count": 314,
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 506.3
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 43,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4788500
+    "totalBond": 4789500
   },
   "chargesPerBooking": 2.5
 }

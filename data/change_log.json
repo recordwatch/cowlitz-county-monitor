@@ -1,5 +1,31 @@
 [
   {
+    "id": "31943-20261030234740",
+    "inmateNumber": "31943",
+    "name": "MURRAY, GORDON EVERETT",
+    "bookedAt": "2026-10-30T23:47:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-10-30T23:50:38",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0436063",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T00:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "34157-20261030210503",
     "inmateNumber": "34157",
     "name": "LOWDER, EDWARD KENNTH",
