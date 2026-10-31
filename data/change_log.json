@@ -1,5 +1,31 @@
 [
   {
+    "id": "361379-20261031130036",
+    "inmateNumber": "361379",
+    "name": "RAMIREZ, JONATHAN HUMBERTO",
+    "bookedAt": "2026-10-31T13:00:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-10-31T13:01:47",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T13:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "359382-20261031100000",
     "inmateNumber": "359382",
     "name": "FRANCISCO TOMAS, FELIPE",
