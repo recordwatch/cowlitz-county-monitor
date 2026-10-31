@@ -1,13 +1,62 @@
 [
   {
+    "id": "38375-20261031160553",
+    "inmateNumber": "38375",
+    "name": "RUSSELL, MATTHEW EUGENE",
+    "bookedAt": "2026-10-31T16:05:53",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-10-31T16:16:27",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-10-31T16:16:54",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T16:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361437-20261031155357",
     "inmateNumber": "361437",
     "name": "HERNANDEZ CALLEJAS, MARIO",
     "bookedAt": "2026-10-31T15:53:57",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-10-31T16:04:03",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0359416",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-10-31T16:35:16",
     "releasedAt": null,
