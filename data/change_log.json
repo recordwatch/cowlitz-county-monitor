@@ -1,10 +1,36 @@
 [
   {
+    "id": "359382-20261031100000",
+    "inmateNumber": "359382",
+    "name": "FRANCISCO TOMAS, FELIPE",
+    "bookedAt": "2026-10-31T10:00:00",
+    "location": "A12",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-31T10:11:10",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00613436",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "16981-20261031095338",
     "inmateNumber": "16981",
     "name": "BREWER, ANTHONEY ALLEN",
     "bookedAt": "2026-10-31T09:53:38",
-    "location": "1-PENDING BOOKING",
+    "location": "B12",
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [
