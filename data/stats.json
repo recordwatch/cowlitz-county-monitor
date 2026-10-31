@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T14:15:20",
+  "generatedAt": "2026-10-31T14:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 445,
-    "bookingsObserved": 279,
+    "bookingsTracked": 446,
+    "bookingsObserved": 280,
     "releasesObserved": 283,
-    "inCustody": 162,
-    "uniquePeople": 425
+    "inCustody": 163,
+    "uniquePeople": 426
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 176,
-      "pct": 39.9,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 89,
-      "pct": 20.2,
+      "count": 90,
+      "pct": 20.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 47,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -321,7 +321,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 381,
+      "count": 382,
       "pct": 34.1
     },
     {
@@ -383,13 +383,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 31,
-      "pct": 19.1
+      "count": 32,
+      "pct": 19.6
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.8
+      "pct": 14.7
     },
     {
       "name": "C",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 32,
-      "pct": 19.8
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -424,12 +424,12 @@
     {
       "name": "INTAKE",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.6
+      "pct": 5.5
     }
   ],
   "stay": {
@@ -462,12 +462,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 18.6,
+    "currentMedianDaysHeld": 18,
     "currentLongestDaysHeld": 506.9
   },
   "bond": {
     "withBond": 116,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 4500,
     "maxBond": 500000,
     "totalBond": 4591500

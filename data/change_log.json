@@ -1,5 +1,31 @@
 [
   {
+    "id": "108218-20261031134445",
+    "inmateNumber": "108218",
+    "name": "SEIBERT, ZACHARY BLAINE",
+    "bookedAt": "2026-10-31T13:44:45",
+    "location": "A25",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT CHILD 2ND",
+        "offenseDate": "2026-10-31T13:49:45",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T14:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361379-20261031130036",
     "inmateNumber": "361379",
     "name": "RAMIREZ, JONATHAN HUMBERTO",
