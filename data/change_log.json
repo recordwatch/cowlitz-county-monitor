@@ -4280,7 +4280,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "D11",
+    "location": "D23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -10146,7 +10146,7 @@
     "inmateNumber": "357876",
     "name": "RANDLES, ZACHARY DAVID",
     "bookedAt": "2026-10-10T17:48:47",
-    "location": "D23",
+    "location": "D11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
