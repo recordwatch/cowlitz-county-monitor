@@ -1,5 +1,53 @@
 [
   {
+    "id": "34157-20261030210503",
+    "inmateNumber": "34157",
+    "name": "LOWDER, EDWARD KENNTH",
+    "bookedAt": "2026-10-30T21:05:03",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-30T21:10:42",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0319283",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-10-30T21:09:53",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0363884",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-30T21:08:22",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0435603",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T21:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "44922-20261030192225",
     "inmateNumber": "44922",
     "name": "RUDBERG, AARON CYRIL",
