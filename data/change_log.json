@@ -1,5 +1,42 @@
 [
   {
+    "id": "361428-20261031034925",
+    "inmateNumber": "361428",
+    "name": "LUCHAU, TANNER ANDREW",
+    "bookedAt": "2026-10-31T03:49:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-10-31T03:50:11",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-10-31T03:59:06",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T04:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "282773-20261031032723",
     "inmateNumber": "282773",
     "name": "CHIPPO, RITREZ DRESON",
