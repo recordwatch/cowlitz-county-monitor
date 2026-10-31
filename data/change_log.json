@@ -1,5 +1,31 @@
 [
   {
+    "id": "59600-20261030181256",
+    "inmateNumber": "59600",
+    "name": "SKEIE, STEPHEN SCOTT",
+    "bookedAt": "2026-10-30T18:12:56",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-30T18:20:49",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0434183",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-30T18:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "27379-20261030155416",
     "inmateNumber": "27379",
     "name": "MONAGHAN, JUSTIN TRENT",
