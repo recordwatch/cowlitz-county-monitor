@@ -31,9 +31,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T04:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-10-31T04:55:20",
     "baseline": false
   },
   {
@@ -41,7 +41,7 @@
     "inmateNumber": "282773",
     "name": "CHIPPO, RITREZ DRESON",
     "bookedAt": "2026-10-31T03:27:23",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
