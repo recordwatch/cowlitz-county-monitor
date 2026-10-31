@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:15:20",
+  "generatedAt": "2026-10-30T20:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 438,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 146,
-      "pct": 13.2
+      "count": 149,
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 81,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -229,17 +229,17 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 16,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 3RD",
       "count": 16,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "FELONY HARASSMENT",
       "count": 16,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RECKLESS DRIVING",
@@ -322,22 +322,22 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 380,
-      "pct": 34.5
+      "pct": 34.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 312,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 128,
-      "pct": 11.6
+      "count": 133,
+      "pct": 12
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 113,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "DOC COURT",
@@ -384,7 +384,7 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "name": "B",
@@ -393,8 +393,8 @@
     },
     {
       "name": "C",
-      "count": 17,
-      "pct": 10.8
+      "count": 18,
+      "pct": 11.4
     },
     {
       "name": "D",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 19,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "G",
       "count": 32,
-      "pct": 20.4
+      "pct": 20.3
     },
     {
       "name": "H",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 19,
-    "currentLongestDaysHeld": 506.1
+    "currentLongestDaysHeld": 506.2
   },
   "bond": {
-    "withBond": 114,
-    "noBond": 44,
+    "withBond": 115,
+    "noBond": 43,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4781500
+    "totalBond": 4786500
   },
   "chargesPerBooking": 2.5
 }
