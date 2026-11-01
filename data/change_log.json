@@ -1,5 +1,19 @@
 [
   {
+    "id": "361442-20261031235951",
+    "inmateNumber": "361442",
+    "name": "No Name Booking, 162342",
+    "bookedAt": "2026-10-31T23:59:51",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T00:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "354738-20261031211443",
     "inmateNumber": "354738",
     "name": "DRYDEN, NICOLAS DAVID",
