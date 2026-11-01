@@ -1,5 +1,64 @@
 [
   {
+    "id": "342025-20261101013007",
+    "inmateNumber": "342025",
+    "name": "GARCIA TOMAS, MAICON EZEQUIEL",
+    "bookedAt": "2026-11-01T01:30:07",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-01T01:35:04",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0177844",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-01T01:35:36",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0177844",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-01T01:36:07",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0177844",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-01T01:36:49",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0295347",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T02:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361442-20261031235951",
     "inmateNumber": "361442",
     "name": "No Name Booking, 162342",
