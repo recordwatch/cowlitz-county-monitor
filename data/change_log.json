@@ -1,5 +1,31 @@
 [
   {
+    "id": "361454-20261101065659",
+    "inmateNumber": "361454",
+    "name": "DAVIS, AARON NYRON",
+    "bookedAt": "2026-11-01T06:56:59",
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "VIOL NO CONTACT ORDER",
+        "offenseDate": "2026-11-01T07:00:03",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00285372",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T07:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "342025-20261101013007",
     "inmateNumber": "342025",
     "name": "GARCIA TOMAS, MAICON EZEQUIEL",
