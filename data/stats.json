@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:35:18",
+  "generatedAt": "2026-11-01T00:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 451,
@@ -327,17 +327,17 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 316,
-      "pct": 28.1
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 138,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 118,
-      "pct": 10.5
+      "count": 120,
+      "pct": 10.6
     },
     {
       "name": "DOC COURT",
@@ -347,7 +347,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 40,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11.5
+      "pct": 11.4
     },
     {
       "name": "D",
       "count": 15,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "E",
       "count": 20,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 32,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 1,
-      "pct": 0.6
+      "count": 2,
+      "pct": 1.2
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.5
+      "pct": 5.4
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 507.3
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 49,
+    "withBond": 118,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4593500
+    "totalBond": 4594500
   },
   "chargesPerBooking": 2.5
 }

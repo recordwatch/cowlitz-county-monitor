@@ -4,10 +4,33 @@
     "inmateNumber": "361442",
     "name": "No Name Booking, 162342",
     "bookedAt": "2026-10-31T23:59:51",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "NEG DRIVING 1ST ALCOHOL INVOL",
+        "offenseDate": "2026-11-01T00:14:02",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0278201",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-01T00:09:32",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0278201",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-01T00:35:18",
     "releasedAt": null,
