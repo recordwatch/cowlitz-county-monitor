@@ -2389,7 +2389,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
