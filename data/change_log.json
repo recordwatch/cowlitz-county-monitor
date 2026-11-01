@@ -6,8 +6,19 @@
     "bookedAt": "2026-11-01T06:56:59",
     "location": "INTAKE H3",
     "arrestingAgency": "WSP",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-01T07:08:30",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00285370",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "VIOL NO CONTACT ORDER",
         "offenseDate": "2026-11-01T07:00:03",
