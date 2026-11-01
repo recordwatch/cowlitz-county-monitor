@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T10:55:16",
+  "generatedAt": "2026-11-01T11:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 454,
-    "bookingsObserved": 288,
-    "releasesObserved": 289,
+    "bookingsTracked": 455,
+    "bookingsObserved": 289,
+    "releasesObserved": 290,
     "inCustody": 165,
-    "uniquePeople": 434
+    "uniquePeople": 435
   },
   "bookingsByDay": [
     {
@@ -151,13 +151,13 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 11,
+      "booked": 12,
       "released": 4
     },
     {
       "date": "2026-11-01",
       "booked": 3,
-      "released": 4
+      "released": 5
     }
   ],
   "topCharges": [
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 38,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "NVOL - WITHOUT ID",
       "count": 11,
       "pct": 1
     }
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 179,
-      "pct": 39.8,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 58,
-      "pct": 12.9,
+      "count": 59,
+      "pct": 13.1,
       "label": "Kelso Police"
     },
     {
@@ -322,12 +322,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 384,
-      "pct": 33.9
+      "pct": 33.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 317,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 120,
-      "pct": 10.6
+      "count": 122,
+      "pct": 10.7
     },
     {
       "name": "DOC COURT",
@@ -393,8 +393,8 @@
     },
     {
       "name": "C",
-      "count": 19,
-      "pct": 11.5
+      "count": 18,
+      "pct": 10.9
     },
     {
       "name": "D",
@@ -413,8 +413,8 @@
     },
     {
       "name": "G",
-      "count": 30,
-      "pct": 18.2
+      "count": 31,
+      "pct": 18.8
     },
     {
       "name": "H",
@@ -433,13 +433,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 289,
+    "releasedCount": 290,
     "medianDays": 2.5,
     "meanDays": 12.7,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 95
+        "count": 96
       },
       {
         "label": "1–3 days",
@@ -462,7 +462,7 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 18.3,
+    "currentMedianDaysHeld": 18.4,
     "currentLongestDaysHeld": 507.8
   },
   "bond": {

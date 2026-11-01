@@ -153,8 +153,45 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T00:35:18",
+    "releasedAt": "2026-11-01T11:15:18",
+    "baseline": false
+  },
+  {
+    "id": "361444-20261031235951",
+    "inmateNumber": "361444",
+    "name": "ANDON, JOHN",
+    "bookedAt": "2026-10-31T23:59:51",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "NEG DRIVING 1ST ALCOHOL INVOL",
+        "offenseDate": "2026-11-01T00:14:02",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0278201",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-01T00:09:32",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0278201",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T11:15:18",
     "releasedAt": null,
     "baseline": false
   },
@@ -1133,7 +1170,7 @@
     "inmateNumber": "12950",
     "name": "NORTON, DAVID ANDREW",
     "bookedAt": "2026-10-29T22:50:32",
-    "location": "C11",
+    "location": "G-G01",
     "arrestingAgency": "KEPD",
     "bondTotal": 500,
     "charges": [
