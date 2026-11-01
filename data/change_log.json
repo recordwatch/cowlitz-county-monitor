@@ -1,5 +1,42 @@
 [
   {
+    "id": "354738-20261031211443",
+    "inmateNumber": "354738",
+    "name": "DRYDEN, NICOLAS DAVID",
+    "bookedAt": "2026-10-31T21:14:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-10-31T21:18:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0150282",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CRIMINAL TRESPASS-1ST AID/ABET",
+        "offenseDate": "2026-10-31T21:18:54",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0272428",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T21:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "163510-20261031165409",
     "inmateNumber": "163510",
     "name": "MUYSKENS, DAVID JAMES",
