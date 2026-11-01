@@ -80,7 +80,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
