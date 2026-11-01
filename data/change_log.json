@@ -141,7 +141,7 @@
     "inmateNumber": "342025",
     "name": "GARCIA TOMAS, MAICON EZEQUIEL",
     "bookedAt": "2026-11-01T01:30:07",
-    "location": "INTAKE H3",
+    "location": "B12",
     "arrestingAgency": "WDPD",
     "bondTotal": 2500,
     "charges": [
@@ -2403,9 +2403,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-27T02:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-01T15:45:21",
     "baseline": false
   },
   {
