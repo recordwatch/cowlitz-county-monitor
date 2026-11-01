@@ -1,10 +1,36 @@
 [
   {
+    "id": "361456-20261101123615",
+    "inmateNumber": "361456",
+    "name": "SIROSH, ALEKSEY PETROVICH",
+    "bookedAt": "2026-11-01T12:36:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-01T12:43:10",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00935248",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T13:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "310736-20261101093613",
     "inmateNumber": "310736",
     "name": "MCCRARY, MAX WAYNE",
     "bookedAt": "2026-11-01T09:36:13",
-    "location": "B23",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [

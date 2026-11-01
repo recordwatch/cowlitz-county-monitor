@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T12:55:18",
+  "generatedAt": "2026-11-01T13:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 455,
-    "bookingsObserved": 289,
+    "bookingsTracked": 456,
+    "bookingsObserved": 290,
     "releasesObserved": 290,
-    "inCustody": 165,
-    "uniquePeople": 435
+    "inCustody": 166,
+    "uniquePeople": 436
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 3,
+      "booked": 4,
       "released": 5
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 66,
-      "pct": 5.8
+      "count": 67,
+      "pct": 5.9
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 179,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 91,
-      "pct": 20.2,
+      "pct": 20.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 21,
-      "pct": 4.7,
+      "count": 22,
+      "pct": 4.9,
       "label": "Washington State Patrol"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 140,
-      "pct": 12.3
+      "count": 141,
+      "pct": 12.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 18.4,
-    "currentLongestDaysHeld": 507.8
+    "currentLongestDaysHeld": 507.9
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 119,
     "noBond": 47,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4597500
+    "totalBond": 4598500
   },
   "chargesPerBooking": 2.5
 }
