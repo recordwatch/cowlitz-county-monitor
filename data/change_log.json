@@ -1,5 +1,19 @@
 [
   {
+    "id": "163510-20261031165409",
+    "inmateNumber": "163510",
+    "name": "MUYSKENS, DAVID JAMES",
+    "bookedAt": "2026-10-31T16:54:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-10-31T17:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "38375-20261031160553",
     "inmateNumber": "38375",
     "name": "RUSSELL, MATTHEW EUGENE",
