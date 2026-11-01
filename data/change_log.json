@@ -4,7 +4,7 @@
     "inmateNumber": "361454",
     "name": "DAVIS, AARON NYRON",
     "bookedAt": "2026-11-01T06:56:59",
-    "location": "INTAKE H3",
+    "location": "INTAKE H2",
     "arrestingAgency": "WSP",
     "bondTotal": 2000,
     "charges": [
@@ -420,10 +420,10 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "FELONY HARASSMENT",
-        "offenseDate": "2026-10-31T03:33:17",
+        "description": "HARASSMENT DV",
+        "offenseDate": "2026-11-01T08:33:28",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
