@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-01T13:35:17",
+  "generatedAt": "2026-11-01T13:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 456,
-    "bookingsObserved": 290,
+    "bookingsTracked": 457,
+    "bookingsObserved": 291,
     "releasesObserved": 290,
-    "inCustody": 166,
+    "inCustody": 167,
     "uniquePeople": 436
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-01",
-      "booked": 4,
+      "booked": 5,
       "released": 5
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DWLS 3RD",
       "count": 87,
-      "pct": 7.7
+      "pct": 7.6
     },
     {
       "name": "DOC HOLD",
-      "count": 81,
-      "pct": 7.1
+      "count": 82,
+      "pct": 7.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 45,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 179,
-      "pct": 39.6,
+      "count": 180,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 59,
-      "pct": 13.1,
+      "pct": 13,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 26,
-      "pct": 5.8,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 12,
-      "pct": 2.7,
+      "pct": 2.6,
       "label": "Castle Rock Police"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 384,
-      "pct": 33.8
+      "count": 386,
+      "pct": 33.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 317,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 66,
-      "pct": 5.8
+      "count": 67,
+      "pct": 5.9
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -467,7 +467,7 @@
   },
   "bond": {
     "withBond": 119,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4598500

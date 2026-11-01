@@ -1,5 +1,53 @@
 [
   {
+    "id": "27900-20261101131909",
+    "inmateNumber": "27900",
+    "name": "OLIVER, CYNTHIA ANN",
+    "bookedAt": "2026-11-01T13:19:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-11-01T13:22:45",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MALICIOUS MISCHIEF-3 PHYSICAL DMAGE",
+        "offenseDate": "2026-11-01T13:23:21",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-01T13:21:21",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2210097108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T13:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361456-20261101123615",
     "inmateNumber": "361456",
     "name": "SIROSH, ALEKSEY PETROVICH",
