@@ -1,5 +1,31 @@
 [
   {
+    "id": "310736-20261101093613",
+    "inmateNumber": "310736",
+    "name": "MCCRARY, MAX WAYNE",
+    "bookedAt": "2026-11-01T09:36:13",
+    "location": "A24",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-01T09:39:24",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0418197",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T10:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361454-20261101065659",
     "inmateNumber": "361454",
     "name": "DAVIS, AARON NYRON",
