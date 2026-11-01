@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:35:17",
+  "generatedAt": "2026-10-31T17:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 449,
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 74,
-      "pct": 6.6
+      "count": 75,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -326,7 +326,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 315,
+      "count": 316,
       "pct": 28.1
     },
     {
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.8
+      "pct": 19.6
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "D",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 32,
-      "pct": 19.8
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 1,
-      "pct": 0.6
+      "count": 2,
+      "pct": 1.2
     },
     {
       "name": "WSH",
       "count": 9,
-      "pct": 5.6
+      "pct": 5.5
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 507
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 49,
-    "medianBond": 4500,
+    "withBond": 117,
+    "noBond": 48,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4591000
+    "totalBond": 4592000
   },
   "chargesPerBooking": 2.5
 }
