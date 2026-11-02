@@ -1,5 +1,31 @@
 [
   {
+    "id": "99718-20261102070810",
+    "inmateNumber": "99718",
+    "name": "GATES, CODY JONATHAN",
+    "bookedAt": "2026-11-02T07:08:10",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIMINAL TRESPASS-1ST AID/ABET",
+        "offenseDate": "2026-11-02T07:16:59",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T07:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "24486-20261102052444",
     "inmateNumber": "24486",
     "name": "WRIGHT, JAMES CECIL",
