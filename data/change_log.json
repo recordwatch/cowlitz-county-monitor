@@ -1,5 +1,31 @@
 [
   {
+    "id": "145390-20261102145927",
+    "inmateNumber": "145390",
+    "name": "HERRIGES, LINDA SUE",
+    "bookedAt": "2026-11-02T14:59:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-11-02T15:02:01",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0342712",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T15:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "93404-20261102111315",
     "inmateNumber": "93404",
     "name": "POTTS, BRENDEN DAVID",
@@ -175,9 +201,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T03:15:28",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:35:18",
     "baseline": false
   },
   {
@@ -371,9 +397,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T10:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:35:18",
     "baseline": false
   },
   {
@@ -604,9 +630,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T17:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:35:18",
     "baseline": false
   },
   {
