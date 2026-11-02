@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:35:20",
+  "generatedAt": "2026-11-02T09:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 462,
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 67,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -208,8 +208,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 20,
-      "pct": 1.7
+      "count": 21,
+      "pct": 1.8
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 386,
-      "pct": 33.7
+      "count": 385,
+      "pct": 33.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 320,
-      "pct": 27.9
+      "count": 322,
+      "pct": 28.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     {
       "name": "DOC COURT",
       "count": 67,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 508.7
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 47,
+    "withBond": 122,
+    "noBond": 46,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4592000
+    "totalBond": 4593000
   },
   "chargesPerBooking": 2.5
 }

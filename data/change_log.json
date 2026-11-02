@@ -684,14 +684,25 @@
     "bookedAt": "2026-10-31T03:27:23",
     "location": "C21",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2000-05-02T00:00:00",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412983",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "HARASSMENT DV",
         "offenseDate": "2026-11-01T08:33:28",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412983",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -5057,7 +5068,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410078208",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -5068,7 +5079,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510030308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
