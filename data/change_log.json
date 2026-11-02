@@ -604,7 +604,7 @@
     "inmateNumber": "282773",
     "name": "CHIPPO, RITREZ DRESON",
     "bookedAt": "2026-10-31T03:27:23",
-    "location": "B24",
+    "location": "C21",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -800,7 +800,7 @@
     "inmateNumber": "59600",
     "name": "SKEIE, STEPHEN SCOTT",
     "bookedAt": "2026-10-30T18:12:56",
-    "location": "B25",
+    "location": "F23",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -13301,7 +13301,7 @@
     "inmateNumber": "330122",
     "name": "ATYPUT, ESETONG",
     "bookedAt": "2026-09-30T17:43:00",
-    "location": "B24",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
