@@ -1,5 +1,19 @@
 [
   {
+    "id": "211960-20261102102204",
+    "inmateNumber": "211960",
+    "name": "PEREZ, ISAIAH JESUS",
+    "bookedAt": "2026-11-02T10:22:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "99718-20261102070810",
     "inmateNumber": "99718",
     "name": "GATES, CODY JONATHAN",
@@ -317,7 +331,7 @@
     "bookedAt": "2026-11-01T01:30:07",
     "location": "B12",
     "arrestingAgency": "WDPD",
-    "bondTotal": 1500,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -328,7 +342,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 2500
       },
       {
         "description": "DUI",
@@ -421,10 +435,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0278201",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "NVOL - WITHOUT ID",
@@ -432,10 +446,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0278201",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -610,10 +624,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0261643",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -621,10 +635,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0261644",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1631,7 +1645,7 @@
     "bookedAt": "2026-10-29T13:51:05",
     "location": "D14",
     "arrestingAgency": "WDPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -1652,8 +1666,8 @@
         "warrantNumber": "6A0337338",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2000
       },
       {
         "description": "CRIM TRESPASS 1ST",
