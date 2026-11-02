@@ -1,5 +1,31 @@
 [
   {
+    "id": "342252-20261101162451",
+    "inmateNumber": "342252",
+    "name": "KIMI, CARRY",
+    "bookedAt": "2026-11-01T16:24:51",
+    "location": "B22",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-01T16:26:44",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405462",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T17:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "27900-20261101131909",
     "inmateNumber": "27900",
     "name": "OLIVER, CYNTHIA ANN",
@@ -6988,7 +7014,7 @@
     "inmateNumber": "41010",
     "name": "POWELL, SHIRA ELAINE",
     "bookedAt": "2026-10-16T23:53:30",
-    "location": "D25",
+    "location": "E24",
     "arrestingAgency": "KEPD",
     "bondTotal": 8000,
     "charges": [
