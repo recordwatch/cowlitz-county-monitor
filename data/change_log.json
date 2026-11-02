@@ -18607,15 +18607,15 @@
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 2ND",
+        "description": "ASSAULT 3RD",
         "offenseDate": "2026-07-03T17:56:09",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610042908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
