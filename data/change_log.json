@@ -627,7 +627,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 7500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -10402,7 +10402,7 @@
     "inmateNumber": "13547",
     "name": "WYMORE, JOSHUA DEAN",
     "bookedAt": "2026-10-11T22:45:48",
-    "location": "A22",
+    "location": "A20",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
