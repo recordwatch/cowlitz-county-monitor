@@ -1,5 +1,19 @@
 [
   {
+    "id": "93404-20261102111315",
+    "inmateNumber": "93404",
+    "name": "POTTS, BRENDEN DAVID",
+    "bookedAt": "2026-11-02T11:13:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T11:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "281853-20261102105456",
     "inmateNumber": "281853",
     "name": "TESTER, CARTER MICHAEL",
@@ -18,7 +32,7 @@
     "inmateNumber": "36678",
     "name": "KENNEDY, NATHAN JAMES",
     "bookedAt": "2026-11-02T10:52:28",
-    "location": "INTAKE H3",
+    "location": "B11",
     "arrestingAgency": "CCCD",
     "bondTotal": 2000,
     "charges": [
@@ -290,10 +304,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00935248",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -893,7 +907,7 @@
     "bookedAt": "2026-10-30T19:22:25",
     "location": "C12",
     "arrestingAgency": "CCSO",
-    "bondTotal": 5000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -925,8 +939,8 @@
         "warrantNumber": "6A0359413",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -937,7 +951,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -947,8 +961,8 @@
         "warrantNumber": "6A0359414",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1182,7 +1196,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0071073",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1193,7 +1207,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0071073",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -1204,7 +1218,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0071074",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1215,7 +1229,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233695",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1226,7 +1240,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233695",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -1694,7 +1708,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510183806",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1705,7 +1719,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0337338",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1716,7 +1730,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0337338",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -1742,7 +1756,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0415048",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1794,7 +1808,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091700",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1805,7 +1819,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0091701",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -1868,7 +1882,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0324887",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
