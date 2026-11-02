@@ -137,9 +137,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T06:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T12:55:30",
     "baseline": false
   },
   {
@@ -333,9 +333,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T13:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T12:55:30",
     "baseline": false
   },
   {
@@ -529,9 +529,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T11:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T12:55:30",
     "baseline": false
   },
   {
@@ -718,9 +718,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T13:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T12:55:30",
     "baseline": false
   },
   {
@@ -13064,9 +13064,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T12:55:30",
     "baseline": true
   },
   {
