@@ -213,7 +213,7 @@
     "bookedAt": "2026-11-01T16:24:51",
     "location": "B23",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -224,7 +224,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -357,7 +357,7 @@
     "bookedAt": "2026-11-01T09:36:13",
     "location": "B25",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -367,8 +367,8 @@
         "warrantNumber": "6A0418197",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -598,10 +598,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355475",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -616,7 +616,7 @@
     "bookedAt": "2026-10-31T16:05:53",
     "location": "A13",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -626,8 +626,8 @@
         "warrantNumber": "2610070708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "DWLS 3RD",
@@ -679,7 +679,7 @@
     "bookedAt": "2026-10-31T13:44:45",
     "location": "A25",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASSAULT CHILD 3RD DEGREE",
@@ -689,8 +689,8 @@
         "warrantNumber": "2610070808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -831,19 +831,8 @@
     "bookedAt": "2026-10-31T03:27:23",
     "location": "C21",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 5000,
     "charges": [
-      {
-        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
-        "offenseDate": "2000-05-02T00:00:00",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0412983",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
       {
         "description": "HARASSMENT DV",
         "offenseDate": "2026-11-01T08:33:28",
@@ -852,7 +841,18 @@
         "warrantNumber": "6A0412983",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": "Secured",
+        "bondAmount": 5000
+      },
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2000-05-02T00:00:00",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412983",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -1038,7 +1038,7 @@
     "bookedAt": "2026-10-30T18:12:56",
     "location": "F23",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 100,
     "charges": [
       {
         "description": "DISORDERLY CONDUCT",
@@ -1049,7 +1049,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 100
       }
     ],
     "status": "in_custody",
@@ -1417,7 +1417,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0302214",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -2008,7 +2008,7 @@
     "bookedAt": "2026-10-28T20:42:33",
     "location": "E14",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE > $750",
@@ -2040,8 +2040,8 @@
         "warrantNumber": "6A0431427",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
