@@ -1,5 +1,31 @@
 [
   {
+    "id": "24486-20261102052444",
+    "inmateNumber": "24486",
+    "name": "WRIGHT, JAMES CECIL",
+    "bookedAt": "2026-11-02T05:24:44",
+    "location": "INTAKE H2",
+    "arrestingAgency": "CRPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-02T05:28:57",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T06:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "96727-20261102024057",
     "inmateNumber": "96727",
     "name": "WILLIAMS, DERRICK ALAN",
