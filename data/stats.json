@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:55:17",
+  "generatedAt": "2026-11-02T10:15:31",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 462,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 150,
-      "pct": 13.1
+      "count": 154,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 82,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "THEFT 3RD DEG",
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 385,
-      "pct": 33.6
+      "count": 386,
+      "pct": 33.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 322,
-      "pct": 28.1
+      "count": 326,
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 508.7
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 46,
+    "withBond": 123,
+    "noBond": 45,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4593000
+    "totalBond": 4596000
   },
   "chargesPerBooking": 2.5
 }

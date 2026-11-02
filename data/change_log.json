@@ -136,7 +136,7 @@
     "bookedAt": "2026-11-01T13:19:09",
     "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -166,6 +166,50 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610070908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-02T09:37:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0324382",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-02T09:38:04",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0324382",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-02T09:35:39",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0423250",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-02T09:36:41",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0423250",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -5093,6 +5137,17 @@
         "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "STOLEN PROPERTY TRAFFICKING 1 DEGREE",
+        "offenseDate": "2026-10-21T15:34:09",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510043608",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
