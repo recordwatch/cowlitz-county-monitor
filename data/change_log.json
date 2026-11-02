@@ -13,7 +13,7 @@
         "offenseDate": "2026-11-02T07:16:59",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0427026",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -3781,7 +3781,7 @@
     "inmateNumber": "15464",
     "name": "HARDIN, MARK DOUGLAS",
     "bookedAt": "2026-10-24T20:31:12",
-    "location": "D12",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -15184,7 +15184,7 @@
     "inmateNumber": "355126",
     "name": "YKELAP, ANTONIUS ALIWIS",
     "bookedAt": "2026-09-16T21:19:05",
-    "location": "B24",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 35000,
     "charges": [
