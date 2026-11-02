@@ -1,5 +1,45 @@
 [
   {
+    "id": "281853-20261102105456",
+    "inmateNumber": "281853",
+    "name": "TESTER, CARTER MICHAEL",
+    "bookedAt": "2026-11-02T10:54:56",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T11:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "36678-20261102105228",
+    "inmateNumber": "36678",
+    "name": "KENNEDY, NATHAN JAMES",
+    "bookedAt": "2026-11-02T10:52:28",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-02T10:53:47",
+        "arrestingAgency": "CCCD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "2A0114239",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T11:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "211960-20261102102204",
     "inmateNumber": "211960",
     "name": "PEREZ, ISAIAH JESUS",
