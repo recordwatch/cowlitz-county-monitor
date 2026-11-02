@@ -8,9 +8,9 @@
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T11:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T13:15:19",
     "baseline": false
   },
   {
@@ -71,9 +71,9 @@
         "bondAmount": 2000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T11:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T13:15:19",
     "baseline": false
   },
   {
@@ -16958,7 +16958,7 @@
     "inmateNumber": "298165",
     "name": "WARRILOW, LANDON STERLING",
     "bookedAt": "2026-08-06T23:54:03",
-    "location": "G-G34",
+    "location": "G-G20",
     "arrestingAgency": "CCSO",
     "bondTotal": 250000,
     "charges": [
