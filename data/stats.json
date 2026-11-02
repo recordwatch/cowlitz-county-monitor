@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:55:17",
+  "generatedAt": "2026-11-02T12:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 466,
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 154,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
       "count": 87,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "DOC HOLD",
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 386,
-      "pct": 33.5
+      "count": 388,
+      "pct": 33.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 326,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,7 +337,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 124,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "DOC COURT",
@@ -470,7 +470,7 @@
     "noBond": 47,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 4599000
+    "totalBond": 4598000
   },
   "chargesPerBooking": 2.5
 }

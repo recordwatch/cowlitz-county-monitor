@@ -21,7 +21,30 @@
     "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "RAPE OF A CHILD 1",
+        "offenseDate": "2026-11-02T11:36:50",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "offenseDate": "2026-11-02T11:37:20",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-02T11:35:18",
     "releasedAt": null,
@@ -526,7 +549,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0150282",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -5562,7 +5585,7 @@
     "inmateNumber": "141316",
     "name": "RENIE, DAVID LEE",
     "bookedAt": "2026-10-20T21:07:56",
-    "location": "G-G16",
+    "location": "G-G43",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -6862,7 +6885,7 @@
     "bookedAt": "2026-10-18T00:42:54",
     "location": "G-G14",
     "arrestingAgency": "CCSO",
-    "bondTotal": 6000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -6892,10 +6915,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233750",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -13035,10 +13058,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00708703",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
