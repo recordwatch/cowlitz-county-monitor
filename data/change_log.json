@@ -8,9 +8,9 @@
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T10:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T11:15:21",
     "baseline": false
   },
   {
@@ -54,10 +54,10 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0066253",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
