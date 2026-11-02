@@ -1221,7 +1221,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2310106108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1254,7 +1254,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0071074",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1276,7 +1276,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0233695",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
       }
@@ -6424,10 +6424,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422576",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
