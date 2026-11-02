@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T15:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T15:55:18",
     "baseline": false
   },
   {
@@ -918,7 +918,7 @@
     "inmateNumber": "34157",
     "name": "LOWDER, EDWARD KENNTH",
     "bookedAt": "2026-10-30T21:05:03",
-    "location": "B21",
+    "location": "G-G39",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -1932,7 +1932,7 @@
     "inmateNumber": "85019",
     "name": "KINNEY, JAMES ARTHUR",
     "bookedAt": "2026-10-29T09:44:16",
-    "location": "B21",
+    "location": "G-G06",
     "arrestingAgency": "CCCD",
     "bondTotal": 1000,
     "charges": [
@@ -3688,7 +3688,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "B20",
+    "location": "G-G34",
     "arrestingAgency": "CCSO",
     "bondTotal": 30000,
     "charges": [
@@ -5194,7 +5194,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "D23",
+    "location": "E21",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -5564,7 +5564,7 @@
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
-    "location": "B20",
+    "location": "G-G19",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
