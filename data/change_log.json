@@ -256,7 +256,7 @@
     "inmateNumber": "93404",
     "name": "POTTS, BRENDEN DAVID",
     "bookedAt": "2026-11-02T11:13:15",
-    "location": "INTAKE H3",
+    "location": "C22",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -1144,7 +1144,7 @@
     "inmateNumber": "34157",
     "name": "LOWDER, EDWARD KENNTH",
     "bookedAt": "2026-10-30T21:05:03",
-    "location": "G-G39",
+    "location": "G-G29",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
