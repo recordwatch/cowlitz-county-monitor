@@ -1,5 +1,19 @@
 [
   {
+    "id": "361499-20261102191909",
+    "inmateNumber": "361499",
+    "name": "SCHREINER, MARC",
+    "bookedAt": "2026-11-02T19:19:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T19:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361496-20261102174312",
     "inmateNumber": "361496",
     "name": "BLACK, SKYLUR S",
@@ -78,7 +92,7 @@
     "inmateNumber": "29929",
     "name": "LORD, CHAD LEE",
     "bookedAt": "2026-11-02T17:25:55",
-    "location": "INTAKE H2",
+    "location": "A16",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
