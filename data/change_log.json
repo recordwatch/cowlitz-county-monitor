@@ -1,5 +1,19 @@
 [
   {
+    "id": "288133-20261103151403",
+    "inmateNumber": "288133",
+    "name": "BUNNELL, KAYLUB LEE",
+    "bookedAt": "2026-11-03T15:14:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T15:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "332574-20261103145820",
     "inmateNumber": "332574",
     "name": "MUTUK, SILENT",
@@ -7,7 +21,41 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-03T15:08:34",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0319786",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-03T15:11:44",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0319786",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-03T15:10:33",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0319786",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T15:35:19",
     "releasedAt": null,
@@ -610,7 +658,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427289",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -714,7 +762,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427027",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
