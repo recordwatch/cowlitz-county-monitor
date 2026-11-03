@@ -1,5 +1,19 @@
 [
   {
+    "id": "332574-20261103145820",
+    "inmateNumber": "332574",
+    "name": "MUTUK, SILENT",
+    "bookedAt": "2026-11-03T14:58:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T15:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "181291-20261103133716",
     "inmateNumber": "181291",
     "name": "SMITH, GARY LEON",
@@ -803,7 +817,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0380751",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -814,7 +828,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0380751",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -825,7 +839,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427026",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -908,9 +922,9 @@
         "bondAmount": 2000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T18:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T15:35:19",
     "baseline": false
   },
   {
@@ -929,7 +943,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405462",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2500
       }
@@ -955,7 +969,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2210097108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -966,7 +980,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610070908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 40000
       },
@@ -977,7 +991,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610070908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
@@ -988,7 +1002,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0324382",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -999,7 +1013,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0324382",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -1010,7 +1024,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423250",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -1021,7 +1035,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423250",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
