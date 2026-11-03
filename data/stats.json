@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:15:21",
+  "generatedAt": "2026-11-02T18:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 472,
@@ -208,8 +208,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 21,
-      "pct": 1.8
+      "count": 22,
+      "pct": 1.9
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -259,14 +259,14 @@
     {
       "name": "NVOL - WITHOUT ID",
       "count": 11,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 187,
-      "pct": 40,
+      "count": 188,
+      "pct": 40.2,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 62,
-      "pct": 13.3,
+      "pct": 13.2,
       "label": "Kelso Police"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 328,
-      "pct": 28.3
+      "count": 329,
+      "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,52 +384,52 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.9
+      "pct": 19.5
     },
     {
       "name": "B",
       "count": 17,
-      "pct": 10.6
+      "pct": 10.4
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.6
+      "pct": 10.4
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.3
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 14.3
+      "pct": 14
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "G",
       "count": 33,
-      "pct": 20.5
+      "pct": 20.1
     },
     {
       "name": "H",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.1
+      "count": 8,
+      "pct": 4.9
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.8
+      "pct": 6.7
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 509.1
   },
   "bond": {
-    "withBond": 118,
-    "noBond": 47,
+    "withBond": 119,
+    "noBond": 46,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4593100
+    "totalBond": 4594100
   },
   "chargesPerBooking": 2.5
 }
