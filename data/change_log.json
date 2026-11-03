@@ -4,10 +4,22 @@
     "inmateNumber": "334",
     "name": "PHILLIPS, CECIL LEROY",
     "bookedAt": "2026-11-03T02:27:40",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-03T02:45:10",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0423479",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T03:15:19",
     "releasedAt": null,

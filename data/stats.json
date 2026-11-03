@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:15:19",
+  "generatedAt": "2026-11-03T03:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 477,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 157,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 67,
-      "pct": 5.7
+      "count": 68,
+      "pct": 5.8
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 30,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "RESISTING ARREST",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 124,
-      "pct": 10.5
+      "count": 125,
+      "pct": 10.6
     },
     {
       "name": "DOC COURT",
@@ -362,12 +362,12 @@
     {
       "name": "DOC CONTRACT COURT",
       "count": 10,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "MENTAL HEALTH COURT",
       "count": 10,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "B",
       "count": 19,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 10.8
+      "pct": 10.7
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "E",
       "count": 23,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 20.4
+      "pct": 20.2
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 6,
+      "pct": 3.6
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.6
+      "pct": 6.5
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 509.4
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 48,
+    "withBond": 121,
+    "noBond": 47,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4606100
+    "totalBond": 4607100
   },
   "chargesPerBooking": 2.5
 }
