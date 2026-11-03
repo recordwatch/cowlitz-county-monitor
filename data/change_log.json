@@ -1,5 +1,19 @@
 [
   {
+    "id": "334-20261103022740",
+    "inmateNumber": "334",
+    "name": "PHILLIPS, CECIL LEROY",
+    "bookedAt": "2026-11-03T02:27:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T03:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358076-20261102225148",
     "inmateNumber": "358076",
     "name": "NOELKER, JEFFREY SCOTT",
