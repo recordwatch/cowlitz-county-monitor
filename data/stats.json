@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:15:18",
+  "generatedAt": "2026-11-02T21:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 475,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 155,
-      "pct": 13.3
+      "count": 157,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
       "count": 87,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DOC HOLD",
@@ -178,7 +178,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 79,
+      "count": 80,
       "pct": 6.8
     },
     {
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 45,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 393,
-      "pct": 33.7
+      "pct": 33.5
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 331,
+      "count": 333,
       "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 144,
-      "pct": 12.3
+      "count": 145,
+      "pct": 12.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -346,8 +346,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 44,
-      "pct": 3.8
+      "count": 46,
+      "pct": 3.9
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "B",
       "count": 18,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 13.3
+      "count": 23,
+      "pct": 13.9
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 20
+      "pct": 19.9
     },
     {
       "name": "H",
@@ -429,7 +429,7 @@
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.7
+      "pct": 6.6
     }
   ],
   "stay": {
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 509.2
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 48,
+    "withBond": 120,
+    "noBond": 47,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4594100
+    "totalBond": 4604100
   },
   "chargesPerBooking": 2.5
 }
