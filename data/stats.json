@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T14:35:18",
+  "generatedAt": "2026-11-03T14:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 486,
     "bookingsObserved": 320,
-    "releasesObserved": 319,
-    "inCustody": 167,
+    "releasesObserved": 320,
+    "inCustody": 166,
     "uniquePeople": 462
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-03",
       "booked": 10,
-      "released": 10
+      "released": 11
     }
   ],
   "topCharges": [
@@ -172,12 +172,12 @@
       "pct": 7.3
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 83,
+      "name": "DOC HOLD",
+      "count": 84,
       "pct": 7
     },
     {
-      "name": "DOC HOLD",
+      "name": "THEFT 3RD DEG",
       "count": 83,
       "pct": 7
     },
@@ -207,12 +207,12 @@
       "pct": 2
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 22,
-      "pct": 1.8
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 23,
+      "pct": 1.9
     },
     {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "name": "CRIM TRESPASS 2ND",
       "count": 22,
       "pct": 1.8
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 191,
-      "pct": 39.7,
+      "count": 192,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 96,
-      "pct": 20,
+      "pct": 19.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -322,11 +322,11 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 397,
-      "pct": 33.4
+      "pct": 33.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 335,
+      "count": 336,
       "pct": 28.2
     },
     {
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 68,
-      "pct": 5.7
+      "count": 69,
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -433,13 +433,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 319,
-    "medianDays": 2.4,
+    "releasedCount": 320,
+    "medianDays": 2.3,
     "meanDays": 12,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 107
+        "count": 108
       },
       {
         "label": "1–3 days",
@@ -462,15 +462,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 19.2,
+    "currentMedianDaysHeld": 19.3,
     "currentLongestDaysHeld": 509.9
   },
   "bond": {
     "withBond": 121,
-    "noBond": 46,
+    "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4757100
   },
-  "chargesPerBooking": 2.4
+  "chargesPerBooking": 2.5
 }

@@ -5,9 +5,21 @@
     "name": "SMITH, GARY LEON",
     "bookedAt": "2026-11-03T13:37:16",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-03T14:21:47",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0437623",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T14:15:21",
     "releasedAt": null,
@@ -18,10 +30,22 @@
     "inmateNumber": "334466",
     "name": "HOMOLA, JARED WILLIAM",
     "bookedAt": "2026-11-03T12:42:42",
-    "location": "1-PENDING BOOKING",
+    "location": "A24",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-03T14:07:48",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "86CR223491",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T13:15:29",
     "releasedAt": null,
@@ -126,9 +150,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T12:35:27",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T14:55:20",
     "baseline": false
   },
   {
@@ -17124,7 +17148,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510062708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
