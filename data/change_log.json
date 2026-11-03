@@ -4,7 +4,7 @@
     "inmateNumber": "142066",
     "name": "CONTRERAS, JOSEPH CARL",
     "bookedAt": "2026-11-02T20:35:46",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 10000,
     "charges": [
@@ -290,9 +290,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T17:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-02T22:55:18",
     "baseline": false
   },
   {
