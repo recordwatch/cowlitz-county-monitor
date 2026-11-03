@@ -136,10 +136,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0423479",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -162,10 +162,10 @@
         "arrestingAgency": "CCSO",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0105659",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -173,7 +173,7 @@
         "arrestingAgency": "CCSO",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0105659",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -12712,7 +12712,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0126294",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": null
