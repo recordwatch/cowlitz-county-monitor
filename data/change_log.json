@@ -4,7 +4,7 @@
     "inmateNumber": "44910",
     "name": "LARSON, ERIC CHRISTOPHER",
     "bookedAt": "2026-11-03T04:53:49",
-    "location": "1-PENDING BOOKING",
+    "location": "D12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1981,9 +1981,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T23:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T05:55:16",
     "baseline": false
   },
   {
