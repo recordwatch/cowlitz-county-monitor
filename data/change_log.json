@@ -1,5 +1,19 @@
 [
   {
+    "id": "142066-20261102203546",
+    "inmateNumber": "142066",
+    "name": "CONTRERAS, JOSEPH CARL",
+    "bookedAt": "2026-11-02T20:35:46",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T21:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "8901-20261102192839",
     "inmateNumber": "8901",
     "name": "RINALDI, TAMMY ELIZABETH",
@@ -78,7 +92,7 @@
     "inmateNumber": "361496",
     "name": "BLACK, SKYLUR S",
     "bookedAt": "2026-11-02T17:43:12",
-    "location": "INTAKE H8",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
