@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T05:35:24",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T07:55:19",
     "baseline": false
   },
   {
@@ -2738,7 +2738,7 @@
     "inmateNumber": "11107",
     "name": "VIEIRA, LADON MORDACI",
     "bookedAt": "2026-10-28T09:52:23",
-    "location": "A13",
+    "location": "G-G02",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
