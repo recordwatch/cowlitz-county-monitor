@@ -168,23 +168,23 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "description": "NEG DRIVING 1ST ALCOHOL INVOL",
         "offenseDate": "2026-11-02T19:37:25",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "1A0378433",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "description": "NEG DRIVING 1ST ALCOHOL INVOL",
         "offenseDate": "2026-11-02T19:40:21",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "2A0478332",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
