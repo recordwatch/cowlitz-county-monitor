@@ -1,5 +1,33 @@
 [
   {
+    "id": "12915-20261103115806",
+    "inmateNumber": "12915",
+    "name": "GANIS, BRANDON JAMES ANTHONY D",
+    "bookedAt": "2026-11-03T11:58:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T12:35:27",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "351883-20261103115528",
+    "inmateNumber": "351883",
+    "name": "LANDOE, DAVID JAMES",
+    "bookedAt": "2026-11-03T11:55:28",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KAPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T12:35:27",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "243594-20261103091338",
     "inmateNumber": "243594",
     "name": "HUGDAHL, TYLER JAMES",
@@ -3845,9 +3873,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T02:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T12:35:27",
     "baseline": false
   },
   {
@@ -6136,7 +6164,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2410071808",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
