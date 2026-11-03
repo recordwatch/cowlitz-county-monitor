@@ -1,5 +1,33 @@
 [
   {
+    "id": "3650-20261103121546",
+    "inmateNumber": "3650",
+    "name": "HYATT, MICHAEL LEE",
+    "bookedAt": "2026-11-03T12:15:46",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T12:55:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "259720-20261103121018",
+    "inmateNumber": "259720",
+    "name": "PONDER ANDERSON, RACHEL LYNN",
+    "bookedAt": "2026-11-03T12:10:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T12:55:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "12915-20261103115806",
     "inmateNumber": "12915",
     "name": "GANIS, BRANDON JAMES ANTHONY D",
@@ -207,9 +235,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T23:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T12:55:24",
     "baseline": false
   },
   {
@@ -1108,7 +1136,7 @@
     "inmateNumber": "354738",
     "name": "DRYDEN, NICOLAS DAVID",
     "bookedAt": "2026-10-31T21:14:43",
-    "location": "D20",
+    "location": "A15",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -4406,7 +4434,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2310098805",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5428,7 +5456,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "111002664",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5883,7 +5911,7 @@
         "arrestingAgency": "CCSO",
         "court": "DOC COURT",
         "warrantNumber": "171007813",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
