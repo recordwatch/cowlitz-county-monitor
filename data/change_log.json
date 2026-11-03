@@ -1262,7 +1262,7 @@
     "inmateNumber": "282773",
     "name": "CHIPPO, RITREZ DRESON",
     "bookedAt": "2026-10-31T03:27:23",
-    "location": "C21",
+    "location": "A15",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
@@ -8812,9 +8812,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-15T17:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T08:15:21",
     "baseline": false
   },
   {
@@ -13981,7 +13981,7 @@
     "inmateNumber": "330122",
     "name": "ATYPUT, ESETONG",
     "bookedAt": "2026-09-30T17:43:00",
-    "location": "INTAKE H5",
+    "location": "F13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -16997,7 +16997,7 @@
     "inmateNumber": "236053",
     "name": "BYINGTON, THOMAS OHITIKA",
     "bookedAt": "2026-08-18T17:15:21",
-    "location": "F13",
+    "location": "C21",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
