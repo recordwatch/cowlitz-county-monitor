@@ -5,7 +5,7 @@
     "name": "HOMOLA, JARED WILLIAM",
     "bookedAt": "2026-11-03T12:42:42",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -33,9 +33,21 @@
     "name": "PONDER ANDERSON, RACHEL LYNN",
     "bookedAt": "2026-11-03T12:10:18",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-03T13:01:46",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "2010038608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T12:55:24",
     "releasedAt": null,
@@ -862,7 +874,7 @@
     "bookedAt": "2026-11-01T13:19:09",
     "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 43000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -883,8 +895,8 @@
         "warrantNumber": "2610070908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 40000
       },
       {
         "description": "MALICIOUS MISCHIEF-3 PHYSICAL DMAGE",
@@ -1576,7 +1588,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "TRIP PERMIT VIOLATION-USAGE",
@@ -1587,7 +1599,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPERATE VEH W/O VAL CERT OF TITLE",
@@ -1609,7 +1621,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",

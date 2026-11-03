@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:15:29",
+  "generatedAt": "2026-11-03T13:35:28",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 485,
@@ -172,12 +172,12 @@
       "pct": 7.3
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 82,
-      "pct": 6.9
+      "name": "DOC HOLD",
+      "count": 83,
+      "pct": 7
     },
     {
-      "name": "DOC HOLD",
+      "name": "THEFT 3RD DEG",
       "count": 82,
       "pct": 6.9
     },
@@ -266,31 +266,31 @@
     {
       "name": "LVPD",
       "count": 192,
-      "pct": 40.2,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 93,
-      "pct": 19.5,
+      "count": 94,
+      "pct": 19.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 65,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 50,
-      "pct": 10.5,
+      "pct": 10.4,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
-      "count": 26,
-      "pct": 5.4,
+      "count": 27,
+      "pct": 5.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,7 +322,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 397,
-      "pct": 33.5
+      "pct": 33.4
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 67,
-      "pct": 5.6
+      "count": 68,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -468,9 +468,9 @@
   "bond": {
     "withBond": 117,
     "noBond": 50,
-    "medianBond": 4000,
+    "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4610600
+    "totalBond": 4650600
   },
   "chargesPerBooking": 2.4
 }
