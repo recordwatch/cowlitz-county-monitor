@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T17:55:17",
+  "generatedAt": "2026-11-02T18:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 469,
-    "bookingsObserved": 303,
+    "bookingsTracked": 472,
+    "bookingsObserved": 306,
     "releasesObserved": 307,
-    "inCustody": 162,
-    "uniquePeople": 447
+    "inCustody": 165,
+    "uniquePeople": 450
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 10,
+      "booked": 13,
       "released": 14
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 185,
-      "pct": 39.8,
+      "count": 187,
+      "pct": 40,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 92,
-      "pct": 19.8,
+      "pct": 19.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -383,8 +383,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 31,
-      "pct": 19.3
+      "count": 32,
+      "pct": 19.9
     },
     {
       "name": "B",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.7
+      "count": 5,
+      "pct": 3.1
     },
     {
       "name": "WSH",
@@ -462,12 +462,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 19.6,
-    "currentLongestDaysHeld": 509
+    "currentMedianDaysHeld": 18.5,
+    "currentLongestDaysHeld": 509.1
   },
   "bond": {
     "withBond": 118,
-    "noBond": 44,
+    "noBond": 47,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4593100
