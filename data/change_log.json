@@ -1,5 +1,19 @@
 [
   {
+    "id": "334466-20261103124242",
+    "inmateNumber": "334466",
+    "name": "HOMOLA, JARED WILLIAM",
+    "bookedAt": "2026-11-03T12:42:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T13:15:29",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "3650-20261103121546",
     "inmateNumber": "3650",
     "name": "HYATT, MICHAEL LEE",
@@ -32,10 +46,22 @@
     "inmateNumber": "12915",
     "name": "GANIS, BRANDON JAMES ANTHONY D",
     "bookedAt": "2026-11-03T11:58:06",
-    "location": "1-PENDING BOOKING",
+    "location": "B11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 15000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-03T12:36:54",
+        "arrestingAgency": "LVPD",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "202610085706",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 15000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T12:35:27",
     "releasedAt": null,
@@ -46,10 +72,22 @@
     "inmateNumber": "351883",
     "name": "LANDOE, DAVID JAMES",
     "bookedAt": "2026-11-03T11:55:28",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "KAPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-03T12:32:12",
+        "arrestingAgency": "KAPD",
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0426204",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T12:35:27",
     "releasedAt": null,
@@ -198,9 +236,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T03:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T13:15:29",
     "baseline": false
   },
   {
@@ -1541,7 +1579,7 @@
         "bondAmount": 1000
       },
       {
-        "description": "NO PRORATION/TRP PER",
+        "description": "TRIP PERMIT VIOLATION-USAGE",
         "offenseDate": "2026-10-30T19:54:03",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
