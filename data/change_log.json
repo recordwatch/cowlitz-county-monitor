@@ -58,7 +58,7 @@
     "inmateNumber": "259720",
     "name": "PONDER ANDERSON, RACHEL LYNN",
     "bookedAt": "2026-11-03T12:10:18",
-    "location": "E20",
+    "location": "E10",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -1523,7 +1523,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412983",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 5000
       },
@@ -1534,7 +1534,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412983",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -1586,7 +1586,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0319283",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1597,7 +1597,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0363884",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1608,7 +1608,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435603",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1730,7 +1730,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0434183",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 100
       }
