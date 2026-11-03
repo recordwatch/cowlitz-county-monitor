@@ -1,5 +1,31 @@
 [
   {
+    "id": "44910-20261103045349",
+    "inmateNumber": "44910",
+    "name": "LARSON, ERIC CHRISTOPHER",
+    "bookedAt": "2026-11-03T04:53:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-03T04:54:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0279346",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T05:35:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "334-20261103022740",
     "inmateNumber": "334",
     "name": "PHILLIPS, CECIL LEROY",
