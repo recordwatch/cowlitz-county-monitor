@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:15:20",
+  "generatedAt": "2026-11-03T07:35:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 478,
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 395,
-      "pct": 33.5
+      "count": 396,
+      "pct": 33.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 334,
-      "pct": 28.4
+      "count": 333,
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -462,7 +462,7 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 18.8,
+    "currentMedianDaysHeld": 18.9,
     "currentLongestDaysHeld": 509.6
   },
   "bond": {
