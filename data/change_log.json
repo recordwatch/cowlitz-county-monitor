@@ -4,7 +4,7 @@
     "inmateNumber": "181291",
     "name": "SMITH, GARY LEON",
     "bookedAt": "2026-11-03T13:37:16",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1269,7 +1269,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0150282",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1280,7 +1280,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0272428",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
