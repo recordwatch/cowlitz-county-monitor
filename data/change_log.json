@@ -1,5 +1,19 @@
 [
   {
+    "id": "181291-20261103133716",
+    "inmateNumber": "181291",
+    "name": "SMITH, GARY LEON",
+    "bookedAt": "2026-11-03T13:37:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T14:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "334466-20261103124242",
     "inmateNumber": "334466",
     "name": "HOMOLA, JARED WILLIAM",
@@ -18,7 +32,7 @@
     "inmateNumber": "3650",
     "name": "HYATT, MICHAEL LEE",
     "bookedAt": "2026-11-03T12:15:46",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -416,7 +430,7 @@
     "bookedAt": "2026-11-02T19:19:09",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -426,8 +440,8 @@
         "warrantNumber": "2610071308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 20000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -501,7 +515,7 @@
     "bookedAt": "2026-11-02T17:32:15",
     "location": "B12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -511,8 +525,8 @@
         "warrantNumber": "2610071208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       },
       {
         "description": "THEFT 3RD DEG",
