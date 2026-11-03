@@ -1,13 +1,39 @@
 [
   {
+    "id": "243594-20261103091338",
+    "inmateNumber": "243594",
+    "name": "HUGDAHL, TYLER JAMES",
+    "bookedAt": "2026-11-03T09:13:38",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T09:55:25",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "23434-20261103090049",
     "inmateNumber": "23434",
     "name": "WILLIAMS, EDWARD MACK",
     "bookedAt": "2026-11-03T09:00:49",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "B20",
+    "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CYBER HARASSMENT",
+        "offenseDate": "2026-11-03T09:11:23",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610071008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T09:35:20",
     "releasedAt": null,

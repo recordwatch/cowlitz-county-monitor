@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T09:35:20",
+  "generatedAt": "2026-11-03T09:55:25",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 479,
-    "bookingsObserved": 313,
+    "bookingsTracked": 480,
+    "bookingsObserved": 314,
     "releasesObserved": 313,
-    "inCustody": 166,
-    "uniquePeople": 457
+    "inCustody": 167,
+    "uniquePeople": 458
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-03",
-      "booked": 3,
+      "booked": 4,
       "released": 4
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 191,
-      "pct": 40.3,
+      "pct": 40.1,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 93,
-      "pct": 19.6,
+      "pct": 19.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 63,
-      "pct": 13.3,
+      "count": 65,
+      "pct": 13.7,
       "label": "Kelso Police"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 14,
-      "pct": 3,
+      "pct": 2.9,
       "label": "Woodland Police"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 396,
-      "pct": 33.6
+      "count": 397,
+      "pct": 33.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 333,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -384,22 +384,22 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 11.5
+      "count": 20,
+      "pct": 12
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "E",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 20.6
+      "pct": 20.5
     },
     {
       "name": "H",
@@ -429,7 +429,7 @@
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.7
+      "pct": 6.6
     }
   ],
   "stay": {
@@ -462,12 +462,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 19.1,
+    "currentMedianDaysHeld": 19,
     "currentLongestDaysHeld": 509.7
   },
   "bond": {
     "withBond": 119,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4605100
