@@ -1,5 +1,31 @@
 [
   {
+    "id": "306109-20261102163119",
+    "inmateNumber": "306109",
+    "name": "RODRIGUEZ RAMIREZ, HUGO MAXIMILIANO",
+    "bookedAt": "2026-11-02T16:31:19",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-02T16:35:37",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0931161",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-02T17:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "145390-20261102145927",
     "inmateNumber": "145390",
     "name": "HERRIGES, LINDA SUE",
