@@ -1,10 +1,24 @@
 [
   {
+    "id": "123345-20261103163645",
+    "inmateNumber": "123345",
+    "name": "CARSTEN, BLAKE ALLEN",
+    "bookedAt": "2026-11-03T16:36:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T17:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "288133-20261103151403",
     "inmateNumber": "288133",
     "name": "BUNNELL, KAYLUB LEE",
     "bookedAt": "2026-11-03T15:14:03",
-    "location": "A10",
+    "location": "A11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -795,7 +809,7 @@
     "charges": [
       {
         "description": "RAPE CHILD 2",
-        "offenseDate": "2026-11-02T11:36:50",
+        "offenseDate": "2026-11-02T11:37:20",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610071408",
