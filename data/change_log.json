@@ -1,5 +1,42 @@
 [
   {
+    "id": "361530-20261104024735",
+    "inmateNumber": "361530",
+    "name": "LOPES, KAYLA JADE",
+    "bookedAt": "2026-11-04T02:47:35",
+    "location": "INTAKE H5",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DISPLAY FICTITIOUS OR ALTERED LICENSE/ID",
+        "offenseDate": "2026-11-04T02:56:15",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0337339",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "MINOR OPER.M/V WITH ALCOHOL",
+        "offenseDate": "2026-11-04T02:55:28",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0337339",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T03:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "128778-20261104013105",
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
