@@ -115,7 +115,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0829038",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -126,7 +126,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0272705",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -137,7 +137,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425546",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -8052,10 +8052,10 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0154661",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -8063,7 +8063,7 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0154661",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
