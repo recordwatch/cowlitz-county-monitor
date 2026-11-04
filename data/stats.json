@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T01:35:18",
+  "generatedAt": "2026-11-04T02:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 493,
-    "bookingsObserved": 327,
+    "bookingsTracked": 494,
+    "bookingsObserved": 328,
     "releasesObserved": 327,
-    "inCustody": 166,
-    "uniquePeople": 468
+    "inCustody": 167,
+    "uniquePeople": 469
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 158,
+      "count": 159,
       "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
-      "count": 87,
-      "pct": 7.2
+      "count": 89,
+      "pct": 7.3
     },
     {
       "name": "DOC HOLD",
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 32,
-      "pct": 2.6
+      "count": 33,
+      "pct": 2.7
     },
     {
       "name": "RESISTING ARREST",
@@ -217,17 +217,17 @@
       "pct": 1.8
     },
     {
-      "name": "OPER VEH W/O IGN INTERLOCK",
+      "name": "CRIM TRESPASS 1ST",
       "count": 20,
-      "pct": 1.7
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 19,
       "pct": 1.6
     },
     {
-      "name": "CRIM TRESPASS 1ST",
+      "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 20,
+      "pct": 1.6
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
       "count": 19,
       "pct": 1.6
     },
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 193,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 66,
-      "pct": 13.5,
+      "count": 67,
+      "pct": 13.7,
       "label": "Kelso Police"
     },
     {
@@ -321,13 +321,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 402,
-      "pct": 33.3
+      "count": 400,
+      "pct": 33
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 338,
-      "pct": 28
+      "count": 341,
+      "pct": 28.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 134,
-      "pct": 11.1
+      "count": 137,
+      "pct": 11.3
     },
     {
       "name": "DOC COURT",
@@ -376,15 +376,15 @@
     },
     {
       "name": "OTHER - OUT OF COUNTY",
-      "count": 5,
-      "pct": 0.4
+      "count": 4,
+      "pct": 0.3
     }
   ],
   "housingUnits": [
     {
       "name": "A",
       "count": 35,
-      "pct": 21.1
+      "pct": 21
     },
     {
       "name": "B",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 21,
-      "pct": 12.7
+      "pct": 12.6
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 20.5
+      "pct": 20.4
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.4
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 510.4
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4750600
+    "totalBond": 4755100
   },
   "chargesPerBooking": 2.5
 }

@@ -1,5 +1,86 @@
 [
   {
+    "id": "128778-20261104013105",
+    "inmateNumber": "128778",
+    "name": "FLOYD, MALLORY ELIZABETH",
+    "bookedAt": "2026-11-04T01:31:05",
+    "location": "INTAKE H2",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 4500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-11-04T01:38:23",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0263333",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-04T01:40:06",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0829038",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-04T01:39:13",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0272705",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-04T01:41:31",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0425546",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-04T01:37:33",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0425547",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-11-04T01:36:59",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0425547",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T02:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "121220-20261103193340",
     "inmateNumber": "121220",
     "name": "HEFLEY, DAKOTA TEDDIE",
@@ -48,28 +129,6 @@
       {
         "description": "MAL MISCH 2ND > $750",
         "offenseDate": "2026-11-03T18:38:34",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "RECKLESS ENDANGERMENT",
-        "offenseDate": "2026-11-03T18:39:06",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "RECKLESS ENDANGERMENT",
-        "offenseDate": "2026-11-03T18:39:06",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -408,8 +467,8 @@
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-03T12:36:54",
         "arrestingAgency": "CCSO",
-        "court": "OTHER - OUT OF COUNTY",
-        "warrantNumber": "202610085706",
+        "court": "CLARK COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610085706",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
