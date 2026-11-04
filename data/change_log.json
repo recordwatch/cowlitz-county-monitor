@@ -13,7 +13,7 @@
         "offenseDate": "2026-11-04T13:38:38",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0426791",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -320,7 +320,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "MAL MISCH 2ND > $750",
