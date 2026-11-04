@@ -4,7 +4,7 @@
     "inmateNumber": "121220",
     "name": "HEFLEY, DAKOTA TEDDIE",
     "bookedAt": "2026-11-03T19:33:40",
-    "location": "INTAKE H8",
+    "location": "E22",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "227826",
     "name": "RAMBERG, JOSHUA KIRK",
     "bookedAt": "2026-11-03T17:44:25",
-    "location": "B23",
+    "location": "A14",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -126,7 +126,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-11-03T17:20:54",
-    "location": "B23",
+    "location": "A11",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -1226,9 +1226,9 @@
         "bondAmount": 2500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-01T17:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T21:35:18",
     "baseline": false
   },
   {
@@ -1550,7 +1550,7 @@
     "inmateNumber": "354738",
     "name": "DRYDEN, NICOLAS DAVID",
     "bookedAt": "2026-10-31T21:14:43",
-    "location": "A15",
+    "location": "A13",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -3430,7 +3430,7 @@
     "inmateNumber": "361319",
     "name": "LINDER, BRANDON ROSS",
     "bookedAt": "2026-10-27T19:31:17",
-    "location": "A14",
+    "location": "A15",
     "arrestingAgency": "CCSO",
     "bondTotal": 25000,
     "charges": [
