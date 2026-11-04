@@ -4,7 +4,7 @@
     "inmateNumber": "359576",
     "name": "CONNER, JOHN LUCKY MICHAEL",
     "bookedAt": "2026-11-04T12:35:58",
-    "location": "1-PENDING BOOKING",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -176,7 +176,7 @@
     "bookedAt": "2026-11-04T01:31:05",
     "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -186,8 +186,8 @@
         "warrantNumber": "5A0263333",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -197,8 +197,8 @@
         "warrantNumber": "5A0829038",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -208,8 +208,8 @@
         "warrantNumber": "6A0272705",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -283,7 +283,7 @@
     "bookedAt": "2026-11-03T17:44:25",
     "location": "A14",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "MAL MISCH 1ST > $5000",
@@ -293,8 +293,8 @@
         "warrantNumber": "2610071708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1500
       },
       {
         "description": "MAL MISCH 2ND > $750",
