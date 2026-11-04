@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T18:35:17",
+  "generatedAt": "2026-11-03T18:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 492,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 158,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 85,
-      "pct": 7.1
+      "count": 86,
+      "pct": 7.2
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 193,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 96,
-      "pct": 19.8,
+      "pct": 19.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 27,
-      "pct": 5.6,
+      "count": 28,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
@@ -322,7 +322,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 397,
-      "pct": 33.1
+      "pct": 33
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -341,8 +341,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 69,
-      "pct": 5.7
+      "count": 70,
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
