@@ -1,5 +1,19 @@
 [
   {
+    "id": "228689-20261103172842",
+    "inmateNumber": "228689",
+    "name": "SKYBERG, HARLEY DONALD",
+    "bookedAt": "2026-11-03T17:28:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T18:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "311762-20261103172054",
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
