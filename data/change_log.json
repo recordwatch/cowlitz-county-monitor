@@ -1,5 +1,19 @@
 [
   {
+    "id": "349733-20261104144147",
+    "inmateNumber": "349733",
+    "name": "BRANON CHESLEY, GABRIELLE VERONICA",
+    "bookedAt": "2026-11-04T14:41:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T15:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "51603-20261104133003",
     "inmateNumber": "51603",
     "name": "DIXON, KEITH RAYMOND",
@@ -57,8 +71,8 @@
         "bondAmount": null
       },
       {
-        "description": "POSS STL PROP 2/>250",
-        "offenseDate": "2026-11-04T12:50:39",
+        "description": "POSSESS ANOTHERS ID",
+        "offenseDate": "2026-11-04T12:51:44",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -68,8 +82,8 @@
         "bondAmount": null
       },
       {
-        "description": "POSSESS ANOTHERS ID",
-        "offenseDate": "2026-11-04T12:51:44",
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-11-04T12:50:39",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -16291,9 +16305,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:15:20",
     "baseline": true
   },
   {
