@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:35:18",
+  "generatedAt": "2026-11-04T10:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 497,
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 98,
-      "pct": 19.9,
+      "count": 99,
+      "pct": 20.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 53,
-      "pct": 10.8,
+      "count": 52,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
       "name": "E",
-      "count": 20,
-      "pct": 12
+      "count": 21,
+      "pct": 12.7
     },
     {
       "name": "F",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 4,
+      "pct": 2.4
     },
     {
       "name": "WSH",

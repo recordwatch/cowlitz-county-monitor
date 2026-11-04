@@ -30,14 +30,14 @@
     "inmateNumber": "285046",
     "name": "BRECHT, JAMIE LYNN",
     "bookedAt": "2026-11-04T07:40:16",
-    "location": "INTAKE H8",
-    "arrestingAgency": "CCCD",
+    "location": "E20",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-04T07:58:17",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2110103408",
         "disposition": null,
@@ -104,7 +104,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0263333",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -148,7 +148,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425547",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -159,7 +159,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425547",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -259,7 +259,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0038869",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -311,7 +311,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "2610059508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -322,7 +322,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0105157",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -333,7 +333,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0325942",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -344,7 +344,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436663",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -355,7 +355,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436663",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -481,7 +481,7 @@
         "court": "DOC COURT",
         "warrantNumber": "86CR223491",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -507,7 +507,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "1A0469234",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -533,7 +533,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2010038608",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -611,7 +611,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0230851",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -622,7 +622,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 5000
       },
@@ -633,7 +633,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -644,7 +644,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -655,7 +655,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0395564",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -20590,7 +20590,7 @@
     "bondTotal": 350000,
     "charges": [
       {
-        "description": "ASSAULT 2 DV",
+        "description": "INTIMIDATING WITNESS",
         "offenseDate": "2025-12-17T13:09:58",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
