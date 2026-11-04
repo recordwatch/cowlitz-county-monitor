@@ -1,5 +1,19 @@
 [
   {
+    "id": "165564-20261104145341",
+    "inmateNumber": "165564",
+    "name": "COGDILL, THOMAS EARL RUDOLPH",
+    "bookedAt": "2026-11-04T14:53:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T15:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "349733-20261104144147",
     "inmateNumber": "349733",
     "name": "BRANON CHESLEY, GABRIELLE VERONICA",
@@ -359,9 +373,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T18:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:35:18",
     "baseline": false
   },
   {
@@ -507,9 +521,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T15:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T15:35:18",
     "baseline": false
   },
   {
@@ -670,13 +684,13 @@
     "name": "GANIS, BRANDON JAMES ANTHONY D",
     "bookedAt": "2026-11-03T11:58:06",
     "location": "B11",
-    "arrestingAgency": "CCSO",
+    "arrestingAgency": "LVPD",
     "bondTotal": 15000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-03T12:36:54",
-        "arrestingAgency": "CCSO",
+        "arrestingAgency": "LVPD",
         "court": "CLARK COUNTY SUPERIOR COURT",
         "warrantNumber": "2610085706",
         "disposition": null,
