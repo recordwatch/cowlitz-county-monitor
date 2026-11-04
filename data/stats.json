@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T12:55:19",
+  "generatedAt": "2026-11-04T13:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 497,
-    "bookingsObserved": 331,
-    "releasesObserved": 333,
+    "bookingsTracked": 498,
+    "bookingsObserved": 332,
+    "releasesObserved": 334,
     "inCustody": 164,
     "uniquePeople": 471
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 4,
-      "released": 6
+      "booked": 5,
+      "released": 7
     }
   ],
   "topCharges": [
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 194,
-      "pct": 39.4,
+      "count": 195,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 99,
-      "pct": 20.1,
+      "pct": 20,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -384,12 +384,12 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.5
+      "pct": 19.6
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 12.2
+      "count": 19,
+      "pct": 11.7
     },
     {
       "name": "C",
@@ -399,12 +399,12 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 21,
-      "pct": 12.8
+      "pct": 12.9
     },
     {
       "name": "F",
@@ -414,17 +414,17 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 20.7
+      "pct": 20.9
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3
+      "pct": 3.1
     },
     {
       "name": "INTAKE",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.5
     },
     {
       "name": "WSH",
@@ -433,7 +433,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 333,
+    "releasedCount": 334,
     "medianDays": 2.1,
     "meanDays": 11.6,
     "buckets": [
@@ -447,7 +447,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 29
+        "count": 30
       },
       {
         "label": "1–4 weeks",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 20.8,
-    "currentLongestDaysHeld": 510.8
+    "currentLongestDaysHeld": 510.9
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 48,
+    "withBond": 115,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4723100
+    "totalBond": 4722600
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.4
 }

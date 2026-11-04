@@ -1,5 +1,19 @@
 [
   {
+    "id": "359576-20261104123558",
+    "inmateNumber": "359576",
+    "name": "CONNER, JOHN LUCKY MICHAEL",
+    "bookedAt": "2026-11-04T12:35:58",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T13:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "92310-20261104081532",
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
@@ -3379,9 +3393,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T15:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T13:15:21",
     "baseline": false
   },
   {
