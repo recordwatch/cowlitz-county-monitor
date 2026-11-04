@@ -4,10 +4,22 @@
     "inmateNumber": "288133",
     "name": "BUNNELL, KAYLUB LEE",
     "bookedAt": "2026-11-03T15:14:03",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-03T15:25:55",
+        "arrestingAgency": "CCCD",
+        "court": "DRUG COURT",
+        "warrantNumber": "2510023008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-03T15:55:16",
     "releasedAt": null,
@@ -82,9 +94,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T14:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-03T16:04:13",
     "baseline": false
   },
   {
@@ -418,7 +430,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0150281",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -429,7 +441,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294733",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -440,7 +452,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294734",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -451,7 +463,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405463",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -462,7 +474,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405463",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
