@@ -1,10 +1,36 @@
 [
   {
+    "id": "92310-20261104081532",
+    "inmateNumber": "92310",
+    "name": "ROBERTSON, AENGUS SAUL",
+    "bookedAt": "2026-11-04T08:15:32",
+    "location": "D25",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-04T08:18:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0418200",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T08:55:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "285046-20261104074016",
     "inmateNumber": "285046",
     "name": "BRECHT, JAMIE LYNN",
     "bookedAt": "2026-11-04T07:40:16",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -183,7 +209,7 @@
         "offenseDate": "2026-11-03T18:37:57",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610071708",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -194,7 +220,7 @@
         "offenseDate": "2026-11-03T18:38:34",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610071708",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -205,7 +231,7 @@
         "offenseDate": "2026-11-03T18:39:06",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610071708",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -354,7 +380,7 @@
         "arrestingAgency": "CCCD",
         "court": "DRUG COURT",
         "warrantNumber": "2510023008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -380,7 +406,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0319786",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -391,7 +417,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0319786",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -402,7 +428,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0319786",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -20473,10 +20499,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0010428",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "MAL MISCH 3RD > $50",
@@ -20484,10 +20510,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0010440",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "MAL MISCH 3RD > $50",
@@ -20495,10 +20521,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0150283",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-04T08:35:20",
+  "generatedAt": "2026-11-04T08:55:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 496,
-    "bookingsObserved": 330,
+    "bookingsTracked": 497,
+    "bookingsObserved": 331,
     "releasesObserved": 330,
-    "inCustody": 166,
+    "inCustody": 167,
     "uniquePeople": 471
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 3,
+      "booked": 4,
       "released": 3
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 84,
-      "pct": 6.9
+      "count": 85,
+      "pct": 7
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 193,
-      "pct": 39.2,
+      "count": 194,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -322,17 +322,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 401,
-      "pct": 33
+      "pct": 32.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 341,
-      "pct": 28
+      "count": 342,
+      "pct": 28.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 149,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20
+      "pct": 19.8
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "D",
-      "count": 11,
-      "pct": 6.7
+      "count": 12,
+      "pct": 7.2
     },
     {
       "name": "E",
       "count": 20,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 20.6
+      "pct": 20.4
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.6
+      "count": 7,
+      "pct": 4.2
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.7
+      "pct": 6.6
     }
   ],
   "stay": {
@@ -462,15 +462,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 20,
+    "currentMedianDaysHeld": 19.9,
     "currentLongestDaysHeld": 510.7
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 119,
     "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4755100
+    "totalBond": 4756100
   },
-  "chargesPerBooking": 2.5
+  "chargesPerBooking": 2.4
 }
