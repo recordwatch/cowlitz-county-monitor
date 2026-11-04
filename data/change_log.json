@@ -1,5 +1,19 @@
 [
   {
+    "id": "311762-20261103172054",
+    "inmateNumber": "311762",
+    "name": "STEWART, JACK HADLEY",
+    "bookedAt": "2026-11-03T17:20:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-03T17:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "123345-20261103163645",
     "inmateNumber": "123345",
     "name": "CARSTEN, BLAKE ALLEN",
