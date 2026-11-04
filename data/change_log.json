@@ -1,5 +1,19 @@
 [
   {
+    "id": "285046-20261104074016",
+    "inmateNumber": "285046",
+    "name": "BRECHT, JAMIE LYNN",
+    "bookedAt": "2026-11-04T07:40:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T08:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361530-20261104024735",
     "inmateNumber": "361530",
     "name": "LOPES, KAYLA JADE",
@@ -238,9 +252,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-03T17:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T08:15:21",
     "baseline": false
   },
   {
