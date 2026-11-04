@@ -3373,10 +3373,10 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0414857",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
