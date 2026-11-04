@@ -4326,7 +4326,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "POSS W/INTENT",
         "offenseDate": "2026-10-26T11:19:29",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
@@ -11991,10 +11991,10 @@
         "arrestingAgency": "LVPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0205592",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "MAKE FALSE STATEMENT",
@@ -12002,7 +12002,7 @@
         "arrestingAgency": "LVPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0205592",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null

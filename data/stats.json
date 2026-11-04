@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:55:17",
+  "generatedAt": "2026-11-04T11:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 497,
@@ -188,7 +188,7 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 48,
+      "count": 47,
       "pct": 3.9
     },
     {
