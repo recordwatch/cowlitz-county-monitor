@@ -1,5 +1,31 @@
 [
   {
+    "id": "51603-20261104133003",
+    "inmateNumber": "51603",
+    "name": "DIXON, KEITH RAYMOND",
+    "bookedAt": "2026-11-04T13:30:03",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-04T13:38:38",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T14:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "359576-20261104123558",
     "inmateNumber": "359576",
     "name": "CONNER, JOHN LUCKY MICHAEL",
@@ -753,7 +779,7 @@
     "bookedAt": "2026-11-03T09:00:49",
     "location": "D12",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 85000,
     "charges": [
       {
         "description": "CYBER HARASSMENT",
@@ -763,8 +789,8 @@
         "warrantNumber": "2610071008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 85000
       }
     ],
     "status": "in_custody",
@@ -16232,25 +16258,14 @@
     "bondTotal": 7500,
     "charges": [
       {
-        "description": "RESIDENTIAL BURGLARY",
+        "description": "CRIMINAL MISCHIEF ARMED DEADLY WEAPON",
         "offenseDate": "2026-09-19T21:23:25",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 7500
-      },
-      {
-        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
-        "offenseDate": "2026-09-19T21:23:57",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610061608",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
         "bondAmount": null
       },
       {
@@ -16259,7 +16274,18 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061608",
-        "disposition": null,
+        "disposition": "Dismissed",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CRIMINAL MISCHIEF ARMED DEADLY WEAPON",
+        "offenseDate": "2026-09-19T21:23:57",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610061608",
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null

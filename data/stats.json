@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T13:55:17",
+  "generatedAt": "2026-11-04T14:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 498,
-    "bookingsObserved": 332,
+    "bookingsTracked": 499,
+    "bookingsObserved": 333,
     "releasesObserved": 334,
-    "inCustody": 164,
-    "uniquePeople": 471
+    "inCustody": 165,
+    "uniquePeople": 472
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 5,
+      "booked": 6,
       "released": 7
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 69,
-      "pct": 5.6
+      "count": 70,
+      "pct": 5.7
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -208,8 +208,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 23,
-      "pct": 1.9
+      "count": 22,
+      "pct": 1.8
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -229,7 +229,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 19,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "ASSAULT 3RD",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 195,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 99,
-      "pct": 20,
+      "count": 100,
+      "pct": 20.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 67,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Kelso Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 22,
-      "pct": 4.5,
+      "pct": 4.4,
       "label": "Washington State Patrol"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 149,
+      "count": 150,
       "pct": 12.2
     },
     {
@@ -352,7 +352,7 @@
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 19,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "DRUG COURT",
@@ -384,17 +384,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.5
+      "pct": 19.4
     },
     {
       "name": "B",
       "count": 19,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "D",
@@ -404,17 +404,17 @@
     {
       "name": "E",
       "count": 21,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "G",
       "count": 34,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.4
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 20.8,
+    "currentMedianDaysHeld": 20.3,
     "currentLongestDaysHeld": 510.9
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 48,
+    "withBond": 118,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4721600
+    "totalBond": 4807600
   },
   "chargesPerBooking": 2.5
 }
