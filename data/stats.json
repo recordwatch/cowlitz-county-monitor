@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:35:22",
+  "generatedAt": "2026-11-04T10:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 497,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 159,
+      "count": 160,
       "pct": 13.1
     },
     {
@@ -254,7 +254,7 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 14,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DWLS 2ND",
@@ -326,8 +326,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 342,
-      "pct": 28.1
+      "count": 344,
+      "pct": 28.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -337,12 +337,12 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 137,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "DOC COURT",
       "count": 70,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -463,14 +463,14 @@
       }
     ],
     "currentMedianDaysHeld": 20.1,
-    "currentLongestDaysHeld": 510.7
+    "currentLongestDaysHeld": 510.8
   },
   "bond": {
     "withBond": 118,
     "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4755100
+    "totalBond": 4733600
   },
-  "chargesPerBooking": 2.4
+  "chargesPerBooking": 2.5
 }

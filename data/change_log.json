@@ -302,7 +302,7 @@
     "bookedAt": "2026-11-03T16:36:45",
     "location": "B12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 5500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -324,7 +324,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 250
       },
       {
         "description": "THEFT 3RD DEG",
@@ -335,7 +335,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 250
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -2633,8 +2633,19 @@
     "bookedAt": "2026-10-29T23:06:33",
     "location": "B10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 4000,
     "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-11-04T10:14:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0179996",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-10-29T23:35:16",
@@ -6772,7 +6783,7 @@
     "bookedAt": "2026-10-20T19:00:09",
     "location": "A20",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2500,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -6793,6 +6804,17 @@
         "warrantNumber": "6A0328047",
         "disposition": null,
         "billingAgency": "LVPD",
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-04T10:12:35",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0399293",
+        "disposition": null,
+        "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -11961,7 +11983,7 @@
     "bookedAt": "2026-10-10T23:20:21",
     "location": "G-G18",
     "arrestingAgency": "LVPD",
-    "bondTotal": 30000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -11991,10 +12013,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0225601",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "CARRY CONCEAL WEAPON",
@@ -12002,7 +12024,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0225601",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -12013,10 +12035,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0259739",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -20477,7 +20499,7 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0735337",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -20488,7 +20510,7 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0870049",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
