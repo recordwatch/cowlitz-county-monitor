@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-04T07:58:17",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2110103408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T08:15:21",
     "releasedAt": null,
@@ -5323,9 +5335,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-23T23:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-04T08:35:20",
     "baseline": false
   },
   {
