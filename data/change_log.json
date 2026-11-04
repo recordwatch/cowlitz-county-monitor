@@ -21,7 +21,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-04T15:13:04",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "231502126",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T15:15:20",
     "releasedAt": null,
