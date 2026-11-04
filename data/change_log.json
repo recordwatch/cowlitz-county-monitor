@@ -95,7 +95,7 @@
     "bookedAt": "2026-11-04T01:31:05",
     "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 4500,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -139,7 +139,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 500
       },
       {
         "description": "DWLS 3RD",
@@ -147,10 +147,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425547",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
@@ -158,10 +158,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0425547",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -258,10 +258,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0038869",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -610,10 +610,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0230851",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "INDECENT EXPOSURE",
@@ -621,10 +621,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "INDECENT EXPOSURE",
@@ -632,7 +632,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -643,7 +643,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0389410",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -654,10 +654,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0395564",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1698,7 +1698,7 @@
     "inmateNumber": "354738",
     "name": "DRYDEN, NICOLAS DAVID",
     "bookedAt": "2026-10-31T21:14:43",
-    "location": "A13",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
