@@ -1,5 +1,19 @@
 [
   {
+    "id": "171833-20261105104643",
+    "inmateNumber": "171833",
+    "name": "ZAYECHEK, KRISTINE SUZANNE",
+    "bookedAt": "2026-11-05T10:46:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T11:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "331933-20261105103813",
     "inmateNumber": "331933",
     "name": "NUGENT RUARK, RIVER EDMOND",
@@ -7,7 +21,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "911",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-05T10:52:03",
+        "arrestingAgency": "911",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "3A0857084",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T11:15:23",
     "releasedAt": null,
@@ -295,10 +321,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0426791",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
