@@ -1719,8 +1719,30 @@
     "bookedAt": "2026-11-02T11:13:15",
     "location": "C22",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 520,
     "charges": [
+      {
+        "description": "INDECENT EXPOSURE",
+        "offenseDate": "2026-11-05T14:19:35",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0145866",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 10
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-05T14:16:18",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0390522",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 10
+      },
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-11-02T12:35:50",
@@ -8113,9 +8135,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T04:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T14:45:22",
     "baseline": false
   },
   {
