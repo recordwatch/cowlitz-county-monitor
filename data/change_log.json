@@ -1,5 +1,31 @@
 [
   {
+    "id": "87601-20261104194325",
+    "inmateNumber": "87601",
+    "name": "DALY, ROY WILLIAM",
+    "bookedAt": "2026-11-04T19:43:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-04T19:46:53",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T20:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "165564-20261104145341",
     "inmateNumber": "165564",
     "name": "COGDILL, THOMAS EARL RUDOLPH",
