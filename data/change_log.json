@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSS STL PROP 2/>250",
+        "offenseDate": "2026-11-05T11:20:49",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610024508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T11:35:20",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "331933",
     "name": "NUGENT RUARK, RIVER EDMOND",
     "bookedAt": "2026-11-05T10:38:13",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "911",
     "bondTotal": null,
     "charges": [
@@ -301,9 +313,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T15:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T11:55:17",
     "baseline": false
   },
   {
