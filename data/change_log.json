@@ -4,7 +4,7 @@
     "inmateNumber": "361585",
     "name": "SMITH, ASHLYNN ROSE",
     "bookedAt": "2026-11-05T13:09:09",
-    "location": "1-PENDING BOOKING",
+    "location": "E22",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -224,7 +224,7 @@
     "bookedAt": "2026-11-05T00:37:04",
     "location": "A26",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "SEXUAL/EXPLOIT MINOR",
@@ -234,8 +234,8 @@
         "warrantNumber": "2610062608",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
         "description": "IMMORAL COMM W/ MINOR",
@@ -333,7 +333,7 @@
     "inmateNumber": "361560",
     "name": "HEMPSTEAD, HEATHER MARIE",
     "bookedAt": "2026-11-04T22:42:41",
-    "location": "E22",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 250,
     "charges": [
@@ -628,7 +628,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2110103408",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
