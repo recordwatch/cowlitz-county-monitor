@@ -1,10 +1,24 @@
 [
   {
+    "id": "152407-20261105115213",
+    "inmateNumber": "152407",
+    "name": "JOHNSON, ERIC ROBERT",
+    "bookedAt": "2026-11-05T11:52:13",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T12:35:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "171833-20261105104643",
     "inmateNumber": "171833",
     "name": "ZAYECHEK, KRISTINE SUZANNE",
     "bookedAt": "2026-11-05T10:46:43",
-    "location": "1-PENDING BOOKING",
+    "location": "E23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
