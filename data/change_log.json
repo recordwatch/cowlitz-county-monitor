@@ -7,7 +7,41 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": null,
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "offenseDate": "2026-11-05T00:48:02",
+        "arrestingAgency": null,
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610062608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "IMMORAL COMM W/ MINOR",
+        "offenseDate": "2026-11-05T00:50:52",
+        "arrestingAgency": null,
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610062608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS DEPICTION MIN/SEX",
+        "offenseDate": "2026-11-05T00:49:40",
+        "arrestingAgency": null,
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610062608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T01:15:31",
     "releasedAt": null,
