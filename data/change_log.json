@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-04T22:54:52",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "NVOL - WITHOUT ID",
@@ -14,6 +14,17 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0438732",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-04T23:05:25",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0438733",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
