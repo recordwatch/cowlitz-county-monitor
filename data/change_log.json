@@ -1,5 +1,19 @@
 [
   {
+    "id": "331933-20261105103813",
+    "inmateNumber": "331933",
+    "name": "NUGENT RUARK, RIVER EDMOND",
+    "bookedAt": "2026-11-05T10:38:13",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "911",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T11:15:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "293155-20261105021739",
     "inmateNumber": "293155",
     "name": "BROOKS, KRYSTAL ANN",
@@ -89,7 +103,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0680246",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -152,7 +166,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0406418",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
@@ -178,7 +192,7 @@
         "court": "DOC COURT",
         "warrantNumber": "111003971",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -2435,7 +2449,7 @@
     "inmateNumber": "34157",
     "name": "LOWDER, EDWARD KENNTH",
     "bookedAt": "2026-10-30T21:05:03",
-    "location": "G-G29",
+    "location": "G-G34",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -8386,7 +8400,7 @@
     "inmateNumber": "157598",
     "name": "SHULER, TREVOR LEE",
     "bookedAt": "2026-10-18T10:13:22",
-    "location": "G-G35",
+    "location": "G-G41",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -18203,7 +18217,7 @@
     "inmateNumber": "5444",
     "name": "ROBERTSON, DAVID ALLEN",
     "bookedAt": "2026-08-17T09:01:29",
-    "location": "G-G34",
+    "location": "G-G25",
     "arrestingAgency": "CCSO",
     "bondTotal": 75000,
     "charges": [
