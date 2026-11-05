@@ -1,5 +1,31 @@
 [
   {
+    "id": "25926-20261104213406",
+    "inmateNumber": "25926",
+    "name": "ERICKSON, DAVID LEE",
+    "bookedAt": "2026-11-04T21:34:06",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-04T21:43:40",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "111003971",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T22:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "87601-20261104194325",
     "inmateNumber": "87601",
     "name": "DALY, ROY WILLIAM",
