@@ -14,7 +14,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610024508",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -146,9 +146,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T01:15:31",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T12:15:22",
     "baseline": false
   },
   {
@@ -339,9 +339,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T14:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T12:15:22",
     "baseline": false
   },
   {
