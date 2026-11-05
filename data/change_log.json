@@ -6,8 +6,75 @@
     "bookedAt": "2026-11-05T11:52:13",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 6500,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-05T12:08:19",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0400378",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-05T12:17:15",
+        "arrestingAgency": "LVPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0891896",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-05T12:14:22",
+        "arrestingAgency": "LVPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0891897",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-05T12:15:42",
+        "arrestingAgency": "LVPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0891897",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-05T12:10:41",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0010083",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-05T12:13:08",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0010083",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T12:35:23",
     "releasedAt": null,
