@@ -4,7 +4,7 @@
     "inmateNumber": "293155",
     "name": "BROOKS, KRYSTAL ANN",
     "bookedAt": "2026-11-05T02:17:39",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -31,13 +31,13 @@
     "name": "MAYER, BRIAN ALLAN",
     "bookedAt": "2026-11-05T00:37:04",
     "location": "A26",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "SEXUAL/EXPLOIT MINOR",
         "offenseDate": "2026-11-05T00:48:02",
-        "arrestingAgency": null,
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610062608",
         "disposition": null,
@@ -48,7 +48,7 @@
       {
         "description": "IMMORAL COMM W/ MINOR",
         "offenseDate": "2026-11-05T00:50:52",
-        "arrestingAgency": null,
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610062608",
         "disposition": null,
@@ -59,7 +59,7 @@
       {
         "description": "POSS DEPICTION MIN/SEX",
         "offenseDate": "2026-11-05T00:49:40",
-        "arrestingAgency": null,
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610062608",
         "disposition": null,

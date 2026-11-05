@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T03:15:21",
+  "generatedAt": "2026-11-05T03:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 508,
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 199,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 101,
-      "pct": 20.1,
+      "count": 102,
+      "pct": 20.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -384,27 +384,27 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12
+      "pct": 11.9
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "E",
       "count": 22,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.8
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -423,13 +423,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.8
+      "count": 4,
+      "pct": 2.4
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.6
+      "pct": 6.5
     }
   ],
   "stay": {
