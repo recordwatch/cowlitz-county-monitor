@@ -1,13 +1,51 @@
 [
   {
+    "id": "361561-20261104225452",
+    "inmateNumber": "361561",
+    "name": "HERNANDEZ ROMAN, HELIAN",
+    "bookedAt": "2026-11-04T22:54:52",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-04T23:04:36",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0438732",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T23:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361560-20261104224241",
     "inmateNumber": "361560",
-    "name": "HEMPSTEAD, HEATHER",
+    "name": "HEMPSTEAD, HEATHER MARIE",
     "bookedAt": "2026-11-04T22:42:41",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "LVPD",
+    "bondTotal": 250,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-11-04T22:47:52",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0406418",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-04T23:15:24",
     "releasedAt": null,

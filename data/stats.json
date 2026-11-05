@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-04T23:15:24",
+  "generatedAt": "2026-11-04T23:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 504,
-    "bookingsObserved": 338,
+    "bookingsTracked": 505,
+    "bookingsObserved": 339,
     "releasesObserved": 339,
-    "inCustody": 165,
-    "uniquePeople": 475
+    "inCustody": 166,
+    "uniquePeople": 476
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-04",
-      "booked": 11,
+      "booked": 12,
       "released": 12
     }
   ],
@@ -237,6 +237,11 @@
       "pct": 1.4
     },
     {
+      "name": "UNLAWFUL CAMPING",
+      "count": 16,
+      "pct": 1.3
+    },
+    {
       "name": "RECKLESS DRIVING",
       "count": 16,
       "pct": 1.3
@@ -252,12 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "UNLAWFUL CAMPING",
-      "count": 15,
-      "pct": 1.2
-    },
-    {
-      "name": "DWLS 2ND",
+      "name": "NVOL - WITHOUT ID",
       "count": 12,
       "pct": 1
     }
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 197,
+      "count": 198,
       "pct": 39.5,
       "label": "Longview Police"
     },
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 67,
-      "pct": 13.4,
+      "count": 68,
+      "pct": 13.6,
       "label": "Kelso Police"
     },
     {
@@ -322,11 +322,11 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 407,
-      "pct": 33.1
+      "pct": 33
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 344,
+      "count": 345,
       "pct": 28
     },
     {
@@ -336,8 +336,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 137,
-      "pct": 11.1
+      "count": 138,
+      "pct": 11.2
     },
     {
       "name": "DOC COURT",
@@ -466,11 +466,11 @@
     "currentLongestDaysHeld": 511.3
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4797600
+    "totalBond": 4797850
   },
   "chargesPerBooking": 2.4
 }
