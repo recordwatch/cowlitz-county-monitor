@@ -1,5 +1,19 @@
 [
   {
+    "id": "60120-20261105144836",
+    "inmateNumber": "60120",
+    "name": "ANDERSON, JEREMIAH JAMES HENRY",
+    "bookedAt": "2026-11-05T14:48:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T15:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "50847-20261105143549",
     "inmateNumber": "50847",
     "name": "COONS, ASHLEY BREANN",
@@ -7,7 +21,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-05T15:03:15",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "4A0140966",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T15:15:19",
     "releasedAt": null,
@@ -648,9 +674,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T08:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T15:35:17",
     "baseline": false
   },
   {
