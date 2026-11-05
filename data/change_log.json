@@ -1,10 +1,24 @@
 [
   {
+    "id": "361560-20261104224241",
+    "inmateNumber": "361560",
+    "name": "HEMPSTEAD, HEATHER",
+    "bookedAt": "2026-11-04T22:42:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-04T23:15:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "25926-20261104213406",
     "inmateNumber": "25926",
     "name": "ERICKSON, DAVID LEE",
     "bookedAt": "2026-11-04T21:34:06",
-    "location": "INTAKE H2",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
