@@ -1,5 +1,19 @@
 [
   {
+    "id": "50847-20261105143549",
+    "inmateNumber": "50847",
+    "name": "COONS, ASHLEY BREANN",
+    "bookedAt": "2026-11-05T14:35:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T15:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361585-20261105130909",
     "inmateNumber": "361585",
     "name": "SMITH, ASHLYNN ROSE",
@@ -349,9 +363,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T23:15:24",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T15:15:19",
     "baseline": false
   },
   {
@@ -14166,7 +14180,7 @@
     "inmateNumber": "170835",
     "name": "COATES, WESLIE ERIC SCOTT",
     "bookedAt": "2026-10-06T14:53:37",
-    "location": "G-G43",
+    "location": "G-G46",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -15225,9 +15239,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T15:15:19",
     "baseline": true
   },
   {
@@ -18874,7 +18888,7 @@
     "inmateNumber": "5783",
     "name": "LENCZOWSKI, KATRINA MARIE",
     "bookedAt": "2026-07-30T18:29:04",
-    "location": "E23",
+    "location": "H-H04",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
