@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T00:56:34",
+  "generatedAt": "2026-11-05T01:15:31",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 505,
-    "bookingsObserved": 339,
+    "bookingsTracked": 507,
+    "bookingsObserved": 341,
     "releasesObserved": 339,
-    "inCustody": 166,
-    "uniquePeople": 476
+    "inCustody": 168,
+    "uniquePeople": 478
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 0,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "NVOL - WITHOUT ID",
+      "name": "DISORDERLY CONDUCT",
       "count": 12,
       "pct": 1
     }
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 198,
-      "pct": 39.5,
+      "count": 199,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 100,
-      "pct": 20,
+      "pct": 19.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 68,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Kelso Police"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 139,
+      "count": 140,
       "pct": 11.3
     },
     {
@@ -384,7 +384,7 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "name": "B",
@@ -404,7 +404,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "F",
@@ -414,7 +414,7 @@
     {
       "name": "G",
       "count": 33,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "H",
@@ -423,8 +423,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.4
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
@@ -462,15 +462,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 20.6,
-    "currentLongestDaysHeld": 511.3
+    "currentMedianDaysHeld": 20.4,
+    "currentLongestDaysHeld": 511.4
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 49,
+    "withBond": 118,
+    "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4798350
+    "totalBond": 4799350
   },
   "chargesPerBooking": 2.4
 }

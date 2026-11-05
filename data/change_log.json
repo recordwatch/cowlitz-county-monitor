@@ -1,5 +1,45 @@
 [
   {
+    "id": "359486-20261105003704",
+    "inmateNumber": "359486",
+    "name": "MAYER, BRIAN ALLAN",
+    "bookedAt": "2026-11-05T00:37:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T01:15:31",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "220303-20261105002435",
+    "inmateNumber": "220303",
+    "name": "KALMBACH, DWAYNE LEROY",
+    "bookedAt": "2026-11-05T00:24:35",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-05T00:26:29",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0680246",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T01:15:31",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361561-20261104225452",
     "inmateNumber": "361561",
     "name": "HERNANDEZ ROMAN, HELIAN",
