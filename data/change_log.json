@@ -4,7 +4,7 @@
     "inmateNumber": "87601",
     "name": "DALY, ROY WILLIAM",
     "bookedAt": "2026-11-04T19:43:25",
-    "location": "INTAKE H2",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -13,7 +13,7 @@
         "offenseDate": "2026-11-04T19:46:53",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0314738",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -82,7 +82,7 @@
     "inmateNumber": "51603",
     "name": "DIXON, KEITH RAYMOND",
     "bookedAt": "2026-11-04T13:30:03",
-    "location": "INTAKE H3",
+    "location": "C11",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
