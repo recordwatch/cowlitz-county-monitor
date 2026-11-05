@@ -4,7 +4,7 @@
     "inmateNumber": "359486",
     "name": "MAYER, BRIAN ALLAN",
     "bookedAt": "2026-11-05T00:37:04",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [
@@ -52,7 +52,7 @@
     "inmateNumber": "220303",
     "name": "KALMBACH, DWAYNE LEROY",
     "bookedAt": "2026-11-05T00:24:35",
-    "location": "INTAKE H3",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -105,9 +105,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T23:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T02:15:19",
     "baseline": false
   },
   {
