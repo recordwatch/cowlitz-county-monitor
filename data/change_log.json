@@ -1,5 +1,64 @@
 [
   {
+    "id": "361585-20261105130909",
+    "inmateNumber": "361585",
+    "name": "SMITH, ASHLYNN ROSE",
+    "bookedAt": "2026-11-05T13:09:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "INTIMIDATING WITNESS",
+        "offenseDate": "2026-11-05T13:11:30",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ELECTRONIC DATA THEFT",
+        "offenseDate": "2026-11-05T13:12:29",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "SELL/GIVE TOBACCO TO MINOR",
+        "offenseDate": "2026-11-05T13:13:22",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "WITNESS TAMPERING",
+        "offenseDate": "2026-11-05T13:11:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T13:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "152407-20261105115213",
     "inmateNumber": "152407",
     "name": "JOHNSON, ERIC ROBERT",
@@ -284,10 +343,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0406418",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -8037,10 +8096,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401412",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": null
       },
       {
         "description": "DISORDERLY CONDUCT",
@@ -8048,7 +8107,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401412",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -15138,10 +15197,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0416159",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
