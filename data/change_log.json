@@ -88,10 +88,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0680246",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2896,7 +2896,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2610029608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3296,7 +3296,7 @@
         "arrestingAgency": "WDPD",
         "court": "DOC COURT",
         "warrantNumber": "2510183806",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3869,7 +3869,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2210086108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
