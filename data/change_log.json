@@ -491,7 +491,7 @@
     "bookedAt": "2026-11-04T12:35:58",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "BURGLARY 1ST",
@@ -501,8 +501,8 @@
         "warrantNumber": "2610071808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 25000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -567,7 +567,7 @@
         "warrantNumber": "2610071908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -592,7 +592,7 @@
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
     "bookedAt": "2026-11-04T08:15:32",
-    "location": "D23",
+    "location": "D14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -3478,7 +3478,7 @@
     "inmateNumber": "97369",
     "name": "WILLIAMS, TORI ANN",
     "bookedAt": "2026-10-29T13:51:05",
-    "location": "D14",
+    "location": "D13",
     "arrestingAgency": "WDPD",
     "bondTotal": 2000,
     "charges": [
@@ -8064,7 +8064,7 @@
     "inmateNumber": "23971",
     "name": "WEBB, JOSEPH WAYLON",
     "bookedAt": "2026-10-19T04:03:06",
-    "location": "D13",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
