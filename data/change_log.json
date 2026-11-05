@@ -1,5 +1,19 @@
 [
   {
+    "id": "293155-20261105021739",
+    "inmateNumber": "293155",
+    "name": "BROOKS, KRYSTAL ANN",
+    "bookedAt": "2026-11-05T02:17:39",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T02:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "359486-20261105003704",
     "inmateNumber": "359486",
     "name": "MAYER, BRIAN ALLAN",
