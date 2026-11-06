@@ -728,7 +728,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -739,7 +739,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -750,7 +750,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -761,7 +761,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -779,7 +779,7 @@
     "bookedAt": "2026-11-05T11:52:13",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2500,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -787,7 +787,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0400378",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -834,7 +834,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": 2000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -1397,7 +1397,7 @@
     "bookedAt": "2026-11-04T01:31:05",
     "location": "INTAKE H5",
     "arrestingAgency": "KEPD",
-    "bondTotal": 500,
+    "bondTotal": 1250,
     "charges": [
       {
         "description": "CRIM TRESPASS 1ST",
@@ -1405,7 +1405,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0263333",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1416,7 +1416,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0829038",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1429,8 +1429,8 @@
         "warrantNumber": "6A0272705",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 750
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -1602,7 +1602,7 @@
     "inmateNumber": "123345",
     "name": "CARSTEN, BLAKE ALLEN",
     "bookedAt": "2026-11-03T16:36:45",
-    "location": "B12",
+    "location": "B10",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -9944,15 +9944,26 @@
     "bondTotal": 1000,
     "charges": [
       {
+        "description": "MALICIOUS MISCHIEF-3 PHYSICAL DMAGE",
+        "offenseDate": "2026-11-06T13:21:08",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0286668",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-10-16T16:20:30",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395412",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

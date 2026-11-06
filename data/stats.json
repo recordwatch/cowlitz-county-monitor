@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:35:19",
+  "generatedAt": "2026-11-06T13:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 531,
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 358,
+      "count": 359,
       "pct": 27.7
     },
     {
@@ -373,7 +373,7 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 11,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -476,7 +476,7 @@
     "noBond": 52,
     "medianBond": 6000,
     "maxBond": 500000,
-    "totalBond": 4513000
+    "totalBond": 4514250
   },
   "chargesPerBooking": 2.4
 }
