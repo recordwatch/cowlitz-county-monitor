@@ -221,7 +221,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
-        "disposition": null,
+        "disposition": "Declined",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -232,7 +232,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
-        "disposition": null,
+        "disposition": "Declined",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -243,7 +243,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
-        "disposition": null,
+        "disposition": "Declined",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
