@@ -1,5 +1,19 @@
 [
   {
+    "id": "53706-20261106001955",
+    "inmateNumber": "53706",
+    "name": "CABRERA HERNANDEZ, JOSE DEL PILAR",
+    "bookedAt": "2026-11-06T00:19:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T00:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "28955-20261105213525",
     "inmateNumber": "28955",
     "name": "REEVES, TIMOTHY HAROLD",
