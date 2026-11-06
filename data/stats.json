@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T20:55:17",
+  "generatedAt": "2026-11-05T21:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 519,
-    "bookingsObserved": 353,
+    "bookingsTracked": 520,
+    "bookingsObserved": 354,
     "releasesObserved": 355,
-    "inCustody": 164,
-    "uniquePeople": 489
+    "inCustody": 165,
+    "uniquePeople": 490
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 14,
+      "booked": 15,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 168,
+      "count": 169,
       "pct": 13.3
     },
     {
@@ -272,7 +272,7 @@
     {
       "name": "CCSO",
       "count": 105,
-      "pct": 20.4,
+      "pct": 20.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 15,
-      "pct": 2.9,
+      "count": 16,
+      "pct": 3.1,
       "label": "Woodland Police"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 157,
-      "pct": 12.4
+      "count": 158,
+      "pct": 12.5
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 36,
-      "pct": 22
+      "pct": 21.8
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "D",
@@ -409,23 +409,23 @@
     },
     {
       "name": "E",
-      "count": 19,
-      "pct": 11.6
+      "count": 20,
+      "pct": 12.1
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "G",
       "count": 29,
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "INTAKE",
@@ -473,7 +473,7 @@
   },
   "bond": {
     "withBond": 111,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 6500,
     "maxBond": 500000,
     "totalBond": 4889000

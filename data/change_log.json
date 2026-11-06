@@ -1,5 +1,31 @@
 [
   {
+    "id": "82453-20261105203031",
+    "inmateNumber": "82453",
+    "name": "SCHOLL, SHANNON MARIE",
+    "bookedAt": "2026-11-05T20:30:31",
+    "location": "E13",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-05T20:33:10",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0851597",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T21:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358076-20261105183903",
     "inmateNumber": "358076",
     "name": "NOELKER, JEFFREY SCOTT",
