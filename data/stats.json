@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:15:20",
+  "generatedAt": "2026-11-06T12:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 531,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 172,
-      "pct": 13.3
+      "count": 173,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 165,
+      "count": 166,
       "pct": 12.8
     },
     {
@@ -476,7 +476,7 @@
     "noBond": 52,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4521000
+    "totalBond": 4520000
   },
   "chargesPerBooking": 2.4
 }

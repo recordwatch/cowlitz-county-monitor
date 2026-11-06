@@ -51,7 +51,7 @@
         "arrestingAgency": "CCCD",
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "6A0016533",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -95,7 +95,7 @@
     "bookedAt": "2026-11-06T03:33:16",
     "location": "A14",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
@@ -103,10 +103,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0341238",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -4524,6 +4524,17 @@
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-06T11:46:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00725252",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
