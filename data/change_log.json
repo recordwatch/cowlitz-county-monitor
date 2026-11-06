@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-05T18:39:03",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DUI",
@@ -16,8 +16,8 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -2003,9 +2003,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T11:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T20:15:20",
     "baseline": false
   },
   {
