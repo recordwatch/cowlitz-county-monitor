@@ -30,7 +30,7 @@
     "inmateNumber": "50847",
     "name": "COONS, ASHLEY BREANN",
     "bookedAt": "2026-11-05T14:35:49",
-    "location": "1-PENDING BOOKING",
+    "location": "E10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -3701,9 +3701,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T11:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T16:55:18",
     "baseline": false
   },
   {
