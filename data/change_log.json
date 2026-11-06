@@ -1,5 +1,19 @@
 [
   {
+    "id": "24374-20261106033316",
+    "inmateNumber": "24374",
+    "name": "WORSKE, JACOB MICHAEL",
+    "bookedAt": "2026-11-06T03:33:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T04:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "323632-20261106012118",
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
