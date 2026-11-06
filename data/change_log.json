@@ -194,22 +194,22 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "FELONY HARASSMENT",
-        "offenseDate": "2026-11-05T21:40:47",
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-05T21:40:01",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2410093408",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "CONTEMPT OF COURT",
-        "offenseDate": "2026-11-05T21:40:01",
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-11-05T21:40:47",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2410093408",
+        "warrantNumber": "2610072208",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -623,17 +623,6 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "INTIMIDATING WITNESS",
-        "offenseDate": "2026-11-05T13:11:30",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
         "description": "ELECTRONIC DATA THEFT",
         "offenseDate": "2026-11-05T13:12:29",
         "arrestingAgency": "CCSO",
@@ -664,6 +653,17 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "INTIMIDATING WITNESS",
+        "offenseDate": "2026-11-05T13:11:30",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610072308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
