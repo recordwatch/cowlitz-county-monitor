@@ -1,5 +1,19 @@
 [
   {
+    "id": "153611-20261105211500",
+    "inmateNumber": "153611",
+    "name": "ELLSWORTH, JAMIE LYNN",
+    "bookedAt": "2026-11-05T21:15:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T21:55:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "24625-20261105205854",
     "inmateNumber": "24625",
     "name": "HELGERSON, KERRY STEVEN",
@@ -7,7 +21,52 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-05T21:14:54",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510085208",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-05T21:15:41",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610035508",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "FIREARM POSSESSION UNLAWFUL-2",
+        "offenseDate": "2026-11-05T21:16:20",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610035508",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-05T21:16:49",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610050208",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T21:35:19",
     "releasedAt": null,
@@ -75,7 +134,7 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "IDENTITY THEFT 1ST DEGREE",
+        "description": "THEFT 1ST DEGREE > $5000",
         "offenseDate": "2026-11-05T18:21:05",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
