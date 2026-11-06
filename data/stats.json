@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T17:35:17",
+  "generatedAt": "2026-11-05T17:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 515,
-    "bookingsObserved": 349,
-    "releasesObserved": 352,
+    "bookingsTracked": 516,
+    "bookingsObserved": 350,
+    "releasesObserved": 353,
     "inCustody": 163,
-    "uniquePeople": 486
+    "uniquePeople": 487
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 10,
-      "released": 13
+      "booked": 11,
+      "released": 14
     }
   ],
   "topCharges": [
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 103,
-      "pct": 20.2,
+      "count": 104,
+      "pct": 20.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 55,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20.4
+      "pct": 20.5
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 12.3
+      "pct": 12.4
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12.3
+      "pct": 12.4
     },
     {
       "name": "D",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 19,
-      "pct": 11.7
+      "pct": 11.8
     },
     {
       "name": "F",
-      "count": 8,
-      "pct": 4.9
+      "count": 7,
+      "pct": 4.3
     },
     {
       "name": "G",
       "count": 30,
-      "pct": 18.5
+      "pct": 18.6
     },
     {
       "name": "H",
@@ -439,7 +439,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 352,
+    "releasedCount": 353,
     "medianDays": 2.1,
     "meanDays": 11.5,
     "buckets": [
@@ -453,7 +453,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 31
+        "count": 32
       },
       {
         "label": "1–4 weeks",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 512
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 52,
-    "medianBond": 6500,
+    "withBond": 110,
+    "noBond": 53,
+    "medianBond": 6750,
     "maxBond": 500000,
-    "totalBond": 4887620
+    "totalBond": 4887520
   },
   "chargesPerBooking": 2.4
 }

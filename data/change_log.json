@@ -1,5 +1,19 @@
 [
   {
+    "id": "132204-20261105170548",
+    "inmateNumber": "132204",
+    "name": "STAMEY, BRIAN EDWARD",
+    "bookedAt": "2026-11-05T17:05:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T17:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361599-20261105164615",
     "inmateNumber": "361599",
     "name": "KOCH, KEVIN MICHAEL",
@@ -2897,9 +2911,9 @@
         "bondAmount": 100
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T18:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-05T17:55:16",
     "baseline": false
   },
   {
