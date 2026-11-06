@@ -1,5 +1,19 @@
 [
   {
+    "id": "361599-20261105164615",
+    "inmateNumber": "361599",
+    "name": "KOCH, KEVIN MICHAEL",
+    "bookedAt": "2026-11-05T16:46:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T17:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "60120-20261105144836",
     "inmateNumber": "60120",
     "name": "ANDERSON, JEREMIAH JAMES HENRY",
