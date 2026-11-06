@@ -1,13 +1,62 @@
 [
   {
+    "id": "28955-20261105213525",
+    "inmateNumber": "28955",
+    "name": "REEVES, TIMOTHY HAROLD",
+    "bookedAt": "2026-11-05T21:35:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-11-05T21:40:47",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-05T21:40:01",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2410093408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T22:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "153611-20261105211500",
     "inmateNumber": "153611",
     "name": "ELLSWORTH, JAMIE LYNN",
     "bookedAt": "2026-11-05T21:15:00",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "INTAKE H3",
+    "arrestingAgency": "CRPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "COERCION",
+        "offenseDate": "2026-11-05T21:27:43",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339698",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T21:55:20",
     "releasedAt": null,
@@ -18,7 +67,7 @@
     "inmateNumber": "24625",
     "name": "HELGERSON, KERRY STEVEN",
     "bookedAt": "2026-11-05T20:58:54",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
