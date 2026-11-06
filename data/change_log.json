@@ -4,7 +4,7 @@
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
     "bookedAt": "2026-11-06T10:05:43",
-    "location": "B22",
+    "location": "B12",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "354870",
     "name": "LARUE, JESSIE LEE",
     "bookedAt": "2026-11-06T09:19:36",
-    "location": "INTAKE H1",
+    "location": "B25",
     "arrestingAgency": "CCCD",
     "bondTotal": 1000,
     "charges": [
@@ -779,7 +779,7 @@
     "bookedAt": "2026-11-05T11:52:13",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": 6500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -801,7 +801,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 500
       },
       {
         "description": "DWLS 3RD",
@@ -812,7 +812,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 500
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
