@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:15:19",
+  "generatedAt": "2026-11-06T10:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 530,
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 92,
-      "pct": 7.1
+      "count": 93,
+      "pct": 7.2
     },
     {
       "name": "DOC HOLD",
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 357,
+      "count": 358,
       "pct": 27.7
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 512.7
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 55,
+    "withBond": 111,
+    "noBond": 54,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4516000
+    "totalBond": 4515000
   },
   "chargesPerBooking": 2.4
 }

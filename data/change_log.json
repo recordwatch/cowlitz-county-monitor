@@ -180,7 +180,7 @@
     "bookedAt": "2026-11-06T00:19:55",
     "location": "C11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -203,6 +203,17 @@
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-06T09:54:59",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0276331",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -402,7 +413,7 @@
     "bookedAt": "2026-11-05T18:39:03",
     "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DUI",
@@ -423,8 +434,8 @@
         "warrantNumber": "6A0323860",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "HIT & RUN",
@@ -434,8 +445,8 @@
         "warrantNumber": "6A0323860",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
