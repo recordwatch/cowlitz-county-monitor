@@ -1978,7 +1978,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 2ND",
@@ -1989,7 +1989,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 2ND",
