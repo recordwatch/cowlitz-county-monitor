@@ -1,5 +1,31 @@
 [
   {
+    "id": "41042-20261106082513",
+    "inmateNumber": "41042",
+    "name": "DAVIS, DANIEL ALAN",
+    "bookedAt": "2026-11-06T08:25:13",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-06T08:32:16",
+        "arrestingAgency": "LVPD",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2510078408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T09:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "24374-20261106033316",
     "inmateNumber": "24374",
     "name": "WORSKE, JACOB MICHAEL",
@@ -623,11 +649,22 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "INTIMIDATING WITNESS",
+        "offenseDate": "2026-11-05T13:11:30",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610072308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "ELECTRONIC DATA THEFT",
         "offenseDate": "2026-11-05T13:12:29",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610072308",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -638,7 +675,7 @@
         "offenseDate": "2026-11-05T13:13:22",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610072308",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -649,21 +686,10 @@
         "offenseDate": "2026-11-05T13:11:59",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "INTIMIDATING WITNESS",
-        "offenseDate": "2026-11-05T13:11:30",
-        "arrestingAgency": "CCSO",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -6044,7 +6070,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "G-G40",
+    "location": "G-G45",
     "arrestingAgency": "CCSO",
     "bondTotal": 30000,
     "charges": [
