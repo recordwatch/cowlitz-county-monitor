@@ -1,5 +1,31 @@
 [
   {
+    "id": "19871-20261106100543",
+    "inmateNumber": "19871",
+    "name": "IBSEN, TONY ALLEN",
+    "bookedAt": "2026-11-06T10:05:43",
+    "location": "B22",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PROB/PAROLE VIOL",
+        "offenseDate": "2026-11-06T10:22:01",
+        "arrestingAgency": "DOC",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2310089108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T10:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "354870-20261106091936",
     "inmateNumber": "354870",
     "name": "LARUE, JESSIE LEE",
@@ -106,7 +132,7 @@
     "bookedAt": "2026-11-06T01:21:18",
     "location": "INTAKE H3",
     "arrestingAgency": "CRPD",
-    "bondTotal": null,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "DUI",
@@ -116,8 +142,8 @@
         "warrantNumber": "6A0396111",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "DWLS 1ST",
@@ -162,10 +188,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0433111",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -421,10 +447,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0323860",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -432,7 +458,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0323860",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -443,7 +469,7 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0323860",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -454,10 +480,10 @@
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0323861",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -874,9 +900,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T11:15:23",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T10:55:19",
     "baseline": false
   },
   {

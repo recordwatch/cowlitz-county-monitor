@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T10:35:18",
+  "generatedAt": "2026-11-06T10:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 530,
-    "bookingsObserved": 364,
-    "releasesObserved": 365,
+    "bookingsTracked": 531,
+    "bookingsObserved": 365,
+    "releasesObserved": 366,
     "inCustody": 165,
-    "uniquePeople": 500
+    "uniquePeople": 501
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-06",
-      "booked": 7,
-      "released": 10
+      "booked": 8,
+      "released": 11
     }
   ],
   "topCharges": [
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 206,
-      "pct": 39.2,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 105,
-      "pct": 20,
+      "pct": 19.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 31,
-      "pct": 5.9,
+      "count": 32,
+      "pct": 6.1,
       "label": "Dept. of Corrections"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 15,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Castle Rock Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 426,
+      "count": 427,
       "pct": 33
     },
     {
@@ -348,7 +348,7 @@
     {
       "name": "DOC COURT",
       "count": 73,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -389,13 +389,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 37,
-      "pct": 22.4
+      "count": 36,
+      "pct": 21.8
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 11.5
+      "count": 20,
+      "pct": 12.1
     },
     {
       "name": "C",
@@ -439,7 +439,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 365,
+    "releasedCount": 366,
     "medianDays": 2.2,
     "meanDays": 13.9,
     "buckets": [
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 86
+        "count": 87
       },
       {
         "label": "3–7 days",
@@ -469,14 +469,14 @@
       }
     ],
     "currentMedianDaysHeld": 19,
-    "currentLongestDaysHeld": 512.7
+    "currentLongestDaysHeld": 512.8
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 54,
+    "withBond": 112,
+    "noBond": 53,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4515000
+    "totalBond": 4525000
   },
   "chargesPerBooking": 2.4
 }
