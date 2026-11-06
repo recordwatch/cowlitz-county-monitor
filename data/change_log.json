@@ -1,5 +1,19 @@
 [
   {
+    "id": "24625-20261105205854",
+    "inmateNumber": "24625",
+    "name": "HELGERSON, KERRY STEVEN",
+    "bookedAt": "2026-11-05T20:58:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T21:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "82453-20261105203031",
     "inmateNumber": "82453",
     "name": "SCHOLL, SHANNON MARIE",
