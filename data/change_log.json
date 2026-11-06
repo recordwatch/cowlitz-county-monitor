@@ -67,7 +67,7 @@
     "inmateNumber": "24625",
     "name": "HELGERSON, KERRY STEVEN",
     "bookedAt": "2026-11-05T20:58:54",
-    "location": "INTAKE H3",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -154,14 +154,47 @@
     "bookedAt": "2026-11-05T18:39:03",
     "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "DUI",
         "offenseDate": "2026-11-05T18:41:28",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0323860",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-05T21:51:00",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0323860",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-05T21:52:42",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0323860",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-05T21:54:07",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0323861",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",

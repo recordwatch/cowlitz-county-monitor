@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:15:19",
+  "generatedAt": "2026-11-05T22:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 523,
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 169,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "DWLS 3RD",
-      "count": 91,
-      "pct": 7.1
+      "count": 92,
+      "pct": 7.2
     },
     {
       "name": "DOC HOLD",
       "count": 90,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -222,14 +222,14 @@
       "pct": 1.7
     },
     {
-      "name": "CRIM TRESPASS 1ST",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 20,
       "pct": 1.6
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 19,
-      "pct": 1.5
+      "name": "CRIM TRESPASS 1ST",
+      "count": 20,
+      "pct": 1.6
     },
     {
       "name": "FELONY HARASSMENT",
@@ -328,22 +328,22 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 426,
-      "pct": 33.4
+      "pct": 33.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 354,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 159,
-      "pct": 12.5
+      "count": 162,
+      "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 141,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "DOC COURT",
@@ -476,7 +476,7 @@
     "noBond": 56,
     "medianBond": 5750,
     "maxBond": 500000,
-    "totalBond": 4890000
+    "totalBond": 4892500
   },
   "chargesPerBooking": 2.4
 }
