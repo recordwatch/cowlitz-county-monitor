@@ -1,13 +1,84 @@
 [
   {
+    "id": "142142-20261105181910",
+    "inmateNumber": "142142",
+    "name": "DIEFEL, THOMAS WILLIAM",
+    "bookedAt": "2026-11-05T18:19:10",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "IDENTITY THEFT 1ST DEGREE",
+        "offenseDate": "2026-11-05T18:21:05",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-11-05T18:21:05",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICLE PROWL 1ST",
+        "offenseDate": "2026-11-05T18:21:05",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-05T18:20:17",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0347367",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T18:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361600-20261105173339",
     "inmateNumber": "361600",
     "name": "RAMIREZ, GUSTAVO ZARATE",
     "bookedAt": "2026-11-05T17:33:39",
     "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-05T17:35:12",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0347375",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-05T18:15:18",
     "releasedAt": null,
@@ -55,7 +126,7 @@
     "inmateNumber": "361599",
     "name": "KOCH, KEVIN MICHAEL",
     "bookedAt": "2026-11-05T16:46:15",
-    "location": "INTAKE H3",
+    "location": "A14",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -63,7 +134,7 @@
         "description": "DOC HOLD",
         "offenseDate": "2026-11-05T17:36:37",
         "arrestingAgency": "DOC",
-        "court": "DOC COURT",
+        "court": "STATE WORK RELEASE",
         "warrantNumber": "161002694",
         "disposition": null,
         "billingAgency": null,
@@ -8751,7 +8822,7 @@
     "inmateNumber": "157598",
     "name": "SHULER, TREVOR LEE",
     "bookedAt": "2026-10-18T10:13:22",
-    "location": "G-G41",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
