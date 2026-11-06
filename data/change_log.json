@@ -1,5 +1,31 @@
 [
   {
+    "id": "358076-20261105183903",
+    "inmateNumber": "358076",
+    "name": "NOELKER, JEFFREY SCOTT",
+    "bookedAt": "2026-11-05T18:39:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-05T18:41:28",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-05T19:08:47",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "142142-20261105181910",
     "inmateNumber": "142142",
     "name": "DIEFEL, THOMAS WILLIAM",
@@ -1319,7 +1345,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
