@@ -89,7 +89,7 @@
     "inmateNumber": "361600",
     "name": "RAMIREZ, GUSTAVO ZARATE",
     "bookedAt": "2026-11-05T17:33:39",
-    "location": "INTAKE H3",
+    "location": "A10",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -115,7 +115,7 @@
     "inmateNumber": "132204",
     "name": "STAMEY, BRIAN EDWARD",
     "bookedAt": "2026-11-05T17:05:48",
-    "location": "INTAKE H3",
+    "location": "A13",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
