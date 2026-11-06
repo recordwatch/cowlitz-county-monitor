@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:15:18",
+  "generatedAt": "2026-11-05T18:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 517,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 166,
+      "count": 167,
       "pct": 13.2
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 200,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 104,
-      "pct": 20.3,
+      "count": 105,
+      "pct": 20.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 31,
-      "pct": 6.1,
+      "pct": 6,
       "label": "Dept. of Corrections"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 154,
-      "pct": 12.2
+      "count": 155,
+      "pct": 12.3
     },
     {
       "name": "KELSO MUNICIPAL COURT",

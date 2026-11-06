@@ -5,7 +5,7 @@
     "name": "RAMIREZ, GUSTAVO ZARATE",
     "bookedAt": "2026-11-05T17:33:39",
     "location": "INTAKE H3",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -31,6 +31,17 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-05T17:45:06",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00173570",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
         "bondAmount": null
       }
     ],
