@@ -4,10 +4,22 @@
     "inmateNumber": "342600",
     "name": "DURHAM, JOSHUA CLAY",
     "bookedAt": "2026-11-06T00:26:38",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-06T01:07:00",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0433111",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T01:15:21",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "53706",
     "name": "CABRERA HERNANDEZ, JOSE DEL PILAR",
     "bookedAt": "2026-11-06T00:19:55",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [

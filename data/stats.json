@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:15:21",
+  "generatedAt": "2026-11-06T01:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 526,
@@ -183,7 +183,7 @@
     },
     {
       "name": "DUI",
-      "count": 74,
+      "count": 75,
       "pct": 5.8
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 25,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -333,7 +333,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 356,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 141,
-      "pct": 11
+      "count": 142,
+      "pct": 11.1
     },
     {
       "name": "DOC COURT",
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 37,
-      "pct": 21.9
+      "pct": 21.6
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "E",
       "count": 20,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "F",
@@ -420,22 +420,22 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 17.2
+      "pct": 17
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "INTAKE",
-      "count": 8,
-      "pct": 4.7
+      "count": 10,
+      "pct": 5.8
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.5
+      "pct": 6.4
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 512.4
   },
   "bond": {
-    "withBond": 112,
-    "noBond": 59,
-    "medianBond": 5750,
+    "withBond": 113,
+    "noBond": 58,
+    "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4892500
+    "totalBond": 4893500
   },
   "chargesPerBooking": 2.4
 }
