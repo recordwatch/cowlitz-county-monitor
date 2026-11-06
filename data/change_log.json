@@ -4,10 +4,44 @@
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
     "bookedAt": "2026-11-06T01:21:18",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-06T01:35:19",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-11-06T01:36:07",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-06T01:37:02",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T01:55:19",
     "releasedAt": null,
