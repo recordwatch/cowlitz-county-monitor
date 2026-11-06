@@ -1,5 +1,19 @@
 [
   {
+    "id": "354870-20261106091936",
+    "inmateNumber": "354870",
+    "name": "LARUE, JESSIE LEE",
+    "bookedAt": "2026-11-06T09:19:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T09:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "41042-20261106082513",
     "inmateNumber": "41042",
     "name": "DAVIS, DANIEL ALAN",
@@ -560,9 +574,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T17:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T09:55:18",
     "baseline": false
   },
   {
@@ -5587,9 +5601,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T11:56:07",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T09:55:18",
     "baseline": false
   },
   {
@@ -19010,9 +19024,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T09:55:18",
     "baseline": true
   },
   {
