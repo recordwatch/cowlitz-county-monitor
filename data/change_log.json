@@ -1,5 +1,19 @@
 [
   {
+    "id": "323632-20261106012118",
+    "inmateNumber": "323632",
+    "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
+    "bookedAt": "2026-11-06T01:21:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T01:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "342600-20261106002638",
     "inmateNumber": "342600",
     "name": "DURHAM, JOSHUA CLAY",
@@ -30,7 +44,7 @@
     "inmateNumber": "53706",
     "name": "CABRERA HERNANDEZ, JOSE DEL PILAR",
     "bookedAt": "2026-11-06T00:19:55",
-    "location": "INTAKE H3",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
