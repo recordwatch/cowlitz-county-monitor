@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:55:18",
+  "generatedAt": "2026-11-06T10:13:00",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 530,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 171,
+      "count": 172,
       "pct": 13.3
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 90,
+      "count": 91,
       "pct": 7
     },
     {
@@ -224,12 +224,12 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 20,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 20,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "FELONY HARASSMENT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 142,
-      "pct": 11
+      "count": 143,
+      "pct": 11.1
     },
     {
       "name": "DOC COURT",
@@ -366,12 +366,12 @@
       "pct": 1
     },
     {
-      "name": "MENTAL HEALTH COURT",
-      "count": 11,
+      "name": "DOC CONTRACT COURT",
+      "count": 12,
       "pct": 0.9
     },
     {
-      "name": "DOC CONTRACT COURT",
+      "name": "MENTAL HEALTH COURT",
       "count": 11,
       "pct": 0.9
     },
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 37,
-      "pct": 22.7
+      "pct": 22.4
     },
     {
       "name": "B",
       "count": 19,
-      "pct": 11.7
+      "pct": 11.5
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "D",
@@ -410,27 +410,27 @@
     {
       "name": "E",
       "count": 21,
-      "pct": 12.9
+      "pct": 12.7
     },
     {
       "name": "F",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 17.2
+      "pct": 17
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4.3
+      "count": 9,
+      "pct": 5.5
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 512.7
   },
   "bond": {
-    "withBond": 109,
-    "noBond": 56,
+    "withBond": 110,
+    "noBond": 55,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4515000
+    "totalBond": 4516000
   },
   "chargesPerBooking": 2.4
 }

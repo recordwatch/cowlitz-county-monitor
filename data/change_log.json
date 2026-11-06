@@ -4,10 +4,33 @@
     "inmateNumber": "354870",
     "name": "LARUE, JESSIE LEE",
     "bookedAt": "2026-11-06T09:19:36",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "CCCD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-06T09:38:21",
+        "arrestingAgency": "CCCD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0016533",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-06T09:39:26",
+        "arrestingAgency": "CCCD",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "6A0016533",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T09:55:18",
     "releasedAt": null,
@@ -18,7 +41,7 @@
     "inmateNumber": "41042",
     "name": "DAVIS, DANIEL ALAN",
     "bookedAt": "2026-11-06T08:25:13",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
