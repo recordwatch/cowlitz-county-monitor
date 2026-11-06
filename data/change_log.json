@@ -130,7 +130,7 @@
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
     "bookedAt": "2026-11-06T01:21:18",
-    "location": "INTAKE H3",
+    "location": "A11",
     "arrestingAgency": "CRPD",
     "bondTotal": 10000,
     "charges": [
@@ -254,7 +254,7 @@
     "bookedAt": "2026-11-06T00:06:49",
     "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "DUI",
@@ -264,8 +264,8 @@
         "warrantNumber": "6A0436065",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -289,7 +289,7 @@
     "inmateNumber": "28955",
     "name": "REEVES, TIMOTHY HAROLD",
     "bookedAt": "2026-11-05T21:35:25",
-    "location": "INTAKE H8",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 30000,
     "charges": [
@@ -655,7 +655,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0720318",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -681,7 +681,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0140966",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -692,7 +692,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0289881",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -703,7 +703,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0289881",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -14860,10 +14860,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423253",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
