@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T03:55:17",
+  "generatedAt": "2026-11-07T04:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 538,
-    "bookingsObserved": 372,
+    "bookingsTracked": 539,
+    "bookingsObserved": 373,
     "releasesObserved": 378,
-    "inCustody": 160,
-    "uniquePeople": 508
+    "inCustody": 161,
+    "uniquePeople": 509
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 3,
+      "booked": 4,
       "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 174,
-      "pct": 13.3
+      "count": 175,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 79,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 210,
-      "pct": 39.3,
+      "count": 211,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 106,
-      "pct": 19.9,
+      "pct": 19.8,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 365,
+      "count": 366,
       "pct": 28
     },
     {
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 21.2,
     "currentLongestDaysHeld": 513.5
   },
   "bond": {
-    "withBond": 109,
+    "withBond": 110,
     "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4542250
+    "totalBond": 4543250
   },
   "chargesPerBooking": 2.4
 }
