@@ -141,7 +141,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": 10000
       },
@@ -152,7 +152,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -163,7 +163,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -215,7 +215,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0000927",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       },
@@ -226,7 +226,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0000927",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
       },
@@ -237,7 +237,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0276331",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -279,9 +279,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T01:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T16:15:23",
     "baseline": false
   },
   {
@@ -767,9 +767,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T13:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T16:15:23",
     "baseline": false
   },
   {
@@ -5130,10 +5130,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0419670",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -9966,9 +9966,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T16:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-06T16:15:23",
     "baseline": false
   },
   {
@@ -20601,7 +20601,7 @@
     "inmateNumber": "29234",
     "name": "ROUTT, MARIE ANN",
     "bookedAt": "2026-06-29T11:48:59",
-    "location": "E11",
+    "location": "E22",
     "arrestingAgency": "CCSO",
     "bondTotal": 50000,
     "charges": [
