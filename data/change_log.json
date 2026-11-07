@@ -1,5 +1,31 @@
 [
   {
+    "id": "152317-20261106174732",
+    "inmateNumber": "152317",
+    "name": "BLAIR, JACOB CAMDEN MACSWELL",
+    "bookedAt": "2026-11-06T17:47:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-06T17:50:44",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0431683",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-06T18:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "19871-20261106100543",
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
@@ -43,7 +69,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DOC HOLD",
