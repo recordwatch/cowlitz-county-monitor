@@ -4,7 +4,7 @@
     "inmateNumber": "339598",
     "name": "ALVAREZ PRICE, DABE ALFREDO",
     "bookedAt": "2026-11-07T13:14:36",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-11-07T13:55:18",
-    "releasedAt": "2026-11-07T15:35:17",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -156,7 +156,7 @@
     "inmateNumber": "286154",
     "name": "LUKAS, AJ",
     "bookedAt": "2026-11-07T03:39:42",
-    "location": "INTAKE H2",
+    "location": "B24",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
