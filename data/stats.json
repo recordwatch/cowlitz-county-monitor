@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:35:17",
+  "generatedAt": "2026-11-06T18:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 532,
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 18.1
+      "pct": 17.9
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 19,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "F",
@@ -420,17 +420,17 @@
     {
       "name": "G",
       "count": 34,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.9
+      "count": 4,
+      "pct": 2.6
     },
     {
       "name": "WSH",
@@ -468,7 +468,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 21.5,
+    "currentMedianDaysHeld": 21.6,
     "currentLongestDaysHeld": 513.1
   },
   "bond": {
