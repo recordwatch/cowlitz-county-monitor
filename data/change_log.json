@@ -1,5 +1,19 @@
 [
   {
+    "id": "23286-20261107003719",
+    "inmateNumber": "23286",
+    "name": "SCHANK, STEVE JAMES",
+    "bookedAt": "2026-11-07T00:37:19",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T01:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "44562-20261106225919",
     "inmateNumber": "44562",
     "name": "VARGAS, CIARA MONEA",
@@ -67,7 +81,7 @@
     "inmateNumber": "215129",
     "name": "BROWN, EINO HARVEY JR",
     "bookedAt": "2026-11-06T21:30:46",
-    "location": "INTAKE H6",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T00:55:16",
+  "generatedAt": "2026-11-07T01:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 535,
-    "bookingsObserved": 369,
+    "bookingsTracked": 536,
+    "bookingsObserved": 370,
     "releasesObserved": 378,
-    "inCustody": 157,
-    "uniquePeople": 505
+    "inCustody": 158,
+    "uniquePeople": 506
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 0,
+      "booked": 1,
       "released": 2
     }
   ],
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 209,
-      "pct": 39.4,
+      "count": 210,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 105,
-      "pct": 19.8,
+      "pct": 19.7,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 71,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Kelso Police"
     },
     {
@@ -389,8 +389,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 28,
-      "pct": 17.8
+      "count": 29,
+      "pct": 18.5
     },
     {
       "name": "B",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.8
+      "count": 5,
+      "pct": 3.2
     },
     {
       "name": "WSH",
@@ -469,11 +469,11 @@
       }
     ],
     "currentMedianDaysHeld": 21.5,
-    "currentLongestDaysHeld": 513.3
+    "currentLongestDaysHeld": 513.4
   },
   "bond": {
     "withBond": 108,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4541250
