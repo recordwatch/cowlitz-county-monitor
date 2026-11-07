@@ -1,5 +1,31 @@
 [
   {
+    "id": "339598-20261107131436",
+    "inmateNumber": "339598",
+    "name": "ALVAREZ PRICE, DABE ALFREDO",
+    "bookedAt": "2026-11-07T13:14:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-07T13:19:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0415051",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T13:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "131888-20261107100553",
     "inmateNumber": "131888",
     "name": "SCHNEBLY, TAYLOR JOSEPH",

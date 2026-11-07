@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T13:35:17",
+  "generatedAt": "2026-11-07T13:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 543,
-    "bookingsObserved": 377,
+    "bookingsTracked": 544,
+    "bookingsObserved": 378,
     "releasesObserved": 384,
-    "inCustody": 159,
-    "uniquePeople": 513
+    "inCustody": 160,
+    "uniquePeople": 514
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 8,
+      "booked": 9,
       "released": 8
     }
   ],
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 82,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 41,
-      "pct": 3.1
+      "count": 42,
+      "pct": 3.2
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 211,
-      "pct": 39.1,
+      "count": 212,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 71,
-      "pct": 13.2,
+      "pct": 13.1,
       "label": "Kelso Police"
     },
     {
@@ -332,13 +332,13 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 366,
-      "pct": 27.9
+      "count": 367,
+      "pct": 28
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 170,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 21.6,
+    "currentMedianDaysHeld": 20.9,
     "currentLongestDaysHeld": 513.9
   },
   "bond": {
-    "withBond": 108,
+    "withBond": 109,
     "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4540250
+    "totalBond": 4541250
   },
   "chargesPerBooking": 2.4
 }
