@@ -5,9 +5,21 @@
     "name": "MACLAREN, SAMANTHA DESIREE",
     "bookedAt": "2026-11-07T01:13:37",
     "location": "INTAKE H3",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-07T01:50:21",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0422360",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-07T01:54:52",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "361635",
     "name": "RUSSELL, HANNAH NICHOLE",
     "bookedAt": "2026-11-07T00:47:55",
-    "location": "INTAKE H2",
+    "location": "INTAKE H3",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [

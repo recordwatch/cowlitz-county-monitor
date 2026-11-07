@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:15:19",
+  "generatedAt": "2026-11-07T02:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 538,
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 78,
-      "pct": 6
+      "count": 79,
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -254,7 +254,7 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 15,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DISORDERLY CONDUCT",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 210,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 105,
-      "pct": 19.7,
+      "count": 106,
+      "pct": 19.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 165,
+      "count": 166,
       "pct": 12.7
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 513.4
   },
   "bond": {
-    "withBond": 108,
-    "noBond": 52,
+    "withBond": 109,
+    "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4541250
+    "totalBond": 4542250
   },
   "chargesPerBooking": 2.4
 }
