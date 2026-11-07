@@ -4,7 +4,7 @@
     "inmateNumber": "83010",
     "name": "VANDERHOFF, DONALD JAY II",
     "bookedAt": "2026-11-07T10:01:23",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "307517",
     "name": "SORENSEN, CALEB BENJAMIN",
     "bookedAt": "2026-11-07T09:12:04",
-    "location": "1-PENDING BOOKING",
+    "location": "B25",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -4296,7 +4296,7 @@
     "inmateNumber": "108582",
     "name": "HOMER, KADIN XANTHUS",
     "bookedAt": "2026-10-29T23:06:33",
-    "location": "G-G39",
+    "location": "G-G40",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [
@@ -4503,7 +4503,7 @@
     "inmateNumber": "122933",
     "name": "KNIGHT, TYSON MICHAEL",
     "bookedAt": "2026-10-29T21:18:35",
-    "location": "G-G40",
+    "location": "G-G21",
     "arrestingAgency": "CRPD",
     "bondTotal": 2500,
     "charges": [
@@ -11567,7 +11567,7 @@
     "inmateNumber": "26580",
     "name": "JOHNSTON, GARY LEE JR",
     "bookedAt": "2026-10-15T10:25:44",
-    "location": "G-G21",
+    "location": "G-G22",
     "arrestingAgency": "CCSO",
     "bondTotal": 60000,
     "charges": [
