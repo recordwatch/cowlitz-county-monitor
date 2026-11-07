@@ -1,5 +1,31 @@
 [
   {
+    "id": "62085-20261107050653",
+    "inmateNumber": "62085",
+    "name": "ASKIN, JODY LOU",
+    "bookedAt": "2026-11-07T05:06:53",
+    "location": "INTAKE H3",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-07T05:13:36",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T05:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "286154-20261107033942",
     "inmateNumber": "286154",
     "name": "LUKAS, AJ",
@@ -13181,8 +13207,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -13192,8 +13218,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
@@ -13939,9 +13965,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T05:55:16",
     "baseline": true
   },
   {
