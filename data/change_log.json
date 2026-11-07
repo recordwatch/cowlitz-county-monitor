@@ -4,7 +4,7 @@
     "inmateNumber": "62085",
     "name": "ASKIN, JODY LOU",
     "bookedAt": "2026-11-07T05:06:53",
-    "location": "INTAKE H3",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -1408,9 +1408,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T15:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T07:55:18",
     "baseline": false
   },
   {
