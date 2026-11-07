@@ -6,30 +6,8 @@
     "bookedAt": "2026-11-07T09:12:04",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
-      {
-        "description": "DWLS 3RD",
-        "offenseDate": "2026-11-07T09:15:17",
-        "arrestingAgency": "CCSO",
-        "court": "WOODLAND MUNICIPAL COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "THEFT 3RD DEG",
-        "offenseDate": "2026-11-07T09:13:38",
-        "arrestingAgency": "CCSO",
-        "court": "WOODLAND MUNICIPAL COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-11-07T09:15:40",
@@ -38,8 +16,30 @@
         "warrantNumber": "6A0339727",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-07T09:13:38",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0366095",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-07T09:15:17",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0366096",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -120,9 +120,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T01:54:52",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T10:15:19",
     "baseline": false
   },
   {
