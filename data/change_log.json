@@ -1,5 +1,19 @@
 [
   {
+    "id": "347296-20261107011337",
+    "inmateNumber": "347296",
+    "name": "MACLAREN, SAMANTHA DESIREE",
+    "bookedAt": "2026-11-07T01:13:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T01:54:52",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361635-20261107004755",
     "inmateNumber": "361635",
     "name": "RUSSELL, HANNAH NICHOLE",
@@ -30,7 +44,7 @@
     "inmateNumber": "23286",
     "name": "SCHANK, STEVE JAMES",
     "bookedAt": "2026-11-07T00:37:19",
-    "location": "INTAKE H3",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -104,7 +118,7 @@
     "inmateNumber": "9611",
     "name": "ATKINSON, KEVIN WAYNE",
     "bookedAt": "2026-11-06T22:46:02",
-    "location": "INTAKE H3",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
