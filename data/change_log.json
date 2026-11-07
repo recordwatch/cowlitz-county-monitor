@@ -4,10 +4,22 @@
     "inmateNumber": "44562",
     "name": "VARGAS, CIARA MONEA",
     "bookedAt": "2026-11-06T22:59:19",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-06T23:09:04",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0435605",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-06T23:35:18",
     "releasedAt": null,
@@ -55,7 +67,7 @@
     "inmateNumber": "215129",
     "name": "BROWN, EINO HARVEY JR",
     "bookedAt": "2026-11-06T21:30:46",
-    "location": "INTAKE H2",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
