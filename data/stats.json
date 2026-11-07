@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T10:15:19",
+  "generatedAt": "2026-11-07T10:35:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 541,
-    "bookingsObserved": 375,
+    "bookingsTracked": 542,
+    "bookingsObserved": 376,
     "releasesObserved": 382,
-    "inCustody": 159,
-    "uniquePeople": 511
+    "inCustody": 160,
+    "uniquePeople": 512
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-07",
-      "booked": 6,
+      "booked": 7,
       "released": 6
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 175,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 80,
-      "pct": 6.1
+      "count": 81,
+      "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 211,
-      "pct": 39.3,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -283,14 +283,14 @@
     },
     {
       "name": "CCCD",
-      "count": 57,
-      "pct": 10.6,
+      "count": 58,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 32,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 168,
-      "pct": 12.8
+      "count": 169,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,12 +468,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 20.7,
     "currentLongestDaysHeld": 513.7
   },
   "bond": {
     "withBond": 110,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4544250

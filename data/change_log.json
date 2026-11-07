@@ -1,5 +1,31 @@
 [
   {
+    "id": "83010-20261107100123",
+    "inmateNumber": "83010",
+    "name": "VANDERHOFF, DONALD JAY II",
+    "bookedAt": "2026-11-07T10:01:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-07T10:06:11",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338165",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T10:35:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "307517-20261107091204",
     "inmateNumber": "307517",
     "name": "SORENSEN, CALEB BENJAMIN",
