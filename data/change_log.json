@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-08T03:25:29",
+        "arrestingAgency": "KEPD",
+        "court": null,
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T03:55:16",
     "releasedAt": null,

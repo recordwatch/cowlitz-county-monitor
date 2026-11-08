@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:55:16",
+  "generatedAt": "2026-11-08T04:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 548,
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 92,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -468,7 +468,7 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 20.7,
+    "currentMedianDaysHeld": 20.8,
     "currentLongestDaysHeld": 514.5
   },
   "bond": {
