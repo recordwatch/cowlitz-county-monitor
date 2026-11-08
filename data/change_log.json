@@ -1,5 +1,31 @@
 [
   {
+    "id": "100133-20261108145239",
+    "inmateNumber": "100133",
+    "name": "RICHTER, BRIAN DOUGLAS",
+    "bookedAt": "2026-11-08T14:52:39",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "INDECENT EXPOSURE",
+        "offenseDate": "2026-11-08T14:58:53",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0429948",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T15:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "111210-20261108124604",
     "inmateNumber": "111210",
     "name": "MAZZA, CODY BRIAN",
