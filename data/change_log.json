@@ -383,9 +383,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T23:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T21:35:16",
     "baseline": false
   },
   {
@@ -4396,7 +4396,7 @@
     "inmateNumber": "108582",
     "name": "HOMER, KADIN XANTHUS",
     "bookedAt": "2026-10-29T23:06:33",
-    "location": "G-G40",
+    "location": "B10",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [
