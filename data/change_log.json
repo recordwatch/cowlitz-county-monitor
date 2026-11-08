@@ -1,5 +1,19 @@
 [
   {
+    "id": "195193-20261108031748",
+    "inmateNumber": "195193",
+    "name": "GERBER, SHANE WILLIAM G",
+    "bookedAt": "2026-11-08T03:17:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T03:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "50500-20261108023225",
     "inmateNumber": "50500",
     "name": "HAASE, COURTNEY ALLAN",
