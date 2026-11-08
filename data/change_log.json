@@ -1,5 +1,42 @@
 [
   {
+    "id": "111210-20261108124604",
+    "inmateNumber": "111210",
+    "name": "MAZZA, CODY BRIAN",
+    "bookedAt": "2026-11-08T12:46:04",
+    "location": "A13",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-08T12:48:24",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438768",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-08T12:48:55",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438768",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T13:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361659-20261108100213",
     "inmateNumber": "361659",
     "name": "No Name Booking, 162475",
@@ -1792,7 +1829,7 @@
     "inmateNumber": "359576",
     "name": "CONNER, JOHN LUCKY MICHAEL",
     "bookedAt": "2026-11-04T12:35:58",
-    "location": "C12",
+    "location": "B23",
     "arrestingAgency": "LVPD",
     "bondTotal": 25000,
     "charges": [
@@ -2783,7 +2820,7 @@
     "inmateNumber": "361499",
     "name": "SCHREINER, MARC ALLEN",
     "bookedAt": "2026-11-02T19:19:09",
-    "location": "C11",
+    "location": "B23",
     "arrestingAgency": "LVPD",
     "bondTotal": 20000,
     "charges": [

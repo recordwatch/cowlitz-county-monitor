@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T13:17:36",
+  "generatedAt": "2026-11-08T13:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 549,
-    "bookingsObserved": 383,
+    "bookingsTracked": 550,
+    "bookingsObserved": 384,
     "releasesObserved": 394,
-    "inCustody": 155,
-    "uniquePeople": 519
+    "inCustody": 156,
+    "uniquePeople": 520
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 3,
+      "booked": 4,
       "released": 7
     }
   ],
@@ -164,11 +164,11 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 177,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
-      "count": 99,
+      "count": 100,
       "pct": 7.5
     },
     {
@@ -202,17 +202,17 @@
       "pct": 2.6
     },
     {
+      "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 25,
+      "pct": 1.9
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 25,
       "pct": 1.9
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 24,
-      "pct": 1.8
-    },
-    {
-      "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 24,
       "pct": 1.8
     },
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 214,
-      "pct": 39.3,
+      "count": 215,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 15,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Castle Rock Police"
     },
     {
@@ -332,13 +332,13 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 373,
-      "pct": 28.2
+      "count": 375,
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 173,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 29,
-      "pct": 18.7
+      "count": 30,
+      "pct": 19.2
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 14.2
+      "count": 24,
+      "pct": 15.4
     },
     {
       "name": "C",
-      "count": 20,
-      "pct": 12.9
+      "count": 18,
+      "pct": 11.5
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 6.5
+      "pct": 6.4
     },
     {
       "name": "E",
       "count": 19,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "F",
@@ -420,12 +420,12 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "INTAKE",
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 22.9,
+    "currentMedianDaysHeld": 22.8,
     "currentLongestDaysHeld": 514.9
   },
   "bond": {
-    "withBond": 109,
+    "withBond": 110,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4541750
+    "totalBond": 4543250
   },
   "chargesPerBooking": 2.4
 }
