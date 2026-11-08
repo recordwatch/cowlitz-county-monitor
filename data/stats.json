@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:55:16",
+  "generatedAt": "2026-11-08T12:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 549,
@@ -198,7 +198,7 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 35,
+      "count": 34,
       "pct": 2.6
     },
     {
