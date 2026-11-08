@@ -6,18 +6,18 @@
     "bookedAt": "2026-11-08T03:17:48",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
-        "description": "FUGITIVE FRM JUSTICE",
+        "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-08T03:25:29",
         "arrestingAgency": "KEPD",
-        "court": null,
-        "warrantNumber": null,
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "2530045306",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -30,7 +30,7 @@
     "inmateNumber": "50500",
     "name": "HAASE, COURTNEY ALLAN",
     "bookedAt": "2026-11-08T02:32:25",
-    "location": "INTAKE H1",
+    "location": "B22",
     "arrestingAgency": "KAPD",
     "bondTotal": 1000,
     "charges": [

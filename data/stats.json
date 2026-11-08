@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T04:15:18",
+  "generatedAt": "2026-11-08T04:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 548,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 49,
-      "pct": 3.7
+      "count": 50,
+      "pct": 3.8
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -328,7 +328,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 428,
-      "pct": 32.4
+      "pct": 32.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -381,9 +381,9 @@
       "pct": 0.5
     },
     {
-      "name": "STATE WORK RELEASE",
-      "count": 4,
-      "pct": 0.3
+      "name": "OTHER - OUT OF COUNTY",
+      "count": 5,
+      "pct": 0.4
     }
   ],
   "housingUnits": [
@@ -394,8 +394,8 @@
     },
     {
       "name": "B",
-      "count": 24,
-      "pct": 15
+      "count": 25,
+      "pct": 15.6
     },
     {
       "name": "C",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.5
+      "count": 3,
+      "pct": 1.9
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 514.5
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 51,
+    "withBond": 111,
+    "noBond": 50,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4543750
+    "totalBond": 4546250
   },
   "chargesPerBooking": 2.4
 }
