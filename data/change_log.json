@@ -19739,6 +19739,17 @@
     "bondTotal": 1000,
     "charges": [
       {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-08T02:25:44",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-08-14T14:01:37",
         "arrestingAgency": "KEPD",
