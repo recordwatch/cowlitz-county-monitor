@@ -1,5 +1,31 @@
 [
   {
+    "id": "94414-20261107215042",
+    "inmateNumber": "94414",
+    "name": "MCCLELLAN, JASON EARL",
+    "bookedAt": "2026-11-07T21:50:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-07T21:52:20",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422591",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-07T22:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "104289-20261107161712",
     "inmateNumber": "104289",
     "name": "DURAN, MALACHI JORDAN",
