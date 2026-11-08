@@ -20,9 +20,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-07T22:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-07T23:35:17",
     "baseline": false
   },
   {
@@ -30,7 +30,7 @@
     "inmateNumber": "104289",
     "name": "DURAN, MALACHI JORDAN",
     "bookedAt": "2026-11-07T16:17:12",
-    "location": "INTAKE H3",
+    "location": "B23",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
