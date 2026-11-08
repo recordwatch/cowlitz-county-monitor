@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-07T16:17:12",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 3000,
     "charges": [
       {
         "description": "MINOR POSS AND/OR CONSUMPTION LIQUOR",
@@ -29,6 +29,17 @@
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-07T16:24:49",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0402270",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
