@@ -1,5 +1,53 @@
 [
   {
+    "id": "50500-20261108023225",
+    "inmateNumber": "50500",
+    "name": "HAASE, COURTNEY ALLAN",
+    "bookedAt": "2026-11-08T02:32:25",
+    "location": "INTAKE H1",
+    "arrestingAgency": "KAPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-08T02:39:06",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0616107",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-08T02:38:28",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0225125",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-08T02:45:50",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0342094",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T03:27:02",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "94414-20261107215042",
     "inmateNumber": "94414",
     "name": "MCCLELLAN, JASON EARL",
