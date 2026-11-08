@@ -2413,7 +2413,7 @@
     "inmateNumber": "259720",
     "name": "PONDER ANDERSON, RACHEL LYNN",
     "bookedAt": "2026-11-03T12:10:18",
-    "location": "E10",
+    "location": "E12",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -8287,7 +8287,7 @@
     "inmateNumber": "13674",
     "name": "SPIRES, ANGELA MARIE",
     "bookedAt": "2026-10-21T14:52:40",
-    "location": "E12",
+    "location": "E10",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -9533,7 +9533,7 @@
     "inmateNumber": "229189",
     "name": "ROOKS, TIFFANY LYNN",
     "bookedAt": "2026-10-19T00:41:20",
-    "location": "E12",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -17694,7 +17694,7 @@
     "inmateNumber": "233167",
     "name": "OWEN, KRYSTAL MARIE",
     "bookedAt": "2026-09-22T00:57:39",
-    "location": "E12",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 75000,
     "charges": [
