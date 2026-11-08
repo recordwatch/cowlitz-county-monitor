@@ -4,10 +4,22 @@
     "inmateNumber": "361659",
     "name": "No Name Booking, 162475",
     "bookedAt": "2026-11-08T10:02:13",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-08T10:05:25",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0427127",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-08T10:35:18",
     "releasedAt": null,
@@ -15010,7 +15022,7 @@
     "inmateNumber": "360749",
     "name": "SILVA, ELY RENEE",
     "bookedAt": "2026-10-07T18:48:38",
-    "location": "G-G24",
+    "location": "G-G40",
     "arrestingAgency": "CCSO",
     "bondTotal": 300000,
     "charges": [
