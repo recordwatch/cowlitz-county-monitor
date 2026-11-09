@@ -1,5 +1,42 @@
 [
   {
+    "id": "25294-20261109094515",
+    "inmateNumber": "25294",
+    "name": "FISHER, DANIEL JAMES",
+    "bookedAt": "2026-11-09T09:45:15",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-09T09:49:05",
+        "arrestingAgency": "KEPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2210099608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-09T09:45:55",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0413771",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T10:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "337701-20261109051608",
     "inmateNumber": "337701",
     "name": "COSTELLO, EMILY DANIELLE",
@@ -6749,9 +6786,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T05:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T10:35:20",
     "baseline": false
   },
   {
