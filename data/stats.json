@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-08T17:55:18",
+  "generatedAt": "2026-11-08T18:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 551,
-    "bookingsObserved": 385,
+    "bookingsTracked": 552,
+    "bookingsObserved": 386,
     "releasesObserved": 394,
-    "inCustody": 157,
+    "inCustody": 158,
     "uniquePeople": 520
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 5,
+      "booked": 6,
       "released": 7
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "DOC HOLD",
       "count": 91,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 216,
-      "pct": 39.5,
+      "count": 217,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 32,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "Dept. of Corrections"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 376,
-      "pct": 28.3
+      "count": 377,
+      "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 22.8,
-    "currentLongestDaysHeld": 515
+    "currentMedianDaysHeld": 22,
+    "currentLongestDaysHeld": 515.1
   },
   "bond": {
-    "withBond": 111,
+    "withBond": 112,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4544250
+    "totalBond": 4544750
   },
   "chargesPerBooking": 2.4
 }

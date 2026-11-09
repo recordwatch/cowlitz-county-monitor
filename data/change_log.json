@@ -1,5 +1,31 @@
 [
   {
+    "id": "360433-20261108172926",
+    "inmateNumber": "360433",
+    "name": "DAHLEN, RUSSELL DAVID",
+    "bookedAt": "2026-11-08T17:29:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "LONGVIEW DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-08T17:44:19",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0352172",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T18:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "100133-20261108145239",
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
@@ -1958,7 +1984,7 @@
     "inmateNumber": "92310",
     "name": "ROBERTSON, AENGUS SAUL",
     "bookedAt": "2026-11-04T08:15:32",
-    "location": "D15",
+    "location": "D14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
