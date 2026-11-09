@@ -1105,6 +1105,39 @@
     "bondTotal": 10000,
     "charges": [
       {
+        "description": "DUI - FELONY",
+        "offenseDate": "2026-11-09T08:10:39",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-11-09T08:12:17",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-09T08:11:47",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "DUI",
         "offenseDate": "2026-11-06T01:35:19",
         "arrestingAgency": "CRPD",
