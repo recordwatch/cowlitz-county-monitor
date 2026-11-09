@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:35:20",
+  "generatedAt": "2026-11-09T10:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 560,
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 176,
-      "pct": 13
+      "count": 175,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -377,8 +377,8 @@
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
-      "count": 7,
-      "pct": 0.5
+      "count": 8,
+      "pct": 0.6
     },
     {
       "name": "OTHER - OUT OF COUNTY",
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 29,
-      "pct": 18.1
+      "count": 30,
+      "pct": 18.6
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 15
+      "pct": 14.9
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "E",
       "count": 19,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "F",
@@ -420,12 +420,12 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 18.1
+      "pct": 18
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "INTAKE",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.9
+      "pct": 6.8
     }
   ],
   "stay": {
@@ -469,14 +469,14 @@
       }
     ],
     "currentMedianDaysHeld": 20.7,
-    "currentLongestDaysHeld": 515.7
+    "currentLongestDaysHeld": 515.8
   },
   "bond": {
     "withBond": 116,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4558750
+    "totalBond": 4552000
   },
   "chargesPerBooking": 2.4
 }

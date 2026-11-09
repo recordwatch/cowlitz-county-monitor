@@ -4,7 +4,7 @@
     "inmateNumber": "25294",
     "name": "FISHER, DANIEL JAMES",
     "bookedAt": "2026-11-09T09:45:15",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -43,7 +43,7 @@
     "bookedAt": "2026-11-09T05:16:08",
     "location": "E22",
     "arrestingAgency": "WDPD",
-    "bondTotal": 8000,
+    "bondTotal": 1250,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -54,7 +54,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 250
       },
       {
         "description": "DWLS 3RD",
@@ -65,7 +65,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 250
       },
       {
         "description": "DWLS 3RD",
@@ -76,7 +76,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 250
       },
       {
         "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
@@ -98,7 +98,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 250
       },
       {
         "description": "DWLS 3RD",
@@ -109,7 +109,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 250
       }
     ],
     "status": "in_custody",
@@ -504,12 +504,12 @@
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-08T02:45:50",
         "arrestingAgency": "KAPD",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0342094",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -995,10 +995,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0431683",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
