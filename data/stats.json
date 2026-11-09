@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T10:59:59",
+  "generatedAt": "2026-11-09T11:15:25",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 560,
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 108,
-      "pct": 19.4,
+      "count": 109,
+      "pct": 19.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 61,
-      "pct": 11,
+      "count": 60,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -476,7 +476,7 @@
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4552000
+    "totalBond": 4551250
   },
   "chargesPerBooking": 2.4
 }
