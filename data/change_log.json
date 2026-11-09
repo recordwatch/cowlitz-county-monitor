@@ -4989,13 +4989,24 @@
     "name": "JONES, NATHANIEL NED",
     "bookedAt": "2026-10-29T12:57:05",
     "location": "D22",
-    "arrestingAgency": "LVPD",
+    "arrestingAgency": "CCCD",
     "bondTotal": 1000,
     "charges": [
       {
+        "description": "ASSAULT CUSTODIAL",
+        "offenseDate": "2026-11-08T19:00:12",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "INDECENT EXPOSURE",
         "offenseDate": "2026-10-29T13:01:04",
-        "arrestingAgency": "LVPD",
+        "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0415048",
         "disposition": null,
