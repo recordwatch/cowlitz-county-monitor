@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:55:17",
+  "generatedAt": "2026-11-09T06:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 559,
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 177,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
-      "count": 101,
-      "pct": 7.5
+      "count": 106,
+      "pct": 7.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 218,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 74,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "Kelso Police"
     },
     {
@@ -300,16 +300,16 @@
       "label": "Washington State Patrol"
     },
     {
+      "name": "WDPD",
+      "count": 17,
+      "pct": 3.1,
+      "label": "Woodland Police"
+    },
+    {
       "name": "CRPD",
       "count": 16,
       "pct": 2.9,
       "label": "Castle Rock Police"
-    },
-    {
-      "name": "WDPD",
-      "count": 16,
-      "pct": 2.9,
-      "label": "Woodland Police"
     },
     {
       "name": "KAPD",
@@ -328,17 +328,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 430,
-      "pct": 32.1
+      "pct": 31.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 383,
-      "pct": 28.6
+      "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 176,
-      "pct": 13.1
+      "count": 180,
+      "pct": 13.4
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -352,8 +352,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 50,
-      "pct": 3.7
+      "count": 52,
+      "pct": 3.9
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -469,14 +469,14 @@
       }
     ],
     "currentMedianDaysHeld": 20.5,
-    "currentLongestDaysHeld": 515.5
+    "currentLongestDaysHeld": 515.6
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 48,
+    "withBond": 116,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4550250
+    "totalBond": 4558250
   },
   "chargesPerBooking": 2.4
 }
