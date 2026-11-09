@@ -227,9 +227,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T04:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:35:18",
     "baseline": false
   },
   {
@@ -387,7 +387,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -464,9 +464,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T15:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T15:35:18",
     "baseline": false
   },
   {
