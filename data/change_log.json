@@ -1,5 +1,53 @@
 [
   {
+    "id": "241581-20261108175350",
+    "inmateNumber": "241581",
+    "name": "LANIER, JANINE PAULINE",
+    "bookedAt": "2026-11-08T17:53:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-08T18:00:05",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0315858",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-11-08T18:00:43",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A03515858",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-08T17:58:14",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0420917",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T18:35:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360433-20261108172926",
     "inmateNumber": "360433",
     "name": "DAHLEN, RUSSELL DAVID",
