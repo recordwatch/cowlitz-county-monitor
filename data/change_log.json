@@ -196,7 +196,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436068",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -322,7 +322,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0315858",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -333,7 +333,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0315858",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -344,7 +344,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0420917",
         "disposition": "Amended",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -370,7 +370,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0352172",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -396,7 +396,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0429948",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -5330,7 +5330,7 @@
     "bookedAt": "2026-10-29T12:57:05",
     "location": "D22",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 3500,
     "charges": [
       {
         "description": "ASSAULT CUSTODIAL",
@@ -5340,8 +5340,8 @@
         "warrantNumber": "2610072508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       },
       {
         "description": "INDECENT EXPOSURE",
