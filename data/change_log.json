@@ -4,7 +4,7 @@
     "inmateNumber": "337701",
     "name": "COSTELLO, EMILY DANIELLE",
     "bookedAt": "2026-11-09T05:16:08",
-    "location": "1-PENDING BOOKING",
+    "location": "E22",
     "arrestingAgency": "WDPD",
     "bondTotal": 8000,
     "charges": [
@@ -185,7 +185,7 @@
     "inmateNumber": "48638",
     "name": "DEAN, JAMES RAY",
     "bookedAt": "2026-11-08T21:22:15",
-    "location": "INTAKE H1",
+    "location": "A14",
     "arrestingAgency": "WSP",
     "bondTotal": 1500,
     "charges": [
