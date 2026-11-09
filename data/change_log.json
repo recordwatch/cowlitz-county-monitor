@@ -1,5 +1,56 @@
 [
   {
+    "id": "151598-20261109141942",
+    "inmateNumber": "151598",
+    "name": "GLOR, BRUCE MICHAEL",
+    "bookedAt": "2026-11-09T14:19:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T14:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "318999-20261109140830",
+    "inmateNumber": "318999",
+    "name": "JORGENSON, JESSIKA ANN",
+    "bookedAt": "2026-11-09T14:08:30",
+    "location": "E21",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-09T14:20:26",
+        "arrestingAgency": "LVPD",
+        "court": "DRUG COURT",
+        "warrantNumber": "2510001508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-09T14:22:49",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "2A0301908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T14:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "346408-20261109110008",
     "inmateNumber": "346408",
     "name": "SMITH, STEPHANIE ROSE",
