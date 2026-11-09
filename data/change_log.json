@@ -1,5 +1,42 @@
 [
   {
+    "id": "48638-20261108212215",
+    "inmateNumber": "48638",
+    "name": "DEAN, JAMES RAY",
+    "bookedAt": "2026-11-08T21:22:15",
+    "location": "INTAKE H1",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-08T21:27:05",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00892633",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-08T21:28:48",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00892634",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T21:55:28",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75755-20261108191332",
     "inmateNumber": "75755",
     "name": "NICHOLAS, PAUL VINCENT",
@@ -6160,7 +6197,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "D16",
+    "location": "D25",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
