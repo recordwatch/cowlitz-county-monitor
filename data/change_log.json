@@ -4,7 +4,7 @@
     "inmateNumber": "177511",
     "name": "GUZMAN, BRITTANY SKYE",
     "bookedAt": "2026-11-08T21:54:55",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
@@ -16,7 +16,7 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -93,7 +93,7 @@
     "inmateNumber": "241581",
     "name": "LANIER, JANINE PAULINE",
     "bookedAt": "2026-11-08T17:53:50",
-    "location": "INTAKE H8",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
