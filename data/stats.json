@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:15:22",
+  "generatedAt": "2026-11-09T09:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 559,
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 180,
-      "pct": 13.3
+      "count": 176,
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -352,8 +352,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 52,
-      "pct": 3.9
+      "count": 56,
+      "pct": 4.1
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
