@@ -1,5 +1,19 @@
 [
   {
+    "id": "337701-20261109051608",
+    "inmateNumber": "337701",
+    "name": "COSTELLO, EMILY DANIELLE",
+    "bookedAt": "2026-11-09T05:16:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T05:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "5154-20261109033630",
     "inmateNumber": "5154",
     "name": "FERGUSON, JAMIE LYNE",
@@ -9860,9 +9874,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T01:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T05:55:17",
     "baseline": false
   },
   {
