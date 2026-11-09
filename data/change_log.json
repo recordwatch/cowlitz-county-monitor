@@ -1,5 +1,19 @@
 [
   {
+    "id": "346408-20261109110008",
+    "inmateNumber": "346408",
+    "name": "SMITH, STEPHANIE ROSE",
+    "bookedAt": "2026-11-09T11:00:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T11:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "25294-20261109094515",
     "inmateNumber": "25294",
     "name": "FISHER, DANIEL JAMES",
@@ -432,10 +446,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0427127",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
