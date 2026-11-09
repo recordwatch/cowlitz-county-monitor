@@ -1,5 +1,31 @@
 [
   {
+    "id": "75755-20261108191332",
+    "inmateNumber": "75755",
+    "name": "NICHOLAS, PAUL VINCENT",
+    "bookedAt": "2026-11-08T19:13:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-08T19:17:08",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0214534",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-08T19:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "241581-20261108175350",
     "inmateNumber": "241581",
     "name": "LANIER, JANINE PAULINE",
@@ -24,7 +50,7 @@
         "offenseDate": "2026-11-08T18:00:43",
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A03515858",
+        "warrantNumber": "6A0315858",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -52,7 +78,7 @@
     "inmateNumber": "360433",
     "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-11-08T17:29:26",
-    "location": "INTAKE H1",
+    "location": "D23",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T19:35:17",
+  "generatedAt": "2026-11-08T19:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 553,
-    "bookingsObserved": 387,
+    "bookingsTracked": 554,
+    "bookingsObserved": 388,
     "releasesObserved": 395,
-    "inCustody": 158,
-    "uniquePeople": 521
+    "inCustody": 159,
+    "uniquePeople": 522
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 7,
+      "booked": 8,
       "released": 8
     }
   ],
@@ -183,13 +183,13 @@
     },
     {
       "name": "DUI",
-      "count": 82,
+      "count": 83,
       "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
       "count": 50,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 34,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -272,7 +272,7 @@
     {
       "name": "CCSO",
       "count": 108,
-      "pct": 19.7,
+      "pct": 19.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 60,
-      "pct": 10.9,
+      "count": 61,
+      "pct": 11.1,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 173,
+      "count": 174,
       "pct": 13
     },
     {
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 50,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -404,8 +404,8 @@
     },
     {
       "name": "D",
-      "count": 10,
-      "pct": 6.3
+      "count": 11,
+      "pct": 7
     },
     {
       "name": "E",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4.4
+      "count": 6,
+      "pct": 3.8
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 21.4,
     "currentLongestDaysHeld": 515.1
   },
   "bond": {
     "withBond": 112,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4545750
