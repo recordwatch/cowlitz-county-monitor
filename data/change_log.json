@@ -4,9 +4,9 @@
     "inmateNumber": "5154",
     "name": "FERGUSON, JAMIE LYNE",
     "bookedAt": "2026-11-09T03:36:30",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DISORDERLY CONDUCT",
@@ -16,8 +16,8 @@
         "warrantNumber": "6A0431319",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -2284,7 +2284,7 @@
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
     "bookedAt": "2026-11-04T01:31:05",
-    "location": "INTAKE H5",
+    "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
     "bondTotal": 1250,
     "charges": [
@@ -3597,7 +3597,7 @@
     "inmateNumber": "27900",
     "name": "OLIVER, CYNTHIA ANN",
     "bookedAt": "2026-11-01T13:19:09",
-    "location": "INTAKE H5",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 40000,
     "charges": [
