@@ -4,10 +4,22 @@
     "inmateNumber": "346408",
     "name": "SMITH, STEPHANIE ROSE",
     "bookedAt": "2026-11-09T11:00:08",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "E12",
+    "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "offenseDate": "2026-11-09T11:07:58",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T11:35:20",
     "releasedAt": null,
@@ -246,10 +258,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00892633",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -257,10 +269,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00892634",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -498,7 +510,7 @@
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0616107",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -509,7 +521,7 @@
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0225125",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -824,7 +836,7 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00822363",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
