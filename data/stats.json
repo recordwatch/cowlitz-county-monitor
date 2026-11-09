@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T03:55:18",
+  "generatedAt": "2026-11-09T04:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 557,
-    "bookingsObserved": 391,
+    "bookingsTracked": 558,
+    "bookingsObserved": 392,
     "releasesObserved": 395,
-    "inCustody": 162,
-    "uniquePeople": 525
+    "inCustody": 163,
+    "uniquePeople": 526
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "NVOL - WITHOUT ID",
+      "name": "DISORDERLY CONDUCT",
       "count": 13,
       "pct": 1
     }
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 217,
-      "pct": 39.2,
+      "count": 218,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 382,
-      "pct": 28.5
+      "count": 383,
+      "pct": 28.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -473,10 +473,10 @@
   },
   "bond": {
     "withBond": 114,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4548750
+    "totalBond": 4549750
   },
   "chargesPerBooking": 2.4
 }

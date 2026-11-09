@@ -1,19 +1,56 @@
 [
   {
+    "id": "5154-20261109033630",
+    "inmateNumber": "5154",
+    "name": "FERGUSON, JAMIE LYNE",
+    "bookedAt": "2026-11-09T03:36:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-09T03:44:21",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431319",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T04:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "36813-20261109031831",
     "inmateNumber": "36813",
     "name": "HOGSED, JESSE LEE",
     "bookedAt": "2026-11-09T03:18:31",
     "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 2500,
     "charges": [
+      {
+        "description": "LONGVIEW DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-09T03:23:43",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0436068",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-11-09T03:22:43",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0436068",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -24,22 +61,11 @@
         "offenseDate": "2026-11-09T03:23:13",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0436068",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 500
-      },
-      {
-        "description": "LONGVIEW DISORDERLY CONDUCT",
-        "offenseDate": "2026-11-09T03:23:43",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
       }
     ],
     "status": "in_custody",
