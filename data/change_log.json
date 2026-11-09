@@ -168,7 +168,7 @@
         "offenseDate": "2026-11-08T21:57:44",
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610072408",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -232,7 +232,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0214534",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -5241,7 +5241,7 @@
         "offenseDate": "2026-11-08T19:00:12",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610072508",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -19407,9 +19407,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T08:35:20",
     "baseline": true
   },
   {
@@ -20231,17 +20231,6 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "FUGITIVE FRM JUSTICE",
-        "offenseDate": "2026-11-08T02:25:44",
-        "arrestingAgency": "KEPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-08-14T14:01:37",
         "arrestingAgency": "KEPD",
@@ -20261,6 +20250,17 @@
         "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-08T02:25:44",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610072608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
