@@ -1,5 +1,53 @@
 [
   {
+    "id": "36813-20261109031831",
+    "inmateNumber": "36813",
+    "name": "HOGSED, JESSE LEE",
+    "bookedAt": "2026-11-09T03:18:31",
+    "location": "INTAKE H8",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-09T03:22:43",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-09T03:23:13",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "LONGVIEW DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-09T03:23:43",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T03:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "177511-20261108215455",
     "inmateNumber": "177511",
     "name": "GUZMAN, BRITTANY SKYE",

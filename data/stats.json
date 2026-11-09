@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T03:35:16",
+  "generatedAt": "2026-11-09T03:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 556,
-    "bookingsObserved": 390,
+    "bookingsTracked": 557,
+    "bookingsObserved": 391,
     "releasesObserved": 395,
-    "inCustody": 161,
-    "uniquePeople": 524
+    "inCustody": 162,
+    "uniquePeople": 525
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DWLS 3RD",
       "count": 101,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 93,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -198,16 +198,16 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 35,
-      "pct": 2.6
-    },
-    {
-      "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 25,
-      "pct": 1.9
+      "count": 36,
+      "pct": 2.7
     },
     {
       "name": "RESISTING ARREST",
+      "count": 26,
+      "pct": 1.9
+    },
+    {
+      "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 25,
       "pct": 1.9
     },
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 216,
-      "pct": 39.1,
+      "count": 217,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 108,
-      "pct": 19.6,
+      "pct": 19.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 61,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -328,17 +328,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 430,
-      "pct": 32.2
+      "pct": 32.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 379,
-      "pct": 28.3
+      "count": 382,
+      "pct": 28.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 176,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -348,7 +348,7 @@
     {
       "name": "DOC COURT",
       "count": 73,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 18
+      "pct": 17.9
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.9
+      "pct": 14.8
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 19,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 30,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 8,
-      "pct": 5
+      "count": 9,
+      "pct": 5.6
     },
     {
       "name": "WSH",
@@ -469,14 +469,14 @@
       }
     ],
     "currentMedianDaysHeld": 21.1,
-    "currentLongestDaysHeld": 515.4
+    "currentLongestDaysHeld": 515.5
   },
   "bond": {
-    "withBond": 113,
+    "withBond": 114,
     "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4547250
+    "totalBond": 4548750
   },
   "chargesPerBooking": 2.4
 }
