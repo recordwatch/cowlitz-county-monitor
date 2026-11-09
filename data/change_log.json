@@ -78,7 +78,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0053024",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 250
       },
@@ -89,7 +89,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0104659",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 250
       },
@@ -100,7 +100,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294217",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 250
       },
@@ -111,7 +111,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294217",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -122,7 +122,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294729",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 250
       },
@@ -133,7 +133,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0294735",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
@@ -158,10 +158,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0431319",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -185,7 +185,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436068",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -207,7 +207,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436068",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -224,7 +224,7 @@
     "bookedAt": "2026-11-08T21:54:55",
     "location": "INTAKE H3",
     "arrestingAgency": "CRPD",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -234,8 +234,8 @@
         "warrantNumber": "2610072408",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       }
     ],
     "status": "in_custody",
@@ -862,7 +862,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0240605",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -873,7 +873,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0240605",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -884,7 +884,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0695861",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1165,7 +1165,7 @@
     "bookedAt": "2026-11-06T01:21:18",
     "location": "A11",
     "arrestingAgency": "CRPD",
-    "bondTotal": 10000,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "DUI - FELONY",
@@ -1175,8 +1175,8 @@
         "warrantNumber": "2610072708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "DWLS 1ST",
