@@ -577,7 +577,7 @@
     "inmateNumber": "151598",
     "name": "GLOR, BRUCE MICHAEL",
     "bookedAt": "2026-11-09T14:19:42",
-    "location": "A21",
+    "location": "A25",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -5383,7 +5383,7 @@
     "inmateNumber": "102163",
     "name": "WELCH, DAKOTA VICTOR",
     "bookedAt": "2026-10-30T09:11:20",
-    "location": "G-G34",
+    "location": "G-G43",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -6522,7 +6522,7 @@
     "inmateNumber": "11107",
     "name": "VIEIRA, LADON MORDACI",
     "bookedAt": "2026-10-28T09:52:23",
-    "location": "G-G02",
+    "location": "G-G45",
     "arrestingAgency": "LVPD",
     "bondTotal": 5000,
     "charges": [
