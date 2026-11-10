@@ -1,5 +1,64 @@
 [
   {
+    "id": "261336-20261109174003",
+    "inmateNumber": "261336",
+    "name": "OUELLETTE, MARCUS ANTHONY",
+    "bookedAt": "2026-11-09T17:40:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 4500,
+    "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-09T17:40:44",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0612207",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-09T17:41:29",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0612207",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-09T17:42:25",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0355477",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-09T17:43:42",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0355477",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T18:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "574-20261109161718",
     "inmateNumber": "574",
     "name": "MCKINNEY, JAMES ROBERT",

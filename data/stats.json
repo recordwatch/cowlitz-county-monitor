@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T17:58:22",
+  "generatedAt": "2026-11-09T18:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 564,
-    "bookingsObserved": 398,
+    "bookingsTracked": 565,
+    "bookingsObserved": 399,
     "releasesObserved": 410,
-    "inCustody": 154,
-    "uniquePeople": 531
+    "inCustody": 155,
+    "uniquePeople": 532
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 8,
+      "booked": 9,
       "released": 15
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 179,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "DWLS 3RD",
-      "count": 106,
-      "pct": 7.8
+      "count": 107,
+      "pct": 7.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 51,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -199,15 +199,15 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 36,
-      "pct": 2.7
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 26,
-      "pct": 1.9
+      "pct": 2.6
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 28,
+      "pct": 2.1
+    },
+    {
+      "name": "RESISTING ARREST",
       "count": 26,
       "pct": 1.9
     },
@@ -239,12 +239,12 @@
     {
       "name": "FELONY HARASSMENT",
       "count": 17,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "RECKLESS DRIVING",
       "count": 17,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "DISORDERLY CONDUCT",
+      "name": "DWLS 2ND",
       "count": 13,
       "pct": 1
     }
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 219,
-      "pct": 39.1,
+      "count": 220,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 76,
-      "pct": 13.6,
+      "pct": 13.5,
       "label": "Kelso Police"
     },
     {
@@ -328,22 +328,22 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 435,
-      "pct": 32
+      "pct": 31.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 385,
+      "count": 387,
       "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 176,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 150,
-      "pct": 11
+      "count": 152,
+      "pct": 11.2
     },
     {
       "name": "DOC COURT",
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 23.9,
-    "currentLongestDaysHeld": 516
+    "currentMedianDaysHeld": 23.8,
+    "currentLongestDaysHeld": 516.1
   },
   "bond": {
-    "withBond": 108,
+    "withBond": 109,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4465750
+    "totalBond": 4470250
   },
   "chargesPerBooking": 2.4
 }
