@@ -1,5 +1,31 @@
 [
   {
+    "id": "122779-20261109235031",
+    "inmateNumber": "122779",
+    "name": "RIDLEY RANGE, SHANE MICHAEL",
+    "bookedAt": "2026-11-09T23:50:31",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-09T23:57:45",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0261999",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T00:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "352518-20261109215556",
     "inmateNumber": "352518",
     "name": "GOODRICH, BRYDON TASEE",
