@@ -78,7 +78,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423316",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -89,7 +89,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423316",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -115,7 +115,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891873",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -126,7 +126,7 @@
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891873",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -137,7 +137,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0391124",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -148,7 +148,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0391124",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -159,7 +159,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0439484",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -170,7 +170,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0439484",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -244,7 +244,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0261999",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -270,7 +270,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0829452",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -281,7 +281,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5a0936085",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -292,7 +292,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0169283",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -303,7 +303,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6a0300242",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -329,7 +329,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0669557",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -355,7 +355,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0458399",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -381,7 +381,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0612207",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -392,7 +392,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0612207",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -403,7 +403,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355477",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -414,7 +414,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0355477",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -439,10 +439,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338225",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -492,7 +492,7 @@
         "court": "DRUG COURT",
         "warrantNumber": "2510001508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -503,7 +503,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "2A0301908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -555,7 +555,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2210099608",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -4298,7 +4298,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2210097108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
