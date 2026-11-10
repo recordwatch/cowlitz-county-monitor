@@ -301,9 +301,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T22:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T16:35:20",
     "baseline": false
   },
   {
@@ -16389,7 +16389,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0923470",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
