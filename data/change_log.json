@@ -372,7 +372,7 @@
     "bookedAt": "2026-11-09T17:40:03",
     "location": "B21",
     "arrestingAgency": "LVPD",
-    "bondTotal": 4500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DWLS 2ND",
@@ -383,7 +383,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 1000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -566,7 +566,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0413771",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       }
