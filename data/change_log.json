@@ -1,17 +1,43 @@
 [
   {
+    "id": "237554-20261110140627",
+    "inmateNumber": "237554",
+    "name": "HANBY, MORGAN MARLENE",
+    "bookedAt": "2026-11-10T14:06:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-10T14:14:34",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00038208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T14:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "251568-20261110134755",
     "inmateNumber": "251568",
     "name": "ARMSTRONG, JOHNNY LEE",
     "bookedAt": "2026-11-10T13:47:55",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "location": "B12",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
-        "description": "DWLS 3RD",
+        "description": "DWLS 2ND",
         "offenseDate": "2026-11-10T13:52:55",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "1A0205310",
         "disposition": null,
