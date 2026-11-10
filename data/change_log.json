@@ -1,5 +1,19 @@
 [
   {
+    "id": "352518-20261109215556",
+    "inmateNumber": "352518",
+    "name": "GOODRICH, BRYDON TASEE",
+    "bookedAt": "2026-11-09T21:55:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T22:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "348686-20261109191907",
     "inmateNumber": "348686",
     "name": "DEATON, RAMON MICHAEL",
