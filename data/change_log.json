@@ -1,5 +1,33 @@
 [
   {
+    "id": "21157-20261110115805",
+    "inmateNumber": "21157",
+    "name": "LAYTON, JEREMY DEAN",
+    "bookedAt": "2026-11-10T11:58:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T12:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "9605-20261110115225",
+    "inmateNumber": "9605",
+    "name": "HANLEY, LARRY ALAN",
+    "bookedAt": "2026-11-10T11:52:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T12:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4433-20261110110721",
     "inmateNumber": "4433",
     "name": "ANDERSON, ANTHONY ADAM",
