@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:15:20",
+  "generatedAt": "2026-11-10T09:29:00",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 573,
@@ -212,12 +212,12 @@
       "pct": 1.9
     },
     {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 24,
-      "pct": 1.7
+      "name": "CRIM TRESPASS 2ND",
+      "count": 25,
+      "pct": 1.8
     },
     {
-      "name": "CRIM TRESPASS 2ND",
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 24,
       "pct": 1.7
     },
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 222,
-      "pct": 39,
+      "count": 223,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 79,
-      "pct": 13.9,
+      "count": 78,
+      "pct": 13.7,
       "label": "Kelso Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 392,
+      "count": 393,
       "pct": 28.4
     },
     {
@@ -343,7 +343,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 161,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "DOC COURT",
@@ -476,7 +476,7 @@
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4489750
+    "totalBond": 4490250
   },
   "chargesPerBooking": 2.4
 }
