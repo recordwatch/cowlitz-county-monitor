@@ -4,7 +4,7 @@
     "inmateNumber": "348686",
     "name": "DEATON, RAMON MICHAEL",
     "bookedAt": "2026-11-09T19:19:07",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -33,7 +33,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-11-09T19:54:46",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0458399",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T19:55:17",
     "releasedAt": null,
