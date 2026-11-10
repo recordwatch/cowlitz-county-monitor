@@ -265,7 +265,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0669557",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -291,7 +291,7 @@
         "arrestingAgency": "CCCD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0458399",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -7694,7 +7694,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "G-G43",
+    "location": "G-G45",
     "arrestingAgency": "CCSO",
     "bondTotal": 30000,
     "charges": [
@@ -10251,9 +10251,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-19T18:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T07:55:18",
     "baseline": false
   },
   {
@@ -16287,9 +16287,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T07:55:18",
     "baseline": true
   },
   {
