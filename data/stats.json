@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T01:55:19",
+  "generatedAt": "2026-11-10T02:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 569,
-    "bookingsObserved": 403,
+    "bookingsTracked": 570,
+    "bookingsObserved": 404,
     "releasesObserved": 412,
-    "inCustody": 157,
-    "uniquePeople": 536
+    "inCustody": 158,
+    "uniquePeople": 537
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 183,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 84,
-      "pct": 6.1
+      "count": 85,
+      "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -214,12 +214,12 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 24,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 24,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 221,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 110,
-      "pct": 19.5,
+      "pct": 19.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 17,
-      "pct": 3,
+      "count": 18,
+      "pct": 3.2,
       "label": "Woodland Police"
     },
     {
@@ -327,18 +327,18 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 435,
-      "pct": 31.8
+      "count": 438,
+      "pct": 31.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 390,
-      "pct": 28.5
+      "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 176,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "C",
@@ -404,8 +404,8 @@
     },
     {
       "name": "D",
-      "count": 9,
-      "pct": 5.7
+      "count": 10,
+      "pct": 6.3
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "name": "H",
@@ -468,12 +468,12 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 22.7,
+    "currentMedianDaysHeld": 22.4,
     "currentLongestDaysHeld": 516.4
   },
   "bond": {
     "withBond": 109,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4480750

@@ -1,5 +1,53 @@
 [
   {
+    "id": "361707-20261110012928",
+    "inmateNumber": "361707",
+    "name": "GARCIA-AVILES, BRANDON",
+    "bookedAt": "2026-11-10T01:29:28",
+    "location": "D12",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-10T01:30:40",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CARRYING WEAPON W/O PERMIT",
+        "offenseDate": "2026-11-10T01:31:27",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-10T01:30:56",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T02:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "122779-20261109235031",
     "inmateNumber": "122779",
     "name": "RIDLEY RANGE, SHANE MICHAEL",
