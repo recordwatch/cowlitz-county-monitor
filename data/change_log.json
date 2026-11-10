@@ -5,9 +5,21 @@
     "name": "LAYTON, JEREMY DEAN",
     "bookedAt": "2026-11-10T11:58:05",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-10T12:41:11",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2010079708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T12:35:18",
     "releasedAt": null,
@@ -34,9 +46,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T12:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T13:15:21",
     "baseline": false
   },
   {
@@ -522,9 +534,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T16:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T13:15:21",
     "baseline": false
   },
   {
@@ -11505,7 +11517,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
