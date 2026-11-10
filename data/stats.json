@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:35:18",
+  "generatedAt": "2026-11-10T12:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 577,
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 395,
-      "pct": 28.5
+      "count": 396,
+      "pct": 28.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 21.4
+      "pct": 21.3
     },
     {
       "name": "B",
       "count": 25,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.7
+      "pct": 10.6
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 20,
-      "pct": 12.6
+      "pct": 12.5
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.5
+      "count": 5,
+      "pct": 3.1
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 516.8
   },
   "bond": {
-    "withBond": 112,
-    "noBond": 49,
+    "withBond": 113,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4474250
+    "totalBond": 4475250
   },
   "chargesPerBooking": 2.4
 }

@@ -18,10 +18,22 @@
     "inmateNumber": "9605",
     "name": "HANLEY, LARRY ALAN",
     "bookedAt": "2026-11-10T11:52:25",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCCD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 1ST",
+        "offenseDate": "2026-11-10T12:09:53",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0252381",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T12:35:18",
     "releasedAt": null,
