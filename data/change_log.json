@@ -1,5 +1,31 @@
 [
   {
+    "id": "7444-20261110082746",
+    "inmateNumber": "7444",
+    "name": "CONNATSER, ASHLEY ROSE",
+    "bookedAt": "2026-11-10T08:27:46",
+    "location": "E23",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-10T08:30:47",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409041",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T09:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "296137-20261110051221",
     "inmateNumber": "296137",
     "name": "BUENO AGUILERA, BRYAN",
