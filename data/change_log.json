@@ -5,9 +5,21 @@
     "name": "DEATON, RAMON MICHAEL",
     "bookedAt": "2026-11-09T19:19:07",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-09T19:41:33",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0669557",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-09T19:55:17",
     "releasedAt": null,
@@ -388,9 +400,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T03:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T20:15:21",
     "baseline": false
   },
   {
