@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T03:55:18",
+  "generatedAt": "2026-11-10T04:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 571,
@@ -168,13 +168,13 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 107,
-      "pct": 7.8
+      "count": 110,
+      "pct": 8
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 93,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "DOC HOLD",
@@ -203,8 +203,8 @@
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 28,
-      "pct": 2
+      "count": 31,
+      "pct": 2.2
     },
     {
       "name": "RESISTING ARREST",
@@ -328,12 +328,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 438,
-      "pct": 31.9
+      "pct": 31.8
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 390,
-      "pct": 28.4
+      "pct": 28.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 156,
-      "pct": 11.4
+      "count": 160,
+      "pct": 11.6
     },
     {
       "name": "DOC COURT",
@@ -357,8 +357,8 @@
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
-      "count": 25,
-      "pct": 1.8
+      "count": 27,
+      "pct": 2
     },
     {
       "name": "DRUG COURT",
@@ -468,15 +468,15 @@
         "count": 11
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 22.2,
     "currentLongestDaysHeld": 516.5
   },
   "bond": {
-    "withBond": 109,
-    "noBond": 50,
+    "withBond": 110,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4480750
+    "totalBond": 4488250
   },
   "chargesPerBooking": 2.4
 }

@@ -6,8 +6,75 @@
     "bookedAt": "2026-11-10T03:15:41",
     "location": "INTAKE H1",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 7500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-10T03:29:25",
+        "arrestingAgency": "KEPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0891873",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-10T03:30:04",
+        "arrestingAgency": "KEPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "5A0891873",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-10T03:27:21",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0391124",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-10T03:28:00",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0391124",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-10T03:25:29",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0439484",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-10T03:26:21",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0439484",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T03:55:18",
     "releasedAt": null,
