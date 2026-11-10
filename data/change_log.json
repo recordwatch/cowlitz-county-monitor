@@ -1,5 +1,33 @@
 [
   {
+    "id": "348686-20261109191907",
+    "inmateNumber": "348686",
+    "name": "DEATON, RAMON MICHAEL",
+    "bookedAt": "2026-11-09T19:19:07",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T19:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "110060-20261109191329",
+    "inmateNumber": "110060",
+    "name": "THOMPSON RISMOEN, BRYAN MATTHEW",
+    "bookedAt": "2026-11-09T19:13:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T19:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "261336-20261109174003",
     "inmateNumber": "261336",
     "name": "OUELLETTE, MARCUS ANTHONY",
