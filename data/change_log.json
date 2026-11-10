@@ -166,10 +166,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423316",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -177,10 +177,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423316",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -494,7 +494,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1500
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -504,8 +504,8 @@
         "warrantNumber": "6A0355477",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -591,7 +591,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "2A0301908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -609,7 +609,7 @@
     "bookedAt": "2026-11-09T11:00:08",
     "location": "E12",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -619,8 +619,8 @@
         "warrantNumber": "2610072908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -11553,9 +11553,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-17T00:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T13:35:17",
     "baseline": false
   },
   {
@@ -16541,7 +16541,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2110023608",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -16552,7 +16552,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0290711",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       },
