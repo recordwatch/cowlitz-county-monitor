@@ -1,5 +1,19 @@
 [
   {
+    "id": "60302-20261110031541",
+    "inmateNumber": "60302",
+    "name": "FAHN, MICHAEL BRANDON",
+    "bookedAt": "2026-11-10T03:15:41",
+    "location": "INTAKE H1",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T03:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361707-20261110012928",
     "inmateNumber": "361707",
     "name": "GARCIA-AVILES, BRANDON",
