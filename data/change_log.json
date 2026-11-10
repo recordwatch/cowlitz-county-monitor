@@ -7731,7 +7731,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "G-G45",
+    "location": "G-G48",
     "arrestingAgency": "CCSO",
     "bondTotal": 30000,
     "charges": [
@@ -21879,12 +21879,12 @@
     "bondTotal": 500000,
     "charges": [
       {
-        "description": "CONTEMPT OF COURT",
+        "description": "POSS W/INTENT",
         "offenseDate": "2026-07-10T10:12:32",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510048308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 500000

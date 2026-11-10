@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T09:35:17",
+  "generatedAt": "2026-11-10T09:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 573,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 51,
-      "pct": 3.7
+      "count": 50,
+      "pct": 3.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
