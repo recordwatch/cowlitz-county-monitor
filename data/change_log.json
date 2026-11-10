@@ -4,7 +4,7 @@
     "inmateNumber": "261336",
     "name": "OUELLETTE, MARCUS ANTHONY",
     "bookedAt": "2026-11-09T17:40:03",
-    "location": "INTAKE H1",
+    "location": "B11",
     "arrestingAgency": "LVPD",
     "bondTotal": 4500,
     "charges": [
@@ -1456,9 +1456,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-06T00:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-09T19:35:18",
     "baseline": false
   },
   {
