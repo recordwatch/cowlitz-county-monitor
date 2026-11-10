@@ -4,7 +4,7 @@
     "inmateNumber": "237554",
     "name": "HANBY, MORGAN MARLENE",
     "bookedAt": "2026-11-10T14:06:27",
-    "location": "1-PENDING BOOKING",
+    "location": "E20",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "251568",
     "name": "ARMSTRONG, JOHNNY LEE",
     "bookedAt": "2026-11-10T13:47:55",
-    "location": "B12",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -409,7 +409,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "CARRYING WEAPON W/O PERMIT",
