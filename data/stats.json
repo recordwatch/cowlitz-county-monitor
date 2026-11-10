@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T09:55:19",
+  "generatedAt": "2026-11-10T10:15:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 573,
-    "bookingsObserved": 407,
+    "bookingsTracked": 574,
+    "bookingsObserved": 408,
     "releasesObserved": 416,
-    "inCustody": 157,
-    "uniquePeople": 540
+    "inCustody": 158,
+    "uniquePeople": 541
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 4,
+      "booked": 5,
       "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 184,
-      "pct": 13.3
+      "count": 185,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 85,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 223,
-      "pct": 39.2,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 78,
-      "pct": 13.7,
+      "count": 79,
+      "pct": 13.9,
       "label": "Kelso Police"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 176,
-      "pct": 12.7
+      "count": 177,
+      "pct": 12.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 56,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 20.9,
+    "currentMedianDaysHeld": 20.8,
     "currentLongestDaysHeld": 516.7
   },
   "bond": {
-    "withBond": 111,
+    "withBond": 112,
     "noBond": 46,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4490250
+    "totalBond": 4491250
   },
   "chargesPerBooking": 2.4
 }
