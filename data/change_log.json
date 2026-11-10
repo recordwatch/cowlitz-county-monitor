@@ -1,5 +1,68 @@
 [
   {
+    "id": "251568-20261110134755",
+    "inmateNumber": "251568",
+    "name": "ARMSTRONG, JOHNNY LEE",
+    "bookedAt": "2026-11-10T13:47:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-10T13:52:55",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "1A0205310",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T14:29:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "353779-20261110134330",
+    "inmateNumber": "353779",
+    "name": "HILLSTEAD, ANDREW VANNOY",
+    "bookedAt": "2026-11-10T13:43:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-10T13:55:47",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0050230",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-10T13:57:12",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0050230",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T14:29:54",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "21157-20261110115805",
     "inmateNumber": "21157",
     "name": "LAYTON, JEREMY DEAN",
@@ -57,13 +120,13 @@
     "name": "ANDERSON, ANTHONY ADAM",
     "bookedAt": "2026-11-10T11:07:21",
     "location": "A11",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-10T11:15:30",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0334517",
         "disposition": null,
@@ -74,7 +137,7 @@
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-11-10T11:14:39",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0283792",
         "disposition": null,
@@ -93,7 +156,7 @@
     "inmateNumber": "222711",
     "name": "SHIELDS, TRENTON MICHAEL",
     "bookedAt": "2026-11-10T09:36:23",
-    "location": "A10",
+    "location": "G-G15",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -226,7 +289,7 @@
     "inmateNumber": "60302",
     "name": "FAHN, MICHAEL BRANDON",
     "bookedAt": "2026-11-10T03:15:41",
-    "location": "A14",
+    "location": "G-G09",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
@@ -355,7 +418,7 @@
     "inmateNumber": "122779",
     "name": "RIDLEY RANGE, SHANE MICHAEL",
     "bookedAt": "2026-11-09T23:50:31",
-    "location": "A14",
+    "location": "G-G11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -466,7 +529,7 @@
     "inmateNumber": "110060",
     "name": "THOMPSON RISMOEN, BRYAN MATTHEW",
     "bookedAt": "2026-11-09T19:13:29",
-    "location": "B22",
+    "location": "G-G35",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -666,7 +729,7 @@
     "inmateNumber": "25294",
     "name": "FISHER, DANIEL JAMES",
     "bookedAt": "2026-11-09T09:45:15",
-    "location": "A13",
+    "location": "G-G13",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -1673,7 +1736,7 @@
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
     "bookedAt": "2026-11-06T10:05:43",
-    "location": "B12",
+    "location": "G-G01",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -1799,7 +1862,7 @@
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
     "bookedAt": "2026-11-06T01:21:18",
-    "location": "A11",
+    "location": "G-G17",
     "arrestingAgency": "CRPD",
     "bondTotal": 20000,
     "charges": [
@@ -3400,7 +3463,7 @@
     "inmateNumber": "332574",
     "name": "MUTUK, SILENT",
     "bookedAt": "2026-11-03T14:58:20",
-    "location": "B24",
+    "location": "G-G07",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -5245,7 +5308,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510018608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
