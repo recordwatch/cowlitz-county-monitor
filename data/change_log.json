@@ -1,5 +1,31 @@
 [
   {
+    "id": "574-20261109161718",
+    "inmateNumber": "574",
+    "name": "MCKINNEY, JAMES ROBERT",
+    "bookedAt": "2026-11-09T16:17:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-09T16:20:20",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338225",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-09T16:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "151598-20261109141942",
     "inmateNumber": "151598",
     "name": "GLOR, BRUCE MICHAEL",
