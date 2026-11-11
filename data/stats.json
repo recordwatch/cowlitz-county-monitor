@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:58:01",
+  "generatedAt": "2026-11-11T13:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 595,
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 232,
-      "pct": 39.3,
+      "count": 233,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 113,
-      "pct": 19.2,
+      "pct": 19.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 83,
-      "pct": 14.1,
+      "pct": 14,
       "label": "Kelso Police"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 18,
-      "pct": 3.1,
+      "pct": 3,
       "label": "Woodland Police"
     },
     {
@@ -469,7 +469,7 @@
       }
     ],
     "currentMedianDaysHeld": 21.7,
-    "currentLongestDaysHeld": 517.8
+    "currentLongestDaysHeld": 517.9
   },
   "bond": {
     "withBond": 111,
