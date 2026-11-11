@@ -6,8 +6,20 @@
     "bookedAt": "2026-11-10T17:33:04",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-10T18:47:56",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0436668",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T18:10:19",
     "releasedAt": null,
@@ -118,7 +130,7 @@
     "inmateNumber": "321146",
     "name": "SWOFFORD, JOSHUA JAMES",
     "bookedAt": "2026-11-10T16:08:07",
-    "location": "INTAKE H6",
+    "location": "D26",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1192,9 +1204,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-08T19:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T19:35:17",
     "baseline": false
   },
   {
