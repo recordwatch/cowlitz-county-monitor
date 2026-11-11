@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T08:15:20",
+  "generatedAt": "2026-11-11T08:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 592,
-    "bookingsObserved": 426,
+    "bookingsTracked": 593,
+    "bookingsObserved": 427,
     "releasesObserved": 438,
-    "inCustody": 154,
-    "uniquePeople": 556
+    "inCustody": 155,
+    "uniquePeople": 557
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 3,
+      "booked": 4,
       "released": 6
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 191,
-      "pct": 13.6
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
@@ -212,6 +212,11 @@
       "pct": 1.8
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 25,
+      "pct": 1.8
+    },
+    {
       "name": "CRIM TRESPASS 2ND",
       "count": 25,
       "pct": 1.8
@@ -220,11 +225,6 @@
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 24,
       "pct": 1.7
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 23,
-      "pct": 1.6
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 232,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 81,
-      "pct": 13.8,
+      "count": 82,
+      "pct": 13.9,
       "label": "Kelso Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 25,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "Washington State Patrol"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 439,
-      "pct": 31.2
+      "pct": 31.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 166,
-      "pct": 11.8
+      "count": 168,
+      "pct": 11.9
     },
     {
       "name": "DOC COURT",
@@ -468,15 +468,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 21.7,
-    "currentLongestDaysHeld": 517.6
+    "currentMedianDaysHeld": 21.6,
+    "currentLongestDaysHeld": 517.7
   },
   "bond": {
-    "withBond": 109,
+    "withBond": 110,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4470000
+    "totalBond": 4472000
   },
   "chargesPerBooking": 2.4
 }

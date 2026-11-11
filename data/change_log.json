@@ -1,5 +1,42 @@
 [
   {
+    "id": "230007-20261111074730",
+    "inmateNumber": "230007",
+    "name": "SWORD, ANTHONY MICHAEL",
+    "bookedAt": "2026-11-11T07:47:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-11T08:00:00",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409042",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-11T08:01:38",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409042",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T08:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "105105-20261111050547",
     "inmateNumber": "105105",
     "name": "MCCLURE, AUSTIN LEE",
