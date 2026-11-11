@@ -4,9 +4,9 @@
     "inmateNumber": "4721",
     "name": "PFEIFER, BRANT WENDELIN",
     "bookedAt": "2026-11-11T08:51:32",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -18,6 +18,28 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 3000
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-11T09:05:17",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "26CR82010",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-11T09:06:39",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "26CR91886",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
       }
     ],
     "status": "in_custody",
