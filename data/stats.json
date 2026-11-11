@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T05:35:16",
+  "generatedAt": "2026-11-11T05:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 591,
-    "bookingsObserved": 425,
-    "releasesObserved": 434,
-    "inCustody": 157,
-    "uniquePeople": 555
+    "bookingsTracked": 592,
+    "bookingsObserved": 426,
+    "releasesObserved": 436,
+    "inCustody": 156,
+    "uniquePeople": 556
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 2,
-      "released": 2
+      "booked": 3,
+      "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 191,
+      "count": 192,
       "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
       "count": 112,
-      "pct": 8
+      "pct": 7.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 50,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 231,
-      "pct": 39.4,
+      "count": 232,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 113,
-      "pct": 19.3,
+      "pct": 19.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 405,
+      "count": 406,
       "pct": 28.8
     },
     {
@@ -390,37 +390,37 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 19.1
+      "pct": 19.2
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 13.4
+      "count": 20,
+      "pct": 12.8
     },
     {
       "name": "C",
       "count": 17,
-      "pct": 10.8
+      "pct": 10.9
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 7
+      "pct": 7.1
     },
     {
       "name": "E",
-      "count": 17,
-      "pct": 10.8
+      "count": 16,
+      "pct": 10.3
     },
     {
       "name": "F",
       "count": 4,
-      "pct": 2.5
+      "pct": 2.6
     },
     {
       "name": "G",
       "count": 35,
-      "pct": 22.3
+      "pct": 22.4
     },
     {
       "name": "H",
@@ -429,17 +429,17 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.2
+      "count": 6,
+      "pct": 3.8
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 7
+      "pct": 7.1
     }
   ],
   "stay": {
-    "releasedCount": 434,
+    "releasedCount": 436,
     "medianDays": 2,
     "meanDays": 12.8,
     "buckets": [
@@ -453,7 +453,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 37
+        "count": 39
       },
       {
         "label": "1–4 weeks",
@@ -468,15 +468,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 21.5,
     "currentLongestDaysHeld": 517.5
   },
   "bond": {
-    "withBond": 108,
-    "noBond": 49,
+    "withBond": 109,
+    "noBond": 47,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4469000
+    "totalBond": 4470000
   },
   "chargesPerBooking": 2.4
 }

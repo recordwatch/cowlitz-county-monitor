@@ -1,5 +1,31 @@
 [
   {
+    "id": "105105-20261111050547",
+    "inmateNumber": "105105",
+    "name": "MCCLURE, AUSTIN LEE",
+    "bookedAt": "2026-11-11T05:05:47",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-11T05:14:50",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0423318",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T05:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "165564-20261111032308",
     "inmateNumber": "165564",
     "name": "COGDILL, THOMAS EARL RUDOLPH",
@@ -2759,9 +2785,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T15:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T05:55:17",
     "baseline": false
   },
   {
@@ -2973,9 +2999,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T11:35:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T05:55:17",
     "baseline": false
   },
   {
