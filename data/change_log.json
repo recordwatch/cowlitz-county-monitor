@@ -1,5 +1,31 @@
 [
   {
+    "id": "165627-20261110153208",
+    "inmateNumber": "165627",
+    "name": "MASON, NICHOLAS JAMES",
+    "bookedAt": "2026-11-10T15:32:08",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-10T15:36:10",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0412985",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T16:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "237554-20261110140627",
     "inmateNumber": "237554",
     "name": "HANBY, MORGAN MARLENE",
@@ -434,9 +460,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T02:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T16:15:19",
     "baseline": false
   },
   {
