@@ -1,5 +1,45 @@
 [
   {
+    "id": "361772-20261111133115",
+    "inmateNumber": "361772",
+    "name": "JIMENEZ ROJAS, MARTIN",
+    "bookedAt": "2026-11-11T13:31:15",
+    "location": "INTAKE H8",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-11T13:32:29",
+        "arrestingAgency": "CCCD",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "COURTESY HOLD",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T14:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "69506-20261111132601",
+    "inmateNumber": "69506",
+    "name": "ZWIEFELHOFER, RICHARD STARKEY",
+    "bookedAt": "2026-11-11T13:26:01",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T14:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "324708-20261111120733",
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
