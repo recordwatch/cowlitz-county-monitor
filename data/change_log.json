@@ -1,5 +1,31 @@
 [
   {
+    "id": "4721-20261111085132",
+    "inmateNumber": "4721",
+    "name": "PFEIFER, BRANT WENDELIN",
+    "bookedAt": "2026-11-11T08:51:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-11T09:01:59",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "26CR82010",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T09:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "230007-20261111074730",
     "inmateNumber": "230007",
     "name": "SWORD, ANTHONY MICHAEL",

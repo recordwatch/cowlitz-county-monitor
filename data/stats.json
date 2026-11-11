@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T09:15:18",
+  "generatedAt": "2026-11-11T09:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 593,
-    "bookingsObserved": 427,
+    "bookingsTracked": 594,
+    "bookingsObserved": 428,
     "releasesObserved": 438,
-    "inCustody": 155,
-    "uniquePeople": 557
+    "inCustody": 156,
+    "uniquePeople": 558
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 4,
+      "booked": 5,
       "released": 6
     }
   ],
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 37,
-      "pct": 2.6
+      "count": 38,
+      "pct": 2.7
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 232,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "KEPD",
-      "count": 82,
-      "pct": 13.9,
+      "count": 83,
+      "pct": 14.1,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 64,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 168,
-      "pct": 11.9
+      "count": 169,
+      "pct": 12
     },
     {
       "name": "DOC COURT",
@@ -368,7 +368,7 @@
     {
       "name": "DOC CONTRACT COURT",
       "count": 12,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 517.7
   },
   "bond": {
-    "withBond": 110,
+    "withBond": 111,
     "noBond": 45,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4472000
+    "totalBond": 4475000
   },
   "chargesPerBooking": 2.4
 }
