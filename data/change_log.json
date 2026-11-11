@@ -1,5 +1,19 @@
 [
   {
+    "id": "165564-20261111032308",
+    "inmateNumber": "165564",
+    "name": "COGDILL, THOMAS EARL RUDOLPH",
+    "bookedAt": "2026-11-11T03:23:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T03:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361753-20261111030226",
     "inmateNumber": "361753",
     "name": "SHEVCHUK, RUSLAN VLADIMIROVICH",
@@ -20,9 +34,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T03:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T03:55:17",
     "baseline": false
   },
   {
