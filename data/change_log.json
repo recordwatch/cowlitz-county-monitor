@@ -1119,9 +1119,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T05:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T21:35:17",
     "baseline": false
   },
   {
@@ -3745,7 +3745,7 @@
     "inmateNumber": "332574",
     "name": "MUTUK, SILENT",
     "bookedAt": "2026-11-03T14:58:20",
-    "location": "G-G07",
+    "location": "G-G08",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
