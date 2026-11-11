@@ -52,7 +52,7 @@
     "inmateNumber": "230007",
     "name": "SWORD, ANTHONY MICHAEL",
     "bookedAt": "2026-11-11T07:47:30",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -115,7 +115,7 @@
     "inmateNumber": "165564",
     "name": "COGDILL, THOMAS EARL RUDOLPH",
     "bookedAt": "2026-11-11T03:23:08",
-    "location": "INTAKE H1",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
