@@ -4,10 +4,33 @@
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
     "bookedAt": "2026-11-11T12:07:33",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-11T13:01:42",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2510082808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-11T12:58:20",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0335459",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-11T12:58:01",
     "releasedAt": null,
@@ -10138,7 +10161,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -10160,7 +10183,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
