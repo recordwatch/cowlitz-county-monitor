@@ -56,7 +56,7 @@
     "inmateNumber": "361739",
     "name": "HARRIS, ANJELA IRENE",
     "bookedAt": "2026-11-10T19:04:21",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -108,7 +108,7 @@
     "inmateNumber": "18846",
     "name": "BROWN, MICHAEL NEAL",
     "bookedAt": "2026-11-10T16:54:04",
-    "location": "INTAKE H2",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
