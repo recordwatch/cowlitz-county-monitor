@@ -1061,7 +1061,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -1072,7 +1072,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -1083,7 +1083,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
@@ -1105,7 +1105,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -1116,7 +1116,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -12268,9 +12268,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-16T12:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T21:15:20",
     "baseline": false
   },
   {
