@@ -2,9 +2,9 @@
   {
     "id": "361772-20261111133115",
     "inmateNumber": "361772",
-    "name": "JIMENEZ ROJAS, MARTIN",
+    "name": "JIMENEZ ROJAS, MARTIN IGNACIO",
     "bookedAt": "2026-11-11T13:31:15",
-    "location": "INTAKE H8",
+    "location": "INTAKE H2",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -20,9 +20,9 @@
         "bondAmount": null
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-11-11T14:15:18",
-    "releasedAt": "2026-11-11T14:35:19",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -30,13 +30,25 @@
     "inmateNumber": "69506",
     "name": "ZWIEFELHOFER, RICHARD STARKEY",
     "bookedAt": "2026-11-11T13:26:01",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
-    "status": "released",
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-11T13:56:58",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-11-11T14:15:18",
-    "releasedAt": "2026-11-11T14:35:19",
+    "releasedAt": null,
     "baseline": false
   },
   {
