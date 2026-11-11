@@ -1,5 +1,19 @@
 [
   {
+    "id": "91424-20261110173304",
+    "inmateNumber": "91424",
+    "name": "MCKENNA, KENDRA MICHELLE",
+    "bookedAt": "2026-11-10T17:33:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T18:10:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "18846-20261110165404",
     "inmateNumber": "18846",
     "name": "BROWN, MICHAEL NEAL",
@@ -104,7 +118,7 @@
     "inmateNumber": "321146",
     "name": "SWOFFORD, JOSHUA JAMES",
     "bookedAt": "2026-11-10T16:08:07",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -120,9 +134,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "released",
+    "status": "in_custody",
     "firstSeen": "2026-11-10T16:55:19",
-    "releasedAt": "2026-11-10T17:55:17",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -182,7 +196,7 @@
     "inmateNumber": "251568",
     "name": "ARMSTRONG, JOHNNY LEE",
     "bookedAt": "2026-11-10T13:47:55",
-    "location": "INTAKE H5",
+    "location": "D12",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
