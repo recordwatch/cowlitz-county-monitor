@@ -4,7 +4,7 @@
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
     "bookedAt": "2026-11-11T12:07:33",
-    "location": "INTAKE H1",
+    "location": "E12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -10186,9 +10186,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T11:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-11T13:55:17",
     "baseline": false
   },
   {
