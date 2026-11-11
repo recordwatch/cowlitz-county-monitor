@@ -1,5 +1,19 @@
 [
   {
+    "id": "324708-20261111120733",
+    "inmateNumber": "324708",
+    "name": "HAMAR, ASHLEY ANN",
+    "bookedAt": "2026-11-11T12:07:33",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T12:58:01",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4721-20261111085132",
     "inmateNumber": "4721",
     "name": "PFEIFER, BRANT WENDELIN",
