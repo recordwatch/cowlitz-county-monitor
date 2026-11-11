@@ -1,5 +1,53 @@
 [
   {
+    "id": "11952-20261110163104",
+    "inmateNumber": "11952",
+    "name": "WALL, GARY ALAN",
+    "bookedAt": "2026-11-10T16:31:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-11-10T16:36:35",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0284570",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-10T16:39:26",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0284570",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "USE/DELIVER DRUG PARAPHERNALIA",
+        "offenseDate": "2026-11-10T16:40:25",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0284570",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T17:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "25976-20261110160833",
     "inmateNumber": "25976",
     "name": "BUXTON, GREGG EMANUEL",
@@ -95,7 +143,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -708,9 +756,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T18:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T17:15:19",
     "baseline": false
   },
   {
