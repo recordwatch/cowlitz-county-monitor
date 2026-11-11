@@ -9,15 +9,15 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "description": "POSS W/INTENT",
         "offenseDate": "2026-11-11T05:14:50",
         "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "6A0423318",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
