@@ -1,5 +1,19 @@
 [
   {
+    "id": "205300-20261111151516",
+    "inmateNumber": "205300",
+    "name": "TOMASELLI, JOSEPH BRAYDEN",
+    "bookedAt": "2026-11-11T15:15:16",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T15:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361772-20261111133115",
     "inmateNumber": "361772",
     "name": "JIMENEZ ROJAS, MARTIN IGNACIO",
