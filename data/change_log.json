@@ -4,10 +4,22 @@
     "inmateNumber": "18846",
     "name": "BROWN, MICHAEL NEAL",
     "bookedAt": "2026-11-10T16:54:04",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-10T17:22:02",
+        "arrestingAgency": "LVPD",
+        "court": "LEWIS COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510045721",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T17:35:16",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "11952",
     "name": "WALL, GARY ALAN",
     "bookedAt": "2026-11-10T16:31:04",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -66,7 +78,7 @@
     "inmateNumber": "25976",
     "name": "BUXTON, GREGG EMANUEL",
     "bookedAt": "2026-11-10T16:08:33",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -108,9 +120,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T16:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T17:55:17",
     "baseline": false
   },
   {
@@ -895,7 +907,7 @@
     "inmateNumber": "25294",
     "name": "FISHER, DANIEL JAMES",
     "bookedAt": "2026-11-09T09:45:15",
-    "location": "G-G13",
+    "location": "G-G02",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
