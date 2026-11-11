@@ -1,13 +1,51 @@
 [
   {
+    "id": "84848-20261110193022",
+    "inmateNumber": "84848",
+    "name": "ENNIS, TARA JEAN",
+    "bookedAt": "2026-11-10T19:30:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-10T19:31:47",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0402271",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T20:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "231333-20261110192238",
     "inmateNumber": "231333",
     "name": "APPLEGATE, DANIELLE MARIE",
     "bookedAt": "2026-11-10T19:22:38",
-    "location": "1-PENDING BOOKING",
+    "location": "E13",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-10T19:34:07",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0386568",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-10T19:55:17",
     "releasedAt": null,
@@ -96,7 +134,7 @@
     "inmateNumber": "11952",
     "name": "WALL, GARY ALAN",
     "bookedAt": "2026-11-10T16:31:04",
-    "location": "INTAKE H1",
+    "location": "A14",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -12425,7 +12463,7 @@
     "inmateNumber": "202210",
     "name": "GROMOLL, MARYSSA MARIE",
     "bookedAt": "2026-10-15T22:03:34",
-    "location": "E13",
+    "location": "E11",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
