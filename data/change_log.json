@@ -1,5 +1,19 @@
 [
   {
+    "id": "18846-20261110165404",
+    "inmateNumber": "18846",
+    "name": "BROWN, MICHAEL NEAL",
+    "bookedAt": "2026-11-10T16:54:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-10T17:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "11952-20261110163104",
     "inmateNumber": "11952",
     "name": "WALL, GARY ALAN",
@@ -146,9 +160,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T14:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-10T17:35:16",
     "baseline": false
   },
   {
