@@ -1,5 +1,31 @@
 [
   {
+    "id": "361753-20261111030226",
+    "inmateNumber": "361753",
+    "name": "SHEVCHUK, RUSLAN VLADIMIROVICH",
+    "bookedAt": "2026-11-11T03:02:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE AID/ABET",
+        "offenseDate": "2026-11-11T03:04:10",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00882012",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T03:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "84848-20261110193022",
     "inmateNumber": "84848",
     "name": "ENNIS, TARA JEAN",
