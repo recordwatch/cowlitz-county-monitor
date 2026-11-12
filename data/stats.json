@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:55:19",
+  "generatedAt": "2026-11-12T00:15:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 605,
@@ -9,11 +9,6 @@
     "uniquePeople": 566
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-13",
-      "booked": 16,
-      "released": 20
-    },
     {
       "date": "2026-10-14",
       "booked": 14,
@@ -158,6 +153,11 @@
       "date": "2026-11-11",
       "booked": 16,
       "released": 8
+    },
+    {
+      "date": "2026-11-12",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 18,
-      "pct": 11
+      "count": 19,
+      "pct": 11.6
     },
     {
       "name": "F",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 8,
-      "pct": 4.9
+      "count": 7,
+      "pct": 4.3
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 518.3
   },
   "bond": {
-    "withBond": 113,
-    "noBond": 52,
+    "withBond": 114,
+    "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4484500
+    "totalBond": 4485500
   },
   "chargesPerBooking": 2.4
 }

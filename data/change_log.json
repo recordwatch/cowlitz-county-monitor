@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-11T23:07:59",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION DISTANCE",
@@ -16,8 +16,8 @@
         "warrantNumber": "6A0318864",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -30,7 +30,7 @@
     "inmateNumber": "75847",
     "name": "WHITE, KAILA RICHELLE",
     "bookedAt": "2026-11-11T22:55:14",
-    "location": "INTAKE H8",
+    "location": "E22",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -8951,7 +8951,7 @@
         "arrestingAgency": "KEPD",
         "court": "DRUG COURT",
         "warrantNumber": "2610039708",
-        "disposition": "Dismissed",
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
