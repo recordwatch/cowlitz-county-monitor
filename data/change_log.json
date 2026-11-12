@@ -455,7 +455,7 @@
     "inmateNumber": "205300",
     "name": "TOMASELLI, JOSEPH BRAYDEN",
     "bookedAt": "2026-11-11T15:15:16",
-    "location": "B25",
+    "location": "G-G30",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [
@@ -704,9 +704,9 @@
         "bondAmount": 30000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T05:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T15:35:17",
     "baseline": false
   },
   {
@@ -896,7 +896,7 @@
     "inmateNumber": "11952",
     "name": "WALL, GARY ALAN",
     "bookedAt": "2026-11-10T16:31:04",
-    "location": "A14",
+    "location": "G-G18",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -1163,7 +1163,7 @@
     "inmateNumber": "4433",
     "name": "ANDERSON, ANTHONY ADAM",
     "bookedAt": "2026-11-10T11:07:21",
-    "location": "A11",
+    "location": "G-G40",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -2595,7 +2595,7 @@
     "inmateNumber": "23286",
     "name": "SCHANK, STEVE JAMES",
     "bookedAt": "2026-11-07T00:37:19",
-    "location": "C13",
+    "location": "G-G34",
     "arrestingAgency": "LVPD",
     "bondTotal": 1500,
     "charges": [
