@@ -4,7 +4,7 @@
     "inmateNumber": "39161",
     "name": "OSGOOD, JEFFREY SCOTT",
     "bookedAt": "2026-11-11T20:50:10",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -1351,7 +1351,7 @@
     "inmateNumber": "110060",
     "name": "THOMPSON RISMOEN, BRYAN MATTHEW",
     "bookedAt": "2026-11-09T19:13:29",
-    "location": "F10",
+    "location": "F23",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
