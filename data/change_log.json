@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-11T18:14:01",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0009267",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-11T18:15:18",
     "releasedAt": null,

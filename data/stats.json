@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:35:17",
+  "generatedAt": "2026-11-11T18:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 600,
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 87,
-      "pct": 6.1
+      "count": 88,
+      "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -333,12 +333,12 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 405,
-      "pct": 28.5
+      "pct": 28.4
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 184,
-      "pct": 12.9
+      "count": 185,
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
