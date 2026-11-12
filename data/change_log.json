@@ -1,5 +1,31 @@
 [
   {
+    "id": "300646-20261112094422",
+    "inmateNumber": "300646",
+    "name": "LOPEZ OLMEDO, DAVID",
+    "bookedAt": "2026-11-12T09:44:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-12T09:49:24",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0352158",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T10:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "262599-20261112090417",
     "inmateNumber": "262599",
     "name": "BLACK, ETHAN KURTIS",
@@ -557,10 +583,21 @@
     "charges": [
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-11T09:06:39",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0349527",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-11-11T09:01:59",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "26CR82010",
+        "warrantNumber": "6A0358267",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -571,22 +608,11 @@
         "offenseDate": "2026-11-11T09:05:17",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "26CR82010",
+        "warrantNumber": "6A0358267",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
-      },
-      {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-11-11T09:06:39",
-        "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "26CR91886",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 2000
       }
     ],
     "status": "in_custody",
@@ -1070,7 +1096,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2010079708",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1122,7 +1148,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0334517",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1133,7 +1159,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0283792",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1185,7 +1211,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0879327",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1196,7 +1222,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342723",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -1207,7 +1233,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0342723",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
       },
@@ -1218,7 +1244,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409041",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -1229,7 +1255,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427028",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
