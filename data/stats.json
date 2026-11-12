@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T01:35:17",
+  "generatedAt": "2026-11-12T01:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 605,
-    "bookingsObserved": 439,
+    "bookingsTracked": 606,
+    "bookingsObserved": 440,
     "releasesObserved": 440,
-    "inCustody": 165,
-    "uniquePeople": 566
+    "inCustody": 166,
+    "uniquePeople": 567
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 198,
-      "pct": 13.7
+      "count": 199,
+      "pct": 13.8
     },
     {
       "name": "DWLS 3RD",
@@ -173,13 +173,13 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 100,
-      "pct": 6.9
+      "count": 101,
+      "pct": 7
     },
     {
       "name": "DOC HOLD",
       "count": 96,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "DUI",
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 44,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 238,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 115,
-      "pct": 19.1,
+      "count": 116,
+      "pct": 19.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 34,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 413,
-      "pct": 28.6
+      "count": 415,
+      "pct": 28.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -468,15 +468,15 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 21,
     "currentLongestDaysHeld": 518.4
   },
   "bond": {
-    "withBond": 114,
+    "withBond": 115,
     "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4485500
+    "totalBond": 4487500
   },
   "chargesPerBooking": 2.4
 }
