@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T17:55:18",
+  "generatedAt": "2026-11-11T18:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 599,
-    "bookingsObserved": 433,
+    "bookingsTracked": 600,
+    "bookingsObserved": 434,
     "releasesObserved": 439,
-    "inCustody": 160,
-    "uniquePeople": 561
+    "inCustody": 161,
+    "uniquePeople": 562
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 10,
+      "booked": 11,
       "released": 7
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 235,
-      "pct": 39.5,
+      "count": 236,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 21.5,
-    "currentLongestDaysHeld": 518
+    "currentMedianDaysHeld": 21.3,
+    "currentLongestDaysHeld": 518.1
   },
   "bond": {
     "withBond": 112,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4478500

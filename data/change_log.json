@@ -1,5 +1,19 @@
 [
   {
+    "id": "211058-20261111174207",
+    "inmateNumber": "211058",
+    "name": "COX, ANTHONY LEON",
+    "bookedAt": "2026-11-11T17:42:07",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T18:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361773-20261111152523",
     "inmateNumber": "361773",
     "name": "MCCALIP, CASANDRA MAY",
@@ -558,7 +572,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
