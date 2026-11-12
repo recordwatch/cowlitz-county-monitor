@@ -1,5 +1,31 @@
 [
   {
+    "id": "249584-20261111190253",
+    "inmateNumber": "249584",
+    "name": "WHITMIRE, JONATHAN LEE",
+    "bookedAt": "2026-11-11T19:02:53",
+    "location": "INTAKE H8",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "UNLAWFUL IMPRISONMMT",
+        "offenseDate": "2026-11-11T19:04:34",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "211058-20261111174207",
     "inmateNumber": "211058",
     "name": "COX, ANTHONY LEON",
@@ -419,7 +445,7 @@
     "inmateNumber": "361739",
     "name": "HARRIS, ANJELA IRENE",
     "bookedAt": "2026-11-10T19:04:21",
-    "location": "INTAKE H6",
+    "location": "D26",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6583,7 +6609,7 @@
     "inmateNumber": "122933",
     "name": "KNIGHT, TYSON MICHAEL",
     "bookedAt": "2026-10-29T21:18:35",
-    "location": "G-G21",
+    "location": "INTAKE H1",
     "arrestingAgency": "CRPD",
     "bondTotal": 2500,
     "charges": [
@@ -8587,7 +8613,7 @@
     "inmateNumber": "339276",
     "name": "PEARSON, COLBY THEODORE",
     "bookedAt": "2026-10-25T09:52:05",
-    "location": "G-G48",
+    "location": "F12",
     "arrestingAgency": "CCSO",
     "bondTotal": 30000,
     "charges": [
