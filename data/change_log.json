@@ -562,7 +562,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0335459",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -588,7 +588,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0349527",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -599,7 +599,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0358267",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -610,7 +610,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0358267",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -636,7 +636,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409042",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -647,7 +647,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409042",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -699,7 +699,7 @@
         "court": "DOC COURT",
         "warrantNumber": "211019908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
