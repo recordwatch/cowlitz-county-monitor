@@ -30,7 +30,7 @@
     "inmateNumber": "262599",
     "name": "BLACK, ETHAN KURTIS",
     "bookedAt": "2026-11-12T09:04:17",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -206,7 +206,7 @@
     "bookedAt": "2026-11-11T20:39:45",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": 5000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -291,10 +291,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0329023",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -302,7 +302,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0329023",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -579,7 +579,7 @@
     "bookedAt": "2026-11-11T08:51:32",
     "location": "INTAKE H5",
     "arrestingAgency": "KEPD",
-    "bondTotal": 5000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -590,7 +590,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": 500
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -601,7 +601,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 500
       },
       {
         "description": "RESISTING ARREST",
@@ -635,10 +635,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409042",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -646,10 +646,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409042",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1202,7 +1202,7 @@
     "bookedAt": "2026-11-10T08:27:46",
     "location": "E23",
     "arrestingAgency": "LVPD",
-    "bondTotal": 5500,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "THEFT 3RD DEG",
@@ -1210,10 +1210,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0879327",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1243,10 +1243,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409041",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 2ND",
@@ -6681,10 +6681,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0302214",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -7029,10 +7029,10 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0337338",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 1ST",
@@ -7040,7 +7040,7 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0337338",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "WDPD",
         "bondType": null,
         "bondAmount": null
