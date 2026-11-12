@@ -18,6 +18,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-11T19:06:18",
+        "arrestingAgency": "WDPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6609,7 +6620,7 @@
     "inmateNumber": "122933",
     "name": "KNIGHT, TYSON MICHAEL",
     "bookedAt": "2026-10-29T21:18:35",
-    "location": "INTAKE H1",
+    "location": "F23",
     "arrestingAgency": "CRPD",
     "bondTotal": 2500,
     "charges": [

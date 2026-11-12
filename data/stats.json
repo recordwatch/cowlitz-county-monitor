@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:35:17",
+  "generatedAt": "2026-11-11T19:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 601,
@@ -212,6 +212,11 @@
       "pct": 1.9
     },
     {
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 25,
+      "pct": 1.8
+    },
+    {
       "name": "ASSAULT 4TH DEGREE",
       "count": 25,
       "pct": 1.8
@@ -220,11 +225,6 @@
       "name": "CRIM TRESPASS 2ND",
       "count": 25,
       "pct": 1.8
-    },
-    {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 24,
-      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 442,
-      "pct": 31
+      "count": 443,
+      "pct": 31.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -414,8 +414,8 @@
     },
     {
       "name": "F",
-      "count": 6,
-      "pct": 3.8
+      "count": 7,
+      "pct": 4.4
     },
     {
       "name": "G",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 4.4
+      "count": 6,
+      "pct": 3.8
     },
     {
       "name": "WSH",
