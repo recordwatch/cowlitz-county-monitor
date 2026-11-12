@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:55:18",
+  "generatedAt": "2026-11-11T17:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 599,
@@ -163,17 +163,17 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 192,
-      "pct": 13.5
+      "count": 193,
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
-      "count": 112,
+      "count": 113,
       "pct": 7.9
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 96,
+      "count": 97,
       "pct": 6.8
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 234,
-      "pct": 39.3,
+      "count": 235,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 114,
-      "pct": 19.2,
+      "count": 113,
+      "pct": 19,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 440,
+      "count": 441,
       "pct": 31
     },
     {
@@ -337,13 +337,13 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 183,
+      "count": 184,
       "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 171,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "DOC COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 518
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 49,
+    "withBond": 112,
+    "noBond": 48,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4477000
+    "totalBond": 4478500
   },
   "chargesPerBooking": 2.4
 }
