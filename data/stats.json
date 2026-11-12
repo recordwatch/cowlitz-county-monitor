@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:35:18",
+  "generatedAt": "2026-11-12T08:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 606,
@@ -337,13 +337,13 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 187,
-      "pct": 12.9
+      "count": 189,
+      "pct": 13.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 173,
-      "pct": 12
+      "count": 171,
+      "pct": 11.8
     },
     {
       "name": "DOC COURT",
