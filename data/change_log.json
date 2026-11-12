@@ -220,9 +220,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T21:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T15:15:19",
     "baseline": false
   },
   {
@@ -393,9 +393,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T19:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T15:15:19",
     "baseline": false
   },
   {
@@ -834,9 +834,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T19:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T15:15:19",
     "baseline": false
   },
   {
@@ -1200,7 +1200,7 @@
     "inmateNumber": "222711",
     "name": "SHIELDS, TRENTON MICHAEL",
     "bookedAt": "2026-11-10T09:36:23",
-    "location": "G-G15",
+    "location": "G-G43",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -1209,7 +1209,7 @@
         "offenseDate": "2026-11-10T09:38:10",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "PC140",
+        "warrantNumber": "PC0000140",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -1462,7 +1462,7 @@
     "inmateNumber": "122779",
     "name": "RIDLEY RANGE, SHANE MICHAEL",
     "bookedAt": "2026-11-09T23:50:31",
-    "location": "G-G11",
+    "location": "G-G08",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -1684,7 +1684,7 @@
     "inmateNumber": "151598",
     "name": "GLOR, BRUCE MICHAEL",
     "bookedAt": "2026-11-09T14:19:42",
-    "location": "A25",
+    "location": "A20",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -2780,7 +2780,7 @@
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
     "bookedAt": "2026-11-06T10:05:43",
-    "location": "G-G01",
+    "location": "G-G06",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -2906,7 +2906,7 @@
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
     "bookedAt": "2026-11-06T01:21:18",
-    "location": "G-G17",
+    "location": "G-G21",
     "arrestingAgency": "CRPD",
     "bondTotal": 20000,
     "charges": [
@@ -10873,7 +10873,7 @@
     "inmateNumber": "168790",
     "name": "MALAKOWSKY, KYLE BLAKE",
     "bookedAt": "2026-10-21T00:21:11",
-    "location": "G-G19",
+    "location": "G-G41",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
