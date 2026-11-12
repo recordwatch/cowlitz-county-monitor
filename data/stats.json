@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T20:55:18",
+  "generatedAt": "2026-11-11T21:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 601,
-    "bookingsObserved": 435,
+    "bookingsTracked": 602,
+    "bookingsObserved": 436,
     "releasesObserved": 440,
-    "inCustody": 161,
-    "uniquePeople": 563
+    "inCustody": 162,
+    "uniquePeople": 564
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 12,
+      "booked": 13,
       "released": 8
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 236,
-      "pct": 39.5,
+      "count": 237,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 26,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 18.8
+      "pct": 18.6
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "D",
@@ -410,32 +410,32 @@
     {
       "name": "E",
       "count": 18,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "G",
       "count": 29,
-      "pct": 18.1
+      "pct": 18
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.8
+      "count": 7,
+      "pct": 4.3
     },
     {
       "name": "WSH",
       "count": 11,
-      "pct": 6.9
+      "pct": 6.8
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 12
       }
     ],
-    "currentMedianDaysHeld": 21.4,
+    "currentMedianDaysHeld": 21.3,
     "currentLongestDaysHeld": 518.2
   },
   "bond": {
     "withBond": 111,
-    "noBond": 50,
+    "noBond": 51,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4477500

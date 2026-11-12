@@ -1,5 +1,19 @@
 [
   {
+    "id": "27942-20261111203945",
+    "inmateNumber": "27942",
+    "name": "COOLEY, KENNETH BOYD",
+    "bookedAt": "2026-11-11T20:39:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T21:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "249584-20261111190253",
     "inmateNumber": "249584",
     "name": "WHITMIRE, JONATHAN LEE",
@@ -41,7 +55,7 @@
     "inmateNumber": "211058",
     "name": "COX, ANTHONY LEON",
     "bookedAt": "2026-11-11T17:42:07",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
