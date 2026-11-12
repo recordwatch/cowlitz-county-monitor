@@ -1,5 +1,31 @@
 [
   {
+    "id": "146827-20261112125748",
+    "inmateNumber": "146827",
+    "name": "HYLLA, TIMMY LEROY",
+    "bookedAt": "2026-11-12T12:57:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-12T13:03:46",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0291287",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T13:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "300646-20261112094422",
     "inmateNumber": "300646",
     "name": "LOPEZ OLMEDO, DAVID",
@@ -206,7 +232,7 @@
     "bookedAt": "2026-11-11T20:39:45",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -247,7 +273,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0516859",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -258,7 +284,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0516859",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -269,7 +295,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0873158",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -280,7 +306,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0873158",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -308,17 +334,6 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-11-11T20:55:02",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0432717",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
-      {
         "description": "RESISTING ARREST",
         "offenseDate": "2026-11-11T20:53:03",
         "arrestingAgency": "LVPD",
@@ -328,6 +343,17 @@
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-11T20:55:02",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0432717",
+        "disposition": null,
+        "billingAgency": "LVPD",
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

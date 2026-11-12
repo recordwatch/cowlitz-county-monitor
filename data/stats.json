@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T13:15:21",
+  "generatedAt": "2026-11-12T13:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 608,
-    "bookingsObserved": 442,
+    "bookingsTracked": 609,
+    "bookingsObserved": 443,
     "releasesObserved": 453,
-    "inCustody": 155,
-    "uniquePeople": 569
+    "inCustody": 156,
+    "uniquePeople": 570
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 3,
+      "booked": 4,
       "released": 13
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 199,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "DWLS 3RD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 89,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -213,8 +213,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 26,
-      "pct": 1.8
+      "count": 27,
+      "pct": 1.9
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 238,
-      "pct": 39.4,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 117,
-      "pct": 19.4,
+      "pct": 19.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 19,
-      "pct": 3.1,
+      "count": 20,
+      "pct": 3.3,
       "label": "Woodland Police"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 56,
+      "count": 57,
       "pct": 3.9
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 518.9
   },
   "bond": {
-    "withBond": 112,
+    "withBond": 113,
     "noBond": 43,
-    "medianBond": 4500,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4462250
+    "totalBond": 4464250
   },
   "chargesPerBooking": 2.4
 }
