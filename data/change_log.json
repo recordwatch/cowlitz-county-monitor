@@ -1,5 +1,19 @@
 [
   {
+    "id": "361773-20261111152523",
+    "inmateNumber": "361773",
+    "name": "MCCALIP, CASANDRA MAY",
+    "bookedAt": "2026-11-11T15:25:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T16:01:51",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "205300-20261111151516",
     "inmateNumber": "205300",
     "name": "TOMASELLI, JOSEPH BRAYDEN",
