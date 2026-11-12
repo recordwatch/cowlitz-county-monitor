@@ -92,7 +92,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "4A0802924",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -232,7 +232,7 @@
     "bookedAt": "2026-11-11T20:39:45",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -342,7 +342,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 1500
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -906,7 +906,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -917,7 +917,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -928,7 +928,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -2102,7 +2102,7 @@
     "inmateNumber": "360433",
     "name": "DAHLEN, RUSSELL DAVID",
     "bookedAt": "2026-11-08T17:29:26",
-    "location": "D23",
+    "location": "C23",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -15681,7 +15681,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0325296",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
