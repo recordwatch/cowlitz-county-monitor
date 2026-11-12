@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T21:35:17",
+  "generatedAt": "2026-11-11T21:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 603,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 196,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 98,
-      "pct": 6.8
+      "count": 99,
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 50,
-      "pct": 3.5
+      "count": 52,
+      "pct": 3.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -209,7 +209,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 28,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -327,12 +327,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 445,
+      "count": 447,
       "pct": 31.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 410,
+      "count": 411,
       "pct": 28.6
     },
     {
