@@ -67,7 +67,7 @@
     "inmateNumber": "75847",
     "name": "WHITE, KAILA RICHELLE",
     "bookedAt": "2026-11-11T22:55:14",
-    "location": "E22",
+    "location": "E24",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -980,7 +980,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "1A0205310",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -8150,7 +8150,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "D25",
+    "location": "D13",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
