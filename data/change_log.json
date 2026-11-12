@@ -1,5 +1,31 @@
 [
   {
+    "id": "121220-20261111230759",
+    "inmateNumber": "121220",
+    "name": "HEFLEY, DAKOTA TEDDIE",
+    "bookedAt": "2026-11-11T23:07:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION DISTANCE",
+        "offenseDate": "2026-11-11T23:25:47",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0318864",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-11T23:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75847-20261111225514",
     "inmateNumber": "75847",
     "name": "WHITE, KAILA RICHELLE",
@@ -8,6 +34,17 @@
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-11T23:14:11",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "1910050621",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-11T23:01:15",
