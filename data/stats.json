@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:55:18",
+  "generatedAt": "2026-11-12T14:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 609,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 52,
-      "pct": 3.6
+      "count": 53,
+      "pct": 3.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -229,7 +229,7 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 21,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "FELONY HARASSMENT",
@@ -242,6 +242,11 @@
       "pct": 1.2
     },
     {
+      "name": "THEFT 2ND DEGREE > $750",
+      "count": 17,
+      "pct": 1.2
+    },
+    {
       "name": "UNLAWFUL CAMPING",
       "count": 17,
       "pct": 1.2
@@ -250,11 +255,6 @@
       "name": "RECKLESS DRIVING",
       "count": 17,
       "pct": 1.2
-    },
-    {
-      "name": "THEFT 2ND DEGREE > $750",
-      "count": 16,
-      "pct": 1.1
     },
     {
       "name": "POSS W/INTENT",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 449,
-      "pct": 31
+      "count": 451,
+      "pct": 31.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -474,9 +474,9 @@
   "bond": {
     "withBond": 113,
     "noBond": 43,
-    "medianBond": 4000,
+    "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4464750
+    "totalBond": 4482250
   },
   "chargesPerBooking": 2.4
 }

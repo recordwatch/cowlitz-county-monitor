@@ -232,7 +232,7 @@
     "bookedAt": "2026-11-11T20:39:45",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 19000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -242,8 +242,8 @@
         "warrantNumber": "2610033408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 17500
       },
       {
         "description": "CONTEMPT OF COURT",
@@ -257,6 +257,17 @@
         "bondAmount": null
       },
       {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-11T21:11:06",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610033508",
+        "disposition": null,
+        "billingAgency": "SUPR",
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-11-12T01:39:53",
         "arrestingAgency": "LVPD",
@@ -265,6 +276,17 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-11-12T01:39:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610073008",
+        "disposition": null,
+        "billingAgency": "SUPR",
+        "bondType": null,
         "bondAmount": null
       },
       {
@@ -376,7 +398,7 @@
         "arrestingAgency": "WDPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -387,7 +409,7 @@
         "arrestingAgency": "WDPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073308",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -828,10 +850,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0432716",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -8471,10 +8493,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0289399",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -13509,10 +13531,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0930504",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13520,9 +13542,9 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0930504",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
