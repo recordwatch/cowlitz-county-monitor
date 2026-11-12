@@ -4,7 +4,7 @@
     "inmateNumber": "146827",
     "name": "HYLLA, TIMMY LEROY",
     "bookedAt": "2026-11-12T12:57:48",
-    "location": "1-PENDING BOOKING",
+    "location": "D12",
     "arrestingAgency": "WDPD",
     "bondTotal": 3000,
     "charges": [
@@ -203,7 +203,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073108",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -214,7 +214,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073108",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -253,29 +253,7 @@
         "warrantNumber": "2610033508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
-      },
-      {
-        "description": "CONTEMPT OF COURT",
-        "offenseDate": "2026-11-11T21:11:06",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610033508",
-        "disposition": null,
-        "billingAgency": "SUPR",
         "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "THEFT 2ND DEGREE > $750",
-        "offenseDate": "2026-11-12T01:39:53",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610073008",
-        "disposition": null,
-        "billingAgency": "SUPR",
-        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -479,7 +457,7 @@
     "bookedAt": "2026-11-11T15:15:16",
     "location": "B25",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -489,8 +467,8 @@
         "warrantNumber": "2610073208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       },
       {
         "description": "THEFT 3RD DEG",
@@ -712,7 +690,7 @@
     "bookedAt": "2026-11-11T05:05:47",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 30000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -722,8 +700,8 @@
         "warrantNumber": "2610073508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 30000
       }
     ],
     "status": "in_custody",
