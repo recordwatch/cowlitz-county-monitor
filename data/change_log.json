@@ -1351,7 +1351,7 @@
     "inmateNumber": "110060",
     "name": "THOMPSON RISMOEN, BRYAN MATTHEW",
     "bookedAt": "2026-11-09T19:13:29",
-    "location": "INTAKE H1",
+    "location": "F10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -6268,7 +6268,7 @@
     "inmateNumber": "102163",
     "name": "WELCH, DAKOTA VICTOR",
     "bookedAt": "2026-10-30T09:11:20",
-    "location": "G-G43",
+    "location": "F20",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -17053,7 +17053,7 @@
     "inmateNumber": "360749",
     "name": "SILVA, ELY RENEE",
     "bookedAt": "2026-10-07T18:48:38",
-    "location": "G-G40",
+    "location": "F20",
     "arrestingAgency": "CCSO",
     "bondTotal": 300000,
     "charges": [
@@ -18306,7 +18306,7 @@
     "inmateNumber": "36109",
     "name": "MCJUNKIN, CLAYTON PATRICK",
     "bookedAt": "2026-10-03T09:40:33",
-    "location": "F10",
+    "location": "G-G47",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -22359,7 +22359,7 @@
     "inmateNumber": "219802",
     "name": "COLLINS, TIMOTHY EDWARD",
     "bookedAt": "2026-07-23T10:19:03",
-    "location": "G-G36",
+    "location": "F10",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
