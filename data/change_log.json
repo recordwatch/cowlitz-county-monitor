@@ -109,9 +109,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T23:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T12:35:18",
     "baseline": false
   },
   {
@@ -652,9 +652,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T08:35:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T12:35:18",
     "baseline": false
   },
   {
@@ -6687,9 +6687,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T01:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T12:35:18",
     "baseline": false
   },
   {
@@ -16387,7 +16387,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610066408",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -16398,7 +16398,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610066408",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
@@ -16409,7 +16409,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0357341",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -21788,7 +21788,7 @@
     "inmateNumber": "173773",
     "name": "FRAHM, RYAN JAMES",
     "bookedAt": "2026-08-22T08:13:48",
-    "location": "C16",
+    "location": "C14",
     "arrestingAgency": "LVPD",
     "bondTotal": 15000,
     "charges": [
