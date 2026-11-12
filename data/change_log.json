@@ -4,10 +4,22 @@
     "inmateNumber": "361773",
     "name": "MCCALIP, CASANDRA MAY",
     "bookedAt": "2026-11-11T15:25:23",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "E20",
+    "arrestingAgency": "WSP",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT 2 - ATTEMPT",
+        "offenseDate": "2026-11-11T15:57:32",
+        "arrestingAgency": "WSP",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "1910325306",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-11T16:01:51",
     "releasedAt": null,
