@@ -4,7 +4,7 @@
     "inmateNumber": "300646",
     "name": "LOPEZ OLMEDO, DAVID",
     "bookedAt": "2026-11-12T09:44:22",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "CCCD",
     "bondTotal": 1000,
     "charges": [
@@ -803,7 +803,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0432716",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -881,7 +881,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -892,7 +892,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -903,7 +903,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0284570",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -13442,7 +13442,7 @@
     "bookedAt": "2026-10-15T17:56:27",
     "location": "G-G46",
     "arrestingAgency": "LVPD",
-    "bondTotal": 12500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13472,10 +13472,10 @@
         "arrestingAgency": "LVPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5A0587785",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13505,10 +13505,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0195728",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13516,10 +13516,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0195729",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 4000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13527,9 +13527,9 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0195729",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -13538,10 +13538,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -13549,7 +13549,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -13560,7 +13560,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -13571,10 +13571,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "C00068985",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
