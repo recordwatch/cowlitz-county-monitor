@@ -619,7 +619,7 @@
         "offenseDate": "2026-11-11T05:14:50",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "6A0423318",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
