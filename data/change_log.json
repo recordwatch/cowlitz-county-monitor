@@ -4,20 +4,20 @@
     "inmateNumber": "71297",
     "name": "BOWEN, DARYL KEITH",
     "bookedAt": "2026-11-12T20:38:57",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": null,
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0420556",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
