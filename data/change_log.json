@@ -35,21 +35,21 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "RAPE CHILD 2",
-        "offenseDate": "2026-11-13T09:47:14",
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-13T09:12:11",
         "arrestingAgency": "CCCD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "210081208",
+        "court": "DOC COURT",
+        "warrantNumber": "2110081208",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "DOC HOLD",
-        "offenseDate": "2026-11-13T09:12:11",
+        "description": "RAPE CHILD 2",
+        "offenseDate": "2026-11-13T09:47:14",
         "arrestingAgency": "CCCD",
-        "court": "DOC COURT",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2110081208",
         "disposition": null,
         "billingAgency": null,
@@ -110,7 +110,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073608",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -121,7 +121,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073608",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -213,7 +213,7 @@
     "bookedAt": "2026-11-12T18:08:05",
     "location": "A25",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 80000,
     "charges": [
       {
         "description": "RAPE OF A CHILD 1",
@@ -223,8 +223,8 @@
         "warrantNumber": "2610073708",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 80000
       },
       {
         "description": "CHILD MOLEST 1ST",
@@ -332,10 +332,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435476",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6548,10 +6548,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435603",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
