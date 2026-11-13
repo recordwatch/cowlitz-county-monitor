@@ -1,5 +1,31 @@
 [
   {
+    "id": "165781-20261112223955",
+    "inmateNumber": "165781",
+    "name": "AGUAYO, JORGE",
+    "bookedAt": "2026-11-12T22:39:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-12T22:43:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405465",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T23:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "71297-20261112203857",
     "inmateNumber": "71297",
     "name": "BOWEN, DARYL KEITH",
@@ -5680,7 +5706,7 @@
     "inmateNumber": "27900",
     "name": "OLIVER, CYNTHIA ANN",
     "bookedAt": "2026-11-01T13:19:09",
-    "location": "INTAKE H3",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": 40000,
     "charges": [
