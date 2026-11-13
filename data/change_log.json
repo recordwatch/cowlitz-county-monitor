@@ -1,5 +1,31 @@
 [
   {
+    "id": "264903-20261113123533",
+    "inmateNumber": "264903",
+    "name": "HALL, DESTINY RENEE",
+    "bookedAt": "2026-11-13T12:35:33",
+    "location": "E24",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "USE/DELIVER DRUG PARAPHERNALIA",
+        "offenseDate": "2026-11-13T12:38:24",
+        "arrestingAgency": "CCCD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6a0396098",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T13:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "30115-20261113090236",
     "inmateNumber": "30115",
     "name": "FITZGERALD, CHRISTOPHER ROBIN",
@@ -3224,7 +3250,7 @@
     "inmateNumber": "323632",
     "name": "HALL, NICHOLAS CHRISTIAN MARCUS",
     "bookedAt": "2026-11-06T01:21:18",
-    "location": "G-G21",
+    "location": "G-G22",
     "arrestingAgency": "CRPD",
     "bondTotal": 20000,
     "charges": [
