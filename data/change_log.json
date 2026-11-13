@@ -4,7 +4,7 @@
     "inmateNumber": "30115",
     "name": "FITZGERALD, CHRISTOPHER ROBIN",
     "bookedAt": "2026-11-13T09:02:36",
-    "location": "INTAKE H6",
+    "location": "A25",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -4720,7 +4720,7 @@
     "bookedAt": "2026-11-03T16:36:45",
     "location": "B10",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -4739,10 +4739,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0105157",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -4750,10 +4750,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0325942",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -6159,10 +6159,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0272428",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6481,7 +6481,7 @@
     "bookedAt": "2026-10-30T21:05:03",
     "location": "G-G25",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "UNLAWFUL CAMPING",
@@ -6489,10 +6489,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0319283",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "UNLAWFUL CAMPING",
@@ -6500,10 +6500,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0363884",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -22443,9 +22443,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T10:55:16",
     "baseline": true
   },
   {
