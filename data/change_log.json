@@ -4,7 +4,7 @@
     "inmateNumber": "49761",
     "name": "REID, TYLER DWAYNE",
     "bookedAt": "2026-11-13T14:39:42",
-    "location": "1-PENDING BOOKING",
+    "location": "C16",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -9610,7 +9610,7 @@
     "inmateNumber": "157922",
     "name": "SCHRIBER, ZACH J",
     "bookedAt": "2026-10-24T22:24:37",
-    "location": "B10",
+    "location": "G-G34",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -13683,7 +13683,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0332583",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -18505,7 +18505,7 @@
     "inmateNumber": "222260",
     "name": "ENGLAND HALL, AYDEN RAYLEE",
     "bookedAt": "2026-10-05T15:02:22",
-    "location": "B10",
+    "location": "G-G32",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
