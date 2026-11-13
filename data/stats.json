@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:35:23",
+  "generatedAt": "2026-11-12T23:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 615,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 199,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -328,11 +328,11 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 451,
-      "pct": 31
+      "pct": 30.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 418,
+      "count": 419,
       "pct": 28.7
     },
     {
@@ -390,47 +390,47 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 18.1
+      "pct": 17.9
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "D",
       "count": 8,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "E",
       "count": 18,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "G",
       "count": 30,
-      "pct": 19.4
+      "pct": 19.2
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.6
+      "count": 5,
+      "pct": 3.2
     },
     {
       "name": "WSH",
