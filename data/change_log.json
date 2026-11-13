@@ -801,7 +801,7 @@
     "bookedAt": "2026-11-11T15:15:16",
     "location": "G-G30",
     "arrestingAgency": "LVPD",
-    "bondTotal": 4000,
+    "bondTotal": 14000,
     "charges": [
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -827,6 +827,17 @@
       },
       {
         "description": "DWLS 3RD",
+        "offenseDate": "2026-11-13T13:37:19",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0344459",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
         "offenseDate": "2026-11-11T16:23:44",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
@@ -846,6 +857,50 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "POSS FIREARM W/ALTERED SER NUM",
+        "offenseDate": "2026-11-13T13:42:49",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0365203",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 7000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-13T13:40:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0365904",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "LOADED PISTOL IN VEHICLE",
+        "offenseDate": "2026-11-13T13:41:33",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0365904",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-13T13:38:38",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0366063",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -7129,10 +7184,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0179996",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -7140,20 +7195,9 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395420",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 3000
-      },
-      {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-29T23:36:55",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0395420",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": null,
         "bondAmount": null
       },
       {
@@ -7162,7 +7206,18 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0395420",
-        "disposition": null,
+        "disposition": "Dismissed",
+        "billingAgency": "LVPD",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-29T23:36:55",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0395420",
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
