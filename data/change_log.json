@@ -1,5 +1,33 @@
 [
   {
+    "id": "311762-20261112160047",
+    "inmateNumber": "311762",
+    "name": "STEWART, JACK HADLEY",
+    "bookedAt": "2026-11-12T16:00:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T16:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "29621-20261112155128",
+    "inmateNumber": "29621",
+    "name": "KROLL, SHIRA AUDREY",
+    "bookedAt": "2026-11-12T15:51:28",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T16:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "146827-20261112125748",
     "inmateNumber": "146827",
     "name": "HYLLA, TIMMY LEROY",

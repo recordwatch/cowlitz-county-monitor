@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-12T16:15:20",
+  "generatedAt": "2026-11-12T16:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 609,
-    "bookingsObserved": 443,
+    "bookingsTracked": 611,
+    "bookingsObserved": 445,
     "releasesObserved": 457,
-    "inCustody": 152,
+    "inCustody": 154,
     "uniquePeople": 570
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 4,
+      "booked": 6,
       "released": 17
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 238,
-      "pct": 39.3,
+      "count": 240,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
@@ -390,37 +390,37 @@
     {
       "name": "A",
       "count": 27,
-      "pct": 17.8
+      "pct": 17.6
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "D",
       "count": 8,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "E",
       "count": 17,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "F",
       "count": 8,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "G",
       "count": 30,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.6
+      "count": 5,
+      "pct": 3.3
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 22.4,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 519
   },
   "bond": {
     "withBond": 111,
-    "noBond": 41,
+    "noBond": 43,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 4482750
