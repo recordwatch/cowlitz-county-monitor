@@ -1,5 +1,19 @@
 [
   {
+    "id": "30115-20261113090236",
+    "inmateNumber": "30115",
+    "name": "FITZGERALD, CHRISTOPHER ROBIN",
+    "bookedAt": "2026-11-13T09:02:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T09:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "325411-20261113022237",
     "inmateNumber": "325411",
     "name": "DECOU, LYNSEY JANE",
@@ -52,7 +66,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405465",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -63,7 +77,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0405465",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -89,7 +103,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0420556",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -200,7 +214,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410047608",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -226,7 +240,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435476",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -252,7 +266,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0291287",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 3000
       }
@@ -278,7 +292,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0352158",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1947,7 +1961,7 @@
     "inmateNumber": "318999",
     "name": "JORGENSON, JESSIKA ANN",
     "bookedAt": "2026-11-09T14:08:30",
-    "location": "E21",
+    "location": "E12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -3335,7 +3349,7 @@
     "inmateNumber": "28955",
     "name": "REEVES, TIMOTHY HAROLD",
     "bookedAt": "2026-11-05T21:35:25",
-    "location": "INTAKE H7",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 30000,
     "charges": [
@@ -4441,7 +4455,7 @@
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
     "bookedAt": "2026-11-04T01:31:05",
-    "location": "INTAKE H6",
+    "location": "INTAKE H7",
     "arrestingAgency": "KEPD",
     "bondTotal": 1250,
     "charges": [
@@ -13796,8 +13810,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -13807,8 +13821,8 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-15T18:36:45",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -16019,8 +16033,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -16030,8 +16044,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -17528,9 +17542,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T09:35:17",
     "baseline": true
   },
   {
@@ -21734,9 +21748,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T09:35:17",
     "baseline": true
   },
   {
@@ -22255,8 +22269,8 @@
         "warrantNumber": "2610053408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -22270,19 +22284,19 @@
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-08-17T10:17:23",
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-08-17T10:13:27",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
-        "description": "BURGLARY 1ST",
-        "offenseDate": "2026-08-17T10:13:27",
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-08-17T10:17:23",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
@@ -23404,9 +23418,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T09:35:17",
     "baseline": true
   },
   {
