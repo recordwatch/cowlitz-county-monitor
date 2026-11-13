@@ -1,5 +1,64 @@
 [
   {
+    "id": "305438-20261113150158",
+    "inmateNumber": "305438",
+    "name": "BROWN, ROBERT GUY",
+    "bookedAt": "2026-11-13T15:01:58",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-13T15:16:44",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2610040608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-13T15:12:30",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0382486",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "FAILURE TO STOP FOR LAW OFFICER (VESSEL)",
+        "offenseDate": "2026-11-13T15:15:12",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0441774",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-13T15:16:03",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0441774",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "49761-20261113143942",
     "inmateNumber": "49761",
     "name": "REID, TYLER DWAYNE",
@@ -22102,7 +22161,7 @@
     "inmateNumber": "39576",
     "name": "KILLITZ, JULIE MICHELLE",
     "bookedAt": "2026-08-27T09:31:07",
-    "location": "E11",
+    "location": "D26",
     "arrestingAgency": "CCSO",
     "bondTotal": 35000,
     "charges": [

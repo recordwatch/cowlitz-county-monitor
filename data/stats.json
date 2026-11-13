@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T15:35:17",
+  "generatedAt": "2026-11-13T15:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 619,
-    "bookingsObserved": 453,
+    "bookingsTracked": 620,
+    "bookingsObserved": 454,
     "releasesObserved": 477,
-    "inCustody": 142,
+    "inCustody": 143,
     "uniquePeople": 577
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 4,
+      "booked": 5,
       "released": 18
     }
   ],
@@ -168,7 +168,7 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 116,
+      "count": 117,
       "pct": 7.9
     },
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 98,
-      "pct": 6.6
+      "count": 99,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -194,11 +194,11 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 45,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 38,
+      "count": 39,
       "pct": 2.6
     },
     {
@@ -244,12 +244,12 @@
     {
       "name": "UNLAWFUL CAMPING",
       "count": 17,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "RECKLESS DRIVING",
       "count": 17,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "DWLS 2ND",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 243,
-      "pct": 39.5,
+      "count": 244,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 68,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 20,
-      "pct": 3.3,
+      "pct": 3.2,
       "label": "Woodland Police"
     },
     {
@@ -314,7 +314,7 @@
     {
       "name": "KAPD",
       "count": 4,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "KAPD"
     },
     {
@@ -328,27 +328,27 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 457,
-      "pct": 31
+      "pct": 30.9
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 425,
-      "pct": 28.8
+      "count": 428,
+      "pct": 28.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 193,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 175,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "DOC COURT",
-      "count": 80,
-      "pct": 5.4
+      "count": 81,
+      "pct": 5.5
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "B",
       "count": 15,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "D",
-      "count": 7,
-      "pct": 4.9
+      "count": 8,
+      "pct": 5.6
     },
     {
       "name": "E",
-      "count": 18,
-      "pct": 12.7
+      "count": 17,
+      "pct": 11.9
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 2.1
+      "count": 4,
+      "pct": 2.8
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.5
+      "pct": 8.4
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 16
       }
     ],
-    "currentMedianDaysHeld": 23.1,
-    "currentLongestDaysHeld": 519.9
+    "currentMedianDaysHeld": 23,
+    "currentLongestDaysHeld": 520
   },
   "bond": {
-    "withBond": 105,
+    "withBond": 106,
     "noBond": 37,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 3674750
+    "totalBond": 3677250
   },
   "chargesPerBooking": 2.4
 }
