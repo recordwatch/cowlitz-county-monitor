@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T12:15:18",
+  "generatedAt": "2026-11-13T12:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 617,
     "bookingsObserved": 451,
-    "releasesObserved": 472,
-    "inCustody": 145,
+    "releasesObserved": 474,
+    "inCustody": 143,
     "uniquePeople": 576
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-13",
       "booked": 2,
-      "released": 13
+      "released": 15
     }
   ],
   "topCharges": [
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 44,
-      "pct": 3
+      "count": 45,
+      "pct": 3.1
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 420,
+      "count": 421,
       "pct": 28.7
     },
     {
@@ -390,42 +390,42 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 19.3
+      "pct": 19.6
     },
     {
       "name": "B",
-      "count": 19,
-      "pct": 13.1
+      "count": 18,
+      "pct": 12.6
     },
     {
       "name": "C",
-      "count": 19,
-      "pct": 13.1
+      "count": 18,
+      "pct": 12.6
     },
     {
       "name": "D",
       "count": 7,
-      "pct": 4.8
+      "pct": 4.9
     },
     {
       "name": "E",
       "count": 18,
-      "pct": 12.4
+      "pct": 12.6
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.8
+      "pct": 4.9
     },
     {
       "name": "G",
       "count": 27,
-      "pct": 18.6
+      "pct": 18.9
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.4
+      "pct": 3.5
     },
     {
       "name": "INTAKE",
@@ -435,17 +435,17 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.3
+      "pct": 8.4
     }
   ],
   "stay": {
-    "releasedCount": 472,
+    "releasedCount": 474,
     "medianDays": 2.1,
     "meanDays": 14.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 163
+        "count": 164
       },
       {
         "label": "1–3 days",
@@ -457,7 +457,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 100
+        "count": 101
       },
       {
         "label": "1–3 months",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 519.8
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 104,
     "noBond": 39,
-    "medianBond": 4500,
+    "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 3591250
+    "totalBond": 3588750
   },
   "chargesPerBooking": 2.4
 }

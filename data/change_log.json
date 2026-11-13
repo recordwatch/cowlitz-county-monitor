@@ -113,8 +113,19 @@
     "bookedAt": "2026-11-12T22:39:55",
     "location": "B21",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 3500,
     "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-13T11:49:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0863070",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2500
+      },
       {
         "description": "THEFT 3RD DEG",
         "offenseDate": "2026-11-12T22:43:46",
@@ -327,9 +338,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T13:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T12:35:20",
     "baseline": false
   },
   {
@@ -6165,9 +6176,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T21:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T12:35:20",
     "baseline": false
   },
   {
