@@ -127,9 +127,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T02:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T14:35:16",
     "baseline": false
   },
   {
@@ -868,6 +868,28 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 7000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-13T13:45:56",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0365203",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "LOADED PISTOL IN VEHICLE",
+        "offenseDate": "2026-11-13T13:44:44",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0365203",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1732,7 +1754,7 @@
     "inmateNumber": "60302",
     "name": "FAHN, MICHAEL BRANDON",
     "bookedAt": "2026-11-10T03:15:41",
-    "location": "G-G09",
+    "location": "G-G21",
     "arrestingAgency": "KEPD",
     "bondTotal": 2500,
     "charges": [
@@ -3179,7 +3201,7 @@
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
     "bookedAt": "2026-11-06T10:05:43",
-    "location": "G-G06",
+    "location": "G-G23",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -13909,7 +13931,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0930504",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -13920,7 +13942,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0930504",
         "disposition": "Dismissed",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
