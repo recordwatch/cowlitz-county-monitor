@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T09:35:17",
+  "generatedAt": "2026-11-13T09:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 617,
     "bookingsObserved": 451,
-    "releasesObserved": 467,
-    "inCustody": 150,
+    "releasesObserved": 469,
+    "inCustody": 148,
     "uniquePeople": 576
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-13",
       "booked": 2,
-      "released": 8
+      "released": 10
     }
   ],
   "topCharges": [
@@ -174,12 +174,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 103,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "DOC HOLD",
-      "count": 97,
-      "pct": 6.6
+      "count": 98,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 243,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 118,
-      "pct": 19.3,
+      "pct": 19.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,14 +283,14 @@
     },
     {
       "name": "CCCD",
-      "count": 66,
-      "pct": 10.8,
+      "count": 67,
+      "pct": 10.9,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 34,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "Dept. of Corrections"
     },
     {
@@ -333,7 +333,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 420,
-      "pct": 28.8
+      "pct": 28.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -347,8 +347,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 79,
-      "pct": 5.4
+      "count": 80,
+      "pct": 5.5
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 27,
-      "pct": 18.1
+      "pct": 18.4
     },
     {
       "name": "B",
       "count": 19,
-      "pct": 12.8
+      "pct": 12.9
     },
     {
       "name": "C",
-      "count": 21,
-      "pct": 14.1
+      "count": 19,
+      "pct": 12.9
     },
     {
       "name": "D",
@@ -410,22 +410,22 @@
     {
       "name": "E",
       "count": 18,
-      "pct": 12.1
+      "pct": 12.2
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.7
+      "pct": 4.8
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 18.8
+      "pct": 19
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 4
+      "pct": 4.1
     },
     {
       "name": "INTAKE",
@@ -435,11 +435,11 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.1
+      "pct": 8.2
     }
   ],
   "stay": {
-    "releasedCount": 467,
+    "releasedCount": 469,
     "medianDays": 2,
     "meanDays": 14.1,
     "buckets": [
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 113
+        "count": 114
       },
       {
         "label": "3–7 days",
@@ -457,7 +457,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 98
+        "count": 99
       },
       {
         "label": "1–3 months",
@@ -468,12 +468,12 @@
         "count": 15
       }
     ],
-    "currentMedianDaysHeld": 22.4,
+    "currentMedianDaysHeld": 22.8,
     "currentLongestDaysHeld": 519.7
   },
   "bond": {
     "withBond": 109,
-    "noBond": 41,
+    "noBond": 39,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3656750

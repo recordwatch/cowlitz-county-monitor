@@ -5,9 +5,21 @@
     "name": "FITZGERALD, CHRISTOPHER ROBIN",
     "bookedAt": "2026-11-13T09:02:36",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-13T09:12:11",
+        "arrestingAgency": "CCCD",
+        "court": "DOC COURT",
+        "warrantNumber": "2110081208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-13T09:35:17",
     "releasedAt": null,
@@ -981,9 +993,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T03:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T09:55:17",
     "baseline": false
   },
   {
@@ -4149,9 +4161,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T22:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T09:55:17",
     "baseline": false
   },
   {
