@@ -13,7 +13,7 @@
         "offenseDate": "2026-11-13T02:33:17",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610073608",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -24,7 +24,7 @@
         "offenseDate": "2026-11-13T02:35:10",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610073608",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -113,7 +113,7 @@
         "offenseDate": "2026-11-12T18:12:24",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610073708",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -124,7 +124,7 @@
         "offenseDate": "2026-11-12T18:21:05",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610073708",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -8714,9 +8714,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T11:56:07",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T08:35:18",
     "baseline": false
   },
   {
