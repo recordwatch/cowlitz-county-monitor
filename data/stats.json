@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:55:18",
+  "generatedAt": "2026-11-12T17:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 611,
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 96,
-      "pct": 6.6
+      "count": 97,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 78,
+      "count": 79,
       "pct": 5.4
     },
     {
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 17,
-      "pct": 11.1
+      "count": 18,
+      "pct": 11.8
     },
     {
       "name": "F",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.3
+      "count": 4,
+      "pct": 2.6
     },
     {
       "name": "WSH",
