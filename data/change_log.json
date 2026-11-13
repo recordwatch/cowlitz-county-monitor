@@ -1,5 +1,31 @@
 [
   {
+    "id": "49761-20261113143942",
+    "inmateNumber": "49761",
+    "name": "REID, TYLER DWAYNE",
+    "bookedAt": "2026-11-13T14:39:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-13T14:43:41",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0302217",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T15:15:28",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "264903-20261113123533",
     "inmateNumber": "264903",
     "name": "HALL, DESTINY RENEE",
@@ -6631,9 +6657,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T21:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T15:15:28",
     "baseline": false
   },
   {
@@ -7245,9 +7271,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-29T23:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-13T15:15:28",
     "baseline": false
   },
   {
