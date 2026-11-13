@@ -230,7 +230,7 @@
     "inmateNumber": "27942",
     "name": "COOLEY, KENNETH BOYD",
     "bookedAt": "2026-11-11T20:39:45",
-    "location": "INTAKE H2",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": 19000,
     "charges": [
@@ -14079,7 +14079,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610032708",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 60000
       },
@@ -14101,7 +14101,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0229161",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": null,
         "bondAmount": null
       },
