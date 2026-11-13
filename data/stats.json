@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:55:17",
+  "generatedAt": "2026-11-13T00:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 615,
@@ -9,11 +9,6 @@
     "uniquePeople": 574
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-14",
-      "booked": 14,
-      "released": 12
-    },
     {
       "date": "2026-10-15",
       "booked": 25,
@@ -158,6 +153,11 @@
       "date": "2026-11-12",
       "booked": 10,
       "released": 19
+    },
+    {
+      "date": "2026-11-13",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
