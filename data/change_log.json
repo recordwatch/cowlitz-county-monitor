@@ -139,7 +139,7 @@
     "bookedAt": "2026-11-12T22:39:55",
     "location": "B21",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3500,
+    "bondTotal": 4500,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -161,7 +161,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "RECKLESS ENDANGER DV",
@@ -171,7 +171,7 @@
         "warrantNumber": "6A0405465",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -197,8 +197,8 @@
         "warrantNumber": "6A0420556",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -11244,15 +11244,15 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "description": "RESISTING ARREST",
         "offenseDate": "2026-10-21T00:34:47",
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401415",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
