@@ -1,5 +1,42 @@
 [
   {
+    "id": "4677-20261112175652",
+    "inmateNumber": "4677",
+    "name": "BODINE, MICHAEL VINCENT",
+    "bookedAt": "2026-11-12T17:56:52",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-12T18:02:41",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5a0405647",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-12T17:59:25",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5a0598740",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T18:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "311762-20261112160047",
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
