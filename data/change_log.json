@@ -4,10 +4,33 @@
     "inmateNumber": "325411",
     "name": "DECOU, LYNSEY JANE",
     "bookedAt": "2026-11-13T02:22:37",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "INTAKE H8",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "TAKING VEH W/O PERM 2ND DEG",
+        "offenseDate": "2026-11-13T02:33:17",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "FRAUD",
+        "offenseDate": "2026-11-13T02:35:10",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-13T02:55:17",
     "releasedAt": null,
