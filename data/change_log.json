@@ -4,7 +4,7 @@
     "inmateNumber": "266446",
     "name": "WILLMAN, MICHAEL LOUIS",
     "bookedAt": "2026-11-12T18:08:05",
-    "location": "INTAKE H2",
+    "location": "A25",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -1423,9 +1423,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-10T09:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-12T19:35:19",
     "baseline": false
   },
   {
