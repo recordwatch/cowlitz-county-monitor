@@ -84,9 +84,9 @@
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
-        "offenseDate": null,
+        "offenseDate": "2026-11-12T21:00:00",
         "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
+        "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0420556",
         "disposition": null,
         "billingAgency": null,
