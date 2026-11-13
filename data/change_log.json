@@ -1,16 +1,64 @@
 [
   {
+    "id": "266446-20261112180805",
+    "inmateNumber": "266446",
+    "name": "WILLMAN, MICHAEL LOUIS",
+    "bookedAt": "2026-11-12T18:08:05",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RAPE OF A CHILD 1",
+        "offenseDate": "2026-11-12T18:12:24",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "offenseDate": "2026-11-12T18:21:05",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T18:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "4677-20261112175652",
     "inmateNumber": "4677",
     "name": "BODINE, MICHAEL VINCENT",
     "bookedAt": "2026-11-12T17:56:52",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2000,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "DWLS 2ND",
         "offenseDate": "2026-11-12T18:02:41",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5a0405647",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-12T18:06:42",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5a0405647",
