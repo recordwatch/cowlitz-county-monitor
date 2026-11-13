@@ -1,5 +1,31 @@
 [
   {
+    "id": "71297-20261112203857",
+    "inmateNumber": "71297",
+    "name": "BOWEN, DARYL KEITH",
+    "bookedAt": "2026-11-12T20:38:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": null,
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-12T21:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "266446-20261112180805",
     "inmateNumber": "266446",
     "name": "WILLMAN, MICHAEL LOUIS",
