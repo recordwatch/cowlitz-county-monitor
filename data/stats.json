@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:35:20",
+  "generatedAt": "2026-11-13T12:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 617,
@@ -476,7 +476,7 @@
     "noBond": 39,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 3588750
+    "totalBond": 3586750
   },
   "chargesPerBooking": 2.4
 }

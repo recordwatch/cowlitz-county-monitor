@@ -14862,7 +14862,7 @@
     "bookedAt": "2026-10-14T04:59:34",
     "location": "B22",
     "arrestingAgency": "KAPD",
-    "bondTotal": 7000,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "ASSAULT 3RD",
@@ -14914,10 +14914,10 @@
         "arrestingAgency": "KAPD",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0342083",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KAPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "DISORDERLY CONDUCT",
@@ -14925,7 +14925,7 @@
         "arrestingAgency": "KAPD",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0342083",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KAPD",
         "bondType": null,
         "bondAmount": null
@@ -14936,7 +14936,7 @@
         "arrestingAgency": "KAPD",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0342083",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KAPD",
         "bondType": null,
         "bondAmount": null
