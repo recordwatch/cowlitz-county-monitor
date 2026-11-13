@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:35:18",
+  "generatedAt": "2026-11-12T16:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 611,
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 101,
+      "count": 102,
       "pct": 7
     },
     {
@@ -229,7 +229,7 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 21,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "FELONY HARASSMENT",
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 416,
-      "pct": 28.7
+      "count": 417,
+      "pct": 28.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -468,15 +468,15 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 22.2,
     "currentLongestDaysHeld": 519
   },
   "bond": {
-    "withBond": 111,
-    "noBond": 43,
+    "withBond": 112,
+    "noBond": 42,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 4482750
+    "totalBond": 4483750
   },
   "chargesPerBooking": 2.4
 }
