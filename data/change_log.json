@@ -1,5 +1,31 @@
 [
   {
+    "id": "149011-20261114100000",
+    "inmateNumber": "149011",
+    "name": "AMREN, HAYDEN PAYNE",
+    "bookedAt": "2026-11-14T10:00:00",
+    "location": "A13",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-11-14T10:16:50",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0002116",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T10:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360049-20261114005441",
     "inmateNumber": "360049",
     "name": "RAPUN, KIMIKO",
@@ -4281,7 +4307,7 @@
     "inmateNumber": "152407",
     "name": "JOHNSON, ERIC ROBERT",
     "bookedAt": "2026-11-05T11:52:13",
-    "location": "C11",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
