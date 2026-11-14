@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:35:18",
+  "generatedAt": "2026-11-14T00:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 625,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 201,
+      "count": 202,
       "pct": 13.6
     },
     {
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 103,
-      "pct": 6.9
+      "count": 104,
+      "pct": 7
     },
     {
       "name": "DOC HOLD",
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 430,
-      "pct": 29
+      "count": 432,
+      "pct": 29.1
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 176,
+      "count": 177,
       "pct": 11.9
     },
     {
@@ -390,22 +390,22 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "B",
       "count": 15,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "D",
-      "count": 9,
-      "pct": 6.2
+      "count": 10,
+      "pct": 6.8
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 19.2
+      "pct": 19
     },
     {
       "name": "H",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 520.3
   },
   "bond": {
-    "withBond": 108,
-    "noBond": 39,
+    "withBond": 109,
+    "noBond": 38,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 3678750
+    "totalBond": 3681750
   },
   "chargesPerBooking": 2.4
 }
