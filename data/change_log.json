@@ -4951,7 +4951,7 @@
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
     "bookedAt": "2026-11-04T01:31:05",
-    "location": "INTAKE H7",
+    "location": "E11",
     "arrestingAgency": "KEPD",
     "bondTotal": 1250,
     "charges": [
@@ -16867,7 +16867,7 @@
     "bookedAt": "2026-10-10T23:56:26",
     "location": "C15",
     "arrestingAgency": "LVPD",
-    "bondTotal": 11000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "THEFT 2ND DEGREE > $750",
@@ -16889,7 +16889,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
