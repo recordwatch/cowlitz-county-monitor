@@ -1,5 +1,42 @@
 [
   {
+    "id": "360049-20261114005441",
+    "inmateNumber": "360049",
+    "name": "RAPUN, KIMIKO",
+    "bookedAt": "2026-11-14T00:54:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-14T00:58:44",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0387146",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-14T01:00:50",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0441843",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T01:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "44569-20261114000130",
     "inmateNumber": "44569",
     "name": "BEAN, TIMOTHY ROLLO",
@@ -52,7 +89,7 @@
     "inmateNumber": "331102",
     "name": "VERDUGO GONZALEZ, LUIS JAVIER",
     "bookedAt": "2026-11-13T22:09:56",
-    "location": "INTAKE H3",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
