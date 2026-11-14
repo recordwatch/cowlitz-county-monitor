@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T16:35:17",
+  "generatedAt": "2026-11-13T16:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 621,
-    "bookingsObserved": 455,
+    "bookingsTracked": 622,
+    "bookingsObserved": 456,
     "releasesObserved": 477,
-    "inCustody": 144,
+    "inCustody": 145,
     "uniquePeople": 578
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 6,
+      "booked": 7,
       "released": 18
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 244,
-      "pct": 39.5,
+      "count": 245,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 428,
-      "pct": 28.9
+      "count": 429,
+      "pct": 29
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 57,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -390,47 +390,47 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "B",
       "count": 15,
-      "pct": 10.4
+      "pct": 10.3
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 13.9
+      "pct": 13.8
     },
     {
       "name": "D",
       "count": 9,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "name": "E",
       "count": 17,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 2.1
+      "count": 4,
+      "pct": 2.8
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 520
   },
   "bond": {
-    "withBond": 106,
+    "withBond": 107,
     "noBond": 38,
     "medianBond": 5000,
     "maxBond": 500000,
-    "totalBond": 3677250
+    "totalBond": 3678250
   },
   "chargesPerBooking": 2.4
 }

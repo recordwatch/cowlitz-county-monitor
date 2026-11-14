@@ -1,5 +1,31 @@
 [
   {
+    "id": "100133-20261113160752",
+    "inmateNumber": "100133",
+    "name": "RICHTER, BRIAN DOUGLAS",
+    "bookedAt": "2026-11-13T16:07:52",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-11-13T16:11:12",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0405466",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T16:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "63287-20261113153717",
     "inmateNumber": "63287",
     "name": "CONNELL, TAYNA MARIE",
