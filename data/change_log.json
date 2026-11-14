@@ -1,5 +1,31 @@
 [
   {
+    "id": "145390-20261113201037",
+    "inmateNumber": "145390",
+    "name": "HERRIGES, LINDA SUE",
+    "bookedAt": "2026-11-13T20:10:37",
+    "location": "D13",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-13T20:20:37",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0420557",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T20:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "100133-20261113160752",
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
