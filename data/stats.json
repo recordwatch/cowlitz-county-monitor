@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T14:55:15",
+  "generatedAt": "2026-11-14T15:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 628,
-    "bookingsObserved": 462,
+    "bookingsTracked": 629,
+    "bookingsObserved": 463,
     "releasesObserved": 481,
-    "inCustody": 147,
+    "inCustody": 148,
     "uniquePeople": 582
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 4,
+      "booked": 5,
       "released": 3
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 105,
-      "pct": 7
+      "count": 106,
+      "pct": 7.1
     },
     {
       "name": "DOC HOLD",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 245,
-      "pct": 39.3,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -277,14 +277,14 @@
     },
     {
       "name": "KEPD",
-      "count": 90,
-      "pct": 14.4,
+      "count": 91,
+      "pct": 14.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 69,
-      "pct": 11.1,
+      "pct": 11,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 457,
-      "pct": 30.7
+      "pct": 30.6
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 181,
-      "pct": 12.1
+      "count": 182,
+      "pct": 12.2
     },
     {
       "name": "DOC COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 520.9
   },
   "bond": {
-    "withBond": 110,
+    "withBond": 111,
     "noBond": 37,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3668750
+    "totalBond": 3669750
   },
   "chargesPerBooking": 2.4
 }

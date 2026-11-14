@@ -1,5 +1,31 @@
 [
   {
+    "id": "96727-20261114143927",
+    "inmateNumber": "96727",
+    "name": "WILLIAMS, DERRICK ALAN",
+    "bookedAt": "2026-11-14T14:39:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-14T14:42:46",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0384767",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T15:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "14612-20261114124849",
     "inmateNumber": "14612",
     "name": "MAYFIELD, JOHN DOUGLAS",
@@ -648,7 +674,7 @@
     "inmateNumber": "29621",
     "name": "KROLL, SHIRA AUDREY",
     "bookedAt": "2026-11-12T15:51:28",
-    "location": "E23",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -6264,7 +6290,7 @@
     "inmateNumber": "27900",
     "name": "OLIVER, CYNTHIA ANN",
     "bookedAt": "2026-11-01T13:19:09",
-    "location": "E13",
+    "location": "E11",
     "arrestingAgency": "LVPD",
     "bondTotal": 40000,
     "charges": [
