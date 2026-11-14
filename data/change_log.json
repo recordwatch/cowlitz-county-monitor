@@ -1,10 +1,36 @@
 [
   {
+    "id": "63287-20261113153717",
+    "inmateNumber": "63287",
+    "name": "CONNELL, TAYNA MARIE",
+    "bookedAt": "2026-11-13T15:37:17",
+    "location": "D13",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-13T15:38:16",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2210025908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T16:09:02",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "305438-20261113150158",
     "inmateNumber": "305438",
     "name": "BROWN, ROBERT GUY",
     "bookedAt": "2026-11-13T15:01:58",
-    "location": "INTAKE H1",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [

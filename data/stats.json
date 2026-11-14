@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T15:55:17",
+  "generatedAt": "2026-11-13T16:09:02",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 620,
-    "bookingsObserved": 454,
+    "bookingsTracked": 621,
+    "bookingsObserved": 455,
     "releasesObserved": 477,
-    "inCustody": 143,
-    "uniquePeople": 577
+    "inCustody": 144,
+    "uniquePeople": 578
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 5,
+      "booked": 6,
       "released": 18
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 99,
-      "pct": 6.7
+      "count": 100,
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 244,
-      "pct": 39.6,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 118,
-      "pct": 19.2,
+      "pct": 19.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 34,
-      "pct": 5.5,
+      "count": 35,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 81,
+      "count": 82,
       "pct": 5.5
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 28,
-      "pct": 19.6
+      "pct": 19.4
     },
     {
       "name": "B",
       "count": 15,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "C",
-      "count": 19,
-      "pct": 13.3
+      "count": 20,
+      "pct": 13.9
     },
     {
       "name": "D",
-      "count": 8,
-      "pct": 5.6
+      "count": 9,
+      "pct": 6.3
     },
     {
       "name": "E",
       "count": 17,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 19.6
+      "pct": 19.4
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.8
+      "count": 3,
+      "pct": 2.1
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.4
+      "pct": 8.3
     }
   ],
   "stay": {
@@ -473,7 +473,7 @@
   },
   "bond": {
     "withBond": 106,
-    "noBond": 37,
+    "noBond": 38,
     "medianBond": 5000,
     "maxBond": 500000,
     "totalBond": 3677250
