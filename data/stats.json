@@ -1,0 +1,482 @@
+{
+  "generatedAt": "2026-11-14T10:35:16",
+  "monitoringSince": "2026-10-10T15:31:20",
+  "totals": {
+    "bookingsTracked": 626,
+    "bookingsObserved": 460,
+    "releasesObserved": 481,
+    "inCustody": 145,
+    "uniquePeople": 581
+  },
+  "bookingsByDay": [
+    {
+      "date": "2026-10-16",
+      "booked": 15,
+      "released": 29
+    },
+    {
+      "date": "2026-10-17",
+      "booked": 9,
+      "released": 6
+    },
+    {
+      "date": "2026-10-18",
+      "booked": 11,
+      "released": 7
+    },
+    {
+      "date": "2026-10-19",
+      "booked": 13,
+      "released": 18
+    },
+    {
+      "date": "2026-10-20",
+      "booked": 13,
+      "released": 20
+    },
+    {
+      "date": "2026-10-21",
+      "booked": 18,
+      "released": 13
+    },
+    {
+      "date": "2026-10-22",
+      "booked": 11,
+      "released": 10
+    },
+    {
+      "date": "2026-10-23",
+      "booked": 12,
+      "released": 23
+    },
+    {
+      "date": "2026-10-24",
+      "booked": 8,
+      "released": 12
+    },
+    {
+      "date": "2026-10-25",
+      "booked": 10,
+      "released": 5
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 16,
+      "released": 16
+    },
+    {
+      "date": "2026-10-27",
+      "booked": 7,
+      "released": 7
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 10,
+      "released": 10
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 17,
+      "released": 16
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 15,
+      "released": 26
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 12,
+      "released": 4
+    },
+    {
+      "date": "2026-11-01",
+      "booked": 7,
+      "released": 8
+    },
+    {
+      "date": "2026-11-02",
+      "booked": 17,
+      "released": 16
+    },
+    {
+      "date": "2026-11-03",
+      "booked": 17,
+      "released": 18
+    },
+    {
+      "date": "2026-11-04",
+      "booked": 12,
+      "released": 12
+    },
+    {
+      "date": "2026-11-05",
+      "booked": 18,
+      "released": 16
+    },
+    {
+      "date": "2026-11-06",
+      "booked": 12,
+      "released": 21
+    },
+    {
+      "date": "2026-11-07",
+      "booked": 11,
+      "released": 11
+    },
+    {
+      "date": "2026-11-08",
+      "booked": 10,
+      "released": 8
+    },
+    {
+      "date": "2026-11-09",
+      "booked": 13,
+      "released": 17
+    },
+    {
+      "date": "2026-11-10",
+      "booked": 20,
+      "released": 20
+    },
+    {
+      "date": "2026-11-11",
+      "booked": 16,
+      "released": 8
+    },
+    {
+      "date": "2026-11-12",
+      "booked": 10,
+      "released": 19
+    },
+    {
+      "date": "2026-11-13",
+      "booked": 9,
+      "released": 19
+    },
+    {
+      "date": "2026-11-14",
+      "booked": 2,
+      "released": 3
+    }
+  ],
+  "topCharges": [
+    {
+      "name": "CONTROLLED SUBSTANCE KNOW POSSES",
+      "count": 202,
+      "pct": 13.6
+    },
+    {
+      "name": "DWLS 3RD",
+      "count": 119,
+      "pct": 8
+    },
+    {
+      "name": "THEFT 3RD DEG",
+      "count": 104,
+      "pct": 7
+    },
+    {
+      "name": "DOC HOLD",
+      "count": 100,
+      "pct": 6.7
+    },
+    {
+      "name": "DUI",
+      "count": 89,
+      "pct": 6
+    },
+    {
+      "name": "CONTEMPT OF COURT",
+      "count": 52,
+      "pct": 3.5
+    },
+    {
+      "name": "PROTECTION ORDER VIOLATION",
+      "count": 45,
+      "pct": 3
+    },
+    {
+      "name": "OBSTRUCTING PUBLIC SERVANT",
+      "count": 39,
+      "pct": 2.6
+    },
+    {
+      "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 34,
+      "pct": 2.3
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 29,
+      "pct": 1.9
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 28,
+      "pct": 1.9
+    },
+    {
+      "name": "CRIM TRESPASS 2ND",
+      "count": 27,
+      "pct": 1.8
+    },
+    {
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 25,
+      "pct": 1.7
+    },
+    {
+      "name": "CRIM TRESPASS 1ST",
+      "count": 21,
+      "pct": 1.4
+    },
+    {
+      "name": "FELONY HARASSMENT",
+      "count": 18,
+      "pct": 1.2
+    },
+    {
+      "name": "ASSAULT 3RD",
+      "count": 18,
+      "pct": 1.2
+    },
+    {
+      "name": "UNLAWFUL CAMPING",
+      "count": 17,
+      "pct": 1.1
+    },
+    {
+      "name": "RECKLESS DRIVING",
+      "count": 17,
+      "pct": 1.1
+    },
+    {
+      "name": "DWLS 2ND",
+      "count": 16,
+      "pct": 1.1
+    },
+    {
+      "name": "THEFT 2ND DEGREE > $750",
+      "count": 16,
+      "pct": 1.1
+    }
+  ],
+  "topAgencies": [
+    {
+      "name": "LVPD",
+      "count": 246,
+      "pct": 39.5,
+      "label": "Longview Police"
+    },
+    {
+      "name": "CCSO",
+      "count": 118,
+      "pct": 19,
+      "label": "Cowlitz County Sheriff's Office"
+    },
+    {
+      "name": "KEPD",
+      "count": 88,
+      "pct": 14.1,
+      "label": "Kelso Police"
+    },
+    {
+      "name": "CCCD",
+      "count": 68,
+      "pct": 10.9,
+      "label": "Cowlitz County Corrections"
+    },
+    {
+      "name": "DOC",
+      "count": 35,
+      "pct": 5.6,
+      "label": "Dept. of Corrections"
+    },
+    {
+      "name": "WSP",
+      "count": 26,
+      "pct": 4.2,
+      "label": "Washington State Patrol"
+    },
+    {
+      "name": "WDPD",
+      "count": 20,
+      "pct": 3.2,
+      "label": "Woodland Police"
+    },
+    {
+      "name": "CRPD",
+      "count": 16,
+      "pct": 2.6,
+      "label": "Castle Rock Police"
+    },
+    {
+      "name": "KAPD",
+      "count": 4,
+      "pct": 0.6,
+      "label": "KAPD"
+    },
+    {
+      "name": "911",
+      "count": 1,
+      "pct": 0.2,
+      "label": "911"
+    }
+  ],
+  "courts": [
+    {
+      "name": "COWLITZ COUNTY SUPERIOR COURT",
+      "count": 457,
+      "pct": 30.7
+    },
+    {
+      "name": "LONGVIEW MUNICIPAL COURT",
+      "count": 432,
+      "pct": 29
+    },
+    {
+      "name": "COWLITZ COUNTY DISTRICT COURT",
+      "count": 193,
+      "pct": 13
+    },
+    {
+      "name": "KELSO MUNICIPAL COURT",
+      "count": 179,
+      "pct": 12
+    },
+    {
+      "name": "DOC COURT",
+      "count": 82,
+      "pct": 5.5
+    },
+    {
+      "name": "WOODLAND MUNICIPAL COURT",
+      "count": 57,
+      "pct": 3.8
+    },
+    {
+      "name": "CASTLE ROCK MUNICIPAL COURT",
+      "count": 28,
+      "pct": 1.9
+    },
+    {
+      "name": "DRUG COURT",
+      "count": 14,
+      "pct": 0.9
+    },
+    {
+      "name": "DOC CONTRACT COURT",
+      "count": 12,
+      "pct": 0.8
+    },
+    {
+      "name": "MENTAL HEALTH COURT",
+      "count": 11,
+      "pct": 0.7
+    },
+    {
+      "name": "KALAMA MUNICIPAL COURT",
+      "count": 8,
+      "pct": 0.5
+    },
+    {
+      "name": "OTHER - OUT OF COUNTY",
+      "count": 7,
+      "pct": 0.5
+    }
+  ],
+  "housingUnits": [
+    {
+      "name": "A",
+      "count": 27,
+      "pct": 18.6
+    },
+    {
+      "name": "B",
+      "count": 15,
+      "pct": 10.3
+    },
+    {
+      "name": "C",
+      "count": 19,
+      "pct": 13.1
+    },
+    {
+      "name": "D",
+      "count": 10,
+      "pct": 6.9
+    },
+    {
+      "name": "E",
+      "count": 17,
+      "pct": 11.7
+    },
+    {
+      "name": "F",
+      "count": 8,
+      "pct": 5.5
+    },
+    {
+      "name": "G",
+      "count": 28,
+      "pct": 19.3
+    },
+    {
+      "name": "H",
+      "count": 5,
+      "pct": 3.4
+    },
+    {
+      "name": "INTAKE",
+      "count": 4,
+      "pct": 2.8
+    },
+    {
+      "name": "WSH",
+      "count": 12,
+      "pct": 8.3
+    }
+  ],
+  "stay": {
+    "releasedCount": 481,
+    "medianDays": 2.2,
+    "meanDays": 14.5,
+    "buckets": [
+      {
+        "label": "< 1 day",
+        "count": 166
+      },
+      {
+        "label": "1–3 days",
+        "count": 114
+      },
+      {
+        "label": "3–7 days",
+        "count": 41
+      },
+      {
+        "label": "1–4 weeks",
+        "count": 103
+      },
+      {
+        "label": "1–3 months",
+        "count": 40
+      },
+      {
+        "label": "3+ months",
+        "count": 17
+      }
+    ],
+    "currentMedianDaysHeld": 22.8,
+    "currentLongestDaysHeld": 520.7
+  },
+  "bond": {
+    "withBond": 109,
+    "noBond": 36,
+    "medianBond": 4500,
+    "maxBond": 500000,
+    "totalBond": 3677750
+  },
+  "chargesPerBooking": 2.4
+}
