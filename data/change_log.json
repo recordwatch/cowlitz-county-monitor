@@ -1,5 +1,31 @@
 [
   {
+    "id": "331102-20261113220956",
+    "inmateNumber": "331102",
+    "name": "VERDUGO GONZALEZ, LUIS JAVIER",
+    "bookedAt": "2026-11-13T22:09:56",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-13T22:16:12",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-13T22:51:49",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "145390-20261113201037",
     "inmateNumber": "145390",
     "name": "HERRIGES, LINDA SUE",
@@ -17,7 +43,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
