@@ -1,5 +1,19 @@
 [
   {
+    "id": "44569-20261114000130",
+    "inmateNumber": "44569",
+    "name": "BEAN, TIMOTHY ROLLO",
+    "bookedAt": "2026-11-14T00:01:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-14T00:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "331102-20261113220956",
     "inmateNumber": "331102",
     "name": "VERDUGO GONZALEZ, LUIS JAVIER",
