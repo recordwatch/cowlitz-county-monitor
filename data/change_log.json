@@ -4,10 +4,22 @@
     "inmateNumber": "293948",
     "name": "MATTSON, TAMMY LEE",
     "bookedAt": "2026-11-15T12:41:23",
-    "location": "1-PENDING BOOKING",
+    "location": "E14",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "FT OBEY POLICE OFCR",
+        "offenseDate": "2026-11-15T12:42:29",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0275282",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-15T13:15:18",
     "releasedAt": null,
@@ -821,7 +833,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-11-12T16:00:47",
-    "location": "F10",
+    "location": "A16",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
