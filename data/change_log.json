@@ -528,7 +528,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -539,7 +539,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "RECKLESS ENDANGER DV",
