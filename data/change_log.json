@@ -1,5 +1,19 @@
 [
   {
+    "id": "13531-20261115121849",
+    "inmateNumber": "13531",
+    "name": "PERRIGO, MICHAEL SHANE",
+    "bookedAt": "2026-11-15T12:18:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DFW",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T12:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "32049-20261115044141",
     "inmateNumber": "32049",
     "name": "DOTY, TERRY JAMES",
@@ -2383,7 +2397,7 @@
     "inmateNumber": "352518",
     "name": "GOODRICH, BRYDON TASEE",
     "bookedAt": "2026-11-09T21:55:56",
-    "location": "A16",
+    "location": "A14",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -9962,7 +9976,7 @@
     "inmateNumber": "35776",
     "name": "REID, SAMUEL BRYCE",
     "bookedAt": "2026-10-25T08:09:44",
-    "location": "A16",
+    "location": "A14",
     "arrestingAgency": "KEPD",
     "bondTotal": 20000,
     "charges": [
@@ -10243,7 +10257,7 @@
     "inmateNumber": "13995",
     "name": "PARKER, KEVIN RENE",
     "bookedAt": "2026-10-24T13:55:21",
-    "location": "A16",
+    "location": "A14",
     "arrestingAgency": "KEPD",
     "bondTotal": 4000,
     "charges": [
