@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T17:55:18",
+  "generatedAt": "2026-11-14T18:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 630,
     "bookingsObserved": 464,
-    "releasesObserved": 481,
-    "inCustody": 149,
+    "releasesObserved": 482,
+    "inCustody": 148,
     "uniquePeople": 583
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-14",
       "booked": 6,
-      "released": 3
+      "released": 4
     }
   ],
   "topCharges": [
@@ -390,22 +390,22 @@
     {
       "name": "A",
       "count": 30,
-      "pct": 20.1
+      "pct": 20.3
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 11.4
+      "count": 16,
+      "pct": 10.8
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 12.1
+      "pct": 12.2
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 6.7
+      "pct": 6.8
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 18.8
+      "pct": 18.9
     },
     {
       "name": "H",
@@ -430,7 +430,7 @@
     {
       "name": "INTAKE",
       "count": 2,
-      "pct": 1.3
+      "pct": 1.4
     },
     {
       "name": "WSH",
@@ -439,8 +439,8 @@
     }
   ],
   "stay": {
-    "releasedCount": 481,
-    "medianDays": 2.2,
+    "releasedCount": 482,
+    "medianDays": 2.1,
     "meanDays": 14.5,
     "buckets": [
       {
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 114
+        "count": 115
       },
       {
         "label": "3–7 days",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.8,
-    "currentLongestDaysHeld": 521
+    "currentMedianDaysHeld": 22.9,
+    "currentLongestDaysHeld": 521.1
   },
   "bond": {
-    "withBond": 111,
+    "withBond": 110,
     "noBond": 38,
-    "medianBond": 4000,
+    "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3669750
+    "totalBond": 3665250
   },
   "chargesPerBooking": 2.4
 }
