@@ -245,7 +245,7 @@
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
     "bookedAt": "2026-11-13T16:07:52",
-    "location": "A14",
+    "location": "D25",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -8118,7 +8118,7 @@
     "inmateNumber": "69897",
     "name": "RAAPPANA, BILLIE DAWN",
     "bookedAt": "2026-10-28T20:42:33",
-    "location": "E14",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [
@@ -22465,7 +22465,7 @@
     "inmateNumber": "39576",
     "name": "KILLITZ, JULIE MICHELLE",
     "bookedAt": "2026-08-27T09:31:07",
-    "location": "D26",
+    "location": "E23",
     "arrestingAgency": "CCSO",
     "bondTotal": 35000,
     "charges": [
