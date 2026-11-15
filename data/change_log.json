@@ -1,5 +1,42 @@
 [
   {
+    "id": "360257-20261115025154",
+    "inmateNumber": "360257",
+    "name": "BUZZELL, MIRIAM ANN",
+    "bookedAt": "2026-11-15T02:51:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-15T02:59:06",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431320",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-15T03:01:59",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0431320",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T03:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "355003-20261114154345",
     "inmateNumber": "355003",
     "name": "CASTILLO, JESSE SHOEMAKER",
