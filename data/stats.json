@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T16:15:21",
+  "generatedAt": "2026-11-14T16:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 629,
-    "bookingsObserved": 463,
+    "bookingsTracked": 630,
+    "bookingsObserved": 464,
     "releasesObserved": 481,
-    "inCustody": 148,
-    "uniquePeople": 582
+    "inCustody": 149,
+    "uniquePeople": 583
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 5,
+      "booked": 6,
       "released": 3
     }
   ],
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 245,
-      "pct": 39.2,
+      "count": 246,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 118,
-      "pct": 18.9,
+      "pct": 18.8,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 91,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 457,
-      "pct": 30.6
+      "count": 458,
+      "pct": 30.7
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 432,
-      "pct": 29
+      "pct": 28.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.8,
+    "currentMedianDaysHeld": 22.7,
     "currentLongestDaysHeld": 521
   },
   "bond": {
     "withBond": 111,
-    "noBond": 37,
+    "noBond": 38,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3669750
