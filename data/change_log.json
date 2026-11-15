@@ -1,13 +1,50 @@
 [
   {
+    "id": "293948-20261115124123",
+    "inmateNumber": "293948",
+    "name": "MATTSON, TAMMY LEE",
+    "bookedAt": "2026-11-15T12:41:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T13:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "13531-20261115121849",
     "inmateNumber": "13531",
     "name": "PERRIGO, MICHAEL SHANE",
     "bookedAt": "2026-11-15T12:18:49",
-    "location": "1-PENDING BOOKING",
+    "location": "B21",
     "arrestingAgency": "DFW",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "VIOLATING DFW SUSPENDED PRIVS 2ND DEGREE",
+        "offenseDate": "2026-11-15T12:25:37",
+        "arrestingAgency": "DFW",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00818694",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-15T12:27:27",
+        "arrestingAgency": "DFW",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "XZ0114267",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-15T12:55:19",
     "releasedAt": null,
