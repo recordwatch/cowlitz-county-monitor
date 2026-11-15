@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T04:55:19",
+  "generatedAt": "2026-11-15T05:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 631,
-    "bookingsObserved": 465,
+    "bookingsTracked": 632,
+    "bookingsObserved": 466,
     "releasesObserved": 482,
-    "inCustody": 149,
-    "uniquePeople": 584
+    "inCustody": 150,
+    "uniquePeople": 585
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 247,
-      "pct": 39.4,
+      "count": 248,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 16,
-      "pct": 2.6,
+      "pct": 2.5,
       "label": "Castle Rock Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.2,
+    "currentMedianDaysHeld": 22.8,
     "currentLongestDaysHeld": 521.5
   },
   "bond": {
     "withBond": 111,
-    "noBond": 38,
+    "noBond": 39,
     "medianBond": 3500,
     "maxBond": 500000,
     "totalBond": 3666750
