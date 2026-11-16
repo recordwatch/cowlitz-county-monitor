@@ -72,7 +72,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "RECKLESS ENDANGERMENT",
+        "description": "VEHICULAR ASSAULT",
         "offenseDate": "2026-11-16T10:54:17",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
@@ -83,7 +83,7 @@
         "bondAmount": null
       },
       {
-        "description": "VEHICULAR ASSAULT",
+        "description": "RECKLESS ENDANGERMENT",
         "offenseDate": "2026-11-16T12:00:52",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
@@ -158,14 +158,14 @@
     "bookedAt": "2026-11-16T03:50:26",
     "location": "E13",
     "arrestingAgency": "OTHR",
-    "bondTotal": 41500,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-16T04:03:44",
         "arrestingAgency": "OTHR",
         "court": "OTHER - OUT OF COUNTY",
-        "warrantNumber": "2610001225",
+        "warrantNumber": "2610001335",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -180,7 +180,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 40000
+        "bondAmount": 10000
       },
       {
         "description": "DWLS 3RD",
@@ -191,7 +191,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1500
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -446,9 +446,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T16:15:26",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T15:15:20",
     "baseline": false
   },
   {
@@ -820,9 +820,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-13T22:51:49",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T15:15:20",
     "baseline": false
   },
   {
@@ -1390,9 +1390,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T10:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T15:15:20",
     "baseline": false
   },
   {
