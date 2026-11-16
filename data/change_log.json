@@ -1,5 +1,31 @@
 [
   {
+    "id": "275852-20261115173940",
+    "inmateNumber": "275852",
+    "name": "SILVA, DANE ALOHI",
+    "bookedAt": "2026-11-15T17:39:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-15T17:42:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0442090",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T18:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "286679-20261115160132",
     "inmateNumber": "286679",
     "name": "LEON, MIGUEL ANGEL",
