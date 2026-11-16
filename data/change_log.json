@@ -1,5 +1,31 @@
 [
   {
+    "id": "75464-20261116084349",
+    "inmateNumber": "75464",
+    "name": "GIBSON, CHARLES MARTIN",
+    "bookedAt": "2026-11-16T08:43:49",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 250,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-11-16T08:45:48",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438772",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T09:35:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "144741-20261116035026",
     "inmateNumber": "144741",
     "name": "CHURCH, MELANIE LYNN",
@@ -9362,15 +9388,15 @@
     "bondTotal": 7500,
     "charges": [
       {
-        "description": "BURGLARY 2ND",
+        "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-10-26T20:27:16",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 7500
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -9378,9 +9404,9 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069708",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "SUPR",
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -9389,7 +9415,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610069708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
