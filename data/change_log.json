@@ -1,5 +1,53 @@
 [
   {
+    "id": "144741-20261116035026",
+    "inmateNumber": "144741",
+    "name": "CHURCH, MELANIE LYNN",
+    "bookedAt": "2026-11-16T03:50:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "OTHR",
+    "bondTotal": 41500,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-16T04:03:44",
+        "arrestingAgency": "OTHR",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "2610001225",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-16T04:03:44",
+        "arrestingAgency": "OTHR",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "2610002235",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 40000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-16T04:05:42",
+        "arrestingAgency": "OTHR",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "T00017774",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T04:55:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361872-20261116014807",
     "inmateNumber": "361872",
     "name": "GRANADOS ZUNIGA, SALVADOR NONE",
