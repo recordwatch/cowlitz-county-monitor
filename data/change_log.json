@@ -551,7 +551,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "PC0002116",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -2720,7 +2720,7 @@
     "inmateNumber": "122779",
     "name": "RIDLEY RANGE, SHANE MICHAEL",
     "bookedAt": "2026-11-09T23:50:31",
-    "location": "G-G08",
+    "location": "G-G45",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -4038,7 +4038,7 @@
     "inmateNumber": "19871",
     "name": "IBSEN, TONY ALLEN",
     "bookedAt": "2026-11-06T10:05:43",
-    "location": "G-G23",
+    "location": "G-G25",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
