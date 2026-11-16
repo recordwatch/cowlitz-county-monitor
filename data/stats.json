@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T20:15:23",
+  "generatedAt": "2026-11-15T20:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 639,
-    "bookingsObserved": 473,
+    "bookingsTracked": 640,
+    "bookingsObserved": 474,
     "releasesObserved": 484,
-    "inCustody": 155,
-    "uniquePeople": 592
+    "inCustody": 156,
+    "uniquePeople": 593
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 9,
+      "booked": 10,
       "released": 2
     }
   ],
@@ -228,8 +228,8 @@
     },
     {
       "name": "CRIM TRESPASS 1ST",
-      "count": 21,
-      "pct": 1.4
+      "count": 22,
+      "pct": 1.5
     },
     {
       "name": "FELONY HARASSMENT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 252,
-      "pct": 39.7,
+      "count": 253,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 69,
-      "pct": 10.9,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 27,
-      "pct": 4.3,
+      "pct": 4.2,
       "label": "Washington State Patrol"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 443,
+      "count": 444,
       "pct": 29.4
     },
     {
@@ -390,22 +390,22 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 20.8
+      "pct": 20.6
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 11.7
+      "count": 19,
+      "pct": 12.3
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.7
+      "pct": 11.6
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 18.2
+      "pct": 18.1
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.8
+      "pct": 7.7
     }
   ],
   "stay": {
@@ -469,14 +469,14 @@
       }
     ],
     "currentMedianDaysHeld": 22,
-    "currentLongestDaysHeld": 522.1
+    "currentLongestDaysHeld": 522.2
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 40,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 3672250
+    "totalBond": 3673250
   },
   "chargesPerBooking": 2.4
 }

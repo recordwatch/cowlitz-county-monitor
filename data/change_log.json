@@ -1,5 +1,31 @@
 [
   {
+    "id": "87942-20261115193538",
+    "inmateNumber": "87942",
+    "name": "SOTELO, JUAN ANDRES",
+    "bookedAt": "2026-11-15T19:35:38",
+    "location": "INTAKE H6",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "offenseDate": "2026-11-15T19:38:55",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A040202272",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T20:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361862-20261115193130",
     "inmateNumber": "361862",
     "name": "ALAMILLO, MACKENZIE CLAIRE",
@@ -55,7 +81,7 @@
     "inmateNumber": "275852",
     "name": "SILVA, DANE ALOHI",
     "bookedAt": "2026-11-15T17:39:40",
-    "location": "INTAKE H1",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
