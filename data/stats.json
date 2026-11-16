@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T19:55:15",
+  "generatedAt": "2026-11-15T20:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 638,
-    "bookingsObserved": 472,
+    "bookingsTracked": 639,
+    "bookingsObserved": 473,
     "releasesObserved": 484,
-    "inCustody": 154,
-    "uniquePeople": 591
+    "inCustody": 155,
+    "uniquePeople": 592
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 8,
+      "booked": 9,
       "released": 2
     }
   ],
@@ -295,14 +295,14 @@
     },
     {
       "name": "WSP",
-      "count": 26,
-      "pct": 4.1,
+      "count": 27,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
       "name": "WDPD",
       "count": 20,
-      "pct": 3.2,
+      "pct": 3.1,
       "label": "Woodland Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.1,
+    "currentMedianDaysHeld": 22,
     "currentLongestDaysHeld": 522.1
   },
   "bond": {
     "withBond": 115,
-    "noBond": 39,
+    "noBond": 40,
     "medianBond": 3000,
     "maxBond": 500000,
     "totalBond": 3672250

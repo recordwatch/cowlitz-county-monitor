@@ -1,5 +1,19 @@
 [
   {
+    "id": "361862-20261115193130",
+    "inmateNumber": "361862",
+    "name": "ALAMILLO, MACKENZIE CLAIRE",
+    "bookedAt": "2026-11-15T19:31:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T20:15:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "302487-20261115190618",
     "inmateNumber": "302487",
     "name": "TAKEMASA, KN",
