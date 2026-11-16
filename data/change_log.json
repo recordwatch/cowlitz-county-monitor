@@ -4,10 +4,33 @@
     "inmateNumber": "286679",
     "name": "LEON, MIGUEL ANGEL",
     "bookedAt": "2026-11-15T16:01:32",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-15T16:24:02",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0442089",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "UNNECESSARY NOISE",
+        "offenseDate": "2026-11-15T16:22:50",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0442089",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-15T16:35:24",
     "releasedAt": null,
