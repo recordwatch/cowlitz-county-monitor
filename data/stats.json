@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T15:55:19",
+  "generatedAt": "2026-11-15T16:15:26",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 634,
-    "bookingsObserved": 468,
+    "bookingsTracked": 635,
+    "bookingsObserved": 469,
     "releasesObserved": 482,
-    "inCustody": 152,
-    "uniquePeople": 587
+    "inCustody": 153,
+    "uniquePeople": 588
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 4,
+      "booked": 5,
       "released": 0
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 106,
+      "count": 107,
       "pct": 7.1
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 249,
-      "pct": 39.5,
+      "count": 250,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "CCCD",
       "count": 69,
-      "pct": 11,
+      "pct": 10.9,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 35,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "Dept. of Corrections"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 439,
-      "pct": 29.2
+      "count": 440,
+      "pct": 29.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -389,13 +389,13 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 31,
-      "pct": 20.4
+      "count": 32,
+      "pct": 20.9
     },
     {
       "name": "B",
       "count": 17,
-      "pct": 11.2
+      "pct": 11.1
     },
     {
       "name": "C",
@@ -405,12 +405,12 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "E",
       "count": 20,
-      "pct": 13.2
+      "pct": 13.1
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 18.4
+      "pct": 18.3
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.9
+      "pct": 7.8
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.5,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 522
   },
   "bond": {
-    "withBond": 114,
+    "withBond": 115,
     "noBond": 38,
-    "medianBond": 3250,
+    "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 3671250
+    "totalBond": 3672250
   },
   "chargesPerBooking": 2.4
 }

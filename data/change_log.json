@@ -1,5 +1,31 @@
 [
   {
+    "id": "345476-20261115153615",
+    "inmateNumber": "345476",
+    "name": "DIX, JIMMY DENNIS",
+    "bookedAt": "2026-11-15T15:36:15",
+    "location": "A12",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-15T15:36:56",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0435938",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T16:15:26",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "293948-20261115124123",
     "inmateNumber": "293948",
     "name": "MATTSON, TAMMY LEE",
