@@ -1,5 +1,42 @@
 [
   {
+    "id": "361872-20261116014807",
+    "inmateNumber": "361872",
+    "name": "GRANADOS ZUNIGA, SALVADOR",
+    "bookedAt": "2026-11-16T01:48:07",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-16T01:55:59",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0316624",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-11-16T01:56:51",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0316624",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T02:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "251794-20261115234257",
     "inmateNumber": "251794",
     "name": "ARNESON, EVAN JAMES",
