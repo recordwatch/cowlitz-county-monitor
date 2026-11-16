@@ -1,5 +1,19 @@
 [
   {
+    "id": "251794-20261115234257",
+    "inmateNumber": "251794",
+    "name": "ARNESON, EVAN JAMES",
+    "bookedAt": "2026-11-15T23:42:57",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T00:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "87942-20261115193538",
     "inmateNumber": "87942",
     "name": "SOTELO, JUAN ANDRES",
