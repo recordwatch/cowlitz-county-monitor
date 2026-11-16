@@ -1,13 +1,65 @@
 [
   {
+    "id": "151550-20261116151855",
+    "inmateNumber": "151550",
+    "name": "CASS, WADE PAUL LEE",
+    "bookedAt": "2026-11-16T15:18:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "361885-20261116150759",
+    "inmateNumber": "361885",
+    "name": "LAURSEN, MICHAEL THORVALD",
+    "bookedAt": "2026-11-16T15:07:59",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-16T15:10:53",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361886-20261116145225",
     "inmateNumber": "361886",
     "name": "WEST, ALTON RAY",
     "bookedAt": "2026-11-16T14:52:25",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-16T15:16:00",
+        "arrestingAgency": "DOC",
+        "court": "STATE WORK RELEASE",
+        "warrantNumber": "2510096318",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T15:35:16",
     "releasedAt": null,
