@@ -5,9 +5,21 @@
     "name": "LEWIS, PERRY LEE",
     "bookedAt": "2026-11-16T09:22:14",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-16T09:24:57",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "011008878",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T09:55:18",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "75464",
     "name": "GIBSON, CHARLES MARTIN",
     "bookedAt": "2026-11-16T08:43:49",
-    "location": "1-PENDING BOOKING",
+    "location": "B25",
     "arrestingAgency": "LVPD",
     "bondTotal": 250,
     "charges": [
@@ -479,7 +491,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -490,7 +502,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -9490,9 +9502,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-26T20:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T10:15:20",
     "baseline": false
   },
   {
