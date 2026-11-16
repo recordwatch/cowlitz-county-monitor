@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T19:35:17",
+  "generatedAt": "2026-11-15T19:55:15",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 637,
-    "bookingsObserved": 471,
+    "bookingsTracked": 638,
+    "bookingsObserved": 472,
     "releasesObserved": 484,
-    "inCustody": 153,
-    "uniquePeople": 590
+    "inCustody": 154,
+    "uniquePeople": 591
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 7,
+      "booked": 8,
       "released": 2
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 100,
-      "pct": 6.6
+      "count": 101,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -189,7 +189,7 @@
     {
       "name": "CONTEMPT OF COURT",
       "count": 52,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 252,
-      "pct": 39.8,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 91,
-      "pct": 14.4,
+      "count": 92,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 458,
+      "count": 459,
       "pct": 30.4
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 82,
-      "pct": 5.4
+      "count": 83,
+      "pct": 5.5
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 32,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "B",
-      "count": 17,
-      "pct": 11.1
+      "count": 18,
+      "pct": 11.7
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 11.8
+      "pct": 11.7
     },
     {
       "name": "D",
@@ -410,27 +410,27 @@
     {
       "name": "E",
       "count": 19,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 18.3
+      "pct": 18.2
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "INTAKE",
       "count": 3,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.2,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 522.1
   },
   "bond": {
     "withBond": 115,
-    "noBond": 38,
+    "noBond": 39,
     "medianBond": 3000,
     "maxBond": 500000,
     "totalBond": 3672250

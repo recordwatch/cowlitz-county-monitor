@@ -1,5 +1,42 @@
 [
   {
+    "id": "302487-20261115190618",
+    "inmateNumber": "302487",
+    "name": "TAKEMASA, KN",
+    "bookedAt": "2026-11-15T19:06:18",
+    "location": "B24",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST",
+        "offenseDate": "2026-11-15T19:07:31",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-15T19:14:43",
+        "arrestingAgency": "KEPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2510070108",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T19:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "275852-20261115173940",
     "inmateNumber": "275852",
     "name": "SILVA, DANE ALOHI",
