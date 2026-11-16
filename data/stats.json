@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:15:20",
+  "generatedAt": "2026-11-16T14:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 648,
@@ -242,14 +242,14 @@
       "pct": 1.2
     },
     {
-      "name": "ASSAULT 3RD",
+      "name": "THEFT 2ND DEGREE > $750",
       "count": 18,
       "pct": 1.2
     },
     {
-      "name": "THEFT 2ND DEGREE > $750",
-      "count": 17,
-      "pct": 1.1
+      "name": "ASSAULT 3RD",
+      "count": 18,
+      "pct": 1.2
     },
     {
       "name": "RECKLESS DRIVING",

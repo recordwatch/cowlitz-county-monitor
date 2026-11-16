@@ -290,8 +290,8 @@
         "warrantNumber": "6A0402272",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -6429,15 +6429,15 @@
     "bondTotal": 20000,
     "charges": [
       {
-        "description": "BURGLARY 2ND",
+        "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-11-02T19:35:12",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610071308",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 20000
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -6445,9 +6445,9 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610071308",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
