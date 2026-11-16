@@ -4,7 +4,7 @@
     "inmateNumber": "111242",
     "name": "LEWIS, PERRY LEE",
     "bookedAt": "2026-11-16T09:22:14",
-    "location": "1-PENDING BOOKING",
+    "location": "A25",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -151,10 +151,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0407183",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -8963,7 +8963,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
