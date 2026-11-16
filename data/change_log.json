@@ -1,5 +1,19 @@
 [
   {
+    "id": "286679-20261115160132",
+    "inmateNumber": "286679",
+    "name": "LEON, MIGUEL ANGEL",
+    "bookedAt": "2026-11-15T16:01:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-15T16:35:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "345476-20261115153615",
     "inmateNumber": "345476",
     "name": "DIX, JIMMY DENNIS",
@@ -13,7 +27,7 @@
         "offenseDate": "2026-11-15T15:36:56",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6a0435938",
+        "warrantNumber": "6A0435938",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
