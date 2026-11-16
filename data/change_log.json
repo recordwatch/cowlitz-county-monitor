@@ -1,5 +1,19 @@
 [
   {
+    "id": "111242-20261116092214",
+    "inmateNumber": "111242",
+    "name": "LEWIS, PERRY LEE",
+    "bookedAt": "2026-11-16T09:22:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T09:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75464-20261116084349",
     "inmateNumber": "75464",
     "name": "GIBSON, CHARLES MARTIN",
