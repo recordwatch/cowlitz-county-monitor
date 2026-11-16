@@ -278,7 +278,7 @@
         "court": "DOC COURT",
         "warrantNumber": "141011374",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -289,7 +289,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0402272",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -341,7 +341,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510070108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -352,7 +352,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610073908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 125000
       }
@@ -440,10 +440,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435938",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Per. Recogn.",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -466,10 +466,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0275282",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -521,8 +521,19 @@
     "bookedAt": "2026-11-15T04:41:41",
     "location": "B21",
     "arrestingAgency": "LVPD",
-    "bondTotal": 2500,
+    "bondTotal": 3500,
     "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-15T04:48:45",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0436069",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3500
+      },
       {
         "description": "INTERFERING DV REPORTING",
         "offenseDate": "2026-11-15T04:51:45",
@@ -531,8 +542,8 @@
         "warrantNumber": "6A0436069",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -542,8 +553,8 @@
         "warrantNumber": "6A0436069",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -553,18 +564,7 @@
         "warrantNumber": "6A0436069",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
-        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
-        "offenseDate": "2026-11-15T04:48:45",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0436069",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -814,10 +814,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0423319",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -910,7 +910,7 @@
     "bookedAt": "2026-11-13T15:01:58",
     "location": "C13",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -943,7 +943,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 1500
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -1801,7 +1801,7 @@
     "bookedAt": "2026-11-11T15:15:16",
     "location": "G-G30",
     "arrestingAgency": "LVPD",
-    "bondTotal": 14000,
+    "bondTotal": 11000,
     "charges": [
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -1831,10 +1831,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0344459",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -1896,11 +1896,11 @@
         "offenseDate": "2026-11-13T13:40:23",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6a0365904",
-        "disposition": null,
+        "warrantNumber": "6A0365904",
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "LOADED PISTOL IN VEHICLE",
@@ -1908,7 +1908,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0365904",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -1919,10 +1919,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0366063",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -11961,7 +11961,7 @@
     "inmateNumber": "13674",
     "name": "SPIRES, ANGELA MARIE",
     "bookedAt": "2026-10-21T14:52:40",
-    "location": "E10",
+    "location": "E11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -19960,7 +19960,7 @@
     "inmateNumber": "36109",
     "name": "MCJUNKIN, CLAYTON PATRICK",
     "bookedAt": "2026-10-03T09:40:33",
-    "location": "G-G47",
+    "location": "G-G48",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
