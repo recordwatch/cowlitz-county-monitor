@@ -7701,9 +7701,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T12:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T05:55:16",
     "baseline": false
   },
   {
