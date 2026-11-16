@@ -1,5 +1,31 @@
 [
   {
+    "id": "299702-20261116115647",
+    "inmateNumber": "299702",
+    "name": "WARD, MICHAEL EMERY",
+    "bookedAt": "2026-11-16T11:56:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-16T12:01:08",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "2A0648581",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T12:35:51",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "340255-20261116113426",
     "inmateNumber": "340255",
     "name": "STRICKLAND, KYLE BENJAMIN",
@@ -46,8 +72,8 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "VEHICULAR ASSAULT",
-        "offenseDate": "2026-11-16T10:53:26",
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-11-16T10:54:17",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610005108",
@@ -57,8 +83,8 @@
         "bondAmount": null
       },
       {
-        "description": "RECKLESS ENDANGERMENT",
-        "offenseDate": "2026-11-16T10:54:17",
+        "description": "VEHICULAR ASSAULT",
+        "offenseDate": "2026-11-16T12:00:52",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610005108",

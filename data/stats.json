@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T12:15:20",
+  "generatedAt": "2026-11-16T12:35:51",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 647,
-    "bookingsObserved": 481,
+    "bookingsTracked": 648,
+    "bookingsObserved": 482,
     "releasesObserved": 493,
-    "inCustody": 154,
-    "uniquePeople": 599
+    "inCustody": 155,
+    "uniquePeople": 600
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 6,
+      "booked": 7,
       "released": 8
     }
   ],
@@ -213,8 +213,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 28,
-      "pct": 1.8
+      "count": 29,
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 255,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 93,
-      "pct": 14.5,
+      "count": 94,
+      "pct": 14.6,
       "label": "Kelso Police"
     },
     {
@@ -332,13 +332,13 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 445,
+      "count": 446,
       "pct": 29.2
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 199,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.4,
+    "currentMedianDaysHeld": 22.2,
     "currentLongestDaysHeld": 522.8
   },
   "bond": {
-    "withBond": 114,
+    "withBond": 115,
     "noBond": 40,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 3691500
+    "totalBond": 3692500
   },
   "chargesPerBooking": 2.4
 }
