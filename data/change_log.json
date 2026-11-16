@@ -1,5 +1,42 @@
 [
   {
+    "id": "6842-20261116104826",
+    "inmateNumber": "6842",
+    "name": "STURGILL, MICHAEL DEAN",
+    "bookedAt": "2026-11-16T10:48:26",
+    "location": "INTAKE H1",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VEHICULAR ASSAULT",
+        "offenseDate": "2026-11-16T10:53:26",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610005108",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-11-16T10:54:17",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610005108",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T11:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "111242-20261116092214",
     "inmateNumber": "111242",
     "name": "LEWIS, PERRY LEE",
@@ -214,10 +251,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00945848",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
