@@ -183,22 +183,22 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "ASSAULT 1ST",
-        "offenseDate": "2026-11-15T19:07:31",
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-15T19:14:43",
         "arrestingAgency": "KEPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "court": "DOC COURT",
+        "warrantNumber": "2510070108",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "DOC HOLD",
-        "offenseDate": "2026-11-15T19:14:43",
+        "description": "ASSAULT 1ST",
+        "offenseDate": "2026-11-15T19:07:31",
         "arrestingAgency": "KEPD",
-        "court": "DOC COURT",
-        "warrantNumber": "2510070108",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610073908",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -463,7 +463,7 @@
     "inmateNumber": "355003",
     "name": "CASTILLO, JESSE SHOEMAKER",
     "bookedAt": "2026-11-14T15:43:45",
-    "location": "A21",
+    "location": "A22",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -472,7 +472,7 @@
         "offenseDate": "2026-11-14T15:44:38",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610073808",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -850,7 +850,7 @@
         "offenseDate": "2026-11-13T12:38:24",
         "arrestingAgency": "CCCD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
-        "warrantNumber": "6a0396098",
+        "warrantNumber": "6A0396098",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -6546,7 +6546,7 @@
     "inmateNumber": "281853",
     "name": "TESTER, CARTER MICHAEL",
     "bookedAt": "2026-11-02T10:54:56",
-    "location": "A22",
+    "location": "A21",
     "arrestingAgency": "CCSO",
     "bondTotal": 85000,
     "charges": [
@@ -14817,8 +14817,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -14828,8 +14828,8 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-15T18:36:45",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -17403,9 +17403,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-11T00:35:09",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T08:55:20",
     "baseline": false
   },
   {
