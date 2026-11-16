@@ -756,7 +756,7 @@
     "inmateNumber": "44569",
     "name": "BEAN, TIMOTHY ROLLO",
     "bookedAt": "2026-11-14T00:01:30",
-    "location": "INTAKE H6",
+    "location": "D13",
     "arrestingAgency": "KEPD",
     "bondTotal": 3000,
     "charges": [
@@ -1296,7 +1296,7 @@
     "inmateNumber": "311762",
     "name": "STEWART, JACK HADLEY",
     "bookedAt": "2026-11-12T16:00:47",
-    "location": "A16",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -6451,9 +6451,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T19:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T14:55:17",
     "baseline": false
   },
   {
