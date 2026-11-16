@@ -1,5 +1,42 @@
 [
   {
+    "id": "340255-20261116113426",
+    "inmateNumber": "340255",
+    "name": "STRICKLAND, KYLE BENJAMIN",
+    "bookedAt": "2026-11-16T11:34:26",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-16T11:37:49",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0369191",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-16T11:39:19",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0369191",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T12:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "6842-20261116104826",
     "inmateNumber": "6842",
     "name": "STURGILL, MICHAEL DEAN",
