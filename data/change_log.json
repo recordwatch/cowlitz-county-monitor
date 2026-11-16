@@ -283,9 +283,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T18:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T10:46:07",
     "baseline": false
   },
   {
@@ -505,9 +505,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T03:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T10:46:07",
     "baseline": false
   },
   {
@@ -577,10 +577,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0365205",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -869,8 +869,19 @@
     "bookedAt": "2026-11-13T14:39:42",
     "location": "C16",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-16T10:13:02",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0302216",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-11-13T14:43:41",
@@ -903,10 +914,10 @@
         "arrestingAgency": "CCCD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396098",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1719,7 +1730,7 @@
         "offenseDate": "2026-11-13T13:37:19",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6a0344459",
+        "warrantNumber": "6A0344459",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -1752,7 +1763,7 @@
         "offenseDate": "2026-11-13T13:42:49",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6a0365203",
+        "warrantNumber": "6A0365203",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -1763,7 +1774,7 @@
         "offenseDate": "2026-11-13T13:45:56",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6a0365203",
+        "warrantNumber": "6A0365203",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1774,7 +1785,7 @@
         "offenseDate": "2026-11-13T13:44:44",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6a0365203",
+        "warrantNumber": "6A0365203",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -8966,9 +8977,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-28T10:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-16T10:46:07",
     "baseline": false
   },
   {
