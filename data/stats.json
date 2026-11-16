@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:35:16",
+  "generatedAt": "2026-11-15T21:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 640,
@@ -174,12 +174,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 108,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "DOC HOLD",
-      "count": 101,
-      "pct": 6.7
+      "count": 102,
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -343,12 +343,12 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 182,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "DOC COURT",
-      "count": 83,
-      "pct": 5.5
+      "count": 84,
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -399,8 +399,8 @@
     },
     {
       "name": "C",
-      "count": 18,
-      "pct": 11.6
+      "count": 19,
+      "pct": 12.3
     },
     {
       "name": "D",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.6
+      "count": 3,
+      "pct": 1.9
     },
     {
       "name": "WSH",
@@ -468,7 +468,7 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 522.2
   },
   "bond": {
