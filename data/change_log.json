@@ -32,8 +32,20 @@
     "bookedAt": "2026-11-15T19:31:30",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-15T20:04:11",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00945848",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-15T20:15:23",
     "releasedAt": null,
@@ -44,7 +56,7 @@
     "inmateNumber": "302487",
     "name": "TAKEMASA, KN",
     "bookedAt": "2026-11-15T19:06:18",
-    "location": "B24",
+    "location": "B15",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [

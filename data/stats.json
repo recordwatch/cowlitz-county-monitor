@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:35:17",
+  "generatedAt": "2026-11-15T20:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 640,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 203,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DUI",
-      "count": 90,
+      "count": 91,
       "pct": 6
     },
     {
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 40,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 196,
+      "count": 197,
       "pct": 13
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 522.2
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 40,
+    "withBond": 117,
+    "noBond": 39,
     "medianBond": 3000,
     "maxBond": 500000,
-    "totalBond": 3673250
+    "totalBond": 3674250
   },
   "chargesPerBooking": 2.4
 }
