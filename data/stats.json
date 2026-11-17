@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-16T23:55:17",
+  "generatedAt": "2026-11-17T00:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 655,
-    "bookingsObserved": 489,
+    "bookingsTracked": 656,
+    "bookingsObserved": 490,
     "releasesObserved": 507,
-    "inCustody": 148,
-    "uniquePeople": 607
+    "inCustody": 149,
+    "uniquePeople": 608
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-18",
-      "booked": 11,
-      "released": 7
-    },
     {
       "date": "2026-10-19",
       "booked": 13,
@@ -156,14 +151,19 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 14,
+      "booked": 15,
       "released": 22
+    },
+    {
+      "date": "2026-11-17",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 206,
+      "count": 207,
       "pct": 13.4
     },
     {
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 104,
-      "pct": 6.7
+      "count": 105,
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -198,8 +198,8 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 40,
-      "pct": 2.6
+      "count": 41,
+      "pct": 2.7
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 257,
-      "pct": 39.5,
+      "count": 258,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 70,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -328,12 +328,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 467,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 450,
-      "pct": 29.2
+      "count": 452,
+      "pct": 29.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -347,8 +347,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 85,
-      "pct": 5.5
+      "count": 86,
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.8,
+    "currentMedianDaysHeld": 23.4,
     "currentLongestDaysHeld": 523.3
   },
   "bond": {
-    "withBond": 108,
+    "withBond": 109,
     "noBond": 40,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3765100
+    "totalBond": 3767100
   },
   "chargesPerBooking": 2.4
 }

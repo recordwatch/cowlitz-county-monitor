@@ -1,5 +1,53 @@
 [
   {
+    "id": "37041-20261116233135",
+    "inmateNumber": "37041",
+    "name": "FANCHER, RYAN CHRISTOPHER",
+    "bookedAt": "2026-11-16T23:31:35",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-16T23:42:49",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-16T23:39:35",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438951",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-16T23:34:39",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438951",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T00:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "33020-20261116200023",
     "inmateNumber": "33020",
     "name": "WOODS, JASON CLYDE",
