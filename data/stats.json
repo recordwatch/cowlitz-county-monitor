@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T08:35:17",
+  "generatedAt": "2026-11-17T08:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 662,
@@ -193,7 +193,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 46,
+      "count": 47,
       "pct": 3
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 200,
+      "count": 201,
       "pct": 12.9
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 523.7
   },
   "bond": {
-    "withBond": 110,
-    "noBond": 42,
-    "medianBond": 3750,
+    "withBond": 111,
+    "noBond": 41,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3768850
+    "totalBond": 3769850
   },
   "chargesPerBooking": 2.3
 }
