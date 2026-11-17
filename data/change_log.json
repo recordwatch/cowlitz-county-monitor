@@ -20,8 +20,97 @@
     "bookedAt": "2026-11-16T15:18:55",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 4000,
+    "charges": [
+      {
+        "description": "POSSESSION OF STOLEN VEHICLE",
+        "offenseDate": "2026-11-16T15:45:33",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-16T15:47:12",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-16T15:49:16",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-16T15:48:44",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS STL PROP 3/<250",
+        "offenseDate": "2026-11-16T15:46:29",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "USE/DELIVER DRUG PARAPHERNALIA",
+        "offenseDate": "2026-11-16T15:48:11",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-16T15:50:17",
+        "arrestingAgency": "WSP",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0536103",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-16T15:52:00",
+        "arrestingAgency": "WSP",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0715809",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T15:55:17",
     "releasedAt": null,
@@ -48,8 +137,34 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T15:55:17",
+    "releasedAt": "2026-11-16T16:35:17",
+    "baseline": false
+  },
+  {
+    "id": "361889-20261116150759",
+    "inmateNumber": "361889",
+    "name": "LAURSEN, MICHAEL THORVALD",
+    "bookedAt": "2026-11-16T15:07:59",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-16T15:10:53",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0261647",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T16:35:17",
     "releasedAt": null,
     "baseline": false
   },
