@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-17T09:25:34",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -20,15 +20,15 @@
         "bondAmount": 500
       },
       {
-        "description": "NVOL - WITHOUT ID",
+        "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-11-17T09:30:53",
         "arrestingAgency": "WSP",
-        "court": "CLARK COUNTY DISTRICT COURT",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T01006116",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       },
       {
         "description": "DUI",
@@ -555,7 +555,7 @@
         "court": "STATE WORK RELEASE",
         "warrantNumber": "2510096318",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -581,7 +581,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "2A0648581",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -681,7 +681,7 @@
         "court": "DOC COURT",
         "warrantNumber": "011008878",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -707,7 +707,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438772",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
