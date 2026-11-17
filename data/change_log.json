@@ -30,7 +30,7 @@
     "inmateNumber": "30841",
     "name": "EFFINGER, DESTINY AMBER",
     "bookedAt": "2026-11-17T11:55:20",
-    "location": "INTAKE H6",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -258,7 +258,7 @@
     "bookedAt": "2026-11-17T02:36:58",
     "location": "A11",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 25000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -268,8 +268,8 @@
         "warrantNumber": "2610074108",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 25000
       }
     ],
     "status": "in_custody",
@@ -284,7 +284,7 @@
     "bookedAt": "2026-11-17T00:54:19",
     "location": "A11",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 50000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -294,8 +294,8 @@
         "warrantNumber": "2610074208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 50000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -464,8 +464,8 @@
         "warrantNumber": "6a0267227",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2000
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -536,10 +536,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0407355",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -743,10 +743,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "2A0648581",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -869,10 +869,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438772",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
