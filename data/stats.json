@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T00:55:23",
+  "generatedAt": "2026-11-17T01:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 657,
-    "bookingsObserved": 491,
+    "bookingsTracked": 658,
+    "bookingsObserved": 492,
     "releasesObserved": 507,
-    "inCustody": 150,
-    "uniquePeople": 609
+    "inCustody": 151,
+    "uniquePeople": 610
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,16 +164,16 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 208,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
-      "count": 126,
+      "count": 127,
       "pct": 8.2
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 108,
+      "count": 109,
       "pct": 7
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 259,
-      "pct": 39.7,
+      "count": 260,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 120,
-      "pct": 18.4,
+      "pct": 18.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 16,
-      "pct": 2.5,
+      "pct": 2.4,
       "label": "Castle Rock Police"
     },
     {
@@ -332,12 +332,12 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 453,
+      "count": 454,
       "pct": 29.3
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 199,
+      "count": 200,
       "pct": 12.9
     },
     {
@@ -399,8 +399,8 @@
     },
     {
       "name": "C",
-      "count": 20,
-      "pct": 13.3
+      "count": 21,
+      "pct": 14
     },
     {
       "name": "D",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.3
+      "count": 4,
+      "pct": 2.7
     },
     {
       "name": "WSH",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.3,
-    "currentLongestDaysHeld": 523.3
+    "currentMedianDaysHeld": 23.2,
+    "currentLongestDaysHeld": 523.4
   },
   "bond": {
-    "withBond": 109,
+    "withBond": 110,
     "noBond": 41,
-    "medianBond": 4000,
+    "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3767100
+    "totalBond": 3768350
   },
   "chargesPerBooking": 2.4
 }

@@ -1,5 +1,42 @@
 [
   {
+    "id": "55672-20261117002612",
+    "inmateNumber": "55672",
+    "name": "WILLIAMS, BROOKE LYNN",
+    "bookedAt": "2026-11-17T00:26:12",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1250,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-17T00:40:25",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "4A0056956",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-17T00:41:09",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0275771",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:15:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "9166-20261117001107",
     "inmateNumber": "9166",
     "name": "COOK, JASON AARON",
@@ -30,7 +67,7 @@
     "inmateNumber": "37041",
     "name": "FANCHER, RYAN CHRISTOPHER",
     "bookedAt": "2026-11-16T23:31:35",
-    "location": "INTAKE H8",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
