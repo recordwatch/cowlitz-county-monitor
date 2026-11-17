@@ -1,5 +1,19 @@
 [
   {
+    "id": "361916-20261117074807",
+    "inmateNumber": "361916",
+    "name": "JOHNSON, ALYSSA LYNN",
+    "bookedAt": "2026-11-17T07:48:07",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T08:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "137290-20261117025004",
     "inmateNumber": "137290",
     "name": "DELACRUZ, KHIA SHANTE",
