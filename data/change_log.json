@@ -1,5 +1,53 @@
 [
   {
+    "id": "145707-20261117092534",
+    "inmateNumber": "145707",
+    "name": "ZYZNIEWSKI, BRODY ALAN",
+    "bookedAt": "2026-11-17T09:25:34",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-17T09:28:31",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T01006116",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-17T09:30:53",
+        "arrestingAgency": "WSP",
+        "court": "CLARK COUNTY DISTRICT COURT",
+        "warrantNumber": "T01006116",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-17T09:26:54",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T01006116",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T10:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361916-20261117074807",
     "inmateNumber": "361916",
     "name": "JOHNSON, ALYSSA LYNN",
