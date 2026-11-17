@@ -1,5 +1,31 @@
 [
   {
+    "id": "9166-20261117001107",
+    "inmateNumber": "9166",
+    "name": "COOK, JASON AARON",
+    "bookedAt": "2026-11-17T00:11:07",
+    "location": "INTAKE H6",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-17T00:22:52",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0197980",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T00:55:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "37041-20261116233135",
     "inmateNumber": "37041",
     "name": "FANCHER, RYAN CHRISTOPHER",

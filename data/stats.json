@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T00:35:19",
+  "generatedAt": "2026-11-17T00:55:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 656,
-    "bookingsObserved": 490,
+    "bookingsTracked": 657,
+    "bookingsObserved": 491,
     "releasesObserved": 507,
-    "inCustody": 149,
-    "uniquePeople": 608
+    "inCustody": 150,
+    "uniquePeople": 609
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 207,
-      "pct": 13.4
+      "count": 208,
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 258,
-      "pct": 39.6,
+      "count": 259,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 452,
+      "count": 453,
       "pct": 29.3
     },
     {
@@ -390,22 +390,22 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 20.8
+      "pct": 20.7
     },
     {
       "name": "B",
       "count": 17,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "E",
@@ -420,22 +420,22 @@
     {
       "name": "G",
       "count": 26,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.7
+      "count": 5,
+      "pct": 3.3
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.1
+      "pct": 8
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.4,
+    "currentMedianDaysHeld": 23.3,
     "currentLongestDaysHeld": 523.3
   },
   "bond": {
     "withBond": 109,
-    "noBond": 40,
+    "noBond": 41,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3767100
