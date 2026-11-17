@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:55:18",
+  "generatedAt": "2026-11-17T15:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 669,
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "name": "B",
       "count": 17,
-      "pct": 11.3
+      "pct": 11.2
     },
     {
       "name": "C",
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 18,
-      "pct": 11.9
+      "count": 19,
+      "pct": 12.5
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 24,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "H",

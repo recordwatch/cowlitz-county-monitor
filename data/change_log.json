@@ -30,7 +30,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-11-17T12:51:25",
-    "location": "INTAKE H6",
+    "location": "INTAKE H7",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -119,7 +119,7 @@
     "inmateNumber": "316022",
     "name": "JAMES, ANGELA MICHELLE",
     "bookedAt": "2026-11-17T11:30:14",
-    "location": "1-PENDING BOOKING",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -22145,7 +22145,7 @@
     "inmateNumber": "233167",
     "name": "OWEN, KRYSTAL MARIE",
     "bookedAt": "2026-09-22T00:57:39",
-    "location": "E10",
+    "location": "E21",
     "arrestingAgency": "LVPD",
     "bondTotal": 75000,
     "charges": [
