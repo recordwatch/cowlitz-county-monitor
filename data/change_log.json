@@ -1,5 +1,19 @@
 [
   {
+    "id": "18074-20261116153059",
+    "inmateNumber": "18074",
+    "name": "GREEN, MELINDA LOU",
+    "bookedAt": "2026-11-16T15:30:59",
+    "location": "INTAKE H7",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T16:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "151550-20261116151855",
     "inmateNumber": "151550",
     "name": "CASS, WADE PAUL LEE",
@@ -1251,7 +1265,7 @@
     "inmateNumber": "71297",
     "name": "BOWEN, DARYL KEITH",
     "bookedAt": "2026-11-12T20:38:57",
-    "location": "INTAKE H7",
+    "location": "C23",
     "arrestingAgency": "KEPD",
     "bondTotal": 100,
     "charges": [
@@ -13354,7 +13368,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0159977",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -13365,7 +13379,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0192386",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
