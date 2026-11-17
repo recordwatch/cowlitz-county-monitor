@@ -4,10 +4,22 @@
     "inmateNumber": "113365",
     "name": "VIVIAN, BENJAMIN JAMES",
     "bookedAt": "2026-11-17T13:43:43",
-    "location": "1-PENDING BOOKING",
+    "location": "B10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-17T14:08:31",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2010023908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T14:35:22",
     "releasedAt": null,
