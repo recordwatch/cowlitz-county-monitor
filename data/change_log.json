@@ -1,5 +1,19 @@
 [
   {
+    "id": "361903-20261117005419",
+    "inmateNumber": "361903",
+    "name": "MENDEZ, FELIPE E",
+    "bookedAt": "2026-11-17T00:54:19",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T01:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "55672-20261117002612",
     "inmateNumber": "55672",
     "name": "WILLIAMS, BROOKE LYNN",
@@ -41,7 +55,7 @@
     "inmateNumber": "9166",
     "name": "COOK, JASON AARON",
     "bookedAt": "2026-11-17T00:11:07",
-    "location": "INTAKE H6",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
