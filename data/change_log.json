@@ -3770,7 +3770,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2210099608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
