@@ -1,5 +1,19 @@
 [
   {
+    "id": "113365-20261117134343",
+    "inmateNumber": "113365",
+    "name": "VIVIAN, BENJAMIN JAMES",
+    "bookedAt": "2026-11-17T13:43:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T14:35:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "85004-20261117125125",
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
@@ -83,9 +97,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T12:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T14:35:22",
     "baseline": false
   },
   {
@@ -146,9 +160,9 @@
         "bondAmount": 500
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T12:15:27",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T14:35:22",
     "baseline": false
   },
   {
@@ -542,9 +556,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T16:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T14:35:22",
     "baseline": false
   },
   {
@@ -875,9 +889,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T09:35:24",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T14:35:22",
     "baseline": false
   },
   {
@@ -1485,7 +1499,7 @@
     "inmateNumber": "44569",
     "name": "BEAN, TIMOTHY ROLLO",
     "bookedAt": "2026-11-14T00:01:30",
-    "location": "D13",
+    "location": "A26",
     "arrestingAgency": "KEPD",
     "bondTotal": 3000,
     "charges": [
@@ -2753,7 +2767,7 @@
     "inmateNumber": "4721",
     "name": "PFEIFER, BRANT WENDELIN",
     "bookedAt": "2026-11-11T08:51:32",
-    "location": "INTAKE H5",
+    "location": "A12",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -11520,7 +11534,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610051508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 4000
       },
@@ -11531,7 +11545,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0076167",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -12664,7 +12678,7 @@
     "inmateNumber": "75303",
     "name": "MINOR, ALICIA LEANNE",
     "bookedAt": "2026-10-21T15:01:38",
-    "location": "D26",
+    "location": "D25",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
