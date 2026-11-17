@@ -52,7 +52,7 @@
     "inmateNumber": "55672",
     "name": "WILLIAMS, BROOKE LYNN",
     "bookedAt": "2026-11-17T00:26:12",
-    "location": "1-PENDING BOOKING",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1250,
     "charges": [
@@ -124,7 +124,7 @@
         "offenseDate": "2026-11-16T23:42:49",
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2210023508",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
