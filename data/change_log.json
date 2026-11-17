@@ -1,5 +1,33 @@
 [
   {
+    "id": "316022-20261117113014",
+    "inmateNumber": "316022",
+    "name": "JAMES, ANGELA MICHELLE",
+    "bookedAt": "2026-11-17T11:30:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:15:27",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "97297-20261117112623",
+    "inmateNumber": "97297",
+    "name": "JENTGES, KEISHA MARIE RESER",
+    "bookedAt": "2026-11-17T11:26:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:15:27",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "145707-20261117092534",
     "inmateNumber": "145707",
     "name": "ZYZNIEWSKI, BRODY ALAN",
