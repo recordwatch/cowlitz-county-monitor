@@ -135,9 +135,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T12:15:27",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T15:35:19",
     "baseline": false
   },
   {
@@ -3376,7 +3376,7 @@
     "inmateNumber": "222711",
     "name": "SHIELDS, TRENTON MICHAEL",
     "bookedAt": "2026-11-10T09:36:23",
-    "location": "G-G43",
+    "location": "G-G42",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
@@ -11372,7 +11372,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0289965",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
