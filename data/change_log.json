@@ -4,7 +4,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-11-17T12:51:25",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -93,7 +93,7 @@
     "inmateNumber": "316022",
     "name": "JAMES, ANGELA MICHELLE",
     "bookedAt": "2026-11-17T11:30:14",
-    "location": "INTAKE H6",
+    "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -3855,7 +3855,7 @@
         "arrestingAgency": "DOC",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2210113108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
