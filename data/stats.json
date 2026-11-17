@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T13:15:21",
+  "generatedAt": "2026-11-17T13:35:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 667,
-    "bookingsObserved": 501,
+    "bookingsTracked": 668,
+    "bookingsObserved": 502,
     "releasesObserved": 513,
-    "inCustody": 154,
+    "inCustody": 155,
     "uniquePeople": 619
   },
   "bookingsByDay": [
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 11,
+      "booked": 12,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 212,
+      "count": 213,
       "pct": 13.6
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 31,
+      "count": 32,
       "pct": 2
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 263,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 123,
-      "pct": 18.6,
+      "count": 126,
+      "pct": 19,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 72,
-      "pct": 10.9,
+      "count": 70,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -332,12 +332,12 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 461,
+      "count": 462,
       "pct": 29.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 204,
+      "count": 205,
       "pct": 13.1
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 523.9
   },
   "bond": {
-    "withBond": 113,
+    "withBond": 114,
     "noBond": 41,
-    "medianBond": 3500,
+    "medianBond": 3250,
     "maxBond": 500000,
-    "totalBond": 3768850
+    "totalBond": 3769850
   },
   "chargesPerBooking": 2.3
 }
