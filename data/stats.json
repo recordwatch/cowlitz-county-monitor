@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T17:35:15",
+  "generatedAt": "2026-11-16T17:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 653,
-    "bookingsObserved": 487,
+    "bookingsTracked": 654,
+    "bookingsObserved": 488,
     "releasesObserved": 506,
-    "inCustody": 147,
-    "uniquePeople": 605
+    "inCustody": 148,
+    "uniquePeople": 606
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 12,
+      "booked": 13,
       "released": 21
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 205,
-      "pct": 13.3
+      "count": 206,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 256,
-      "pct": 39.4,
+      "count": 257,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 447,
+      "count": 448,
       "pct": 29.1
     },
     {
@@ -389,38 +389,38 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 32,
-      "pct": 21.8
+      "count": 31,
+      "pct": 20.9
     },
     {
       "name": "B",
       "count": 17,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "C",
-      "count": 18,
-      "pct": 12.2
+      "count": 19,
+      "pct": 12.8
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 16,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.8
+      "pct": 4.7
     },
     {
       "name": "G",
       "count": 26,
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 2
+      "count": 4,
+      "pct": 2.7
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 8.2
+      "pct": 8.1
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 24,
+    "currentMedianDaysHeld": 23.6,
     "currentLongestDaysHeld": 523
   },
   "bond": {
     "withBond": 108,
-    "noBond": 39,
+    "noBond": 40,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3764100

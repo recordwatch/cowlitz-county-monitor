@@ -1,5 +1,31 @@
 [
   {
+    "id": "189788-20261116164933",
+    "inmateNumber": "189788",
+    "name": "BRADY, ERICA LYNN",
+    "bookedAt": "2026-11-16T16:49:33",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-16T16:52:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0395380",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-16T17:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "18074-20261116153059",
     "inmateNumber": "18074",
     "name": "GREEN, MELINDA LOU",
@@ -30,7 +56,7 @@
     "inmateNumber": "151550",
     "name": "CASS, WADE PAUL LEE",
     "bookedAt": "2026-11-16T15:18:55",
-    "location": "A11",
+    "location": "C15",
     "arrestingAgency": "WSP",
     "bondTotal": 4000,
     "charges": [
