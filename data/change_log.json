@@ -465,10 +465,10 @@
         "arrestingAgency": "WSP",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5A0536103",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -479,7 +479,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -528,10 +528,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0261647",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1197,9 +1197,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T16:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T10:55:20",
     "baseline": false
   },
   {
