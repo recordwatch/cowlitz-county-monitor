@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T20:15:18",
+  "generatedAt": "2026-11-16T20:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 654,
-    "bookingsObserved": 488,
+    "bookingsTracked": 655,
+    "bookingsObserved": 489,
     "releasesObserved": 506,
-    "inCustody": 148,
-    "uniquePeople": 606
+    "inCustody": 149,
+    "uniquePeople": 607
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 13,
+      "booked": 14,
       "released": 21
     }
   ],
@@ -271,14 +271,14 @@
     },
     {
       "name": "CCSO",
-      "count": 119,
-      "pct": 18.3,
+      "count": 120,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 96,
-      "pct": 14.8,
+      "pct": 14.7,
       "label": "Kelso Police"
     },
     {
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.7,
-    "currentLongestDaysHeld": 523.1
+    "currentMedianDaysHeld": 23.3,
+    "currentLongestDaysHeld": 523.2
   },
   "bond": {
     "withBond": 108,
-    "noBond": 40,
+    "noBond": 41,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3764100
   },
-  "chargesPerBooking": 2.4
+  "chargesPerBooking": 2.3
 }
