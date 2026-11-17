@@ -4,10 +4,44 @@
     "inmateNumber": "33020",
     "name": "WOODS, JASON CLYDE",
     "bookedAt": "2026-11-16T20:00:23",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-16T20:12:14",
+        "arrestingAgency": "CCSO",
+        "court": "MENTAL HEALTH COURT",
+        "warrantNumber": "2510051808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-16T20:13:10",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0267227",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-16T20:14:29",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0267227",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T20:35:17",
     "releasedAt": null,
