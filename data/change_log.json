@@ -1,5 +1,31 @@
 [
   {
+    "id": "137290-20261117025004",
+    "inmateNumber": "137290",
+    "name": "DELACRUZ, KHIA SHANTE",
+    "bookedAt": "2026-11-17T02:50:04",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50 DV",
+        "offenseDate": "2026-11-17T02:55:17",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0279040",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T03:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361907-20261117023658",
     "inmateNumber": "361907",
     "name": "GARCIA GARCIA, DARIO ALONZO",
