@@ -1,5 +1,33 @@
 [
   {
+    "id": "30841-20261117115520",
+    "inmateNumber": "30841",
+    "name": "EFFINGER, DESTINY AMBER",
+    "bookedAt": "2026-11-17T11:55:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "68562-20261117115123",
+    "inmateNumber": "68562",
+    "name": "RODRIGUEZ, CASEY DAWN",
+    "bookedAt": "2026-11-17T11:51:23",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T12:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "316022-20261117113014",
     "inmateNumber": "316022",
     "name": "JAMES, ANGELA MICHELLE",
@@ -18,7 +46,7 @@
     "inmateNumber": "97297",
     "name": "JENTGES, KEISHA MARIE RESER",
     "bookedAt": "2026-11-17T11:26:23",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [],
@@ -562,9 +590,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T16:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T12:35:16",
     "baseline": false
   },
   {
