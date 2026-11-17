@@ -6,8 +6,20 @@
     "bookedAt": "2026-11-16T15:30:59",
     "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-16T16:12:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0407355",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-16T16:15:21",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "151550",
     "name": "CASS, WADE PAUL LEE",
     "bookedAt": "2026-11-16T15:18:55",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "WSP",
     "bondTotal": 4000,
     "charges": [
@@ -173,7 +185,7 @@
     "inmateNumber": "361886",
     "name": "WEST, ALTON RAY",
     "bookedAt": "2026-11-16T14:52:25",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
