@@ -7,7 +7,41 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-17T01:14:04",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-17T01:17:29",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-17T01:18:44",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T01:35:19",
     "releasedAt": null,
