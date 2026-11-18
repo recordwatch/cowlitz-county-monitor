@@ -1,5 +1,31 @@
 [
   {
+    "id": "361965-20261118140427",
+    "inmateNumber": "361965",
+    "name": "KUBIT, MARK ALEXANDER",
+    "bookedAt": "2026-11-18T14:04:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-18T14:08:23",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0002138",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T14:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "341137-20261118080609",
     "inmateNumber": "341137",
     "name": "DIAZ MEDINA, BRAYAN ABIMAEL",
@@ -526,7 +552,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-11-17T12:51:25",
-    "location": "INTAKE H7",
+    "location": "B25",
     "arrestingAgency": "CCSO",
     "bondTotal": 6500,
     "charges": [
