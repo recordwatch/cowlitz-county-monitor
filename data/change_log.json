@@ -513,7 +513,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 15000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -881,7 +881,7 @@
     "inmateNumber": "137290",
     "name": "DELACRUZ, KHIA SHANTE",
     "bookedAt": "2026-11-17T02:50:04",
-    "location": "INTAKE H1",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -9443,9 +9443,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-30T06:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T15:55:16",
     "baseline": false
   },
   {
