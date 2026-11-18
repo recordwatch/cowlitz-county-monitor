@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T16:15:24",
+  "generatedAt": "2026-11-17T16:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 670,
-    "bookingsObserved": 504,
+    "bookingsTracked": 671,
+    "bookingsObserved": 505,
     "releasesObserved": 518,
-    "inCustody": 152,
-    "uniquePeople": 621
+    "inCustody": 153,
+    "uniquePeople": 622
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 14,
+      "booked": 15,
       "released": 11
     }
   ],
@@ -219,7 +219,7 @@
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 29,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -230,6 +230,11 @@
       "name": "CRIM TRESPASS 1ST",
       "count": 22,
       "pct": 1.4
+    },
+    {
+      "name": "POSS W/INTENT",
+      "count": 18,
+      "pct": 1.1
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -255,24 +260,19 @@
       "name": "RECKLESS DRIVING",
       "count": 17,
       "pct": 1.1
-    },
-    {
-      "name": "POSS W/INTENT",
-      "count": 16,
-      "pct": 1
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 263,
-      "pct": 39.5,
+      "count": 264,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 127,
-      "pct": 19.1,
+      "pct": 19,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 29,
-      "pct": 4.4,
+      "pct": 4.3,
       "label": "Washington State Patrol"
     },
     {
@@ -320,15 +320,15 @@
     {
       "name": "911",
       "count": 1,
-      "pct": 0.2,
+      "pct": 0.1,
       "label": "911"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 471,
-      "pct": 30.1
+      "count": 473,
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -348,7 +348,7 @@
     {
       "name": "DOC COURT",
       "count": 87,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.5,
+    "currentMedianDaysHeld": 23.4,
     "currentLongestDaysHeld": 524
   },
   "bond": {
     "withBond": 111,
-    "noBond": 41,
+    "noBond": 42,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3840600

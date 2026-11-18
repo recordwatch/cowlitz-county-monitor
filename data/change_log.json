@@ -1,5 +1,31 @@
 [
   {
+    "id": "19366-20261117155121",
+    "inmateNumber": "19366",
+    "name": "MACKEY, MICHAEL DONALD",
+    "bookedAt": "2026-11-17T15:51:21",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-17T16:01:47",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T16:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "231104-20261117154138",
     "inmateNumber": "231104",
     "name": "HOELDT, CHRISTOPHER WILLIAM",
@@ -7,7 +33,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-17T15:55:37",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T16:15:24",
     "releasedAt": null,
