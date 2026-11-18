@@ -1,5 +1,19 @@
 [
   {
+    "id": "327548-20261117213733",
+    "inmateNumber": "327548",
+    "name": "FRITZ, TRAVIS JO",
+    "bookedAt": "2026-11-17T21:37:33",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T22:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "358851-20261117200418",
     "inmateNumber": "358851",
     "name": "LEVAN, MIKHAIL QUINCY",
