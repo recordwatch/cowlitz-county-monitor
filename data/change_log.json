@@ -1,5 +1,19 @@
 [
   {
+    "id": "231104-20261117154138",
+    "inmateNumber": "231104",
+    "name": "HOELDT, CHRISTOPHER WILLIAM",
+    "bookedAt": "2026-11-17T15:41:38",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T16:15:24",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "113365-20261117134343",
     "inmateNumber": "113365",
     "name": "VIVIAN, BENJAMIN JAMES",

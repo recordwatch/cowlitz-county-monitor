@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T15:55:16",
+  "generatedAt": "2026-11-17T16:15:24",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 669,
-    "bookingsObserved": 503,
+    "bookingsTracked": 670,
+    "bookingsObserved": 504,
     "releasesObserved": 518,
-    "inCustody": 151,
-    "uniquePeople": 620
+    "inCustody": 152,
+    "uniquePeople": 621
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 13,
+      "booked": 14,
       "released": 11
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 126,
-      "pct": 18.9,
+      "count": 127,
+      "pct": 19.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.7,
+    "currentMedianDaysHeld": 23.5,
     "currentLongestDaysHeld": 524
   },
   "bond": {
     "withBond": 111,
-    "noBond": 40,
+    "noBond": 41,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3840600
