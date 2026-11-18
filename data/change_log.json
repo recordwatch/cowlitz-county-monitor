@@ -31,6 +31,17 @@
         "bondAmount": null
       },
       {
+        "description": "MINOR POSS &-O CONSU",
+        "offenseDate": "2026-11-17T20:26:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-11-17T20:20:44",
         "arrestingAgency": "LVPD",
@@ -3008,7 +3019,7 @@
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
     "bookedAt": "2026-11-11T12:07:33",
-    "location": "E12",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
