@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T08:35:18",
+  "generatedAt": "2026-11-18T08:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 682,
-    "bookingsObserved": 516,
+    "bookingsTracked": 683,
+    "bookingsObserved": 517,
     "releasesObserved": 521,
-    "inCustody": 161,
-    "uniquePeople": 631
+    "inCustody": 162,
+    "uniquePeople": 632
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 5,
+      "booked": 6,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 216,
-      "pct": 13.6
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
@@ -188,7 +188,7 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 57,
+      "count": 58,
       "pct": 3.6
     },
     {
@@ -232,6 +232,11 @@
       "pct": 1.4
     },
     {
+      "name": "RECKLESS DRIVING",
+      "count": 18,
+      "pct": 1.1
+    },
+    {
       "name": "POSS W/INTENT",
       "count": 18,
       "pct": 1.1
@@ -255,18 +260,13 @@
       "name": "ASSAULT 3RD",
       "count": 18,
       "pct": 1.1
-    },
-    {
-      "name": "RECKLESS DRIVING",
-      "count": 17,
-      "pct": 1.1
     }
   ],
   "topAgencies": [
     {
       "name": "LVPD",
       "count": 269,
-      "pct": 39.7,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 29,
-      "pct": 4.3,
+      "count": 30,
+      "pct": 4.4,
       "label": "Washington State Patrol"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 483,
+      "count": 484,
       "pct": 30.3
     },
     {
@@ -352,8 +352,8 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 59,
-      "pct": 3.7
+      "count": 60,
+      "pct": 3.8
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 21.8,
+    "currentMedianDaysHeld": 21.7,
     "currentLongestDaysHeld": 524.7
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 44,
     "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3851600
+    "totalBond": 3852600
   },
   "chargesPerBooking": 2.3
 }

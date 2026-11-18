@@ -1,5 +1,31 @@
 [
   {
+    "id": "341137-20261118080609",
+    "inmateNumber": "341137",
+    "name": "DIAZ MEDINA, BRAYAN ABIMAEL",
+    "bookedAt": "2026-11-18T08:06:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-18T08:10:46",
+        "arrestingAgency": "WSP",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "4A0199634",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T08:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357965-20261118075206",
     "inmateNumber": "357965",
     "name": "YOUNG, ALEXANDER ANTHONY",
@@ -7,7 +33,19 @@
     "location": "B12",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-18T08:09:32",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610042608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T08:35:18",
     "releasedAt": null,
