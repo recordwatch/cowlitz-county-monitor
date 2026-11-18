@@ -68,13 +68,13 @@
     "name": "ORTEGA HERNANDEZ, LUIS ANGEL",
     "bookedAt": "2026-11-18T07:49:56",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-18T07:58:38",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2410072008",
         "disposition": null,
@@ -10101,7 +10101,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00725252",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
       }
