@@ -31,13 +31,13 @@
     "name": "YOUNG, ALEXANDER ANTHONY",
     "bookedAt": "2026-11-18T07:52:06",
     "location": "B12",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": 500,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-18T08:09:32",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610042608",
         "disposition": null,
@@ -48,7 +48,7 @@
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-11-18T08:31:02",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338937",
         "disposition": null,
@@ -104,7 +104,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0265752",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -226,7 +226,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0427138",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -252,7 +252,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0377999",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 500
       },
@@ -263,7 +263,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422593",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -385,7 +385,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0327957",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -411,7 +411,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6a0442091",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -489,7 +489,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2010023908",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -526,7 +526,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 3500
       },
@@ -537,7 +537,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -548,7 +548,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -559,7 +559,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
@@ -570,7 +570,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       },
