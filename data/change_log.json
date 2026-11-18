@@ -20,9 +20,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T19:15:22",
-    "releasedAt": null,
+    "releasedAt": "2026-11-17T19:35:19",
     "baseline": false
   },
   {
@@ -44,7 +44,7 @@
     "inmateNumber": "48820",
     "name": "GEMAR, JENNY LYNN",
     "bookedAt": "2026-11-17T17:47:47",
-    "location": "INTAKE H6",
+    "location": "E20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
