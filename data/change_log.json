@@ -4,10 +4,33 @@
     "inmateNumber": "327548",
     "name": "FRITZ, TRAVIS JO",
     "bookedAt": "2026-11-17T21:37:33",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-17T21:49:35",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0377999",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-17T21:48:49",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422593",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-17T22:15:22",
     "releasedAt": null,
@@ -473,7 +496,7 @@
     "inmateNumber": "145707",
     "name": "ZYZNIEWSKI, BRODY ALAN",
     "bookedAt": "2026-11-17T09:25:34",
-    "location": "INTAKE H3",
+    "location": "B25",
     "arrestingAgency": "WSP",
     "bondTotal": 1500,
     "charges": [
