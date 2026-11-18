@@ -515,7 +515,7 @@
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0313095",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "DIST",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -581,7 +581,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401403",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       },
@@ -592,7 +592,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401403",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -618,7 +618,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0892648",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -629,7 +629,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0430219",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -24414,7 +24414,7 @@
         "arrestingAgency": "CCSO",
         "court": "MENTAL HEALTH COURT",
         "warrantNumber": "2410084608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
@@ -24425,7 +24425,7 @@
         "arrestingAgency": "CCSO",
         "court": "MENTAL HEALTH COURT",
         "warrantNumber": "2410091208",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
@@ -24436,10 +24436,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610057908",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 35000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -24447,7 +24447,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0380745",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
