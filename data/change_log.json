@@ -1,5 +1,31 @@
 [
   {
+    "id": "43351-20261117183120",
+    "inmateNumber": "43351",
+    "name": "ROBBINS, TYLER MATTHEW",
+    "bookedAt": "2026-11-17T18:31:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-17T18:34:22",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2520062408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T19:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "357526-20261117181704",
     "inmateNumber": "357526",
     "name": "CROSBIE, KAYLA SANDRA",
