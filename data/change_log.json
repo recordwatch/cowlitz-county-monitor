@@ -639,7 +639,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0892648",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
