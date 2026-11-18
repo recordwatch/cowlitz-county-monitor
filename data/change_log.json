@@ -1,5 +1,19 @@
 [
   {
+    "id": "37949-20261118144141",
+    "inmateNumber": "37949",
+    "name": "SCHMOTZER, KRISTEN KATHRYN",
+    "bookedAt": "2026-11-18T14:41:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T15:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361965-20261118140427",
     "inmateNumber": "361965",
     "name": "KUBIT, MARK ALEXANDER",
@@ -2047,7 +2061,7 @@
     "inmateNumber": "149011",
     "name": "AMREN, HAYDEN PAYNE",
     "bookedAt": "2026-11-14T10:00:00",
-    "location": "A13",
+    "location": "G-G08",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -2939,7 +2953,7 @@
     "inmateNumber": "27942",
     "name": "COOLEY, KENNETH BOYD",
     "bookedAt": "2026-11-11T20:39:45",
-    "location": "B23",
+    "location": "G-G40",
     "arrestingAgency": "LVPD",
     "bondTotal": 19000,
     "charges": [
@@ -4307,7 +4321,7 @@
     "inmateNumber": "352518",
     "name": "GOODRICH, BRYDON TASEE",
     "bookedAt": "2026-11-09T21:55:56",
-    "location": "A14",
+    "location": "G-G34",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
