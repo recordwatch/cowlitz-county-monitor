@@ -1,5 +1,31 @@
 [
   {
+    "id": "309524-20261118031117",
+    "inmateNumber": "309524",
+    "name": "BEAUSOLEIL, EVELYN ANN",
+    "bookedAt": "2026-11-18T03:11:17",
+    "location": "D22",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T03:14:39",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0265752",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T03:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "52048-20261118012427",
     "inmateNumber": "52048",
     "name": "FRIEND, NICHOLE ANN",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T03:35:19",
+  "generatedAt": "2026-11-18T03:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 679,
-    "bookingsObserved": 513,
+    "bookingsTracked": 680,
+    "bookingsObserved": 514,
     "releasesObserved": 519,
-    "inCustody": 160,
-    "uniquePeople": 629
+    "inCustody": 161,
+    "uniquePeople": 630
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 215,
-      "pct": 13.5
+      "count": 216,
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 269,
-      "pct": 39.9,
+      "pct": 39.8,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 98,
-      "pct": 14.5,
+      "count": 99,
+      "pct": 14.6,
       "label": "Kelso Police"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 191,
-      "pct": 12
+      "count": 192,
+      "pct": 12.1
     },
     {
       "name": "DOC COURT",
@@ -390,37 +390,37 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 21.3
+      "pct": 21.1
     },
     {
       "name": "B",
       "count": 20,
-      "pct": 12.5
+      "pct": 12.4
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11.9
+      "pct": 11.8
     },
     {
       "name": "D",
-      "count": 12,
-      "pct": 7.5
+      "count": 13,
+      "pct": 8.1
     },
     {
       "name": "E",
       "count": 22,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "F",
       "count": 7,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "G",
       "count": 24,
-      "pct": 15
+      "pct": 14.9
     },
     {
       "name": "H",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22,
-    "currentLongestDaysHeld": 524.4
+    "currentMedianDaysHeld": 21.6,
+    "currentLongestDaysHeld": 524.5
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 43,
     "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3852100
+    "totalBond": 3853100
   },
   "chargesPerBooking": 2.3
 }
