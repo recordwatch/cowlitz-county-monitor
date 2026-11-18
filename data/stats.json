@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:35:23",
+  "generatedAt": "2026-11-18T13:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 683,
@@ -163,13 +163,13 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 218,
-      "pct": 13.6
+      "count": 219,
+      "pct": 13.7
     },
     {
       "name": "DWLS 3RD",
-      "count": 133,
-      "pct": 8.3
+      "count": 134,
+      "pct": 8.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -204,7 +204,7 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 36,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -328,12 +328,12 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 484,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 474,
-      "pct": 29.6
+      "count": 476,
+      "pct": 29.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -353,12 +353,12 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 60,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 28,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "DRUG COURT",
@@ -368,12 +368,12 @@
     {
       "name": "MENTAL HEALTH COURT",
       "count": 12,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "DOC CONTRACT COURT",
       "count": 12,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "name": "OTHER - OUT OF COUNTY",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 524.9
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 43,
+    "withBond": 117,
+    "noBond": 41,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3852600
+    "totalBond": 3881600
   },
   "chargesPerBooking": 2.3
 }

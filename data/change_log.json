@@ -158,7 +158,7 @@
     "bookedAt": "2026-11-18T00:07:53",
     "location": "D23",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 8500,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -168,8 +168,8 @@
         "warrantNumber": "2610074508",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 8000
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -284,10 +284,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0422593",
-        "disposition": null,
+        "disposition": "Not Filed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -302,7 +302,7 @@
     "bookedAt": "2026-11-17T20:04:18",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "RESIDENTIAL BURGLARY",
@@ -312,8 +312,8 @@
         "warrantNumber": "2610074808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -431,7 +431,7 @@
         "offenseDate": "2026-11-17T18:07:56",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6a0442091",
+        "warrantNumber": "6A0442091",
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
@@ -450,7 +450,7 @@
     "bookedAt": "2026-11-17T15:51:21",
     "location": "D13",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 15000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -460,8 +460,8 @@
         "warrantNumber": "2610074808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 15000
       }
     ],
     "status": "in_custody",
@@ -3129,7 +3129,7 @@
     "bookedAt": "2026-11-11T15:15:16",
     "location": "G-G30",
     "arrestingAgency": "LVPD",
-    "bondTotal": 11000,
+    "bondTotal": 16000,
     "charges": [
       {
         "description": "MALICIOUS MISCHIEF-2",
@@ -3251,6 +3251,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-18T13:14:50",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0418198",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
       }
     ],
     "status": "in_custody",
@@ -4228,11 +4239,22 @@
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T13:20:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0911629",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-09T23:57:45",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0261999",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
