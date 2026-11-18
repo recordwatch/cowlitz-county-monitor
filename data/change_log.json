@@ -757,7 +757,7 @@
     "bookedAt": "2026-11-17T09:25:34",
     "location": "B25",
     "arrestingAgency": "WSP",
-    "bondTotal": 1500,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "DUI",
@@ -767,8 +767,8 @@
         "warrantNumber": "T01006116",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       },
       {
         "description": "DWLS 3RD",
