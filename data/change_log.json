@@ -1,19 +1,33 @@
 [
   {
+    "id": "357526-20261117181704",
+    "inmateNumber": "357526",
+    "name": "CROSBIE, KAYLA SANDRA",
+    "bookedAt": "2026-11-17T18:17:04",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T18:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "48820-20261117174747",
     "inmateNumber": "48820",
     "name": "GEMAR, JENNY LYNN",
     "bookedAt": "2026-11-17T17:47:47",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
-        "offenseDate": null,
+        "offenseDate": "2026-11-17T18:07:56",
         "arrestingAgency": "LVPD",
-        "court": null,
-        "warrantNumber": null,
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0442091",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
