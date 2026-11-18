@@ -1,5 +1,64 @@
 [
   {
+    "id": "358851-20261117200418",
+    "inmateNumber": "358851",
+    "name": "LEVAN, MIKHAIL QUINCY",
+    "bookedAt": "2026-11-17T20:04:18",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-11-17T20:19:38",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-17T20:20:15",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-17T20:20:44",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-17T20:21:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T20:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "43351-20261117183120",
     "inmateNumber": "43351",
     "name": "ROBBINS, TYLER MATTHEW",
@@ -2923,7 +2982,7 @@
     "inmateNumber": "69506",
     "name": "ZWIEFELHOFER, RICHARD STARKEY",
     "bookedAt": "2026-11-11T13:26:01",
-    "location": "C10",
+    "location": "B20",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [

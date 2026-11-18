@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T20:35:16",
+  "generatedAt": "2026-11-17T20:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 674,
-    "bookingsObserved": 508,
+    "bookingsTracked": 675,
+    "bookingsObserved": 509,
     "releasesObserved": 519,
-    "inCustody": 155,
+    "inCustody": 156,
     "uniquePeople": 625
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 18,
+      "booked": 19,
       "released": 12
     }
   ],
@@ -198,7 +198,7 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 42,
+      "count": 43,
       "pct": 2.7
     },
     {
@@ -208,13 +208,13 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 33,
+      "count": 34,
       "pct": 2.1
     },
     {
       "name": "RESISTING ARREST",
-      "count": 32,
-      "pct": 2
+      "count": 33,
+      "pct": 2.1
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 265,
+      "count": 266,
       "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 127,
-      "pct": 19,
+      "pct": 18.9,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 474,
-      "pct": 30
+      "count": 478,
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -343,7 +343,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 189,
-      "pct": 12
+      "pct": 11.9
     },
     {
       "name": "DOC COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 21.9
+      "pct": 21.8
     },
     {
       "name": "B",
-      "count": 18,
-      "pct": 11.6
+      "count": 19,
+      "pct": 12.2
     },
     {
       "name": "C",
-      "count": 20,
-      "pct": 12.9
+      "count": 19,
+      "pct": 12.2
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 20,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 24,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.6
+      "count": 5,
+      "pct": 3.2
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 23.4,
+    "currentMedianDaysHeld": 22.9,
     "currentLongestDaysHeld": 524.2
   },
   "bond": {
     "withBond": 113,
-    "noBond": 42,
+    "noBond": 43,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3848100
