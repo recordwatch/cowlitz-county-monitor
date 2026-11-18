@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:55:18",
+  "generatedAt": "2026-11-18T09:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 683,
@@ -168,7 +168,7 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 132,
+      "count": 133,
       "pct": 8.3
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 206,
-      "pct": 12.9
+      "count": 207,
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -348,7 +348,7 @@
     {
       "name": "DOC COURT",
       "count": 87,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 524.7
   },
   "bond": {
-    "withBond": 118,
-    "noBond": 44,
+    "withBond": 119,
+    "noBond": 43,
     "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3852600
+    "totalBond": 3853100
   },
   "chargesPerBooking": 2.3
 }
