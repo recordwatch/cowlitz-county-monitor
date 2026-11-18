@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T22:35:24",
+  "generatedAt": "2026-11-17T22:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 676,
-    "bookingsObserved": 510,
+    "bookingsTracked": 677,
+    "bookingsObserved": 511,
     "releasesObserved": 519,
-    "inCustody": 157,
-    "uniquePeople": 626
+    "inCustody": 158,
+    "uniquePeople": 627
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 20,
+      "booked": 21,
       "released": 12
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 95,
-      "pct": 6
+      "count": 96,
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -277,20 +277,20 @@
     },
     {
       "name": "KEPD",
-      "count": 97,
-      "pct": 14.4,
+      "count": 98,
+      "pct": 14.6,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 71,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
       "name": "DOC",
       "count": 38,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Dept. of Corrections"
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 190,
+      "count": 191,
       "pct": 12
     },
     {
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 20,
-      "pct": 12.7
+      "count": 21,
+      "pct": 13.4
     },
     {
       "name": "F",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.2
+      "count": 4,
+      "pct": 2.5
     },
     {
       "name": "WSH",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.5,
-    "currentLongestDaysHeld": 524.2
+    "currentMedianDaysHeld": 22.3,
+    "currentLongestDaysHeld": 524.3
   },
   "bond": {
-    "withBond": 114,
+    "withBond": 115,
     "noBond": 43,
-    "medianBond": 3750,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3849100
+    "totalBond": 3850100
   },
   "chargesPerBooking": 2.3
 }

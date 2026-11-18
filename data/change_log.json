@@ -1,10 +1,36 @@
 [
   {
+    "id": "361943-20261117221818",
+    "inmateNumber": "361943",
+    "name": "HOWARD, REANNA APRIL",
+    "bookedAt": "2026-11-17T22:18:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-17T22:21:18",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0427138",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T22:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "327548-20261117213733",
     "inmateNumber": "327548",
     "name": "FRITZ, TRAVIS JO",
     "bookedAt": "2026-11-17T21:37:33",
-    "location": "INTAKE H8",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -137,7 +163,7 @@
     "inmateNumber": "357526",
     "name": "CROSBIE, KAYLA SANDRA",
     "bookedAt": "2026-11-17T18:17:04",
-    "location": "INTAKE H5",
+    "location": "E10",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [
