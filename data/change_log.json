@@ -1,5 +1,31 @@
 [
   {
+    "id": "48820-20261117174747",
+    "inmateNumber": "48820",
+    "name": "GEMAR, JENNY LYNN",
+    "bookedAt": "2026-11-17T17:47:47",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": null,
+        "arrestingAgency": "LVPD",
+        "court": null,
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-17T18:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "19366-20261117155121",
     "inmateNumber": "19366",
     "name": "MACKEY, MICHAEL DONALD",

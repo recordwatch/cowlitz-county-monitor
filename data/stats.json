@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T18:15:18",
+  "generatedAt": "2026-11-17T18:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 671,
-    "bookingsObserved": 505,
+    "bookingsTracked": 672,
+    "bookingsObserved": 506,
     "releasesObserved": 518,
-    "inCustody": 153,
-    "uniquePeople": 622
+    "inCustody": 154,
+    "uniquePeople": 623
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-17",
-      "booked": 15,
+      "booked": 16,
       "released": 11
     }
   ],
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 47,
-      "pct": 3
+      "count": 48,
+      "pct": 3.1
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 264,
-      "pct": 39.6,
+      "count": 265,
+      "pct": 39.7,
       "label": "Longview Police"
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 524.1
   },
   "bond": {
-    "withBond": 111,
+    "withBond": 112,
     "noBond": 42,
-    "medianBond": 4000,
+    "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3840600
+    "totalBond": 3841600
   },
   "chargesPerBooking": 2.3
 }
