@@ -187,8 +187,41 @@
         "bondAmount": 3500
       },
       {
+        "description": "MAKING/POSS VEH THEFT TOOLS",
+        "offenseDate": "2026-11-17T19:27:07",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401402",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-11-17T19:26:00",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401402",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEG ATTEMPT",
+        "offenseDate": "2026-11-17T19:28:07",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0401402",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEG ATTEMPT",
+        "offenseDate": "2026-11-17T19:28:51",
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
