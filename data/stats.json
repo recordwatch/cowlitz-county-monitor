@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:15:19",
+  "generatedAt": "2026-11-18T11:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 683,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 216,
-      "pct": 13.5
+      "count": 218,
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -333,17 +333,17 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 474,
-      "pct": 29.7
+      "pct": 29.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 207,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 192,
-      "pct": 12
+      "count": 194,
+      "pct": 12.1
     },
     {
       "name": "DOC COURT",
