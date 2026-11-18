@@ -17,7 +17,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -67,7 +67,7 @@
     "inmateNumber": "147293",
     "name": "ORTEGA HERNANDEZ, LUIS ANGEL",
     "bookedAt": "2026-11-18T07:49:56",
-    "location": "1-PENDING BOOKING",
+    "location": "B12",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -9831,7 +9831,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610072508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 2500
       },
