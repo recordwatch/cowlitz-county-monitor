@@ -20,9 +20,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T08:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T10:55:17",
     "baseline": false
   },
   {
@@ -103,10 +103,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0265752",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -225,10 +225,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0427138",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -243,7 +243,7 @@
     "bookedAt": "2026-11-17T21:37:33",
     "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -251,10 +251,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0377999",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
