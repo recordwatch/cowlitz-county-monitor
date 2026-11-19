@@ -30,7 +30,7 @@
     "inmateNumber": "361967",
     "name": "SOTELO, MIGUEL MIRANDA",
     "bookedAt": "2026-11-18T15:41:18",
-    "location": "INTAKE H5",
+    "location": "INTAKE H3",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [
@@ -130,7 +130,7 @@
     "inmateNumber": "321146",
     "name": "SWOFFORD, JOSHUA JAMES",
     "bookedAt": "2026-11-18T15:30:37",
-    "location": "INTAKE H3",
+    "location": "C10",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
