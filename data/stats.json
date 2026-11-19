@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T12:35:20",
+  "generatedAt": "2026-11-19T12:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 704,
-    "bookingsObserved": 538,
+    "bookingsTracked": 705,
+    "bookingsObserved": 539,
     "releasesObserved": 544,
-    "inCustody": 160,
+    "inCustody": 161,
     "uniquePeople": 647
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 6,
+      "booked": 7,
       "released": 11
     }
   ],
@@ -217,14 +217,14 @@
       "pct": 2
     },
     {
-      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "name": "CRIM TRESPASS 2ND",
       "count": 31,
       "pct": 1.9
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 30,
-      "pct": 1.8
+      "name": "ASSAULT 4 DOMESTIC VIOLENCE",
+      "count": 31,
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 273,
-      "pct": 39,
+      "count": 274,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 495,
-      "pct": 30.2
+      "count": 496,
+      "pct": 30.3
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 20.8,
+    "currentMedianDaysHeld": 20.7,
     "currentLongestDaysHeld": 525.8
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 45,
-    "medianBond": 4000,
+    "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3866600
+    "totalBond": 3867100
   },
   "chargesPerBooking": 2.3
 }

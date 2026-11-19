@@ -1,5 +1,31 @@
 [
   {
+    "id": "361496-20261119122040",
+    "inmateNumber": "361496",
+    "name": "BLACK, SKYLUR SOPHIE",
+    "bookedAt": "2026-11-19T12:20:40",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-19T12:24:00",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T12:55:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "359969-20261119114114",
     "inmateNumber": "359969",
     "name": "CRUZ VAZQUEZ, JESUS ALBERTO",
@@ -20590,7 +20616,7 @@
     "inmateNumber": "146482",
     "name": "HYATT, ROBERT DAVID III",
     "bookedAt": "2026-10-08T17:22:27",
-    "location": "G-G27",
+    "location": "G-G43",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
