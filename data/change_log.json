@@ -1,5 +1,19 @@
 [
   {
+    "id": "88032-20261118225014",
+    "inmateNumber": "88032",
+    "name": "COLEMAN SCHOONOVER, JOHN JASON",
+    "bookedAt": "2026-11-18T22:50:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T23:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "336698-20261118215043",
     "inmateNumber": "336698",
     "name": "ESTOCADO, MISTY NOELANI",
