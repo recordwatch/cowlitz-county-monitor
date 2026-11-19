@@ -131,9 +131,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T22:15:29",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T02:15:27",
     "baseline": false
   },
   {
@@ -230,7 +230,7 @@
     "inmateNumber": "361970",
     "name": "ANTONIO OROPEZA, JAIME",
     "bookedAt": "2026-11-18T20:47:19",
-    "location": "INTAKE H1",
+    "location": "A11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
