@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T00:15:21",
+  "generatedAt": "2026-11-19T00:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 697,
-    "bookingsObserved": 531,
+    "bookingsTracked": 698,
+    "bookingsObserved": 532,
     "releasesObserved": 533,
-    "inCustody": 164,
+    "inCustody": 165,
     "uniquePeople": 642
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 20,
+      "booked": 21,
       "released": 14
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 50,
-      "pct": 3.1
+      "count": 49,
+      "pct": 3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 20.8,
+    "currentMedianDaysHeld": 20.5,
     "currentLongestDaysHeld": 525.3
   },
   "bond": {
     "withBond": 118,
-    "noBond": 46,
+    "noBond": 47,
     "medianBond": 3750,
     "maxBond": 500000,
     "totalBond": 3876100

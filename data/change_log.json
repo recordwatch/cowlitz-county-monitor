@@ -1,5 +1,19 @@
 [
   {
+    "id": "100133-20261118235402",
+    "inmateNumber": "100133",
+    "name": "RICHTER, BRIAN DOUGLAS",
+    "bookedAt": "2026-11-18T23:54:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T00:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "88032-20261118225014",
     "inmateNumber": "88032",
     "name": "COLEMAN SCHOONOVER, JOHN JASON",
@@ -172,7 +186,7 @@
     "bondTotal": 2000,
     "charges": [
       {
-        "description": "PROTECTION ORDER VIOLATION",
+        "description": "ANTIHARASSMENT PO VIOLATION ATTEMPT",
         "offenseDate": "2026-11-18T20:57:53",
         "arrestingAgency": "DFW",
         "court": "COWLITZ COUNTY DISTRICT COURT",
@@ -202,7 +216,7 @@
   {
     "id": "361970-20261118204719",
     "inmateNumber": "361970",
-    "name": "BOOKING, NO NAME MALE",
+    "name": "ANTONIO OROPEZA, JAIME",
     "bookedAt": "2026-11-18T20:47:19",
     "location": "INTAKE H1",
     "arrestingAgency": "CCSO",
