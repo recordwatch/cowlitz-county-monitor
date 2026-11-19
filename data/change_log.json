@@ -1,5 +1,61 @@
 [
   {
+    "id": "361967-20261118154118",
+    "inmateNumber": "361967",
+    "name": "SOTELO, MIGUEL MIRANDA",
+    "bookedAt": "2026-11-18T15:41:18",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "91424-20261118153546",
+    "inmateNumber": "91424",
+    "name": "MCKENNA, KENDRA MICHELLE",
+    "bookedAt": "2026-11-18T15:35:46",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "24374-20261118153144",
+    "inmateNumber": "24374",
+    "name": "WORSKE, JACOB MICHAEL",
+    "bookedAt": "2026-11-18T15:31:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "321146-20261118153037",
+    "inmateNumber": "321146",
+    "name": "SWOFFORD, JOSHUA JAMES",
+    "bookedAt": "2026-11-18T15:30:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "37949-20261118144141",
     "inmateNumber": "37949",
     "name": "SCHMOTZER, KRISTEN KATHRYN",
@@ -464,9 +520,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T18:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T16:15:21",
     "baseline": false
   },
   {
@@ -516,9 +572,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-17T16:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T16:15:21",
     "baseline": false
   },
   {
