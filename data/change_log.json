@@ -1300,7 +1300,7 @@
     "inmateNumber": "85004",
     "name": "JACOBS, BENTLEY JESSE DOUGLAS",
     "bookedAt": "2026-11-17T12:51:25",
-    "location": "B25",
+    "location": "G-G31",
     "arrestingAgency": "CCSO",
     "bondTotal": 6500,
     "charges": [
@@ -1629,7 +1629,7 @@
     "inmateNumber": "361907",
     "name": "GARCIA GARCIA, DARIO ALONZO",
     "bookedAt": "2026-11-17T02:36:58",
-    "location": "A11",
+    "location": "G-G39",
     "arrestingAgency": "CCSO",
     "bondTotal": 25000,
     "charges": [
@@ -1655,7 +1655,7 @@
     "inmateNumber": "361903",
     "name": "MENDEZ, FELIPE EDWARD",
     "bookedAt": "2026-11-17T00:54:19",
-    "location": "A11",
+    "location": "G-G01",
     "arrestingAgency": "CCSO",
     "bondTotal": 50000,
     "charges": [
@@ -2169,7 +2169,7 @@
     "inmateNumber": "6842",
     "name": "STURGILL, MICHAEL DEAN",
     "bookedAt": "2026-11-16T10:48:26",
-    "location": "A13",
+    "location": "G-G06",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -12915,7 +12915,7 @@
     "inmateNumber": "13995",
     "name": "PARKER, KEVIN RENE",
     "bookedAt": "2026-10-24T13:55:21",
-    "location": "A14",
+    "location": "G-G10",
     "arrestingAgency": "KEPD",
     "bondTotal": 4000,
     "charges": [
@@ -19215,7 +19215,7 @@
     "inmateNumber": "201907",
     "name": "WEESE, AARON TIMOTHY DESTIN",
     "bookedAt": "2026-10-12T07:50:26",
-    "location": "A12",
+    "location": "G-G19",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
