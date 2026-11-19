@@ -46,6 +46,17 @@
         "bondAmount": null
       },
       {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T17:05:11",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
         "description": "DUI",
         "offenseDate": "2026-11-18T17:04:19",
         "arrestingAgency": "WSP",
@@ -109,9 +120,9 @@
         "bondAmount": 2000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T16:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T17:55:17",
     "baseline": false
   },
   {
