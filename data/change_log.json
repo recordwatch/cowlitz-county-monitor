@@ -91,7 +91,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Appeal Bond",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -972,7 +972,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
