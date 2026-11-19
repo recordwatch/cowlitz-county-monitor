@@ -1,12 +1,60 @@
 [
   {
+    "id": "336698-20261118215043",
+    "inmateNumber": "336698",
+    "name": "ESTOCADO, MISTY NOELANI",
+    "bookedAt": "2026-11-18T21:50:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 3000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T21:51:18",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0443681",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T21:51:45",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0443681",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "MAL MISCH 3RD > $50 DV",
+        "offenseDate": "2026-11-18T21:52:01",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0443681",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "306034-20261118214011",
     "inmateNumber": "306034",
     "name": "MATA, LA TANYA VANESSA",
     "bookedAt": "2026-11-18T21:40:11",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -16,19 +64,19 @@
         "warrantNumber": "6A0338230",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       },
       {
-        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "description": "COMPUTER TRESPASS 2ND DEGREE",
         "offenseDate": "2026-11-18T21:44:14",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338230",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
