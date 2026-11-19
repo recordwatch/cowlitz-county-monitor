@@ -9,17 +9,6 @@
     "bondTotal": 500,
     "charges": [
       {
-        "description": "CRIM TRESPASS 2ND",
-        "offenseDate": "2026-11-19T08:16:14",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-19T08:10:17",
         "arrestingAgency": "LVPD",
@@ -29,6 +18,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "offenseDate": "2026-11-19T08:16:14",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427029",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -13864,9 +13864,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-21T15:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T09:15:20",
     "baseline": false
   },
   {
