@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T08:35:27",
+  "generatedAt": "2026-11-19T08:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 699,
-    "bookingsObserved": 533,
+    "bookingsTracked": 700,
+    "bookingsObserved": 534,
     "releasesObserved": 538,
-    "inCustody": 161,
+    "inCustody": 162,
     "uniquePeople": 643
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 1,
+      "booked": 2,
       "released": 5
     }
   ],
@@ -188,7 +188,7 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 58,
+      "count": 59,
       "pct": 3.6
     },
     {
@@ -209,7 +209,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 35,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "RESISTING ARREST",
@@ -223,7 +223,7 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 29,
+      "count": 30,
       "pct": 1.8
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 272,
-      "pct": 39.1,
+      "count": 273,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -327,12 +327,12 @@
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 490,
-      "pct": 30.1
+      "count": 491,
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 486,
+      "count": 487,
       "pct": 29.9
     },
     {
@@ -343,7 +343,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 196,
-      "pct": 12.1
+      "pct": 12
     },
     {
       "name": "DOC COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.5,
+    "currentMedianDaysHeld": 22,
     "currentLongestDaysHeld": 525.7
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 46,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3870100
+    "totalBond": 3870600
   },
   "chargesPerBooking": 2.3
 }
