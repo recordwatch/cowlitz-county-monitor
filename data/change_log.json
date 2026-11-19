@@ -1,13 +1,76 @@
 [
   {
+    "id": "306034-20261118214011",
+    "inmateNumber": "306034",
+    "name": "MATA, LA TANYA VANESSA",
+    "bookedAt": "2026-11-18T21:40:11",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T21:44:14",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338230",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T21:44:14",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0338230",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:15:29",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "99957-20261118211205",
+    "inmateNumber": "99957",
+    "name": "ORR, BRITTNIE NICHOLE",
+    "bookedAt": "2026-11-18T21:12:05",
+    "location": "INTAKE H2",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T22:15:29",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "27785-20261118210017",
     "inmateNumber": "27785",
     "name": "BROWN, TERRY PATRICK",
     "bookedAt": "2026-11-18T21:00:17",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "INTAKE H1",
+    "arrestingAgency": "KAPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-18T21:10:16",
+        "arrestingAgency": "KAPD",
+        "court": "KALAMA MUNICIPAL COURT",
+        "warrantNumber": "6A0439981",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T21:55:19",
     "releasedAt": null,
@@ -18,16 +81,27 @@
     "inmateNumber": "28260",
     "name": "SMITH, NATHAN JAMES",
     "bookedAt": "2026-11-18T20:54:05",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "DFW",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-11-18T20:57:53",
         "arrestingAgency": "DFW",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
+        "warrantNumber": "T00818752",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-18T20:57:53",
+        "arrestingAgency": "DFW",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00818752",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
@@ -44,7 +118,7 @@
     "inmateNumber": "361970",
     "name": "BOOKING, NO NAME MALE",
     "bookedAt": "2026-11-18T20:47:19",
-    "location": "INTAKE H2",
+    "location": "INTAKE H1",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -70,7 +144,7 @@
     "inmateNumber": "54847",
     "name": "LEE, JOSEPH EUGENE",
     "bookedAt": "2026-11-18T16:03:43",
-    "location": "INTAKE H1",
+    "location": "INTAKE H5",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -264,9 +338,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T14:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T22:15:29",
     "baseline": false
   },
   {
