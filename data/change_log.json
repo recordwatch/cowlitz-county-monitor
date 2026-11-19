@@ -6,18 +6,29 @@
     "bookedAt": "2026-11-19T12:20:40",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-11-19T12:24:00",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0427030",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 500
+      },
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "offenseDate": "2026-11-19T12:25:00",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0427030",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -442,9 +453,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T21:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T13:15:19",
     "baseline": false
   },
   {
