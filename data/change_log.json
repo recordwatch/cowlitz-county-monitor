@@ -1,5 +1,19 @@
 [
   {
+    "id": "359969-20261119114114",
+    "inmateNumber": "359969",
+    "name": "CRUZ VAZQUEZ, JESUS ALBERTO",
+    "bookedAt": "2026-11-19T11:41:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T12:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "65428-20261119101803",
     "inmateNumber": "65428",
     "name": "BURLEY, JOSEPH ROBERT III",
@@ -8,6 +22,17 @@
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-19T11:34:38",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0315295",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-11-19T10:21:33",
