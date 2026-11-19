@@ -4,7 +4,7 @@
     "inmateNumber": "65428",
     "name": "BURLEY, JOSEPH ROBERT III",
     "bookedAt": "2026-11-19T10:18:03",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "CCCD",
     "bondTotal": 2000,
     "charges": [
@@ -57,9 +57,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T10:29:14",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T11:35:19",
     "baseline": false
   },
   {
@@ -93,7 +93,7 @@
     "inmateNumber": "361494",
     "name": "ENGLISH, KARL DAVID",
     "bookedAt": "2026-11-19T08:08:21",
-    "location": "1-PENDING BOOKING",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 8000,
     "charges": [
@@ -681,10 +681,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0338937",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2876,7 +2876,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2610040608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3275,7 +3275,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2410047608",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3468,7 +3468,7 @@
         "arrestingAgency": "CCSO",
         "court": "DOC COURT",
         "warrantNumber": "1910050621",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -3977,7 +3977,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "2510082808",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -18047,9 +18047,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-14T05:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T11:35:19",
     "baseline": false
   },
   {
