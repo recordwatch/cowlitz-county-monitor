@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:35:16",
+  "generatedAt": "2026-11-18T22:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 696,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 222,
-      "pct": 13.7
+      "count": 223,
+      "pct": 13.8
     },
     {
       "name": "DWLS 3RD",
@@ -277,14 +277,14 @@
     },
     {
       "name": "KEPD",
-      "count": 99,
-      "pct": 14.3,
+      "count": 100,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 73,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 195,
-      "pct": 12
+      "count": 196,
+      "pct": 12.1
     },
     {
       "name": "DOC COURT",
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 32,
-      "pct": 19.9
+      "count": 33,
+      "pct": 20.2
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 13
+      "count": 22,
+      "pct": 13.5
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 21,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 26,
-      "pct": 16.1
+      "pct": 16
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.4
     }
   ],
   "stay": {
@@ -469,7 +469,7 @@
       }
     ],
     "currentMedianDaysHeld": 21.1,
-    "currentLongestDaysHeld": 525.2
+    "currentLongestDaysHeld": 525.3
   },
   "bond": {
     "withBond": 118,

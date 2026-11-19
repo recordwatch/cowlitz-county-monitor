@@ -4,7 +4,7 @@
     "inmateNumber": "336698",
     "name": "ESTOCADO, MISTY NOELANI",
     "bookedAt": "2026-11-18T21:50:43",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -52,7 +52,7 @@
     "inmateNumber": "306034",
     "name": "MATA, LA TANYA VANESSA",
     "bookedAt": "2026-11-18T21:40:11",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -90,9 +90,21 @@
     "name": "ORR, BRITTNIE NICHOLE",
     "bookedAt": "2026-11-18T21:12:05",
     "location": "INTAKE H2",
-    "arrestingAgency": null,
+    "arrestingAgency": "KEPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T22:23:14",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0290290",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T22:15:29",
     "releasedAt": null,
@@ -103,7 +115,7 @@
     "inmateNumber": "27785",
     "name": "BROWN, TERRY PATRICK",
     "bookedAt": "2026-11-18T21:00:17",
-    "location": "INTAKE H1",
+    "location": "B23",
     "arrestingAgency": "KAPD",
     "bondTotal": 1000,
     "charges": [
@@ -129,7 +141,7 @@
     "inmateNumber": "28260",
     "name": "SMITH, NATHAN JAMES",
     "bookedAt": "2026-11-18T20:54:05",
-    "location": "INTAKE H8",
+    "location": "A14",
     "arrestingAgency": "DFW",
     "bondTotal": 2000,
     "charges": [
