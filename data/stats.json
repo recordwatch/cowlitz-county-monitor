@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T21:35:17",
+  "generatedAt": "2026-11-18T21:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 690,
-    "bookingsObserved": 524,
+    "bookingsTracked": 693,
+    "bookingsObserved": 527,
     "releasesObserved": 532,
-    "inCustody": 158,
-    "uniquePeople": 636
+    "inCustody": 161,
+    "uniquePeople": 638
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-18",
-      "booked": 13,
+      "booked": 16,
       "released": 13
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 112,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -193,7 +193,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 48,
+      "count": 49,
       "pct": 3
     },
     {
@@ -232,17 +232,17 @@
       "pct": 1.4
     },
     {
+      "name": "POSS W/INTENT",
+      "count": 19,
+      "pct": 1.2
+    },
+    {
       "name": "FELONY HARASSMENT",
       "count": 19,
       "pct": 1.2
     },
     {
       "name": "RECKLESS DRIVING",
-      "count": 18,
-      "pct": 1.1
-    },
-    {
-      "name": "POSS W/INTENT",
       "count": 18,
       "pct": 1.1
     },
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 270,
-      "pct": 39.4,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 131,
-      "pct": 19.1,
+      "count": 132,
+      "pct": 19.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -318,17 +318,17 @@
       "label": "KAPD"
     },
     {
-      "name": "911",
-      "count": 1,
-      "pct": 0.1,
-      "label": "911"
+      "name": "DFW",
+      "count": 2,
+      "pct": 0.3,
+      "label": "DFW"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 487,
-      "pct": 30.2
+      "count": 488,
+      "pct": 30.3
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 207,
-      "pct": 12.8
+      "count": 208,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 20.9
+      "pct": 20.8
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 12.7
+      "pct": 12.6
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "E",
       "count": 21,
-      "pct": 13.3
+      "pct": 13.2
     },
     {
       "name": "F",
@@ -420,22 +420,22 @@
     {
       "name": "G",
       "count": 26,
-      "pct": 16.5
+      "pct": 16.4
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.9
+      "count": 4,
+      "pct": 2.5
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.6
+      "pct": 7.5
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22.7,
+    "currentMedianDaysHeld": 22.1,
     "currentLongestDaysHeld": 525.2
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 43,
+    "withBond": 116,
+    "noBond": 45,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3869100
+    "totalBond": 3870100
   },
   "chargesPerBooking": 2.3
 }

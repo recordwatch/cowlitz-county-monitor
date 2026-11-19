@@ -1,5 +1,71 @@
 [
   {
+    "id": "27785-20261118210017",
+    "inmateNumber": "27785",
+    "name": "BROWN, TERRY PATRICK",
+    "bookedAt": "2026-11-18T21:00:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T21:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "28260-20261118205405",
+    "inmateNumber": "28260",
+    "name": "SMITH, NATHAN JAMES",
+    "bookedAt": "2026-11-18T20:54:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DFW",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-18T20:57:53",
+        "arrestingAgency": "DFW",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T21:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "361970-20261118204719",
+    "inmateNumber": "361970",
+    "name": "BOOKING, NO NAME MALE",
+    "bookedAt": "2026-11-18T20:47:19",
+    "location": "INTAKE H2",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-18T20:52:54",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T21:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "54847-20261118160343",
     "inmateNumber": "54847",
     "name": "LEE, JOSEPH EUGENE",
