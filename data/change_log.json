@@ -244,6 +244,28 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-19T03:31:39",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-19T03:30:21",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
