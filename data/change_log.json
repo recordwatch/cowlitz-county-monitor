@@ -22,9 +22,9 @@
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T16:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-18T16:35:17",
     "baseline": false
   },
   {
@@ -33,9 +33,21 @@
     "name": "WORSKE, JACOB MICHAEL",
     "bookedAt": "2026-11-18T15:31:44",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "CCCD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T15:55:35",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422590",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T16:15:21",
     "releasedAt": null,
@@ -47,9 +59,21 @@
     "name": "SWOFFORD, JOSHUA JAMES",
     "bookedAt": "2026-11-18T15:30:37",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "CCCD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T15:58:57",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0436666",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T16:15:21",
     "releasedAt": null,
