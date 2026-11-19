@@ -1,11 +1,37 @@
 [
   {
+    "id": "54847-20261118160343",
+    "inmateNumber": "54847",
+    "name": "LEE, JOSEPH EUGENE",
+    "bookedAt": "2026-11-18T16:03:43",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-18T16:07:06",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2310044008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-18T16:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361967-20261118154118",
     "inmateNumber": "361967",
     "name": "SOTELO, MIGUEL MIRANDA",
     "bookedAt": "2026-11-18T15:41:18",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "INTAKE H5",
+    "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
@@ -18,13 +44,25 @@
     "inmateNumber": "91424",
     "name": "MCKENNA, KENDRA MICHELLE",
     "bookedAt": "2026-11-18T15:35:46",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
-    "status": "released",
+    "location": "INTAKE H6",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-18T16:01:55",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0436668",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Appeal Bond",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
     "firstSeen": "2026-11-18T16:15:21",
-    "releasedAt": "2026-11-18T16:35:17",
+    "releasedAt": null,
     "baseline": false
   },
   {
@@ -32,7 +70,7 @@
     "inmateNumber": "24374",
     "name": "WORSKE, JACOB MICHAEL",
     "bookedAt": "2026-11-18T15:31:44",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCCD",
     "bondTotal": 2000,
     "charges": [
@@ -58,7 +96,7 @@
     "inmateNumber": "321146",
     "name": "SWOFFORD, JOSHUA JAMES",
     "bookedAt": "2026-11-18T15:30:37",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCCD",
     "bondTotal": 2000,
     "charges": [
@@ -84,7 +122,7 @@
     "inmateNumber": "37949",
     "name": "SCHMOTZER, KRISTEN KATHRYN",
     "bookedAt": "2026-11-18T14:41:41",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -110,7 +148,7 @@
     "inmateNumber": "361965",
     "name": "KUBIT, MARK ALEXANDER",
     "bookedAt": "2026-11-18T14:04:27",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -432,7 +470,7 @@
     "inmateNumber": "358851",
     "name": "LEVAN, MIKHAIL QUINCY",
     "bookedAt": "2026-11-17T20:04:18",
-    "location": "INTAKE H2",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
