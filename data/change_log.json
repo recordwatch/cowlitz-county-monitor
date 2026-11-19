@@ -4,7 +4,7 @@
     "inmateNumber": "43690",
     "name": "EDWARDS, BLAYNE FREDRICK",
     "bookedAt": "2026-11-19T14:00:37",
-    "location": "1-PENDING BOOKING",
+    "location": "B23",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -342,9 +342,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T23:35:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T15:35:16",
     "baseline": false
   },
   {
@@ -831,9 +831,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T08:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T15:35:16",
     "baseline": false
   },
   {
@@ -8970,9 +8970,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-02T07:55:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-19T15:35:16",
     "baseline": false
   },
   {
