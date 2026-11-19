@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:35:16",
+  "generatedAt": "2026-11-18T23:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 697,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 223,
-      "pct": 13.8
+      "pct": 13.7
     },
     {
       "name": "DWLS 3RD",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DUI",
-      "count": 97,
+      "count": 98,
       "pct": 6
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 483,
+      "count": 484,
       "pct": 29.8
     },
     {

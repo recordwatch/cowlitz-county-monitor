@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-18T23:09:41",
+        "arrestingAgency": "WSP",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0809155",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-18T23:35:16",
     "releasedAt": null,
