@@ -5,9 +5,21 @@
     "name": "RICHTER, BRIAN DOUGLAS",
     "bookedAt": "2026-11-18T23:54:02",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "LVPD",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "MAKE FALSE STATEMENT",
+        "offenseDate": "2026-11-19T00:10:07",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422596",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-19T00:35:17",
     "releasedAt": null,
@@ -194,7 +206,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -205,7 +217,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

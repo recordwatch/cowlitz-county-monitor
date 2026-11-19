@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:35:17",
+  "generatedAt": "2026-11-19T00:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 698,
@@ -199,7 +199,7 @@
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
       "count": 43,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 271,
-      "pct": 39.1,
+      "count": 272,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 484,
-      "pct": 29.8
+      "count": 485,
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 525.3
   },
   "bond": {
-    "withBond": 118,
-    "noBond": 47,
-    "medianBond": 3750,
+    "withBond": 119,
+    "noBond": 46,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3876100
+    "totalBond": 3876600
   },
   "chargesPerBooking": 2.3
 }
