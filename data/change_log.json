@@ -1,5 +1,31 @@
 [
   {
+    "id": "67088-20261119084831",
+    "inmateNumber": "67088",
+    "name": "HARRIS, ZACHARIAH CHARLES",
+    "bookedAt": "2026-11-19T08:48:31",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-19T08:51:44",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "22CR60069",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T09:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361494-20261119080821",
     "inmateNumber": "361494",
     "name": "ENGLISH, KARL DAVID",
@@ -23807,20 +23833,9 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061208",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2500
-      },
-      {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-09-18T13:43:23",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610061208",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
         "bondAmount": null
       },
       {
@@ -23829,7 +23844,18 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061208",
-        "disposition": null,
+        "disposition": "Dismissed",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-09-18T13:43:23",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610061208",
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -23840,7 +23866,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610061208",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
