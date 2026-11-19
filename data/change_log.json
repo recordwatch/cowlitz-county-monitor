@@ -41,7 +41,7 @@
     "inmateNumber": "359969",
     "name": "CRUZ VAZQUEZ, JESUS ALBERTO",
     "bookedAt": "2026-11-19T11:41:14",
-    "location": "1-PENDING BOOKING",
+    "location": "A10",
     "arrestingAgency": "CCCD",
     "bondTotal": 4500,
     "charges": [
@@ -111,7 +111,7 @@
     "inmateNumber": "65428",
     "name": "BURLEY, JOSEPH ROBERT III",
     "bookedAt": "2026-11-19T10:18:03",
-    "location": "INTAKE H1",
+    "location": "B10",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -817,7 +817,7 @@
     "bookedAt": "2026-11-18T07:49:56",
     "location": "B12",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -827,8 +827,8 @@
         "warrantNumber": "2410072008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 20000
       }
     ],
     "status": "in_custody",
@@ -7755,7 +7755,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0263333",
-        "disposition": "Per. Recogn.",
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -7766,7 +7766,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0829038",
-        "disposition": "Per. Recogn.",
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -7777,10 +7777,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0272705",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 750
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -8938,10 +8938,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427026",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
