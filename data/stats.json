@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T10:35:16",
+  "generatedAt": "2026-11-19T10:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 702,
-    "bookingsObserved": 536,
+    "bookingsTracked": 703,
+    "bookingsObserved": 537,
     "releasesObserved": 541,
-    "inCustody": 161,
-    "uniquePeople": 645
+    "inCustody": 162,
+    "uniquePeople": 646
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 4,
+      "booked": 5,
       "released": 8
     }
   ],
@@ -202,14 +202,14 @@
       "pct": 2.6
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 37,
+      "pct": 2.3
+    },
+    {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 36,
       "pct": 2.2
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 35,
-      "pct": 2.1
     },
     {
       "name": "RESISTING ARREST",
@@ -272,19 +272,19 @@
     {
       "name": "CCSO",
       "count": 133,
-      "pct": 19.1,
+      "pct": 19,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 101,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 74,
-      "pct": 10.6,
+      "count": 75,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 488,
-      "pct": 29.9
+      "count": 490,
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 21.6,
-    "currentLongestDaysHeld": 525.7
+    "currentMedianDaysHeld": 21.3,
+    "currentLongestDaysHeld": 525.8
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 117,
     "noBond": 45,
-    "medianBond": 3750,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3865100
+    "totalBond": 3873600
   },
   "chargesPerBooking": 2.3
 }

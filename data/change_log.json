@@ -1,5 +1,42 @@
 [
   {
+    "id": "65428-20261119101803",
+    "inmateNumber": "65428",
+    "name": "BURLEY, JOSEPH ROBERT III",
+    "bookedAt": "2026-11-19T10:18:03",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-19T10:21:33",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0643696",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-19T10:20:46",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0276327",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T10:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "20985-20261119095429",
     "inmateNumber": "20985",
     "name": "BARKER, DAVID GLENN",
@@ -58,7 +95,7 @@
     "bookedAt": "2026-11-19T08:08:21",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": 500,
+    "bondTotal": 8000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -68,8 +105,8 @@
         "warrantNumber": "2610071208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "CRIM TRESPASS 2ND",
@@ -265,8 +302,8 @@
         "offenseDate": "2026-11-18T22:23:14",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6a0290290",
-        "disposition": null,
+        "warrantNumber": "6A0290290",
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -292,10 +329,10 @@
         "arrestingAgency": "KAPD",
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0439981",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2831,7 +2868,7 @@
     "bookedAt": "2026-11-13T15:01:58",
     "location": "C13",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DOC HOLD",
@@ -2861,10 +2898,10 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0418772",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "FAIL TO COMPLY",
@@ -23116,15 +23153,15 @@
     "bondTotal": 5000,
     "charges": [
       {
-        "description": "SEX OFFEND/FLN FAIL TO REG",
+        "description": "CRIMINAL MISCHIEF ARMED DEADLY WEAPON",
         "offenseDate": "2026-09-24T16:58:19",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610063008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
