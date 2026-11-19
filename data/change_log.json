@@ -1,10 +1,36 @@
 [
   {
+    "id": "20985-20261119095429",
+    "inmateNumber": "20985",
+    "name": "BARKER, DAVID GLENN",
+    "bookedAt": "2026-11-19T09:54:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "HIT RUN UNATTENDED",
+        "offenseDate": "2026-11-19T09:58:28",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0399285",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T10:29:14",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "67088-20261119084831",
     "inmateNumber": "67088",
     "name": "HARRIS, ZACHARIAH CHARLES",
     "bookedAt": "2026-11-19T08:48:31",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -67,7 +93,7 @@
     "inmateNumber": "180695",
     "name": "CISSNEY, AUTUMN SKYE",
     "bookedAt": "2026-11-19T05:37:25",
-    "location": "INTAKE H6",
+    "location": "E22",
     "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
@@ -17918,23 +17944,23 @@
         "bondAmount": null
       },
       {
-        "description": "DISORDERLY CONDUCT",
-        "offenseDate": "2026-10-15T15:28:01",
-        "arrestingAgency": "KAPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610067608",
-        "disposition": null,
-        "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
         "description": "OBSTRUCTING PUBLIC SERVANT",
         "offenseDate": "2026-10-15T15:25:30",
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610067608",
-        "disposition": null,
+        "disposition": "Dismissed",
+        "billingAgency": "SUPR",
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-10-15T15:28:01",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610067608",
+        "disposition": "Dismissed",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
@@ -17945,7 +17971,7 @@
         "arrestingAgency": "KAPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610067608",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
