@@ -1,5 +1,31 @@
 [
   {
+    "id": "180695-20261119053725",
+    "inmateNumber": "180695",
+    "name": "CISSNEY, AUTUMN SKYE",
+    "bookedAt": "2026-11-19T05:37:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "HIT AND RUN ATTENDED-AID/ABET",
+        "offenseDate": "2026-11-19T05:38:51",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0276318",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T06:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "100133-20261118235402",
     "inmateNumber": "100133",
     "name": "RICHTER, BRIAN DOUGLAS",
