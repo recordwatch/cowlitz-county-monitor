@@ -1,5 +1,31 @@
 [
   {
+    "id": "43690-20261119140037",
+    "inmateNumber": "43690",
+    "name": "EDWARDS, BLAYNE FREDRICK",
+    "bookedAt": "2026-11-19T14:00:37",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-19T14:04:25",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2510036608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T14:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361496-20261119122040",
     "inmateNumber": "361496",
     "name": "BLACK, SKYLUR SOPHIE",
@@ -502,7 +528,7 @@
     "bookedAt": "2026-11-18T20:47:19",
     "location": "A11",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 75000,
     "charges": [
       {
         "description": "POSS W/INTENT",
@@ -512,8 +538,8 @@
         "warrantNumber": "2610074908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
         "description": "NVOL - WITHOUT ID",
@@ -576,7 +602,7 @@
     "bookedAt": "2026-11-18T15:41:18",
     "location": "INTAKE H3",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "FELONY HARASSMENT",
@@ -586,8 +612,8 @@
         "warrantNumber": "2610075008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",

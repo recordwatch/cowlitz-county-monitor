@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T14:15:18",
+  "generatedAt": "2026-11-19T14:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 705,
-    "bookingsObserved": 539,
+    "bookingsTracked": 706,
+    "bookingsObserved": 540,
     "releasesObserved": 545,
-    "inCustody": 160,
-    "uniquePeople": 647
+    "inCustody": 161,
+    "uniquePeople": 648
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 7,
+      "booked": 8,
       "released": 12
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 137,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 109,
-      "pct": 6.6
+      "count": 110,
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 274,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 40,
-      "pct": 5.7,
+      "count": 41,
+      "pct": 5.8,
       "label": "Dept. of Corrections"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 20,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Woodland Police"
     },
     {
@@ -343,11 +343,11 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 196,
-      "pct": 12
+      "pct": 11.9
     },
     {
       "name": "DOC COURT",
-      "count": 90,
+      "count": 91,
       "pct": 5.5
     },
     {
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 20.9,
+    "currentMedianDaysHeld": 20.7,
     "currentLongestDaysHeld": 525.9
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 44,
+    "withBond": 118,
+    "noBond": 43,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3887100
+    "totalBond": 3969600
   },
   "chargesPerBooking": 2.3
 }
