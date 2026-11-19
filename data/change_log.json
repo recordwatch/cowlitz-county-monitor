@@ -5,13 +5,13 @@
     "name": "BURLEY, JOSEPH ROBERT III",
     "bookedAt": "2026-11-19T10:18:03",
     "location": "INTAKE H1",
-    "arrestingAgency": "CCCD",
+    "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-11-19T10:21:33",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0643696",
         "disposition": null,
@@ -22,7 +22,7 @@
       {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-11-19T10:20:46",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0276327",
         "disposition": null,
@@ -141,7 +141,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0276318",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -193,7 +193,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "3A0809155",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -304,7 +304,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0290290",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -330,7 +330,7 @@
         "court": "KALAMA MUNICIPAL COURT",
         "warrantNumber": "6A0439981",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "KAPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -441,7 +441,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2310044008",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -567,7 +567,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436666",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -593,7 +593,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510014521",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
