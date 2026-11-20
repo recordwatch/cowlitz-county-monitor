@@ -1,5 +1,31 @@
 [
   {
+    "id": "362012-20261120060542",
+    "inmateNumber": "362012",
+    "name": "BILLY, NOEL BILLY BOY",
+    "bookedAt": "2026-11-20T06:05:42",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-20T06:07:55",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0431412",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T06:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "329834-20261120045206",
     "inmateNumber": "329834",
     "name": "PALM, FRANK BENJAMIN",
