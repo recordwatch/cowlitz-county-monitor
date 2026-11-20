@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T09:55:18",
+  "generatedAt": "2026-11-20T10:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 722,
     "bookingsObserved": 556,
-    "releasesObserved": 563,
-    "inCustody": 159,
+    "releasesObserved": 564,
+    "inCustody": 158,
     "uniquePeople": 662
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-20",
       "booked": 7,
-      "released": 9
+      "released": 10
     }
   ],
   "topCharges": [
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 112,
-      "pct": 6.7
+      "count": 113,
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -333,7 +333,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 494,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 93,
+      "count": 94,
       "pct": 5.6
     },
     {
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 26,
-      "pct": 16.7
+      "pct": 16.8
     },
     {
       "name": "B",
-      "count": 20,
-      "pct": 12.8
+      "count": 19,
+      "pct": 12.3
     },
     {
       "name": "C",
@@ -405,7 +405,7 @@
     {
       "name": "D",
       "count": 10,
-      "pct": 6.4
+      "pct": 6.5
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 31,
-      "pct": 19.9
+      "pct": 20
     },
     {
       "name": "H",
@@ -430,7 +430,7 @@
     {
       "name": "INTAKE",
       "count": 6,
-      "pct": 3.8
+      "pct": 3.9
     },
     {
       "name": "WSH",
@@ -439,9 +439,9 @@
     }
   ],
   "stay": {
-    "releasedCount": 563,
+    "releasedCount": 564,
     "medianDays": 2,
-    "meanDays": 13.6,
+    "meanDays": 14,
     "buckets": [
       {
         "label": "< 1 day",
@@ -465,15 +465,15 @@
       },
       {
         "label": "3+ months",
-        "count": 18
+        "count": 19
       }
     ],
-    "currentMedianDaysHeld": 20.8,
+    "currentMedianDaysHeld": 20.5,
     "currentLongestDaysHeld": 526.7
   },
   "bond": {
     "withBond": 116,
-    "noBond": 43,
+    "noBond": 42,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3792600
