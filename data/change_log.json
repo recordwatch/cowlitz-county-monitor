@@ -41,10 +41,33 @@
     "inmateNumber": "187401",
     "name": "KNOX, BRADLEY DAVID",
     "bookedAt": "2026-11-20T09:21:53",
-    "location": "1-PENDING BOOKING",
+    "location": "B14",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-20T10:10:01",
+        "arrestingAgency": "CCCD",
+        "court": "DOC COURT",
+        "warrantNumber": "141000950",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MURDER 1ST",
+        "offenseDate": "2026-11-20T10:21:46",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "141000950",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T09:55:18",
     "releasedAt": null,
@@ -5512,10 +5535,10 @@
         "arrestingAgency": "KEPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891873",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -5523,7 +5546,7 @@
         "arrestingAgency": "KEPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891873",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
@@ -5534,10 +5557,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0391124",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -5545,7 +5568,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0391124",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -5556,10 +5579,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0439484",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -5567,7 +5590,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0439484",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -7768,7 +7791,7 @@
     "bookedAt": "2026-11-05T11:52:13",
     "location": "B25",
     "arrestingAgency": "LVPD",
-    "bondTotal": 3000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -7790,7 +7813,7 @@
         "disposition": null,
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -7798,10 +7821,10 @@
         "arrestingAgency": "LVPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891897",
-        "disposition": null,
+        "disposition": "Amended",
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -7809,7 +7832,7 @@
         "arrestingAgency": "LVPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891897",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
