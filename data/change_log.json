@@ -613,7 +613,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 7500
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
