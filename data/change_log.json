@@ -1790,7 +1790,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       },
       {
         "description": "THEFT 3RD DEG",
@@ -1801,7 +1801,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -10960,7 +10960,7 @@
     "inmateNumber": "69897",
     "name": "RAAPPANA, BILLIE DAWN",
     "bookedAt": "2026-10-28T20:42:33",
-    "location": "E13",
+    "location": "H-H02",
     "arrestingAgency": "LVPD",
     "bondTotal": 4000,
     "charges": [
