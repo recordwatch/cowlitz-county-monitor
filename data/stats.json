@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T21:35:16",
+  "generatedAt": "2026-11-19T21:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 711,
-    "bookingsObserved": 545,
-    "releasesObserved": 552,
+    "bookingsTracked": 712,
+    "bookingsObserved": 546,
+    "releasesObserved": 553,
     "inCustody": 159,
-    "uniquePeople": 653
+    "uniquePeople": 654
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 13,
-      "released": 19
+      "booked": 14,
+      "released": 20
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 225,
+      "count": 226,
       "pct": 13.6
     },
     {
@@ -174,7 +174,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 115,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 49,
-      "pct": 3
+      "count": 51,
+      "pct": 3.1
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -218,7 +218,7 @@
     },
     {
       "name": "CRIM TRESPASS 2ND",
-      "count": 31,
+      "count": 32,
       "pct": 1.9
     },
     {
@@ -239,7 +239,7 @@
     {
       "name": "FELONY HARASSMENT",
       "count": 19,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "RECKLESS DRIVING",
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 101,
-      "pct": 14.3,
+      "count": 102,
+      "pct": 14.4,
       "label": "Kelso Police"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 502,
+      "count": 503,
       "pct": 30.4
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 491,
-      "pct": 29.7
+      "pct": 29.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 199,
-      "pct": 12
+      "count": 203,
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -399,8 +399,8 @@
     },
     {
       "name": "C",
-      "count": 20,
-      "pct": 12.7
+      "count": 19,
+      "pct": 12
     },
     {
       "name": "D",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.9
+      "count": 4,
+      "pct": 2.5
     },
     {
       "name": "WSH",
@@ -439,7 +439,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 552,
+    "releasedCount": 553,
     "medianDays": 2,
     "meanDays": 13.5,
     "buckets": [
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 130
+        "count": 131
       },
       {
         "label": "3–7 days",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 526.2
   },
   "bond": {
-    "withBond": 115,
-    "noBond": 44,
+    "withBond": 116,
+    "noBond": 43,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3887350
+    "totalBond": 3890350
   },
   "chargesPerBooking": 2.3
 }
