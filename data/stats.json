@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T00:15:19",
+  "generatedAt": "2026-11-20T00:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 713,
-    "bookingsObserved": 547,
+    "bookingsTracked": 715,
+    "bookingsObserved": 549,
     "releasesObserved": 554,
-    "inCustody": 159,
-    "uniquePeople": 655
+    "inCustody": 161,
+    "uniquePeople": 656
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 15,
+      "booked": 17,
       "released": 21
     },
     {
@@ -179,7 +179,7 @@
     {
       "name": "DOC HOLD",
       "count": 112,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -188,7 +188,7 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 59,
+      "count": 60,
       "pct": 3.6
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 44,
+      "count": 45,
       "pct": 2.7
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "name": "RESISTING ARREST",
-      "count": 33,
+      "count": 34,
       "pct": 2
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 276,
-      "pct": 38.9,
+      "count": 277,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 136,
-      "pct": 19.2,
+      "count": 137,
+      "pct": 19.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 75,
-      "pct": 10.6,
+      "pct": 10.5,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 33,
-      "pct": 4.7,
+      "pct": 4.6,
       "label": "Washington State Patrol"
     },
     {
@@ -327,18 +327,18 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 503,
-      "pct": 30.3
+      "count": 505,
+      "pct": 30.4
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 491,
-      "pct": 29.6
+      "pct": 29.5
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 215,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -377,8 +377,8 @@
     },
     {
       "name": "OTHER - OUT OF COUNTY",
-      "count": 10,
-      "pct": 0.6
+      "count": 11,
+      "pct": 0.7
     },
     {
       "name": "KALAMA MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 21.1,
+    "currentMedianDaysHeld": 20.4,
     "currentLongestDaysHeld": 526.3
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 118,
     "noBond": 43,
     "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3791850
+    "totalBond": 3798350
   },
   "chargesPerBooking": 2.3
 }

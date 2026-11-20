@@ -1,5 +1,68 @@
 [
   {
+    "id": "75303-20261119234902",
+    "inmateNumber": "75303",
+    "name": "MINOR, ALICIA LEANNE",
+    "bookedAt": "2026-11-19T23:49:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-19T23:57:03",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422597",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "RESISTING ARREST",
+        "offenseDate": "2026-11-19T23:58:46",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0422597",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T00:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "207965-20261119234521",
+    "inmateNumber": "207965",
+    "name": "SPRY, RANDI ELIZABETH",
+    "bookedAt": "2026-11-19T23:45:21",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-19T23:56:58",
+        "arrestingAgency": "CCSO",
+        "court": "OTHER - OUT OF COUNTY",
+        "warrantNumber": "2610004125",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T00:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "131677-20261119221736",
     "inmateNumber": "131677",
     "name": "CARRIKER, KAYLEE DIANE",
