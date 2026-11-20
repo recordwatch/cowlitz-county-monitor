@@ -1,5 +1,53 @@
 [
   {
+    "id": "35474-20261120133323",
+    "inmateNumber": "35474",
+    "name": "STILES, SHELEAN MARIE",
+    "bookedAt": "2026-11-20T13:33:23",
+    "location": "E10",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MALICIOUS MISCHIEF-2",
+        "offenseDate": "2026-11-20T13:37:09",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-11-20T13:37:35",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEGREE",
+        "offenseDate": "2026-11-20T13:38:24",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T14:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "345719-20261120123129",
     "inmateNumber": "345719",
     "name": "JANSSEN, ANDREW LEONARD",
@@ -266,7 +314,7 @@
     "inmateNumber": "329834",
     "name": "PALM, FRANK BENJAMIN",
     "bookedAt": "2026-11-20T04:52:06",
-    "location": "INTAKE H1",
+    "location": "A11",
     "arrestingAgency": "WSP",
     "bondTotal": 4000,
     "charges": [
@@ -411,8 +459,8 @@
         "warrantNumber": "6A0422597",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -422,8 +470,8 @@
         "warrantNumber": "6A0422597",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 500
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2554,8 +2602,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-11-16T23:39:35",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-16T23:34:39",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438951",
@@ -2565,14 +2613,14 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-11-16T23:34:39",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-16T23:39:35",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438951",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -4332,7 +4380,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0314500",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
@@ -6977,10 +7025,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436066",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
@@ -6988,10 +7036,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0436067",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -9627,7 +9675,7 @@
     "inmateNumber": "281853",
     "name": "TESTER, CARTER MICHAEL",
     "bookedAt": "2026-11-02T10:54:56",
-    "location": "A21",
+    "location": "A20",
     "arrestingAgency": "CCSO",
     "bondTotal": 85000,
     "charges": [
