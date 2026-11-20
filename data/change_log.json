@@ -4,10 +4,21 @@
     "inmateNumber": "24782",
     "name": "KRAFT, JOHN PAUL",
     "bookedAt": "2026-11-19T19:48:49",
-    "location": "1-PENDING BOOKING",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-19T20:11:23",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "151000214",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
       {
         "description": "NVOL - WITH ID",
         "offenseDate": "2026-11-19T20:00:26",
@@ -78,7 +89,7 @@
     "inmateNumber": "26380",
     "name": "COX, JESSE CLARK",
     "bookedAt": "2026-11-19T17:29:09",
-    "location": "INTAKE H8",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
