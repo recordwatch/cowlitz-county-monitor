@@ -1,10 +1,47 @@
 [
   {
+    "id": "131677-20261119221736",
+    "inmateNumber": "131677",
+    "name": "CARRIKER, KAYLEE DIANE",
+    "bookedAt": "2026-11-19T22:17:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-19T22:21:19",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "4A0641865",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-19T22:23:32",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00995422",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "44247-20261119212524",
     "inmateNumber": "44247",
     "name": "GIBSON, PAUL EDWARD",
     "bookedAt": "2026-11-19T21:25:24",
-    "location": "1-PENDING BOOKING",
+    "location": "A26",
     "arrestingAgency": "KEPD",
     "bondTotal": 3000,
     "charges": [
@@ -52,7 +89,7 @@
     "inmateNumber": "38757",
     "name": "WILSON, DARRYL COLIN",
     "bookedAt": "2026-11-19T20:36:00",
-    "location": "INTAKE H8",
+    "location": "A11",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -249,13 +286,13 @@
     "name": "EDWARDS, BLAYNE FREDRICK",
     "bookedAt": "2026-11-19T14:00:37",
     "location": "B23",
-    "arrestingAgency": "DOC",
+    "arrestingAgency": "KEPD",
     "bondTotal": 2000,
     "charges": [
       {
         "description": "DOC HOLD",
         "offenseDate": "2026-11-19T14:04:25",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2510036608",
         "disposition": null,
@@ -266,7 +303,7 @@
       {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-11-19T21:23:51",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0444117",
         "disposition": null,
@@ -277,7 +314,7 @@
       {
         "description": "PROTECTION ORDER VIOLATION",
         "offenseDate": "2026-11-19T21:24:41",
-        "arrestingAgency": "DOC",
+        "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0444117",
         "disposition": null,
@@ -4377,7 +4414,7 @@
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
     "bookedAt": "2026-11-11T12:07:33",
-    "location": "E10",
+    "location": "E20",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
