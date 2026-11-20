@@ -1,5 +1,75 @@
 [
   {
+    "id": "345719-20261120123129",
+    "inmateNumber": "345719",
+    "name": "JANSSEN, ANDREW LEONARD",
+    "bookedAt": "2026-11-20T12:31:29",
+    "location": "A11",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-11-20T12:35:06",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-11-20T12:35:37",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-11-20T12:38:20",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-20T12:37:48",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-20T12:36:09",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T13:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "8121-20261120092257",
     "inmateNumber": "8121",
     "name": "GRAVES, ANDREW RONALD",
@@ -599,7 +669,7 @@
     "inmateNumber": "26380",
     "name": "COX, JESSE CLARK",
     "bookedAt": "2026-11-19T17:29:09",
-    "location": "C11",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -3060,7 +3130,7 @@
     "inmateNumber": "87942",
     "name": "SOTELO, JUAN ANDRES",
     "bookedAt": "2026-11-15T19:35:38",
-    "location": "C12",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
