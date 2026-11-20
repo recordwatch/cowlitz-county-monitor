@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T17:55:17",
+  "generatedAt": "2026-11-19T18:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 707,
-    "bookingsObserved": 541,
+    "bookingsTracked": 708,
+    "bookingsObserved": 542,
     "releasesObserved": 549,
-    "inCustody": 158,
-    "uniquePeople": 649
+    "inCustody": 159,
+    "uniquePeople": 650
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 9,
+      "booked": 10,
       "released": 16
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 224,
-      "pct": 13.6
+      "count": 225,
+      "pct": 13.7
     },
     {
       "name": "DWLS 3RD",
@@ -173,13 +173,13 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 112,
-      "pct": 6.8
+      "count": 114,
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
       "count": 111,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "DUI",
@@ -204,7 +204,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 37,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 274,
-      "pct": 39,
+      "count": 275,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 134,
-      "pct": 19.1,
+      "pct": 19,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 101,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Kelso Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 32,
-      "pct": 4.6,
+      "pct": 4.5,
       "label": "Washington State Patrol"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 497,
-      "pct": 30.3
+      "count": 500,
+      "pct": 30.4
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 491,
-      "pct": 29.9
+      "pct": 29.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 60,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -394,8 +394,8 @@
     },
     {
       "name": "B",
-      "count": 21,
-      "pct": 13.3
+      "count": 23,
+      "pct": 14.6
     },
     {
       "name": "C",
@@ -414,8 +414,8 @@
     },
     {
       "name": "F",
-      "count": 6,
-      "pct": 3.8
+      "count": 4,
+      "pct": 2.5
     },
     {
       "name": "G",
@@ -468,15 +468,15 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 21.5,
-    "currentLongestDaysHeld": 526
+    "currentMedianDaysHeld": 21.2,
+    "currentLongestDaysHeld": 526.1
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 43,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3960600
+    "totalBond": 3963600
   },
   "chargesPerBooking": 2.3
 }
