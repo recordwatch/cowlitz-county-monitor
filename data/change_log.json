@@ -1,10 +1,36 @@
 [
   {
+    "id": "40009-20261119184500",
+    "inmateNumber": "40009",
+    "name": "REYNA, JUANITA",
+    "bookedAt": "2026-11-19T18:45:00",
+    "location": "INTAKE H6",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-19T18:53:46",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "9Z1144136",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T19:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "26380-20261119172909",
     "inmateNumber": "26380",
     "name": "COX, JESSE CLARK",
     "bookedAt": "2026-11-19T17:29:09",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -52,7 +78,7 @@
     "inmateNumber": "56850",
     "name": "GARHART, JORDAN JACOB WALLACE",
     "bookedAt": "2026-11-19T17:11:41",
-    "location": "INTAKE H1",
+    "location": "C10",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
