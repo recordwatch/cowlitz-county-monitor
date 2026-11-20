@@ -283,7 +283,7 @@
   {
     "id": "43690-20261119140037",
     "inmateNumber": "43690",
-    "name": "EDWARDS, BLAYNE FREDRICK",
+    "name": "EDWARDS, BLAYNE FREDERICK",
     "bookedAt": "2026-11-19T14:00:37",
     "location": "B23",
     "arrestingAgency": "KEPD",
@@ -27178,7 +27178,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 100000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
