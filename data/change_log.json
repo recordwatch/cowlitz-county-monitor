@@ -491,7 +491,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "2410054108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1455,7 +1455,7 @@
     "inmateNumber": "11991",
     "name": "CLARK, JEREMY ALEN",
     "bookedAt": "2026-11-18T00:07:53",
-    "location": "D23",
+    "location": "A14",
     "arrestingAgency": "LVPD",
     "bondTotal": 8500,
     "charges": [
