@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T17:35:16",
+  "generatedAt": "2026-11-19T17:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 706,
-    "bookingsObserved": 540,
+    "bookingsTracked": 707,
+    "bookingsObserved": 541,
     "releasesObserved": 549,
-    "inCustody": 157,
-    "uniquePeople": 648
+    "inCustody": 158,
+    "uniquePeople": 649
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 8,
+      "booked": 9,
       "released": 16
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 224,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 110,
-      "pct": 6.7
+      "count": 111,
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 41,
-      "pct": 5.8,
+      "count": 42,
+      "pct": 6,
       "label": "Dept. of Corrections"
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 91,
-      "pct": 5.5
+      "count": 92,
+      "pct": 5.6
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 29,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "name": "B",
       "count": 21,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "C",
@@ -405,7 +405,7 @@
     {
       "name": "D",
       "count": 10,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 31,
-      "pct": 19.7
+      "pct": 19.6
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.9
+      "count": 4,
+      "pct": 2.5
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 21.9,
+    "currentMedianDaysHeld": 21.5,
     "currentLongestDaysHeld": 526
   },
   "bond": {
     "withBond": 115,
-    "noBond": 42,
+    "noBond": 43,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3960600
