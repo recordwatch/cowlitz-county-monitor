@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T19:55:18",
+  "generatedAt": "2026-11-19T20:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 709,
-    "bookingsObserved": 543,
+    "bookingsTracked": 710,
+    "bookingsObserved": 544,
     "releasesObserved": 552,
-    "inCustody": 157,
-    "uniquePeople": 651
+    "inCustody": 158,
+    "uniquePeople": 652
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 11,
+      "booked": 12,
       "released": 19
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 225,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 98,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -202,13 +202,13 @@
       "pct": 2.7
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
+      "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 37,
       "pct": 2.2
     },
     {
-      "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 36,
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 37,
       "pct": 2.2
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 275,
-      "pct": 39,
+      "count": 276,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 42,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 196,
-      "pct": 11.9
+      "count": 199,
+      "pct": 12.1
     },
     {
       "name": "DOC COURT",
@@ -363,7 +363,7 @@
     {
       "name": "DRUG COURT",
       "count": 14,
-      "pct": 0.9
+      "pct": 0.8
     },
     {
       "name": "MENTAL HEALTH COURT",
@@ -468,12 +468,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 22,
+    "currentMedianDaysHeld": 21.6,
     "currentLongestDaysHeld": 526.1
   },
   "bond": {
     "withBond": 114,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3886350
