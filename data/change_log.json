@@ -4,7 +4,7 @@
     "inmateNumber": "345719",
     "name": "JANSSEN, ANDREW LEONARD",
     "bookedAt": "2026-11-20T12:31:29",
-    "location": "A11",
+    "location": "A16",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [
@@ -335,10 +335,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279353",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -501,8 +501,19 @@
     "bookedAt": "2026-11-19T21:25:24",
     "location": "A26",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3000,
+    "bondTotal": 4000,
     "charges": [
+      {
+        "description": "HARASSMENT",
+        "offenseDate": "2026-11-20T13:15:32",
+        "arrestingAgency": "KEPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0250259",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "CRIM TRESPASS 2ND",
         "offenseDate": "2026-11-19T21:32:47",
@@ -653,10 +664,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "9Z1144136",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -669,7 +680,7 @@
     "inmateNumber": "26380",
     "name": "COX, JESSE CLARK",
     "bookedAt": "2026-11-19T17:29:09",
-    "location": "A10",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -801,10 +812,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427030",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "MAKE FALSE STATEMENT",
@@ -812,10 +823,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0427030",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -4324,7 +4335,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
