@@ -66,6 +66,17 @@
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "MURDER 1ST",
+        "offenseDate": "2026-11-20T10:25:32",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "141012834",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -78,7 +89,7 @@
     "inmateNumber": "39650",
     "name": "JOHNSTON, JAREMY NORMAN",
     "bookedAt": "2026-11-20T09:20:07",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -94,11 +105,55 @@
         "bondAmount": null
       },
       {
+        "description": "ROBBERY 2ND DEGREE",
+        "offenseDate": "2026-11-20T10:32:13",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510043908",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-20T10:35:01",
+        "arrestingAgency": "CCCD",
+        "court": "DOC COURT",
+        "warrantNumber": "2610022508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-20T10:24:44",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610022508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "WITNESS TAMPERING",
         "offenseDate": "2026-11-20T09:51:45",
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610022508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "STOLEN PROPERTY TRAFFICKING 1 DEGREE",
+        "offenseDate": "2026-11-20T10:27:52",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610037708",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -131,9 +186,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T06:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T11:15:21",
     "baseline": false
   },
   {
@@ -7810,7 +7865,7 @@
         "arrestingAgency": "LVPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "5A0891896",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "CRPD",
         "bondType": "Secured",
         "bondAmount": null

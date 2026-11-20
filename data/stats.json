@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T10:55:18",
+  "generatedAt": "2026-11-20T11:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 722,
     "bookingsObserved": 556,
-    "releasesObserved": 565,
-    "inCustody": 157,
+    "releasesObserved": 566,
+    "inCustody": 156,
     "uniquePeople": 662
   },
   "bookingsByDay": [
@@ -157,19 +157,19 @@
     {
       "date": "2026-11-20",
       "booked": 7,
-      "released": 11
+      "released": 12
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 226,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
       "count": 142,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 114,
+      "count": 115,
       "pct": 6.8
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 51,
-      "pct": 3
+      "count": 52,
+      "pct": 3.1
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -328,12 +328,12 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 507,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 498,
-      "pct": 29.7
+      "count": 502,
+      "pct": 29.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -343,11 +343,11 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 204,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "DOC COURT",
-      "count": 95,
+      "count": 96,
       "pct": 5.7
     },
     {
@@ -389,8 +389,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 27,
-      "pct": 17.3
+      "count": 28,
+      "pct": 17.9
     },
     {
       "name": "B",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3.2
+      "count": 4,
+      "pct": 2.6
     },
     {
       "name": "WSH",
@@ -439,13 +439,13 @@
     }
   ],
   "stay": {
-    "releasedCount": 565,
+    "releasedCount": 566,
     "medianDays": 2,
     "meanDays": 14,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 202
+        "count": 203
       },
       {
         "label": "1–3 days",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 20.8,
+    "currentMedianDaysHeld": 21.2,
     "currentLongestDaysHeld": 526.8
   },
   "bond": {
-    "withBond": 116,
+    "withBond": 115,
     "noBond": 41,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3791600
+    "totalBond": 3790600
   },
   "chargesPerBooking": 2.3
 }
