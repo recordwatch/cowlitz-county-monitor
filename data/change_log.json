@@ -1,10 +1,47 @@
 [
   {
+    "id": "38757-20261119203600",
+    "inmateNumber": "38757",
+    "name": "WILSON, DARRYL COLIN",
+    "bookedAt": "2026-11-19T20:36:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-19T20:43:25",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0348208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-19T20:41:40",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0375200",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-19T21:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "24782-20261119194849",
     "inmateNumber": "24782",
     "name": "KRAFT, JOHN PAUL",
     "bookedAt": "2026-11-19T19:48:49",
-    "location": "C11",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
