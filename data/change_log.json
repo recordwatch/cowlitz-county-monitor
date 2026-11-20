@@ -198,7 +198,7 @@
     "bookedAt": "2026-11-20T04:52:06",
     "location": "INTAKE H1",
     "arrestingAgency": "WSP",
-    "bondTotal": 7500,
+    "bondTotal": 4000,
     "charges": [
       {
         "description": "DUI",
@@ -206,10 +206,10 @@
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3A0731266",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -231,7 +231,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 3000
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -241,8 +241,8 @@
         "warrantNumber": "T00995423",
         "disposition": null,
         "billingAgency": "DIST",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -479,7 +479,7 @@
     "bookedAt": "2026-11-19T20:36:00",
     "location": "A11",
     "arrestingAgency": "CCSO",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "DWLS 3RD",
@@ -490,7 +490,7 @@
         "disposition": null,
         "billingAgency": "DIST",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -838,7 +838,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0315295",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "DIST",
         "bondType": "None",
         "bondAmount": null
