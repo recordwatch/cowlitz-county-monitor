@@ -4,10 +4,21 @@
     "inmateNumber": "189856",
     "name": "KINSEY, MELANIE ANN MARIE",
     "bookedAt": "2026-11-20T14:54:54",
-    "location": "1-PENDING BOOKING",
+    "location": "E13",
     "arrestingAgency": "KAPD",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-20T15:06:09",
+        "arrestingAgency": "KAPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0329151",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "NVOL - WITHOUT ID",
         "offenseDate": "2026-11-20T15:03:34",
@@ -17,7 +28,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -12410,6 +12421,17 @@
         "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "offenseDate": "2026-11-20T15:17:24",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "ICOTS",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
