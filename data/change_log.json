@@ -1,5 +1,31 @@
 [
   {
+    "id": "302994-20261120012916",
+    "inmateNumber": "302994",
+    "name": "KANNAS, JACOB CARL",
+    "bookedAt": "2026-11-20T01:29:16",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-20T01:36:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0279353",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T02:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "131218-20261120005026",
     "inmateNumber": "131218",
     "name": "BROTEN, SPENCER ETHAN",
