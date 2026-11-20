@@ -4,10 +4,33 @@
     "inmateNumber": "8121",
     "name": "GRAVES, ANDREW RONALD",
     "bookedAt": "2026-11-20T09:22:57",
-    "location": "1-PENDING BOOKING",
+    "location": "A21",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-20T09:49:38",
+        "arrestingAgency": "CCCD",
+        "court": "DOC COURT",
+        "warrantNumber": "2010141208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "RAPE OF A CHILD 1",
+        "offenseDate": "2026-11-20T09:51:32",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2010141208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T09:55:18",
     "releasedAt": null,
@@ -37,10 +60,21 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "DOC HOLD",
+        "description": "FELONY HARASSMENT",
         "offenseDate": "2026-11-20T09:33:03",
         "arrestingAgency": "CCCD",
-        "court": "DOC COURT",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2510043808",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "WITNESS TAMPERING",
+        "offenseDate": "2026-11-20T09:51:45",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610022508",
         "disposition": null,
         "billingAgency": null,
@@ -333,17 +367,6 @@
         "bondAmount": 1000
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-11-19T21:34:11",
-        "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6A0430020",
-        "disposition": null,
-        "billingAgency": "KEPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
-      {
         "description": "MAKE FALSE STATEMENT",
         "offenseDate": "2026-11-19T21:33:28",
         "arrestingAgency": "KEPD",
@@ -352,7 +375,18 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-19T21:34:11",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0430020",
+        "disposition": null,
+        "billingAgency": "KEPD",
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -585,7 +619,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "PROTECTION ORDER VIOLATION",
@@ -595,8 +629,8 @@
         "warrantNumber": "6A0444117",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1169,9 +1203,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-18T16:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T10:35:20",
     "baseline": false
   },
   {
