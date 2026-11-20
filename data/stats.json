@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-20T05:35:19",
+  "generatedAt": "2026-11-20T05:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 717,
-    "bookingsObserved": 551,
-    "releasesObserved": 555,
-    "inCustody": 162,
-    "uniquePeople": 658
+    "bookingsTracked": 718,
+    "bookingsObserved": 552,
+    "releasesObserved": 558,
+    "inCustody": 160,
+    "uniquePeople": 659
   },
   "bookingsByDay": [
     {
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 2,
-      "released": 1
+      "booked": 3,
+      "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 226,
-      "pct": 13.6
+      "pct": 13.5
     },
     {
       "name": "DWLS 3RD",
-      "count": 141,
+      "count": 142,
       "pct": 8.5
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 116,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DOC HOLD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 99,
-      "pct": 5.9
+      "count": 100,
+      "pct": 6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -203,8 +203,8 @@
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 37,
-      "pct": 2.2
+      "count": 38,
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "ASSAULT 3RD",
+      "name": "DWLS 2ND",
       "count": 17,
       "pct": 1
     }
@@ -290,13 +290,13 @@
     {
       "name": "DOC",
       "count": 41,
-      "pct": 5.8,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
-      "count": 33,
-      "pct": 4.6,
+      "count": 34,
+      "pct": 4.8,
       "label": "Washington State Patrol"
     },
     {
@@ -327,18 +327,18 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 506,
+      "count": 507,
       "pct": 30.4
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 494,
-      "pct": 29.7
+      "pct": 29.6
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 215,
-      "pct": 12.9
+      "count": 218,
+      "pct": 13.1
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 29,
-      "pct": 17.9
+      "count": 28,
+      "pct": 17.5
     },
     {
       "name": "B",
-      "count": 22,
-      "pct": 13.6
+      "count": 21,
+      "pct": 13.1
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 13
+      "pct": 13.1
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 6.8
+      "pct": 6.9
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 13.6
+      "count": 21,
+      "pct": 13.1
     },
     {
       "name": "F",
@@ -420,26 +420,26 @@
     {
       "name": "G",
       "count": 31,
-      "pct": 19.1
+      "pct": 19.4
     },
     {
       "name": "H",
       "count": 6,
-      "pct": 3.7
+      "pct": 3.8
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.5
+      "count": 5,
+      "pct": 3.1
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.5
     }
   ],
   "stay": {
-    "releasedCount": 555,
+    "releasedCount": 558,
     "medianDays": 2,
     "meanDays": 13.7,
     "buckets": [
@@ -453,11 +453,11 @@
       },
       {
         "label": "3–7 days",
-        "count": 45
+        "count": 46
       },
       {
         "label": "1–4 weeks",
-        "count": 115
+        "count": 117
       },
       {
         "label": "1–3 months",
@@ -468,15 +468,15 @@
         "count": 18
       }
     ],
-    "currentMedianDaysHeld": 20.3,
+    "currentMedianDaysHeld": 21,
     "currentLongestDaysHeld": 526.5
   },
   "bond": {
-    "withBond": 118,
+    "withBond": 116,
     "noBond": 44,
-    "medianBond": 3750,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3797850
+    "totalBond": 3802600
   },
   "chargesPerBooking": 2.3
 }

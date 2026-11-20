@@ -1,5 +1,64 @@
 [
   {
+    "id": "329834-20261120045206",
+    "inmateNumber": "329834",
+    "name": "PALM, FRANK BENJAMIN",
+    "bookedAt": "2026-11-20T04:52:06",
+    "location": "INTAKE H1",
+    "arrestingAgency": "WSP",
+    "bondTotal": 7500,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-20T04:58:04",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "3A0731266",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-20T04:59:41",
+        "arrestingAgency": "WSP",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "4A0494654",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-20T05:00:42",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00995423",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-20T05:01:35",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00995423",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T05:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "302994-20261120012916",
     "inmateNumber": "302994",
     "name": "KANNAS, JACOB CARL",
@@ -2562,9 +2621,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-16T12:35:51",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T05:55:17",
     "baseline": false
   },
   {
@@ -3969,9 +4028,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-12T09:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T05:55:17",
     "baseline": false
   },
   {
@@ -8282,9 +8341,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-04T02:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T05:55:17",
     "baseline": false
   },
   {
