@@ -100,7 +100,7 @@
     "inmateNumber": "40009",
     "name": "REYNA, JUANITA",
     "bookedAt": "2026-11-19T18:45:00",
-    "location": "INTAKE H6",
+    "location": "E20",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -909,7 +909,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
