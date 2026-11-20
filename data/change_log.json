@@ -1,5 +1,19 @@
 [
   {
+    "id": "4646-20261120141614",
+    "inmateNumber": "4646",
+    "name": "HOCKETT, JONATHAN CLARENCE",
+    "bookedAt": "2026-11-20T14:16:14",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T14:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "35474-20261120133323",
     "inmateNumber": "35474",
     "name": "STILES, SHELEAN MARIE",
@@ -766,9 +780,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T18:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T14:55:19",
     "baseline": false
   },
   {
