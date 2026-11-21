@@ -1,5 +1,19 @@
 [
   {
+    "id": "32626-20261121062155",
+    "inmateNumber": "32626",
+    "name": "JOHNSON, DENNIS KEVIN",
+    "bookedAt": "2026-11-21T06:21:55",
+    "location": "INTAKE H8",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T06:55:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "230998-20261121050118",
     "inmateNumber": "230998",
     "name": "NIETO VERDE, DERRICK AIMAR",
