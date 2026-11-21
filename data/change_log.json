@@ -4,7 +4,7 @@
     "inmateNumber": "3191",
     "name": "SMITH, AMANDA DELIGHT",
     "bookedAt": "2026-11-20T18:55:20",
-    "location": "1-PENDING BOOKING",
+    "location": "E12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -159,7 +159,7 @@
     "inmateNumber": "146301",
     "name": "MCGEE, JOSEPH RONALD",
     "bookedAt": "2026-11-20T17:01:22",
-    "location": "INTAKE H6",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
