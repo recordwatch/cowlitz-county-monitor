@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:55:18",
+  "generatedAt": "2026-11-21T00:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 736,
@@ -9,11 +9,6 @@
     "uniquePeople": 672
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-22",
-      "booked": 11,
-      "released": 10
-    },
     {
       "date": "2026-10-23",
       "booked": 12,
@@ -158,6 +153,11 @@
       "date": "2026-11-20",
       "booked": 21,
       "released": 20
+    },
+    {
+      "date": "2026-11-21",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 19.4
+      "pct": 19.1
     },
     {
       "name": "B",
       "count": 23,
-      "pct": 14.4
+      "pct": 14.2
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "E",
       "count": 21,
-      "pct": 13.1
+      "pct": 13
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 18.1
+      "pct": 17.9
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.9
+      "count": 5,
+      "pct": 3.1
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.5
+      "pct": 7.4
     }
   ],
   "stay": {
