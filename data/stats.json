@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T09:15:21",
+  "generatedAt": "2026-11-21T09:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 742,
-    "bookingsObserved": 576,
+    "bookingsTracked": 743,
+    "bookingsObserved": 577,
     "releasesObserved": 576,
-    "inCustody": 166,
-    "uniquePeople": 678
+    "inCustody": 167,
+    "uniquePeople": 679
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 6,
+      "booked": 7,
       "released": 2
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 287,
-      "pct": 38.9,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 108,
-      "pct": 14.6,
+      "count": 109,
+      "pct": 14.7,
       "label": "Kelso Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.5,
+    "currentMedianDaysHeld": 17.1,
     "currentLongestDaysHeld": 527.7
   },
   "bond": {
     "withBond": 119,
-    "noBond": 47,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3789600

@@ -1,5 +1,19 @@
 [
   {
+    "id": "74292-20261121085708",
+    "inmateNumber": "74292",
+    "name": "JANSSEN, CONNI LIZA",
+    "bookedAt": "2026-11-21T08:57:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T09:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361606-20261121064334",
     "inmateNumber": "361606",
     "name": "SPLAINE, JUSTIN TYLOR",
@@ -69,7 +83,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
