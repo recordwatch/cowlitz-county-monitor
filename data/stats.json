@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:55:17",
+  "generatedAt": "2026-11-21T05:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 739,
@@ -202,12 +202,12 @@
       "pct": 2.6
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 38,
-      "pct": 2.2
+      "name": "OPER VEH W/O IGN INTERLOCK",
+      "count": 39,
+      "pct": 2.3
     },
     {
-      "name": "OPER VEH W/O IGN INTERLOCK",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 38,
       "pct": 2.2
     },
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 21,
-      "pct": 2.9,
+      "count": 20,
+      "pct": 2.7,
       "label": "Woodland Police"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
       "name": "KAPD",
-      "count": 6,
-      "pct": 0.8,
+      "count": 7,
+      "pct": 1,
       "label": "KAPD"
     },
     {
@@ -338,7 +338,7 @@
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 219,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -371,6 +371,11 @@
       "pct": 0.8
     },
     {
+      "name": "KALAMA MUNICIPAL COURT",
+      "count": 12,
+      "pct": 0.7
+    },
+    {
       "name": "MENTAL HEALTH COURT",
       "count": 12,
       "pct": 0.7
@@ -379,28 +384,23 @@
       "name": "OTHER - OUT OF COUNTY",
       "count": 11,
       "pct": 0.6
-    },
-    {
-      "name": "KALAMA MUNICIPAL COURT",
-      "count": 10,
-      "pct": 0.6
     }
   ],
   "housingUnits": [
     {
       "name": "A",
       "count": 31,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 22,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 17.7
+      "pct": 17.6
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 6,
+      "pct": 3.6
     },
     {
       "name": "WSH",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 527.5
   },
   "bond": {
-    "withBond": 116,
-    "noBond": 49,
+    "withBond": 117,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3785600
+    "totalBond": 3787600
   },
   "chargesPerBooking": 2.3
 }
