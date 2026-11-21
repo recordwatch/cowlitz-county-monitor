@@ -4,10 +4,22 @@
     "inmateNumber": "230998",
     "name": "NIETO VERDE, DERRICK AIMAR",
     "bookedAt": "2026-11-21T05:01:18",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
-    "bondTotal": null,
-    "charges": [],
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-21T05:06:54",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0441844",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T05:35:19",
     "releasedAt": null,
@@ -743,7 +755,7 @@
     "inmateNumber": "39650",
     "name": "JOHNSTON, JAREMY NORMAN",
     "bookedAt": "2026-11-20T09:20:07",
-    "location": "B12",
+    "location": "B11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [

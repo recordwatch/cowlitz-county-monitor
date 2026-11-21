@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:35:19",
+  "generatedAt": "2026-11-21T05:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 740,
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 52,
-      "pct": 3
+      "count": 53,
+      "pct": 3.1
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 106,
-      "pct": 14.4,
+      "count": 107,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 43,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "Dept. of Corrections"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 520,
-      "pct": 30.3
+      "pct": 30.2
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
@@ -342,7 +342,7 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 209,
+      "count": 210,
       "pct": 12.2
     },
     {
@@ -390,7 +390,7 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 18.8
+      "pct": 18.7
     },
     {
       "name": "B",
@@ -405,7 +405,7 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "E",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.5
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.6
+      "count": 7,
+      "pct": 4.2
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.3
+      "pct": 7.2
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 527.5
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 49,
+    "withBond": 118,
+    "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3787600
+    "totalBond": 3788600
   },
   "chargesPerBooking": 2.3
 }
