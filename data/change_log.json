@@ -95,7 +95,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "NVOL - WITHOUT ID",
@@ -106,7 +106,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -15138,7 +15138,7 @@
     "inmateNumber": "13674",
     "name": "SPIRES, ANGELA MARIE",
     "bookedAt": "2026-10-21T14:52:40",
-    "location": "E24",
+    "location": "E13",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
