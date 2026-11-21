@@ -4,7 +4,7 @@
     "inmateNumber": "182564",
     "name": "ALHASHIMI, SELMA MAE",
     "bookedAt": "2026-11-20T21:54:29",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -72,7 +72,7 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "VEHICLE PROWLING 2ND DEGREE",
+        "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-11-20T19:13:13",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
@@ -84,7 +84,7 @@
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
-        "offenseDate": "2026-11-20T19:15:58",
+        "offenseDate": "2026-11-20T19:14:44",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -127,8 +127,8 @@
         "bondAmount": null
       },
       {
-        "description": "THEFT 2ND DEGREE > $750",
-        "offenseDate": "2026-11-20T19:14:44",
+        "description": "VEHICLE PROWLING 2ND DEG ATTEMPT",
+        "offenseDate": "2026-11-20T19:17:32",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
@@ -138,8 +138,8 @@
         "bondAmount": null
       },
       {
-        "description": "VEHICLE PROWLING 2ND DEG ATTEMPT",
-        "offenseDate": "2026-11-20T19:17:32",
+        "description": "VEHICLE PROWLING 2ND DEGREE",
+        "offenseDate": "2026-11-20T19:15:58",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
