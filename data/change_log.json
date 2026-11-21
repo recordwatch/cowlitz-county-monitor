@@ -249,7 +249,7 @@
     "inmateNumber": "302823",
     "name": "VANDECOEVERING, NICHOLAS SCOTT",
     "bookedAt": "2026-11-21T03:28:49",
-    "location": "INTAKE H3",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -288,7 +288,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2365,7 +2365,7 @@
     "inmateNumber": "147293",
     "name": "ORTEGA HERNANDEZ, LUIS ANGEL",
     "bookedAt": "2026-11-18T07:49:56",
-    "location": "B12",
+    "location": "B10",
     "arrestingAgency": "CCSO",
     "bondTotal": 20000,
     "charges": [
@@ -3264,7 +3264,7 @@
     "inmateNumber": "9166",
     "name": "COOK, JASON AARON",
     "bookedAt": "2026-11-17T00:11:07",
-    "location": "C13",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -3290,7 +3290,7 @@
     "inmateNumber": "37041",
     "name": "FANCHER, RYAN CHRISTOPHER",
     "bookedAt": "2026-11-16T23:31:35",
-    "location": "C11",
+    "location": "A12",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
