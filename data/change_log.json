@@ -1,5 +1,31 @@
 [
   {
+    "id": "361606-20261121064334",
+    "inmateNumber": "361606",
+    "name": "SPLAINE, JUSTIN TYLOR",
+    "bookedAt": "2026-11-21T06:43:34",
+    "location": "INTAKE H6",
+    "arrestingAgency": "WDPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-21T06:50:10",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0097314",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T07:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "32626-20261121062155",
     "inmateNumber": "32626",
     "name": "JOHNSON, DENNIS KEVIN",
