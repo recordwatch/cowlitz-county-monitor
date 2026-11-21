@@ -5,9 +5,32 @@
     "name": "SMITH, AMANDA DELIGHT",
     "bookedAt": "2026-11-20T18:55:20",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-20T18:55:40",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0926502",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-11-20T18:55:37",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "5A0957484",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T19:35:17",
     "releasedAt": null,
@@ -18,7 +41,7 @@
     "inmateNumber": "356590",
     "name": "YANEZ, DAVID FRANCISCO",
     "bookedAt": "2026-11-20T18:55:08",
-    "location": "1-PENDING BOOKING",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -110,7 +133,7 @@
     "inmateNumber": "71515",
     "name": "COTHREN, CIARA CATHY",
     "bookedAt": "2026-11-20T18:29:44",
-    "location": "1-PENDING BOOKING",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -162,7 +185,7 @@
     "inmateNumber": "125470",
     "name": "MCCABE, JAMES CHRISTOPHER",
     "bookedAt": "2026-11-20T17:01:05",
-    "location": "INTAKE H6",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -6256,9 +6279,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-09T22:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T20:55:18",
     "baseline": false
   },
   {
