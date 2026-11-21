@@ -4,7 +4,7 @@
     "inmateNumber": "246402",
     "name": "SHEPHERD, HAYDEN KEITH",
     "bookedAt": "2026-11-21T10:13:02",
-    "location": "1-PENDING BOOKING",
+    "location": "B25",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -239,9 +239,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T04:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-21T12:55:15",
     "baseline": false
   },
   {
@@ -3153,7 +3153,7 @@
     "inmateNumber": "361907",
     "name": "GARCIA GARCIA, DARIO ALONZO",
     "bookedAt": "2026-11-17T02:36:58",
-    "location": "G-G39",
+    "location": "G-G34",
     "arrestingAgency": "CCSO",
     "bondTotal": 25000,
     "charges": [
