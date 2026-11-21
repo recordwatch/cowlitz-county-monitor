@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T10:35:16",
+  "generatedAt": "2026-11-21T10:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 743,
-    "bookingsObserved": 577,
+    "bookingsTracked": 746,
+    "bookingsObserved": 580,
     "releasesObserved": 577,
-    "inCustody": 166,
-    "uniquePeople": 679
+    "inCustody": 169,
+    "uniquePeople": 682
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 7,
+      "booked": 10,
       "released": 3
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 144,
-      "pct": 8.4
+      "count": 146,
+      "pct": 8.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -183,7 +183,7 @@
     },
     {
       "name": "DUI",
-      "count": 101,
+      "count": 102,
       "pct": 5.9
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 287,
-      "pct": 38.8,
+      "pct": 38.7,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 138,
-      "pct": 18.7,
+      "pct": 18.6,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 78,
-      "pct": 10.6,
+      "count": 80,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -318,32 +318,32 @@
       "label": "KAPD"
     },
     {
-      "name": "DFW",
+      "name": "911",
       "count": 2,
       "pct": 0.3,
-      "label": "DFW"
+      "label": "911"
     }
   ],
   "courts": [
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 520,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 515,
+      "count": 516,
       "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 219,
+      "count": 220,
       "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 211,
-      "pct": 12.2
+      "count": 212,
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.5,
-    "currentLongestDaysHeld": 527.7
+    "currentMedianDaysHeld": 16.9,
+    "currentLongestDaysHeld": 527.8
   },
   "bond": {
     "withBond": 118,
-    "noBond": 48,
+    "noBond": 51,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3788600

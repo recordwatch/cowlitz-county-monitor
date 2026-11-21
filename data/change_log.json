@@ -1,5 +1,83 @@
 [
   {
+    "id": "246402-20261121101302",
+    "inmateNumber": "246402",
+    "name": "SHEPHERD, HAYDEN KEITH",
+    "bookedAt": "2026-11-21T10:13:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T10:15:34",
+        "arrestingAgency": "CCCD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "4A0220475",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "175062-20261121101245",
+    "inmateNumber": "175062",
+    "name": "DAVIS, JAMES EDWIN LEE",
+    "bookedAt": "2026-11-21T10:12:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-21T10:15:14",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "PC0002146",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "36946-20261121100000",
+    "inmateNumber": "36946",
+    "name": "HUMBLE, RALEIGH ROBERT",
+    "bookedAt": "2026-11-21T10:00:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "911",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T10:24:16",
+        "arrestingAgency": "911",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0799225",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "74292-20261121085708",
     "inmateNumber": "74292",
     "name": "JANSSEN, CONNI LIZA",
