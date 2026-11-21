@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T04:15:17",
+  "generatedAt": "2026-11-21T04:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 737,
-    "bookingsObserved": 571,
+    "bookingsTracked": 738,
+    "bookingsObserved": 572,
     "releasesObserved": 574,
-    "inCustody": 163,
-    "uniquePeople": 673
+    "inCustody": 164,
+    "uniquePeople": 674
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 286,
-      "pct": 39,
+      "count": 287,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "KEPD",
       "count": 106,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Kelso Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 513,
+      "count": 514,
       "pct": 29.9
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 31,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "E",
       "count": 22,
-      "pct": 13.5
+      "pct": 13.4
     },
     {
       "name": "F",
@@ -420,22 +420,22 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 17.8
+      "pct": 17.7
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.5
+      "count": 5,
+      "pct": 3
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.4
+      "pct": 7.3
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 18.7,
+    "currentMedianDaysHeld": 18.2,
     "currentLongestDaysHeld": 527.5
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 48,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3784600
+    "totalBond": 3785600
   },
   "chargesPerBooking": 2.3
 }
