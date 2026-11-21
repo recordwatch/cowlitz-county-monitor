@@ -56,7 +56,7 @@
     "inmateNumber": "36946",
     "name": "HUMBLE, RALEIGH ROBERT",
     "bookedAt": "2026-11-21T10:00:00",
-    "location": "1-PENDING BOOKING",
+    "location": "B23",
     "arrestingAgency": "911",
     "bondTotal": null,
     "charges": [
@@ -275,7 +275,7 @@
     "inmateNumber": "362031",
     "name": "ORDAZ GUZMAN, HECTOR",
     "bookedAt": "2026-11-20T23:21:13",
-    "location": "INTAKE H3",
+    "location": "A10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
