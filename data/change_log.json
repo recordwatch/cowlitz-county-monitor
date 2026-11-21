@@ -1,10 +1,36 @@
 [
   {
+    "id": "182564-20261120215429",
+    "inmateNumber": "182564",
+    "name": "ALHASHIMI, SELMA MAE",
+    "bookedAt": "2026-11-20T21:54:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "POSS W/INTENT",
+        "offenseDate": "2026-11-20T21:59:19",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T22:35:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "3191-20261120185520",
     "inmateNumber": "3191",
     "name": "SMITH, AMANDA DELIGHT",
     "bookedAt": "2026-11-20T18:55:20",
-    "location": "E12",
+    "location": "E10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -562,7 +588,7 @@
     "inmateNumber": "39650",
     "name": "JOHNSTON, JAREMY NORMAN",
     "bookedAt": "2026-11-20T09:20:07",
-    "location": "B10",
+    "location": "B12",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -5286,7 +5312,7 @@
     "inmateNumber": "324708",
     "name": "HAMAR, ASHLEY ANN",
     "bookedAt": "2026-11-11T12:07:33",
-    "location": "E20",
+    "location": "D25",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
