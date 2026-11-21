@@ -1,5 +1,33 @@
 [
   {
+    "id": "3191-20261120185520",
+    "inmateNumber": "3191",
+    "name": "SMITH, AMANDA DELIGHT",
+    "bookedAt": "2026-11-20T18:55:20",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "356590-20261120185508",
+    "inmateNumber": "356590",
+    "name": "YANEZ, DAVID FRANCISCO",
+    "bookedAt": "2026-11-20T18:55:08",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "71515-20261120182944",
     "inmateNumber": "71515",
     "name": "COTHREN, CIARA CATHY",
@@ -123,9 +151,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T15:35:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T19:35:17",
     "baseline": false
   },
   {
@@ -1298,9 +1326,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T08:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-20T19:35:17",
     "baseline": false
   },
   {
