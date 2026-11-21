@@ -1,5 +1,19 @@
 [
   {
+    "id": "71515-20261120182944",
+    "inmateNumber": "71515",
+    "name": "COTHREN, CIARA CATHY",
+    "bookedAt": "2026-11-20T18:29:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T19:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "146301-20261120170122",
     "inmateNumber": "146301",
     "name": "MCGEE, JOSEPH RONALD",
@@ -1270,7 +1284,7 @@
         "disposition": null,
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 7500
+        "bondAmount": null
       },
       {
         "description": "CRIM TRESPASS 2ND",
@@ -1281,7 +1295,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
