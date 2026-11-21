@@ -30,7 +30,7 @@
     "inmateNumber": "150412",
     "name": "TOLER, GLEN EUGENE",
     "bookedAt": "2026-11-20T22:52:17",
-    "location": "INTAKE H1",
+    "location": "B10",
     "arrestingAgency": "WSP",
     "bondTotal": 500,
     "charges": [
@@ -56,7 +56,7 @@
     "inmateNumber": "182564",
     "name": "ALHASHIMI, SELMA MAE",
     "bookedAt": "2026-11-20T21:54:29",
-    "location": "INTAKE H2",
+    "location": "E14",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
