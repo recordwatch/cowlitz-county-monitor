@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T19:35:17",
+  "generatedAt": "2026-11-20T19:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 733,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 228,
-      "pct": 13.4
+      "pct": 13.3
     },
     {
       "name": "DWLS 3RD",
@@ -179,7 +179,7 @@
     {
       "name": "DOC HOLD",
       "count": 117,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "DUI",
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 52,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -237,14 +237,14 @@
       "pct": 1.2
     },
     {
-      "name": "POSS W/INTENT",
+      "name": "THEFT 2ND DEGREE > $750",
       "count": 20,
       "pct": 1.2
     },
     {
-      "name": "THEFT 2ND DEGREE > $750",
-      "count": 19,
-      "pct": 1.1
+      "name": "POSS W/INTENT",
+      "count": 20,
+      "pct": 1.2
     },
     {
       "name": "RECKLESS DRIVING",
@@ -326,29 +326,29 @@
   ],
   "courts": [
     {
-      "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 510,
-      "pct": 30
+      "name": "COWLITZ COUNTY SUPERIOR COURT",
+      "count": 518,
+      "pct": 30.3
     },
     {
-      "name": "COWLITZ COUNTY SUPERIOR COURT",
+      "name": "LONGVIEW MUNICIPAL COURT",
       "count": 510,
-      "pct": 30
+      "pct": 29.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 218,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 209,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "DOC COURT",
       "count": 98,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",

@@ -21,7 +21,85 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "VEHICLE PROWLING 2ND DEGREE",
+        "offenseDate": "2026-11-20T19:13:13",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "MALICIOUS MISCHIEF-2",
+        "offenseDate": "2026-11-20T19:15:58",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS STL PROP 2/>250",
+        "offenseDate": "2026-11-20T19:20:17",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-11-20T19:18:42",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "STOLEN PROPERTY TRAFFICKING 1 DEGREE",
+        "offenseDate": "2026-11-20T19:21:23",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 2ND DEGREE > $750",
+        "offenseDate": "2026-11-20T19:14:44",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "VEHICLE PROWLING 2ND DEG ATTEMPT",
+        "offenseDate": "2026-11-20T19:17:32",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T19:35:17",
     "releasedAt": null,
@@ -35,7 +113,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-11-20T19:16:02",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-20T19:15:22",
     "releasedAt": null,
