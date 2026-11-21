@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T15:55:19",
+  "generatedAt": "2026-11-20T16:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 727,
-    "bookingsObserved": 561,
+    "bookingsTracked": 728,
+    "bookingsObserved": 562,
     "releasesObserved": 570,
-    "inCustody": 157,
+    "inCustody": 158,
     "uniquePeople": 666
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 12,
+      "booked": 13,
       "released": 16
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 116,
-      "pct": 6.8
+      "count": 117,
+      "pct": 6.9
     },
     {
       "name": "DUI",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 279,
-      "pct": 38.6,
+      "pct": 38.5,
       "label": "Longview Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 42,
-      "pct": 5.8,
+      "count": 43,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "name": "DOC COURT",
-      "count": 97,
-      "pct": 5.7
+      "count": 98,
+      "pct": 5.8
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 30,
-      "pct": 19.2
+      "count": 29,
+      "pct": 18.5
     },
     {
       "name": "B",
       "count": 22,
-      "pct": 14.1
+      "pct": 14
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 12.2
+      "pct": 12.1
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "E",
-      "count": 22,
-      "pct": 14.1
+      "count": 21,
+      "pct": 13.4
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 30,
-      "pct": 19.2
+      "pct": 19.1
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 2,
-      "pct": 1.3
+      "count": 5,
+      "pct": 3.2
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 7.7
+      "pct": 7.6
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 21,
+    "currentMedianDaysHeld": 20.8,
     "currentLongestDaysHeld": 527
   },
   "bond": {
     "withBond": 114,
-    "noBond": 43,
+    "noBond": 44,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3793100
