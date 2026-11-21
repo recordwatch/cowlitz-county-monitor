@@ -1,5 +1,31 @@
 [
   {
+    "id": "362031-20261120232113",
+    "inmateNumber": "362031",
+    "name": "ORDAZ GUZMAN, HECTOR",
+    "bookedAt": "2026-11-20T23:21:13",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-20T23:24:12",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0443682",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T23:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "150412-20261120225217",
     "inmateNumber": "150412",
     "name": "TOLER, GLEN EUGENE",
@@ -98,6 +124,17 @@
     "bondTotal": null,
     "charges": [
       {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-11-20T19:18:42",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
         "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-11-20T19:13:13",
         "arrestingAgency": "LVPD",
@@ -122,17 +159,6 @@
       {
         "description": "POSS STL PROP 2/>250",
         "offenseDate": "2026-11-20T19:20:17",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "RESIDENTIAL BURGLARY",
-        "offenseDate": "2026-11-20T19:18:42",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": null,
