@@ -1,5 +1,31 @@
 [
   {
+    "id": "302823-20261121032849",
+    "inmateNumber": "302823",
+    "name": "VANDECOEVERING, NICHOLAS SCOTT",
+    "bookedAt": "2026-11-21T03:28:49",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND > $750",
+        "offenseDate": "2026-11-21T03:32:05",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T04:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362031-20261120232113",
     "inmateNumber": "362031",
     "name": "ORDAZ GUZMAN, HECTOR",
