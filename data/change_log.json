@@ -1,5 +1,33 @@
 [
   {
+    "id": "146301-20261120170122",
+    "inmateNumber": "146301",
+    "name": "MCGEE, JOSEPH RONALD",
+    "bookedAt": "2026-11-20T17:01:22",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T17:35:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "125470-20261120170105",
+    "inmateNumber": "125470",
+    "name": "MCCABE, JAMES CHRISTOPHER",
+    "bookedAt": "2026-11-20T17:01:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T17:35:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "106833-20261120152919",
     "inmateNumber": "106833",
     "name": "TUTTLE, ROBERT JON",
@@ -30,7 +58,7 @@
     "inmateNumber": "189856",
     "name": "KINSEY, MELANIE ANN MARIE",
     "bookedAt": "2026-11-20T14:54:54",
-    "location": "INTAKE H6",
+    "location": "E12",
     "arrestingAgency": "KAPD",
     "bondTotal": 1500,
     "charges": [
