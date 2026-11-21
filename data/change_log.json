@@ -1,5 +1,19 @@
 [
   {
+    "id": "362044-20261121042105",
+    "inmateNumber": "362044",
+    "name": "WORTHEY, JARED LEE",
+    "bookedAt": "2026-11-21T04:21:05",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T04:54:10",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "26466-20261121034816",
     "inmateNumber": "26466",
     "name": "MERZOIAN, JORDAN ANTHONY",

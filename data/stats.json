@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T04:35:18",
+  "generatedAt": "2026-11-21T04:54:10",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 738,
-    "bookingsObserved": 572,
+    "bookingsTracked": 739,
+    "bookingsObserved": 573,
     "releasesObserved": 574,
-    "inCustody": 164,
-    "uniquePeople": 674
+    "inCustody": 165,
+    "uniquePeople": 675
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 287,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 20,
-      "pct": 2.7,
+      "count": 21,
+      "pct": 2.9,
       "label": "Woodland Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 18.2,
+    "currentMedianDaysHeld": 17.7,
     "currentLongestDaysHeld": 527.5
   },
   "bond": {
     "withBond": 116,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3785600
