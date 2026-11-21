@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T23:15:18",
+  "generatedAt": "2026-11-20T23:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 734,
-    "bookingsObserved": 568,
+    "bookingsTracked": 735,
+    "bookingsObserved": 569,
     "releasesObserved": 574,
-    "inCustody": 160,
+    "inCustody": 161,
     "uniquePeople": 671
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-20",
-      "booked": 19,
+      "booked": 20,
       "released": 20
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 143,
-      "pct": 8.3
+      "count": 144,
+      "pct": 8.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 35,
-      "pct": 4.8,
+      "count": 36,
+      "pct": 4.9,
       "label": "Washington State Patrol"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 218,
-      "pct": 12.7
+      "count": 219,
+      "pct": 12.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 20.1,
+    "currentMedianDaysHeld": 19.4,
     "currentLongestDaysHeld": 527.3
   },
   "bond": {
-    "withBond": 113,
+    "withBond": 114,
     "noBond": 47,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3783100
+    "totalBond": 3783600
   },
   "chargesPerBooking": 2.3
 }

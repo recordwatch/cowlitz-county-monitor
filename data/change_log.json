@@ -1,5 +1,31 @@
 [
   {
+    "id": "150412-20261120225217",
+    "inmateNumber": "150412",
+    "name": "TOLER, GLEN EUGENE",
+    "bookedAt": "2026-11-20T22:52:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": 500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-20T22:59:33",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00945849",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-20T23:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "182564-20261120215429",
     "inmateNumber": "182564",
     "name": "ALHASHIMI, SELMA MAE",
