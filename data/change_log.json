@@ -534,9 +534,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T10:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T05:55:18",
     "baseline": false
   },
   {
@@ -1936,9 +1936,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T19:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T05:55:18",
     "baseline": false
   },
   {
@@ -4849,9 +4849,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-14T10:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T05:55:18",
     "baseline": false
   },
   {
