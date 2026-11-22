@@ -1,5 +1,33 @@
 [
   {
+    "id": "107916-20261121231643",
+    "inmateNumber": "107916",
+    "name": "BOYDSTUN, KIELEY ROSE",
+    "bookedAt": "2026-11-21T23:16:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T00:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "261088-20261121230732",
+    "inmateNumber": "261088",
+    "name": "LOVE WHISENTON, ANTHONY DALE WESLEY JR",
+    "bookedAt": "2026-11-21T23:07:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T00:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "21229-20261121230232",
     "inmateNumber": "21229",
     "name": "GRIFFIN, STEVEN LEROY",
@@ -192,9 +220,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T19:15:22",
-    "releasedAt": null,
+    "releasedAt": "2026-11-22T00:15:20",
     "baseline": false
   },
   {
