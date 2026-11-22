@@ -5,9 +5,32 @@
     "name": "DAVIS, JENNIFER LYNN",
     "bookedAt": "2026-11-22T00:02:36",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-22T00:21:58",
+        "arrestingAgency": "LVPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0313683",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-22T00:21:13",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0372699",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-22T00:35:18",
     "releasedAt": null,
