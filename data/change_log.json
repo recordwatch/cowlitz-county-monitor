@@ -1,5 +1,33 @@
 [
   {
+    "id": "84679-20261121201250",
+    "inmateNumber": "84679",
+    "name": "HAYES, LARRY DANIEL",
+    "bookedAt": "2026-11-21T20:12:50",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T20:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "362061-20261121200617",
+    "inmateNumber": "362061",
+    "name": "SAVIDGE, KEVIN DANIEL",
+    "bookedAt": "2026-11-21T20:06:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T20:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "270164-20261121182449",
     "inmateNumber": "270164",
     "name": "ADAMS, JACOB EDWARD",

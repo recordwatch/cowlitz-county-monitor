@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T20:15:19",
+  "generatedAt": "2026-11-21T20:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 749,
-    "bookingsObserved": 583,
+    "bookingsTracked": 751,
+    "bookingsObserved": 585,
     "releasesObserved": 581,
-    "inCustody": 168,
-    "uniquePeople": 683
+    "inCustody": 170,
+    "uniquePeople": 685
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 13,
+      "booked": 15,
       "released": 7
     }
   ],
@@ -265,7 +265,7 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 289,
+      "count": 290,
       "pct": 38.8,
       "label": "Longview Police"
     },
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 36,
-      "pct": 4.8,
+      "count": 37,
+      "pct": 5,
       "label": "Washington State Patrol"
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.4,
-    "currentLongestDaysHeld": 528.1
+    "currentMedianDaysHeld": 17.1,
+    "currentLongestDaysHeld": 528.2
   },
   "bond": {
     "withBond": 117,
-    "noBond": 51,
+    "noBond": 53,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3795600
