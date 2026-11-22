@@ -1,10 +1,24 @@
 [
   {
+    "id": "63606-20261121221211",
+    "inmateNumber": "63606",
+    "name": "DOUGLAS, MADISON ROSE",
+    "bookedAt": "2026-11-21T22:12:11",
+    "location": "INTAKE H6",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T23:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "11958-20261121211955",
     "inmateNumber": "11958",
     "name": "COURSER, ROBERT LEE",
     "bookedAt": "2026-11-21T21:19:55",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H2",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
