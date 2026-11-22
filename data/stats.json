@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-21T21:35:18",
+  "generatedAt": "2026-11-21T21:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 751,
-    "bookingsObserved": 585,
+    "bookingsTracked": 752,
+    "bookingsObserved": 586,
     "releasesObserved": 582,
-    "inCustody": 169,
-    "uniquePeople": 685
+    "inCustody": 170,
+    "uniquePeople": 686
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 15,
+      "booked": 16,
       "released": 8
     }
   ],
@@ -272,7 +272,7 @@
     {
       "name": "CCSO",
       "count": 138,
-      "pct": 18.5,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -290,13 +290,13 @@
     {
       "name": "DOC",
       "count": 43,
-      "pct": 5.8,
+      "pct": 5.7,
       "label": "Dept. of Corrections"
     },
     {
       "name": "WSP",
       "count": 37,
-      "pct": 5,
+      "pct": 4.9,
       "label": "Washington State Patrol"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "CRPD",
-      "count": 16,
-      "pct": 2.1,
+      "count": 17,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.4,
+    "currentMedianDaysHeld": 17.1,
     "currentLongestDaysHeld": 528.2
   },
   "bond": {
     "withBond": 118,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3797100

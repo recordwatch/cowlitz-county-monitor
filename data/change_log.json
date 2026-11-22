@@ -1,5 +1,19 @@
 [
   {
+    "id": "11958-20261121211955",
+    "inmateNumber": "11958",
+    "name": "COURSER, ROBERT LEE",
+    "bookedAt": "2026-11-21T21:19:55",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T21:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "84679-20261121201250",
     "inmateNumber": "84679",
     "name": "HAYES, LARRY DANIEL",
@@ -102,7 +116,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "HIT & RUN",
@@ -113,7 +127,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "OPER VEH W/O IGN INTERLOCK",
@@ -124,7 +138,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
