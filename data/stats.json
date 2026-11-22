@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T20:55:17",
+  "generatedAt": "2026-11-21T21:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 751,
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 148,
-      "pct": 8.5
+      "count": 149,
+      "pct": 8.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -183,13 +183,13 @@
     },
     {
       "name": "DUI",
-      "count": 103,
-      "pct": 5.9
+      "count": 105,
+      "pct": 6
     },
     {
       "name": "CONTEMPT OF COURT",
       "count": 60,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -244,7 +244,12 @@
     {
       "name": "THEFT 2ND DEGREE > $750",
       "count": 20,
-      "pct": 1.2
+      "pct": 1.1
+    },
+    {
+      "name": "DWLS 2ND",
+      "count": 19,
+      "pct": 1.1
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -255,11 +260,6 @@
       "name": "RECKLESS DRIVING",
       "count": 19,
       "pct": 1.1
-    },
-    {
-      "name": "DWLS 2ND",
-      "count": 18,
-      "pct": 1
     }
   ],
   "topAgencies": [
@@ -328,22 +328,22 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 520,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 520,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 220,
-      "pct": 12.7
+      "count": 225,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 215,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 528.2
   },
   "bond": {
-    "withBond": 117,
-    "noBond": 53,
+    "withBond": 119,
+    "noBond": 51,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3795600
+    "totalBond": 3798100
   },
   "chargesPerBooking": 2.3
 }

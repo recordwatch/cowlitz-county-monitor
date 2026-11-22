@@ -6,8 +6,31 @@
     "bookedAt": "2026-11-21T20:12:50",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-21T20:39:25",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0435952",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-21T20:35:53",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0435952",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T20:35:18",
     "releasedAt": null,
@@ -20,8 +43,42 @@
     "bookedAt": "2026-11-21T20:06:17",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T20:37:29",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-21T20:35:18",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-21T20:33:22",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T20:35:18",
     "releasedAt": null,
@@ -22955,7 +23012,7 @@
     "inmateNumber": "155143",
     "name": "SCHROTH, ROBIN JONAH",
     "bookedAt": "2026-10-06T16:25:50",
-    "location": "D23",
+    "location": "D22",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
