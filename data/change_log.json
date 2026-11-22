@@ -4,7 +4,7 @@
     "inmateNumber": "341775",
     "name": "ALEX, CARLOS AKININO",
     "bookedAt": "2026-11-22T00:28:18",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
     "bondTotal": 600,
     "charges": [
@@ -20,7 +20,7 @@
         "bondAmount": 600
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-11-22T00:32:38",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -41,7 +41,7 @@
     "inmateNumber": "51066",
     "name": "DAVIS, JENNIFER LYNN",
     "bookedAt": "2026-11-22T00:02:36",
-    "location": "1-PENDING BOOKING",
+    "location": "E11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -78,7 +78,7 @@
     "inmateNumber": "107916",
     "name": "BOYDSTUN, KIELEY ROSE",
     "bookedAt": "2026-11-21T23:16:43",
-    "location": "1-PENDING BOOKING",
+    "location": "E10",
     "arrestingAgency": null,
     "bondTotal": null,
     "charges": [
@@ -113,9 +113,9 @@
   {
     "id": "261088-20261121230732",
     "inmateNumber": "261088",
-    "name": "LOVE WHISENTON, ANTHONY DALE WESLEY JR",
+    "name": "LOVE WHISENTON, ANTHONY DALE WESLEY Jr",
     "bookedAt": "2026-11-21T23:07:32",
-    "location": "1-PENDING BOOKING",
+    "location": "B12",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -1022,7 +1022,7 @@
     "inmateNumber": "125470",
     "name": "MCCABE, JAMES CHRISTOPHER",
     "bookedAt": "2026-11-20T17:01:05",
-    "location": "C12",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 500,
     "charges": [
@@ -1835,7 +1835,7 @@
     "inmateNumber": "24782",
     "name": "KRAFT, JOHN PAUL",
     "bookedAt": "2026-11-19T19:48:49",
-    "location": "C12",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
