@@ -1,5 +1,53 @@
 [
   {
+    "id": "270164-20261121182449",
+    "inmateNumber": "270164",
+    "name": "ADAMS, JACOB EDWARD",
+    "bookedAt": "2026-11-21T18:24:49",
+    "location": "F13",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 2500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T18:36:10",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0444724",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-21T18:29:47",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0444724",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-21T18:36:57",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0444724",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T19:15:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "345065-20261121162906",
     "inmateNumber": "345065",
     "name": "SANCHEZ JUAREZ, MIGUEL",
