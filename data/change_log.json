@@ -4,7 +4,7 @@
     "inmateNumber": "341775",
     "name": "ALEX, CARLOS AKININO",
     "bookedAt": "2026-11-22T00:28:18",
-    "location": "INTAKE H1",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 600,
     "charges": [
@@ -53,7 +53,7 @@
         "warrantNumber": "6A0313683",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -260,7 +260,7 @@
         "description": "DWLS 2ND",
         "offenseDate": "2026-11-21T20:39:25",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435952",
         "disposition": null,
         "billingAgency": null,
@@ -271,7 +271,7 @@
         "description": "DUI",
         "offenseDate": "2026-11-21T20:35:53",
         "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435952",
         "disposition": null,
         "billingAgency": null,
