@@ -4,7 +4,7 @@
     "inmateNumber": "270164",
     "name": "ADAMS, JACOB EDWARD",
     "bookedAt": "2026-11-21T18:24:49",
-    "location": "F13",
+    "location": "F10",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -52,7 +52,7 @@
     "inmateNumber": "345065",
     "name": "SANCHEZ JUAREZ, MIGUEL",
     "bookedAt": "2026-11-21T16:29:06",
-    "location": "INTAKE H2",
+    "location": "B10",
     "arrestingAgency": "911",
     "bondTotal": 8000,
     "charges": [
