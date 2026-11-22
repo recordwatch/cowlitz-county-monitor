@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T15:55:16",
+  "generatedAt": "2026-11-21T16:06:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 746,
-    "bookingsObserved": 580,
+    "bookingsTracked": 747,
+    "bookingsObserved": 581,
     "releasesObserved": 580,
-    "inCustody": 166,
+    "inCustody": 167,
     "uniquePeople": 682
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-21",
-      "booked": 10,
+      "booked": 11,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 230,
-      "pct": 13.3
+      "count": 231,
+      "pct": 13.4
     },
     {
       "name": "DWLS 3RD",
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 287,
-      "pct": 38.7,
+      "count": 288,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 36,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "Washington State Patrol"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 516,
+      "count": 517,
       "pct": 29.9
     },
     {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.7,
+    "currentMedianDaysHeld": 17.3,
     "currentLongestDaysHeld": 528
   },
   "bond": {
-    "withBond": 115,
+    "withBond": 116,
     "noBond": 51,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3784600
+    "totalBond": 3785600
   },
   "chargesPerBooking": 2.3
 }

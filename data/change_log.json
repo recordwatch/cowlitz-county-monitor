@@ -1,5 +1,31 @@
 [
   {
+    "id": "361494-20261121152551",
+    "inmateNumber": "361494",
+    "name": "ENGLISH, KARL DAVID",
+    "bookedAt": "2026-11-21T15:25:51",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-21T15:27:03",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0355485",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T16:06:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "246402-20261121101302",
     "inmateNumber": "246402",
     "name": "SHEPHERD, HAYDEN KEITH",
