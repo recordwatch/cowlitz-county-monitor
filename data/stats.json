@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T00:15:20",
+  "generatedAt": "2026-11-22T00:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 756,
-    "bookingsObserved": 590,
+    "bookingsTracked": 757,
+    "bookingsObserved": 591,
     "releasesObserved": 583,
-    "inCustody": 173,
-    "uniquePeople": 689
+    "inCustody": 174,
+    "uniquePeople": 690
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -173,7 +173,7 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 118,
+      "count": 119,
       "pct": 6.8
     },
     {
@@ -214,7 +214,7 @@
     {
       "name": "RESISTING ARREST",
       "count": 34,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 520,
-      "pct": 29.8
+      "count": 521,
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.5,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 528.3
   },
   "bond": {
-    "withBond": 117,
+    "withBond": 118,
     "noBond": 56,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3794600
+    "totalBond": 3795600
   },
   "chargesPerBooking": 2.3
 }
