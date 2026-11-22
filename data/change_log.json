@@ -7,7 +7,30 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T21:56:17",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "3A0145702",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-21T21:55:24",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "4A0899370",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-21T21:55:16",
     "releasedAt": null,
@@ -18,7 +41,7 @@
     "inmateNumber": "84679",
     "name": "HAYES, LARRY DANIEL",
     "bookedAt": "2026-11-21T20:12:50",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -55,7 +78,7 @@
     "inmateNumber": "362061",
     "name": "SAVIDGE, KEVIN DANIEL",
     "bookedAt": "2026-11-21T20:06:17",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H3",
     "arrestingAgency": "WSP",
     "bondTotal": 1500,
     "charges": [
