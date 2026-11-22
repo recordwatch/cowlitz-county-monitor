@@ -1,5 +1,42 @@
 [
   {
+    "id": "345065-20261121162906",
+    "inmateNumber": "345065",
+    "name": "SANCHEZ JUAREZ, MIGUEL",
+    "bookedAt": "2026-11-21T16:29:06",
+    "location": "INTAKE H2",
+    "arrestingAgency": "911",
+    "bondTotal": 5000,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-21T16:44:28",
+        "arrestingAgency": "911",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409706",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 5000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T16:45:15",
+        "arrestingAgency": "911",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409706",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T17:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361494-20261121152551",
     "inmateNumber": "361494",
     "name": "ENGLISH, KARL DAVID",
