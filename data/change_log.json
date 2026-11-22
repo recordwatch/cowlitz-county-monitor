@@ -1,5 +1,31 @@
 [
   {
+    "id": "325539-20261122042952",
+    "inmateNumber": "325539",
+    "name": "CRUZ VALENTIN, LUIS FERNANDO",
+    "bookedAt": "2026-11-22T04:29:52",
+    "location": "INTAKE H1",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-22T04:33:29",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0443683",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T05:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "341775-20261122002818",
     "inmateNumber": "341775",
     "name": "ALEX, CARLOS AKININO",
