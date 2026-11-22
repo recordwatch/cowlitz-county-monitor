@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-21T16:29:06",
     "location": "INTAKE H2",
     "arrestingAgency": "911",
-    "bondTotal": 5000,
+    "bondTotal": 8000,
     "charges": [
       {
         "description": "DUI",
@@ -25,6 +25,50 @@
         "arrestingAgency": "911",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0409706",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-21T16:46:09",
+        "arrestingAgency": "911",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0409706",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-21T16:49:10",
+        "arrestingAgency": "911",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0414859",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 3000
+      },
+      {
+        "description": "DWLS 2ND",
+        "offenseDate": "2026-11-21T16:49:59",
+        "arrestingAgency": "911",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0414859",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-11-21T16:50:49",
+        "arrestingAgency": "911",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0414859",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
