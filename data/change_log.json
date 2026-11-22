@@ -1,11 +1,25 @@
 [
   {
+    "id": "21229-20261121230232",
+    "inmateNumber": "21229",
+    "name": "GRIFFIN, STEVEN LEROY",
+    "bookedAt": "2026-11-21T23:02:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-21T23:35:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "63606-20261121221211",
     "inmateNumber": "63606",
     "name": "DOUGLAS, MADISON ROSE",
     "bookedAt": "2026-11-21T22:12:11",
     "location": "INTAKE H6",
-    "arrestingAgency": null,
+    "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [],
     "status": "in_custody",
