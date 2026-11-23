@@ -1,5 +1,31 @@
 [
   {
+    "id": "315871-20261123151644",
+    "inmateNumber": "315871",
+    "name": "SOURS, MATTHEW RICHARD",
+    "bookedAt": "2026-11-23T15:16:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-23T15:18:00",
+        "arrestingAgency": "CCSO",
+        "court": "DOC COURT",
+        "warrantNumber": "2410066408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T15:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "312532-20261123125028",
     "inmateNumber": "312532",
     "name": "PORTER, KENTON DAVID",
@@ -1901,7 +1927,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -2442,7 +2468,7 @@
     "inmateNumber": "38757",
     "name": "WILSON, DARRYL COLIN",
     "bookedAt": "2026-11-19T20:36:00",
-    "location": "A11",
+    "location": "A10",
     "arrestingAgency": "CCSO",
     "bondTotal": 1500,
     "charges": [

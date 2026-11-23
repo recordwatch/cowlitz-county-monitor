@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T15:35:18",
+  "generatedAt": "2026-11-23T15:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 776,
-    "bookingsObserved": 610,
+    "bookingsTracked": 777,
+    "bookingsObserved": 611,
     "releasesObserved": 602,
-    "inCustody": 174,
-    "uniquePeople": 706
+    "inCustody": 175,
+    "uniquePeople": 707
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 8,
+      "booked": 9,
       "released": 15
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 153,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -178,7 +178,7 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 119,
+      "count": 120,
       "pct": 6.7
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 303,
-      "pct": 39.3,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 142,
-      "pct": 18.4,
+      "count": 143,
+      "pct": 18.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 22,
-      "pct": 2.9,
+      "pct": 2.8,
       "label": "Woodland Police"
     },
     {
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 100,
+      "count": 101,
       "pct": 5.6
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.6,
-    "currentLongestDaysHeld": 529.9
+    "currentMedianDaysHeld": 16.5,
+    "currentLongestDaysHeld": 530
   },
   "bond": {
     "withBond": 123,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 3000,
     "maxBond": 500000,
     "totalBond": 3807450
