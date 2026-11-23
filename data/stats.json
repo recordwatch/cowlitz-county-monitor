@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:55:18",
+  "generatedAt": "2026-11-23T14:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 776,
@@ -164,11 +164,11 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 243,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
-      "count": 151,
+      "count": 152,
       "pct": 8.5
     },
     {
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 62,
-      "pct": 3.5
+      "count": 61,
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -198,7 +198,7 @@
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
-      "count": 46,
+      "count": 47,
       "pct": 2.6
     },
     {
@@ -224,11 +224,16 @@
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
       "count": 33,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 22,
+      "pct": 1.2
+    },
+    {
+      "name": "DWLS 2ND",
+      "count": 21,
       "pct": 1.2
     },
     {
@@ -243,11 +248,6 @@
     },
     {
       "name": "UNLAWFUL CAMPING",
-      "count": 20,
-      "pct": 1.1
-    },
-    {
-      "name": "DWLS 2ND",
       "count": 20,
       "pct": 1.1
     },
@@ -328,22 +328,22 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 538,
-      "pct": 30.2
+      "pct": 30.1
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 530,
-      "pct": 29.8
+      "count": 535,
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 229,
-      "pct": 12.9
+      "pct": 12.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 220,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -394,8 +394,8 @@
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 15.6
+      "count": 27,
+      "pct": 15.1
     },
     {
       "name": "C",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.2
     },
     {
       "name": "WSH",
