@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "CONTEMPT OF COURT",
+        "offenseDate": "2026-11-23T11:48:49",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610054208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T12:15:25",
     "releasedAt": null,
@@ -507,7 +519,7 @@
     "inmateNumber": "341775",
     "name": "ALEX, CARLOS AKININO",
     "bookedAt": "2026-11-22T00:28:18",
-    "location": "C12",
+    "location": "B21",
     "arrestingAgency": "LVPD",
     "bondTotal": 600,
     "charges": [
@@ -1110,7 +1122,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0097314",
         "disposition": "Per. Recogn.",
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": null
       }
@@ -1136,7 +1148,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0344283",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
