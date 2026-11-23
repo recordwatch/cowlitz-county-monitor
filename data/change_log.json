@@ -7,7 +7,85 @@
     "location": "INTAKE H8",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "THEFT OF MOTOR VEHICLE",
+        "offenseDate": "2026-11-23T11:14:09",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "offenseDate": "2026-11-23T11:14:47",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-23T11:15:43",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-23T11:17:45",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS CS W/OUT RX",
+        "offenseDate": "2026-11-23T11:17:06",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSSESSION OF STOLEN VEHICLE",
+        "offenseDate": "2026-11-23T11:15:16",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RECKLESS ENDANGERMENT",
+        "offenseDate": "2026-11-23T11:16:21",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T11:35:17",
     "releasedAt": null,
@@ -169,7 +247,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0353644",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -295,10 +373,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0165102",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -373,10 +451,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0083272",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -702,22 +780,11 @@
     "bookedAt": "2026-11-21T20:06:17",
     "location": "A14",
     "arrestingAgency": "WSP",
-    "bondTotal": 1500,
+    "bondTotal": 1000,
     "charges": [
       {
-        "description": "DWLS 3RD",
-        "offenseDate": "2026-11-21T20:37:29",
-        "arrestingAgency": "WSP",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "T00719174",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
-        "description": "HIT & RUN",
-        "offenseDate": "2026-11-21T20:35:18",
+        "description": "DUI",
+        "offenseDate": "2026-11-21T20:33:22",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00719174",
@@ -727,14 +794,25 @@
         "bondAmount": 1000
       },
       {
-        "description": "DUI",
-        "offenseDate": "2026-11-21T20:33:22",
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-21T20:35:18",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00719174",
+        "disposition": "No PC Found",
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-21T20:37:29",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "T00719174",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
+        "bondType": null,
         "bondAmount": null
       }
     ],
@@ -955,7 +1033,7 @@
     "inmateNumber": "36946",
     "name": "HUMBLE, RALEIGH ROBERT",
     "bookedAt": "2026-11-21T10:00:00",
-    "location": "B24",
+    "location": "B12",
     "arrestingAgency": "911",
     "bondTotal": null,
     "charges": [
@@ -1592,7 +1670,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0377951",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1736,7 +1814,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2010141208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1747,7 +1825,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2010141208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1773,7 +1851,7 @@
         "court": "DOC COURT",
         "warrantNumber": "141000950",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1784,7 +1862,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "141000950",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1795,7 +1873,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "141012834",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1821,7 +1899,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510043808",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1832,7 +1910,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510043908",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1843,7 +1921,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2610022508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1854,7 +1932,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610022508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1865,7 +1943,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610022508",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1876,7 +1954,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610037708",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       }
@@ -3725,7 +3803,7 @@
     "bookedAt": "2026-11-17T12:51:25",
     "location": "G-G30",
     "arrestingAgency": "CCSO",
-    "bondTotal": 6500,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -3744,10 +3822,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 3500
+        "bondAmount": null
       },
       {
         "description": "MAKING/POSS VEH THEFT TOOLS",
@@ -3755,7 +3833,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -3766,7 +3844,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -3777,7 +3855,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -3788,7 +3866,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401402",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
@@ -3799,10 +3877,10 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401403",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       },
       {
         "description": "MINOR POSS AND/OR CONSUMPTION LIQUOR",
@@ -3810,7 +3888,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0401403",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
