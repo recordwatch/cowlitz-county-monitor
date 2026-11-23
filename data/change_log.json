@@ -847,7 +847,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "PC0002146",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -863,7 +863,7 @@
     "inmateNumber": "36946",
     "name": "HUMBLE, RALEIGH ROBERT",
     "bookedAt": "2026-11-21T10:00:00",
-    "location": "B23",
+    "location": "B24",
     "arrestingAgency": "911",
     "bondTotal": null,
     "charges": [
