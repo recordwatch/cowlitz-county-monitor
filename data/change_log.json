@@ -7,7 +7,19 @@
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-23T10:41:23",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2610052308",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T10:55:16",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "362085",
     "name": "JOHNSON, JESSE SHAWN",
     "bookedAt": "2026-11-23T09:28:36",
-    "location": "INTAKE H8",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -5067,9 +5079,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-15T05:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T11:15:21",
     "baseline": false
   },
   {
