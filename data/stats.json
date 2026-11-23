@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T11:15:21",
+  "generatedAt": "2026-11-23T11:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 772,
-    "bookingsObserved": 606,
+    "bookingsTracked": 773,
+    "bookingsObserved": 607,
     "releasesObserved": 593,
-    "inCustody": 179,
-    "uniquePeople": 702
+    "inCustody": 180,
+    "uniquePeople": 703
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 4,
+      "booked": 5,
       "released": 6
     }
   ],
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 302,
-      "pct": 39.4,
+      "count": 303,
+      "pct": 39.5,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 140,
-      "pct": 18.3,
+      "pct": 18.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 38,
-      "pct": 21.3
+      "pct": 21.1
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "C",
-      "count": 22,
-      "pct": 12.4
+      "count": 23,
+      "pct": 12.8
     },
     {
       "name": "D",
       "count": 9,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "E",
       "count": 24,
-      "pct": 13.5
+      "pct": 13.3
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 16.3
+      "pct": 16.1
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 6,
-      "pct": 3.4
+      "count": 7,
+      "pct": 3.9
     },
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.4
+      "pct": 8.3
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 14.1,
+    "currentMedianDaysHeld": 14,
     "currentLongestDaysHeld": 529.8
   },
   "bond": {
     "withBond": 123,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 3000,
     "maxBond": 500000,
     "totalBond": 3778450

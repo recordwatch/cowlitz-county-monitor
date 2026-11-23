@@ -1,10 +1,24 @@
 [
   {
+    "id": "362083-20261123104724",
+    "inmateNumber": "362083",
+    "name": "BULLINGTON, MICHAEL DON C",
+    "bookedAt": "2026-11-23T10:47:24",
+    "location": "INTAKE H8",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T11:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "30041-20261123102458",
     "inmateNumber": "30041",
     "name": "AGPAOA, FRANKLIN ROBERT LORENZO",
     "bookedAt": "2026-11-23T10:24:58",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -30,7 +44,7 @@
     "inmateNumber": "362085",
     "name": "JOHNSON, JESSE SHAWN",
     "bookedAt": "2026-11-23T09:28:36",
-    "location": "C10",
+    "location": "C13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -56,7 +70,7 @@
     "inmateNumber": "220277",
     "name": "KEITH, NICHOLAS ALEXANDER",
     "bookedAt": "2026-11-23T07:47:11",
-    "location": "INTAKE H1",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 250,
     "charges": [
@@ -622,7 +636,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3A0145702",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -633,7 +647,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "4A0899370",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
