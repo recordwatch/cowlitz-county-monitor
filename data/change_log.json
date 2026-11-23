@@ -1,5 +1,31 @@
 [
   {
+    "id": "220277-20261123074711",
+    "inmateNumber": "220277",
+    "name": "KEITH, NICHOLAS ALEXANDER",
+    "bookedAt": "2026-11-23T07:47:11",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 250,
+    "charges": [
+      {
+        "description": "UNLAWFUL CAMPING",
+        "offenseDate": "2026-11-23T07:49:23",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438775",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 250
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T08:35:32",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362080-20261123012724",
     "inmateNumber": "362080",
     "name": "MEDAL, MACKSON NONE",
@@ -873,7 +899,7 @@
         "arrestingAgency": "911",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0799225",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -2011,9 +2037,9 @@
         "bondAmount": 5000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T00:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T08:35:32",
     "baseline": false
   },
   {
@@ -17184,7 +17210,7 @@
     "inmateNumber": "275001",
     "name": "MARKSTROM, RYAN THOMAS",
     "bookedAt": "2026-10-20T12:09:58",
-    "location": "A15",
+    "location": "WSH",
     "arrestingAgency": "KEPD",
     "bondTotal": 10000,
     "charges": [
@@ -20847,7 +20873,7 @@
     "inmateNumber": "360925",
     "name": "LAURSEN, JASON WAYNE",
     "bookedAt": "2026-10-13T13:45:52",
-    "location": "D21",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
@@ -22322,7 +22348,7 @@
     "inmateNumber": "357876",
     "name": "RANDLES, ZACHARY DAVID",
     "bookedAt": "2026-10-10T17:48:47",
-    "location": "D25",
+    "location": "WSH",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
