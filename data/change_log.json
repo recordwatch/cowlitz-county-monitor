@@ -16,7 +16,7 @@
         "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
