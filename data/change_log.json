@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-23T12:50:28",
     "location": "INTAKE H7",
     "arrestingAgency": "WDPD",
-    "bondTotal": 1000,
+    "bondTotal": 1500,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -62,6 +62,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-23T14:06:24",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0631601",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       }
     ],
     "status": "in_custody",
@@ -1364,9 +1375,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T04:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T14:48:52",
     "baseline": false
   },
   {
@@ -13980,7 +13991,7 @@
         "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 25000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -16160,7 +16171,7 @@
     "inmateNumber": "339767",
     "name": "ARNETT, MONICE RENEE",
     "bookedAt": "2026-10-22T19:01:14",
-    "location": "H-H12",
+    "location": "INTAKE H8",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -28686,7 +28697,7 @@
     "inmateNumber": "5783",
     "name": "LENCZOWSKI, KATRINA MARIE",
     "bookedAt": "2026-07-30T18:29:04",
-    "location": "H-H04",
+    "location": "H-H06",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
