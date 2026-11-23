@@ -6,8 +6,20 @@
     "bookedAt": "2026-11-23T12:06:29",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-23T12:31:54",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0290285",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-23T12:55:18",
     "releasedAt": null,
@@ -18,14 +30,14 @@
     "inmateNumber": "33598",
     "name": "MALGESINI, ROBYN MICHELLE",
     "bookedAt": "2026-11-23T11:24:48",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "location": "E12",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-23T11:48:49",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610054208",
         "disposition": null,
@@ -136,7 +148,7 @@
     "inmateNumber": "30041",
     "name": "AGPAOA, FRANKLIN ROBERT LORENZO",
     "bookedAt": "2026-11-23T10:24:58",
-    "location": "INTAKE H1",
+    "location": "C16",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
