@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:55:16",
+  "generatedAt": "2026-11-23T15:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 776,
@@ -163,7 +163,7 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 243,
+      "count": 244,
       "pct": 13.6
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 42,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 538,
-      "pct": 30.1
+      "count": 540,
+      "pct": 30.2
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -414,8 +414,8 @@
     },
     {
       "name": "F",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.2
     },
     {
       "name": "G",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.8
+      "count": 4,
+      "pct": 2.2
     },
     {
       "name": "WSH",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.3,
+    "currentMedianDaysHeld": 15.4,
     "currentLongestDaysHeld": 529.9
   },
   "bond": {
-    "withBond": 126,
-    "noBond": 52,
-    "medianBond": 2750,
+    "withBond": 127,
+    "noBond": 51,
+    "medianBond": 2500,
     "maxBond": 500000,
-    "totalBond": 3811450
+    "totalBond": 3812450
   },
   "chargesPerBooking": 2.3
 }

@@ -743,6 +743,17 @@
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-23T14:43:34",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0286947",
+        "disposition": "Guilty",
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-22T00:52:09",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -1244,7 +1255,7 @@
     "inmateNumber": "32626",
     "name": "JOHNSON, DENNIS KEVIN",
     "bookedAt": "2026-11-21T06:21:55",
-    "location": "D13",
+    "location": "D11",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -1465,7 +1476,7 @@
     "bookedAt": "2026-11-20T18:55:20",
     "location": "E10",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1488,6 +1499,17 @@
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "MAKING/POSS VEH THEFT TOOLS",
+        "offenseDate": "2026-11-23T14:41:24",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0196311",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -5077,7 +5099,7 @@
     "inmateNumber": "302487",
     "name": "TAKEMASA, KN",
     "bookedAt": "2026-11-15T19:06:18",
-    "location": "INTAKE H6",
+    "location": "F21",
     "arrestingAgency": "KEPD",
     "bondTotal": 125000,
     "charges": [
@@ -14451,7 +14473,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "D11",
+    "location": "D13",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
