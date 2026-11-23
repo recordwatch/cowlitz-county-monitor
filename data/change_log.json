@@ -1,5 +1,19 @@
 [
   {
+    "id": "66310-20261123120629",
+    "inmateNumber": "66310",
+    "name": "APPLEFIELD, JULIAN DAVID",
+    "bookedAt": "2026-11-23T12:06:29",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T12:55:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "33598-20261123112448",
     "inmateNumber": "33598",
     "name": "MALGESINI, ROBYN MICHELLE",
@@ -30,7 +44,7 @@
     "inmateNumber": "362083",
     "name": "BULLINGTON, MICHAEL DON C",
     "bookedAt": "2026-11-23T10:47:24",
-    "location": "INTAKE H8",
+    "location": "C12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -5607,7 +5621,7 @@
     "inmateNumber": "49761",
     "name": "REID, TYLER DWAYNE",
     "bookedAt": "2026-11-13T14:39:42",
-    "location": "C16",
+    "location": "D21",
     "arrestingAgency": "KEPD",
     "bondTotal": 1000,
     "charges": [

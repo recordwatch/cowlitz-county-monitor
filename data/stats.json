@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T12:35:17",
+  "generatedAt": "2026-11-23T12:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 774,
-    "bookingsObserved": 608,
+    "bookingsTracked": 775,
+    "bookingsObserved": 609,
     "releasesObserved": 593,
-    "inCustody": 181,
-    "uniquePeople": 704
+    "inCustody": 182,
+    "uniquePeople": 705
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 6,
+      "booked": 7,
       "released": 6
     }
   ],
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 140,
-      "pct": 18.2,
+      "count": 141,
+      "pct": 18.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -404,8 +404,8 @@
     },
     {
       "name": "D",
-      "count": 9,
-      "pct": 5
+      "count": 10,
+      "pct": 5.6
     },
     {
       "name": "E",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 7,
-      "pct": 3.9
+      "count": 6,
+      "pct": 3.3
     },
     {
       "name": "WSH",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 13.9,
+    "currentMedianDaysHeld": 13.8,
     "currentLongestDaysHeld": 529.8
   },
   "bond": {
     "withBond": 123,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 2500,
     "maxBond": 500000,
     "totalBond": 3772450
