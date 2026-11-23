@@ -1,5 +1,19 @@
 [
   {
+    "id": "33598-20261123112448",
+    "inmateNumber": "33598",
+    "name": "MALGESINI, ROBYN MICHELLE",
+    "bookedAt": "2026-11-23T11:24:48",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T12:15:25",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362083-20261123104724",
     "inmateNumber": "362083",
     "name": "BULLINGTON, MICHAEL DON C",
@@ -1341,7 +1355,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0926502",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       },
@@ -1352,7 +1366,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0957484",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1496,7 +1510,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412654",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -1522,7 +1536,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0444443",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -1611,7 +1625,7 @@
         "court": "DOC CONTRACT COURT",
         "warrantNumber": "1810096208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -1637,7 +1651,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0494953",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -1648,7 +1662,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0730670",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": null
       },
@@ -1659,7 +1673,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0730670",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
       },
