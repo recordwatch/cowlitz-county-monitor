@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T00:15:20",
+  "generatedAt": "2026-11-23T00:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 767,
-    "bookingsObserved": 601,
+    "bookingsTracked": 768,
+    "bookingsObserved": 602,
     "releasesObserved": 587,
-    "inCustody": 180,
-    "uniquePeople": 699
+    "inCustody": 181,
+    "uniquePeople": 700
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 11,
+      "booked": 12,
       "released": 5
     },
     {
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 299,
-      "pct": 39.2,
+      "count": 300,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 140,
-      "pct": 18.4,
+      "pct": 18.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "CCCD",
       "count": 82,
-      "pct": 10.8,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 37,
-      "pct": 4.9,
+      "pct": 4.8,
       "label": "Washington State Patrol"
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.3,
+    "currentMedianDaysHeld": 16,
     "currentLongestDaysHeld": 529.3
   },
   "bond": {
     "withBond": 124,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 3750,
     "maxBond": 500000,
     "totalBond": 3812700

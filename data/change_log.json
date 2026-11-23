@@ -1,5 +1,19 @@
 [
   {
+    "id": "1616-20261122235843",
+    "inmateNumber": "1616",
+    "name": "WAGNER, CHRISTOPHER RAY",
+    "bookedAt": "2026-11-22T23:58:43",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T00:35:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "298360-20261122213311",
     "inmateNumber": "298360",
     "name": "JOHANSON, TANNER JAMES",
