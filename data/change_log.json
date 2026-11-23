@@ -4,7 +4,7 @@
     "inmateNumber": "312532",
     "name": "PORTER, KENTON DAVID",
     "bookedAt": "2026-11-23T12:50:28",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H7",
     "arrestingAgency": "WDPD",
     "bondTotal": null,
     "charges": [],
@@ -18,7 +18,7 @@
     "inmateNumber": "66310",
     "name": "APPLEFIELD, JULIAN DAVID",
     "bookedAt": "2026-11-23T12:06:29",
-    "location": "1-PENDING BOOKING",
+    "location": "A13",
     "arrestingAgency": "CCSO",
     "bondTotal": 2000,
     "charges": [
@@ -256,9 +256,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T02:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T13:55:18",
     "baseline": false
   },
   {
@@ -277,7 +277,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0891259",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -288,7 +288,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0891260",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -340,7 +340,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0900890",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -392,7 +392,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0279016",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -403,7 +403,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0372917",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1500
       },
@@ -414,7 +414,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0372917",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null
       }
@@ -465,8 +465,8 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0286952",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -492,7 +492,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0311041",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -523,9 +523,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-22T10:15:21",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T13:55:18",
     "baseline": false
   },
   {
@@ -544,7 +544,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0443683",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -580,8 +580,8 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0297051",
-        "disposition": null,
-        "billingAgency": null,
+        "disposition": "Guilty",
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -683,7 +683,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2000
       },
       {
         "description": "THEFT 3RD DEG",
@@ -693,8 +693,8 @@
         "warrantNumber": "6A0444726",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1167,9 +1167,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T07:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T13:55:18",
     "baseline": false
   },
   {
@@ -1187,7 +1187,7 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0344283",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1301,8 +1301,8 @@
         "offenseDate": "2026-11-21T03:32:05",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
+        "warrantNumber": "2610075508",
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -1406,7 +1406,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0926502",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1417,7 +1417,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0957484",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
@@ -1435,58 +1435,25 @@
     "bookedAt": "2026-11-20T18:55:08",
     "location": "B12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 7500,
     "charges": [
-      {
-        "description": "RESIDENTIAL BURGLARY",
-        "offenseDate": "2026-11-20T19:18:42",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
-      },
       {
         "description": "THEFT 2ND DEGREE > $750",
         "offenseDate": "2026-11-20T19:13:13",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075608",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "MALICIOUS MISCHIEF-2",
         "offenseDate": "2026-11-20T19:14:44",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "POSS STL PROP 2/>250",
-        "offenseDate": "2026-11-20T19:20:17",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
-        "description": "STOLEN PROPERTY TRAFFICKING 1 DEGREE",
-        "offenseDate": "2026-11-20T19:21:23",
-        "arrestingAgency": "LVPD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075608",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1497,7 +1464,7 @@
         "offenseDate": "2026-11-20T19:17:32",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075608",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1508,7 +1475,40 @@
         "offenseDate": "2026-11-20T19:15:58",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075608",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "POSS STL PROP 2/>250",
+        "offenseDate": "2026-11-20T19:20:17",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610075708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "offenseDate": "2026-11-20T19:18:42",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610075708",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "STOLEN PROPERTY TRAFFICKING 1 DEGREE",
+        "offenseDate": "2026-11-20T19:21:23",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610075708",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1527,18 +1527,18 @@
     "bookedAt": "2026-11-20T18:29:44",
     "location": "E14",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "BURGLARY 2ND",
         "offenseDate": "2026-11-20T19:16:02",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -1801,25 +1801,25 @@
     "bookedAt": "2026-11-20T12:31:29",
     "location": "A16",
     "arrestingAgency": "WSP",
-    "bondTotal": null,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "FELONY HARASSMENT",
         "offenseDate": "2026-11-20T12:35:06",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075408",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2500
       },
       {
         "description": "ASSAULT 4TH DEGREE",
         "offenseDate": "2026-11-20T12:35:37",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075408",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1830,7 +1830,7 @@
         "offenseDate": "2026-11-20T12:38:20",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075408",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1841,7 +1841,7 @@
         "offenseDate": "2026-11-20T12:37:48",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075408",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -1852,7 +1852,7 @@
         "offenseDate": "2026-11-20T12:36:09",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610075408",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -4170,7 +4170,7 @@
     "inmateNumber": "137290",
     "name": "DELACRUZ, KHIA SHANTE",
     "bookedAt": "2026-11-17T02:50:04",
-    "location": "INTAKE H7",
+    "location": "D22",
     "arrestingAgency": "LVPD",
     "bondTotal": 2000,
     "charges": [
