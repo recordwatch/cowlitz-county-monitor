@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T01:55:23",
+  "generatedAt": "2026-11-23T02:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 768,
-    "bookingsObserved": 602,
+    "bookingsTracked": 769,
+    "bookingsObserved": 603,
     "releasesObserved": 587,
-    "inCustody": 181,
-    "uniquePeople": 700
+    "inCustody": 182,
+    "uniquePeople": 701
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -209,7 +209,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 38,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 110,
-      "pct": 14.4,
+      "count": 111,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "WDPD",
       "count": 21,
-      "pct": 2.8,
+      "pct": 2.7,
       "label": "Woodland Police"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 218,
-      "pct": 12.3
+      "count": 219,
+      "pct": 12.4
     },
     {
       "name": "DOC COURT",
@@ -390,47 +390,47 @@
     {
       "name": "A",
       "count": 39,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "name": "B",
       "count": 30,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "C",
       "count": 21,
-      "pct": 11.6
+      "pct": 11.5
     },
     {
       "name": "D",
       "count": 11,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "E",
       "count": 26,
-      "pct": 14.4
+      "pct": 14.3
     },
     {
       "name": "F",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "G",
       "count": 30,
-      "pct": 16.6
+      "pct": 16.5
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.2
+      "count": 5,
+      "pct": 2.7
     },
     {
       "name": "WSH",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.1,
+    "currentMedianDaysHeld": 16,
     "currentLongestDaysHeld": 529.4
   },
   "bond": {
-    "withBond": 125,
+    "withBond": 126,
     "noBond": 56,
     "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3814200
+    "totalBond": 3814700
   },
   "chargesPerBooking": 2.3
 }
