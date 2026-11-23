@@ -1,5 +1,31 @@
 [
   {
+    "id": "362085-20261123092836",
+    "inmateNumber": "362085",
+    "name": "JOHNSON, JESSE SHAWN",
+    "bookedAt": "2026-11-23T09:28:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "BURGLARY 2ND",
+        "offenseDate": "2026-11-23T09:38:45",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T10:15:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "220277-20261123074711",
     "inmateNumber": "220277",
     "name": "KEITH, NICHOLAS ALEXANDER",

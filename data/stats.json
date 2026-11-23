@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T09:55:17",
+  "generatedAt": "2026-11-23T10:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 770,
-    "bookingsObserved": 604,
+    "bookingsTracked": 771,
+    "bookingsObserved": 605,
     "releasesObserved": 590,
-    "inCustody": 180,
-    "uniquePeople": 701
+    "inCustody": 181,
+    "uniquePeople": 702
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-23",
-      "booked": 2,
+      "booked": 3,
       "released": 3
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 301,
-      "pct": 39.3,
+      "count": 302,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 521,
+      "count": 522,
       "pct": 29.5
     },
     {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.1,
+    "currentMedianDaysHeld": 14,
     "currentLongestDaysHeld": 529.7
   },
   "bond": {
     "withBond": 125,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 3500,
     "maxBond": 500000,
     "totalBond": 3808950
