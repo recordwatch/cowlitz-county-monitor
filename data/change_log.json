@@ -1,5 +1,19 @@
 [
   {
+    "id": "30041-20261123102458",
+    "inmateNumber": "30041",
+    "name": "AGPAOA, FRANKLIN ROBERT LORENZO",
+    "bookedAt": "2026-11-23T10:24:58",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T10:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362085-20261123092836",
     "inmateNumber": "362085",
     "name": "JOHNSON, JESSE SHAWN",
@@ -66,10 +80,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0433114",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -544,10 +558,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0433112",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -758,7 +772,7 @@
     "bookedAt": "2026-11-21T16:29:06",
     "location": "B10",
     "arrestingAgency": "911",
-    "bondTotal": 8000,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "DUI",
@@ -769,7 +783,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 3RD",
@@ -802,7 +816,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": 1000
       },
       {
         "description": "DWLS 2ND",
@@ -951,7 +965,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0417235",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -977,10 +991,10 @@
         "arrestingAgency": "WDPD",
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "6A0097314",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1510,7 +1524,7 @@
     "bookedAt": "2026-11-20T14:16:14",
     "location": "A13",
     "arrestingAgency": "KEPD",
-    "bondTotal": 3000,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -1518,7 +1532,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0494953",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": null
@@ -1529,10 +1543,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0730670",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3000
+        "bondAmount": null
       },
       {
         "description": "MALICIOUS MISCHIEF-3 PHYSICAL DMAGE",
@@ -1540,7 +1554,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "4A0730670",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -1554,7 +1568,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": null
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -5017,7 +5031,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 3500
+        "bondAmount": null
       },
       {
         "description": "INTERFERING DV REPORTING",
@@ -19520,8 +19534,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -19531,8 +19545,8 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-15T18:36:45",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -26735,9 +26749,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T10:55:16",
     "baseline": true
   },
   {
