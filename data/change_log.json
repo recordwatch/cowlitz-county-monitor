@@ -32,10 +32,21 @@
     "inmateNumber": "204086",
     "name": "ZAINES, RAFAEL",
     "bookedAt": "2026-11-22T18:16:45",
-    "location": "1-PENDING BOOKING",
+    "location": "B20",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 2500,
     "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-22T18:25:07",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0279016",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "NVOL - WITHOUT ID",
         "offenseDate": "2026-11-22T18:21:04",
@@ -95,7 +106,7 @@
     "inmateNumber": "42149",
     "name": "DEGENSTEIN, BRITTNEY ELIZABETH",
     "bookedAt": "2026-11-22T17:06:49",
-    "location": "INTAKE H6",
+    "location": "E12",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
