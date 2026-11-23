@@ -77,7 +77,7 @@
         "arrestingAgency": "CCCD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0900890",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -103,7 +103,7 @@
         "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0050220",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
