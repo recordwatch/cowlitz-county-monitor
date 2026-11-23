@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:15:19",
+  "generatedAt": "2026-11-22T20:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 766,
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 227,
+      "count": 228,
       "pct": 12.9
     },
     {
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 38,
-      "pct": 21.5
+      "pct": 21.3
     },
     {
       "name": "B",
-      "count": 29,
-      "pct": 16.4
+      "count": 30,
+      "pct": 16.9
     },
     {
       "name": "C",
@@ -405,12 +405,12 @@
     {
       "name": "D",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "E",
       "count": 26,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "F",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.7
     }
   ],
   "stay": {
@@ -469,7 +469,7 @@
       }
     ],
     "currentMedianDaysHeld": 16.4,
-    "currentLongestDaysHeld": 529.1
+    "currentLongestDaysHeld": 529.2
   },
   "bond": {
     "withBond": 124,

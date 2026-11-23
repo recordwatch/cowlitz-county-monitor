@@ -18,10 +18,22 @@
     "inmateNumber": "241958",
     "name": "STODDARD, CONNOR JAY",
     "bookedAt": "2026-11-22T19:08:57",
-    "location": "1-PENDING BOOKING",
+    "location": "B25",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "PROB/PAROLE VIOL",
+        "offenseDate": "2026-11-22T19:09:45",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0050220",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-22T19:55:17",
     "releasedAt": null,
