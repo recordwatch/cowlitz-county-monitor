@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-22T17:35:17",
+  "generatedAt": "2026-11-22T17:55:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 760,
-    "bookingsObserved": 594,
+    "bookingsTracked": 763,
+    "bookingsObserved": 597,
     "releasesObserved": 587,
-    "inCustody": 173,
-    "uniquePeople": 692
+    "inCustody": 176,
+    "uniquePeople": 695
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-22",
-      "booked": 4,
+      "booked": 7,
       "released": 5
     }
   ],
@@ -265,20 +265,20 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 296,
-      "pct": 39.2,
+      "count": 298,
+      "pct": 39.3,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 138,
+      "count": 139,
       "pct": 18.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 110,
-      "pct": 14.6,
+      "pct": 14.5,
       "label": "Kelso Police"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 17,
-      "pct": 2.3,
+      "pct": 2.2,
       "label": "Castle Rock Police"
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 38,
-      "pct": 22
+      "pct": 21.6
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.3
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11
+      "pct": 10.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.5
+      "pct": 14.2
     },
     {
       "name": "F",
@@ -420,22 +420,22 @@
     {
       "name": "G",
       "count": 30,
-      "pct": 17.3
+      "pct": 17
     },
     {
       "name": "H",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "INTAKE",
-      "count": 2,
-      "pct": 1.2
+      "count": 5,
+      "pct": 2.8
     },
     {
       "name": "WSH",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     }
   ],
   "stay": {
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.2,
+    "currentMedianDaysHeld": 16.8,
     "currentLongestDaysHeld": 529
   },
   "bond": {
     "withBond": 122,
-    "noBond": 51,
+    "noBond": 54,
     "medianBond": 3750,
     "maxBond": 500000,
     "totalBond": 3800200

@@ -1,5 +1,47 @@
 [
   {
+    "id": "229308-20261122172107",
+    "inmateNumber": "229308",
+    "name": "BAILEY, ROBERT CHARLES",
+    "bookedAt": "2026-11-22T17:21:07",
+    "location": "INTAKE H1",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T17:55:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "42149-20261122170649",
+    "inmateNumber": "42149",
+    "name": "DEGENSTEIN, BRITTNEY ELIZABETH",
+    "bookedAt": "2026-11-22T17:06:49",
+    "location": "INTAKE H6",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T17:55:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "15064-20261122165811",
+    "inmateNumber": "15064",
+    "name": "JORDAN, JENNIFER RENAE",
+    "bookedAt": "2026-11-22T16:58:11",
+    "location": "INTAKE H2",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-22T17:55:22",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "12580-20261122093010",
     "inmateNumber": "12580",
     "name": "RONTTY, LARRY ALYN EUGENE",
