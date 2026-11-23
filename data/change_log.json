@@ -4,10 +4,22 @@
     "inmateNumber": "19027",
     "name": "PHILLIPS, COREY ALLEN",
     "bookedAt": "2026-11-22T19:13:15",
-    "location": "1-PENDING BOOKING",
+    "location": "A11",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "PROB/PAROLE VIOL",
+        "offenseDate": "2026-11-22T19:14:42",
+        "arrestingAgency": "CCCD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0900890",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-22T19:55:17",
     "releasedAt": null,
