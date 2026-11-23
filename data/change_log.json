@@ -18107,15 +18107,15 @@
     "bondTotal": 2500,
     "charges": [
       {
-        "description": "MAL MISCH 2ND > $750",
+        "description": "CRIMINAL MISCHIEF ARMED DEADLY WEAPON",
         "offenseDate": "2026-10-18T10:20:47",
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610068708",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -26703,10 +26703,10 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2510077708",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 12000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
