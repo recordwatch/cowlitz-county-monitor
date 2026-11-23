@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:15:19",
+  "generatedAt": "2026-11-23T14:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 776,
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 108,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -352,7 +352,7 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 64,
+      "count": 65,
       "pct": 3.6
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 529.9
   },
   "bond": {
-    "withBond": 125,
-    "noBond": 54,
-    "medianBond": 3000,
+    "withBond": 126,
+    "noBond": 53,
+    "medianBond": 2750,
     "maxBond": 500000,
-    "totalBond": 3809450
+    "totalBond": 3810950
   },
   "chargesPerBooking": 2.3
 }

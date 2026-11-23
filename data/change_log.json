@@ -6,7 +6,7 @@
     "bookedAt": "2026-11-23T12:50:28",
     "location": "INTAKE H7",
     "arrestingAgency": "WDPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -51,6 +51,17 @@
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
+      },
+      {
+        "description": "ANTIHARASSMENT PROTECTION ORDER VIO",
+        "offenseDate": "2026-11-23T14:02:48",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "5A0080070",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -313,7 +324,7 @@
     "bookedAt": "2026-11-22T23:58:43",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1500,
+    "bondTotal": 2000,
     "charges": [
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -335,7 +346,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -799,10 +810,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0444474",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -3465,7 +3476,7 @@
         "warrantNumber": "2410072008",
         "disposition": "Guilty",
         "billingAgency": null,
-        "bondType": "Secured",
+        "bondType": "None",
         "bondAmount": null
       },
       {
@@ -5015,8 +5026,8 @@
         "warrantNumber": "6A0402272",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -13966,7 +13977,7 @@
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610070008",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "SUPR",
         "bondType": "Secured",
         "bondAmount": 25000
