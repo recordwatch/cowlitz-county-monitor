@@ -838,9 +838,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T23:15:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:35:18",
     "baseline": false
   },
   {
@@ -912,9 +912,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T20:35:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:35:18",
     "baseline": false
   },
   {
@@ -1682,9 +1682,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-20T17:35:23",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:35:18",
     "baseline": false
   },
   {
@@ -11522,7 +11522,7 @@
     "inmateNumber": "281853",
     "name": "TESTER, CARTER MICHAEL",
     "bookedAt": "2026-11-02T10:54:56",
-    "location": "A20",
+    "location": "A22",
     "arrestingAgency": "CCSO",
     "bondTotal": 85000,
     "charges": [
@@ -18428,9 +18428,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-18T10:55:15",
-    "releasedAt": null,
+    "releasedAt": "2026-11-23T15:35:18",
     "baseline": false
   },
   {
@@ -19063,7 +19063,7 @@
     "inmateNumber": "168125",
     "name": "NETTLES, JASON CODY",
     "bookedAt": "2026-10-16T15:01:29",
-    "location": "A23",
+    "location": "A20",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
