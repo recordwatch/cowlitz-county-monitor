@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:15:22",
+  "generatedAt": "2026-11-24T08:35:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 780,
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 306,
-      "pct": 39.5,
+      "count": 307,
+      "pct": 39.6,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 143,
-      "pct": 18.5,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -469,7 +469,7 @@
       }
     ],
     "currentMedianDaysHeld": 17.6,
-    "currentLongestDaysHeld": 530.6
+    "currentLongestDaysHeld": 530.7
   },
   "bond": {
     "withBond": 121,
