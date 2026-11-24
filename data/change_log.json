@@ -41,7 +41,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0292300",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -104,7 +104,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0435953",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -130,7 +130,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410066408",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -156,7 +156,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610076108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": "None",
         "bondAmount": null
       },
@@ -167,7 +167,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610076108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
@@ -178,7 +178,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610076108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
@@ -189,7 +189,7 @@
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610076108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "SUPR",
         "bondType": null,
         "bondAmount": null
       },
@@ -200,7 +200,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5A0080070",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 1000
       },
@@ -211,7 +211,7 @@
         "court": "WOODLAND MUNICIPAL COURT",
         "warrantNumber": "5A0631601",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDPD",
         "bondType": "Secured",
         "bondAmount": 500
       }
@@ -237,7 +237,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0290285",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 2000
       }
@@ -392,7 +392,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2610052308",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -444,7 +444,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438775",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": 250
       }
