@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:35:17",
+  "generatedAt": "2026-11-24T15:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 790,
@@ -164,7 +164,7 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 247,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
@@ -172,12 +172,12 @@
       "pct": 8.5
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 122,
-      "pct": 6.7
+      "name": "DOC HOLD",
+      "count": 123,
+      "pct": 6.8
     },
     {
-      "name": "DOC HOLD",
+      "name": "THEFT 3RD DEG",
       "count": 122,
       "pct": 6.7
     },
@@ -259,7 +259,7 @@
     {
       "name": "RECKLESS DRIVING",
       "count": 19,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "topAgencies": [
@@ -272,13 +272,13 @@
     {
       "name": "CCSO",
       "count": 145,
-      "pct": 18.5,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 112,
-      "pct": 14.3,
+      "pct": 14.2,
       "label": "Kelso Police"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 46,
-      "pct": 5.9,
+      "count": 47,
+      "pct": 6,
       "label": "Dept. of Corrections"
     },
     {
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 103,
+      "count": 104,
       "pct": 5.7
     },
     {
@@ -389,38 +389,38 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 33,
-      "pct": 19
+      "count": 35,
+      "pct": 19.9
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 16.1
+      "pct": 15.9
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 10.9
+      "pct": 10.8
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "E",
       "count": 26,
-      "pct": 14.9
+      "pct": 14.8
     },
     {
       "name": "F",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 16.1
+      "pct": 15.9
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.5
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 14.8,
-    "currentLongestDaysHeld": 530.9
+    "currentMedianDaysHeld": 14.9,
+    "currentLongestDaysHeld": 531
   },
   "bond": {
     "withBond": 123,
     "noBond": 54,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4046200
+    "totalBond": 4036200
   },
   "chargesPerBooking": 2.3
 }

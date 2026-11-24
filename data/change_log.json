@@ -5,9 +5,21 @@
     "name": "BRANON CHESLEY, GABRIELLE VERONICA",
     "bookedAt": "2026-11-24T15:03:50",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "DOC",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-24T15:08:56",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "231502126",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-24T15:35:17",
     "releasedAt": null,
@@ -18,7 +30,7 @@
     "inmateNumber": "57786",
     "name": "KORDENAT, KEITH ALLEN",
     "bookedAt": "2026-11-24T15:01:18",
-    "location": "1-PENDING BOOKING",
+    "location": "A15",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -44,7 +56,7 @@
     "inmateNumber": "26485",
     "name": "JACKSON, TIM LLOYD",
     "bookedAt": "2026-11-24T14:34:32",
-    "location": "1-PENDING BOOKING",
+    "location": "A12",
     "arrestingAgency": "KAPD",
     "bondTotal": null,
     "charges": [
@@ -4488,7 +4500,7 @@
     "inmateNumber": "30841",
     "name": "EFFINGER, DESTINY AMBER",
     "bookedAt": "2026-11-17T11:55:20",
-    "location": "E14",
+    "location": "E23",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -9571,7 +9583,7 @@
     "bookedAt": "2026-11-06T01:21:18",
     "location": "G-G22",
     "arrestingAgency": "CRPD",
-    "bondTotal": 20000,
+    "bondTotal": 10000,
     "charges": [
       {
         "description": "DUI - FELONY",
@@ -9612,10 +9624,10 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "CRPD",
         "bondType": "Secured",
-        "bondAmount": 10000
+        "bondAmount": null
       },
       {
         "description": "DWLS 1ST",
@@ -9623,7 +9635,7 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
@@ -9634,7 +9646,7 @@
         "arrestingAgency": "CRPD",
         "court": "CASTLE ROCK MUNICIPAL COURT",
         "warrantNumber": "6A0396111",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "CRPD",
         "bondType": null,
         "bondAmount": null
