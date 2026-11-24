@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T18:55:16",
+  "generatedAt": "2026-11-23T19:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 778,
     "bookingsObserved": 612,
-    "releasesObserved": 603,
-    "inCustody": 175,
+    "releasesObserved": 605,
+    "inCustody": 173,
     "uniquePeople": 708
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 10,
-      "released": 16
+      "released": 18
     }
   ],
   "topCharges": [
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 20
+      "pct": 20.2
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.4
+      "pct": 15.6
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 12.6
+      "pct": 12.7
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.8
     },
     {
       "name": "E",
-      "count": 25,
-      "pct": 14.3
+      "count": 24,
+      "pct": 13.9
     },
     {
       "name": "F",
@@ -419,8 +419,8 @@
     },
     {
       "name": "G",
-      "count": 29,
-      "pct": 16.6
+      "count": 28,
+      "pct": 16.2
     },
     {
       "name": "H",
@@ -435,11 +435,11 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.7
     }
   ],
   "stay": {
-    "releasedCount": 603,
+    "releasedCount": 605,
     "medianDays": 2,
     "meanDays": 13.5,
     "buckets": [
@@ -453,7 +453,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 49
+        "count": 51
       },
       {
         "label": "1–4 weeks",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.6,
+    "currentMedianDaysHeld": 16.8,
     "currentLongestDaysHeld": 530.1
   },
   "bond": {
-    "withBond": 123,
+    "withBond": 121,
     "noBond": 52,
-    "medianBond": 3000,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3805950
+    "totalBond": 3803950
   },
   "chargesPerBooking": 2.3
 }
