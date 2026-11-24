@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T15:55:17",
+  "generatedAt": "2026-11-23T16:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 777,
     "bookingsObserved": 611,
-    "releasesObserved": 602,
-    "inCustody": 175,
+    "releasesObserved": 603,
+    "inCustody": 174,
     "uniquePeople": 707
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-23",
       "booked": 9,
-      "released": 15
+      "released": 16
     }
   ],
   "topCharges": [
@@ -389,28 +389,28 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 36,
-      "pct": 20.7
+      "count": 35,
+      "pct": 20.2
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.6
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 12.6
+      "pct": 12.7
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.8
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.4
+      "pct": 14.5
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 29,
-      "pct": 16.7
+      "pct": 16.8
     },
     {
       "name": "H",
@@ -435,11 +435,11 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.7
     }
   ],
   "stay": {
-    "releasedCount": 602,
+    "releasedCount": 603,
     "medianDays": 2,
     "meanDays": 13.5,
     "buckets": [
@@ -453,7 +453,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 48
+        "count": 49
       },
       {
         "label": "1–4 weeks",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.5,
+    "currentMedianDaysHeld": 16.6,
     "currentLongestDaysHeld": 530
   },
   "bond": {
-    "withBond": 123,
+    "withBond": 122,
     "noBond": 52,
-    "medianBond": 3000,
+    "medianBond": 3250,
     "maxBond": 500000,
-    "totalBond": 3807450
+    "totalBond": 3804950
   },
   "chargesPerBooking": 2.3
 }
