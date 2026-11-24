@@ -331,9 +331,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T12:55:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T12:55:17",
     "baseline": false
   },
   {
@@ -7105,9 +7105,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T09:35:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T12:55:17",
     "baseline": false
   },
   {
@@ -29962,7 +29962,7 @@
     "inmateNumber": "29234",
     "name": "ROUTT, MARIE ANN",
     "bookedAt": "2026-06-29T11:48:59",
-    "location": "E22",
+    "location": "E12",
     "arrestingAgency": "CCSO",
     "bondTotal": 50000,
     "charges": [
