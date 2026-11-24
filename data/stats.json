@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T15:15:23",
+  "generatedAt": "2026-11-24T15:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 788,
-    "bookingsObserved": 622,
+    "bookingsTracked": 790,
+    "bookingsObserved": 624,
     "releasesObserved": 613,
-    "inCustody": 175,
-    "uniquePeople": 716
+    "inCustody": 177,
+    "uniquePeople": 717
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 9,
+      "booked": 11,
       "released": 7
     }
   ],
@@ -172,13 +172,13 @@
       "pct": 8.5
     },
     {
-      "name": "DOC HOLD",
+      "name": "THEFT 3RD DEG",
       "count": 122,
       "pct": 6.7
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 121,
+      "name": "DOC HOLD",
+      "count": 122,
       "pct": 6.7
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 308,
-      "pct": 39.3,
+      "pct": 39.2,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 144,
-      "pct": 18.4,
+      "count": 145,
+      "pct": 18.5,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -326,12 +326,12 @@
   ],
   "courts": [
     {
-      "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 543,
-      "pct": 30
+      "name": "LONGVIEW MUNICIPAL COURT",
+      "count": 544,
+      "pct": 30.1
     },
     {
-      "name": "LONGVIEW MUNICIPAL COURT",
+      "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 543,
       "pct": 30
     },
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 66,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "D",
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 25,
-      "pct": 14.5
+      "count": 26,
+      "pct": 14.9
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.2
+      "pct": 16.1
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.7
+      "pct": 8.6
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.2,
+    "currentMedianDaysHeld": 14.8,
     "currentLongestDaysHeld": 530.9
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 53,
+    "withBond": 123,
+    "noBond": 54,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4045200
+    "totalBond": 4046200
   },
   "chargesPerBooking": 2.3
 }
