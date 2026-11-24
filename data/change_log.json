@@ -1,5 +1,42 @@
 [
   {
+    "id": "362098-20261123184530",
+    "inmateNumber": "362098",
+    "name": "MILNE, CHRISTOPHER LESLY",
+    "bookedAt": "2026-11-23T18:45:30",
+    "location": "INTAKE H3",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "VEHICULAR ASSAULT",
+        "offenseDate": "2026-11-23T18:58:54",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-23T19:00:26",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-23T19:35:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "316417-20261123162919",
     "inmateNumber": "316417",
     "name": "BLAKE, BRETT RYAN",
