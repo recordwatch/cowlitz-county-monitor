@@ -1,5 +1,68 @@
 [
   {
+    "id": "362122-20261124115701",
+    "inmateNumber": "362122",
+    "name": "BREWER, NATHANIEL LEE",
+    "bookedAt": "2026-11-24T11:57:01",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": 100000,
+    "charges": [
+      {
+        "description": "CHILD MOLEST 1ST",
+        "offenseDate": "2026-11-24T11:57:56",
+        "arrestingAgency": "CCCD",
+        "court": "LEWIS COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610057421",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 100000
+      },
+      {
+        "description": "INCEST 1ST DEGREE",
+        "offenseDate": "2026-11-24T11:59:16",
+        "arrestingAgency": "CCCD",
+        "court": "LEWIS COUNTY SUPERIOR COURT",
+        "warrantNumber": "2610057421",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T12:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
+    "id": "9890-20261124115441",
+    "inmateNumber": "9890",
+    "name": "NELSON, TANYA BEVERLY",
+    "bookedAt": "2026-11-24T11:54:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-24T11:57:54",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0069490",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T12:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "68562-20261124111712",
     "inmateNumber": "68562",
     "name": "RODRIGUEZ, CASEY DAWN",
