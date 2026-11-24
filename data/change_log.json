@@ -4,7 +4,7 @@
     "inmateNumber": "352673",
     "name": "COONROD, ZACHARY LEE",
     "bookedAt": "2026-11-24T09:02:09",
-    "location": "1-PENDING BOOKING",
+    "location": "B21",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -236,10 +236,10 @@
         "arrestingAgency": "CCSO",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0290285",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 2000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2652,7 +2652,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0679687",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
@@ -2663,7 +2663,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "5A0679687",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
@@ -2674,7 +2674,7 @@
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0126291",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
@@ -6977,10 +6977,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0349527",
-        "disposition": null,
+        "disposition": "Dismissed",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "OBSTRUCTING PUBLIC SERVANT",
@@ -6988,10 +6988,10 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0358267",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 500
+        "bondAmount": null
       },
       {
         "description": "RESISTING ARREST",
@@ -6999,7 +6999,7 @@
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0358267",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "KEPD",
         "bondType": null,
         "bondAmount": null
