@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T14:55:17",
+  "generatedAt": "2026-11-24T15:15:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 787,
-    "bookingsObserved": 621,
+    "bookingsTracked": 788,
+    "bookingsObserved": 622,
     "releasesObserved": 613,
-    "inCustody": 174,
-    "uniquePeople": 715
+    "inCustody": 175,
+    "uniquePeople": 716
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 8,
+      "booked": 9,
       "released": 7
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "DOC HOLD",
       "count": 122,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -227,6 +227,11 @@
       "pct": 1.9
     },
     {
+      "name": "FELONY HARASSMENT",
+      "count": 22,
+      "pct": 1.2
+    },
+    {
       "name": "CRIM TRESPASS 1ST",
       "count": 22,
       "pct": 1.2
@@ -238,11 +243,6 @@
     },
     {
       "name": "POSS W/INTENT",
-      "count": 21,
-      "pct": 1.2
-    },
-    {
-      "name": "FELONY HARASSMENT",
       "count": 21,
       "pct": 1.2
     },
@@ -313,8 +313,8 @@
     },
     {
       "name": "KAPD",
-      "count": 7,
-      "pct": 0.9,
+      "count": 8,
+      "pct": 1,
       "label": "KAPD"
     },
     {
@@ -326,13 +326,13 @@
   ],
   "courts": [
     {
-      "name": "LONGVIEW MUNICIPAL COURT",
+      "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 543,
-      "pct": 30.1
+      "pct": 30
     },
     {
-      "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 541,
+      "name": "LONGVIEW MUNICIPAL COURT",
+      "count": 543,
       "pct": 30
     },
     {
@@ -358,7 +358,7 @@
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
       "count": 28,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "DRUG COURT",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 16.3,
+    "currentMedianDaysHeld": 15.2,
     "currentLongestDaysHeld": 530.9
   },
   "bond": {
     "withBond": 122,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4045200

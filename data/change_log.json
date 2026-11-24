@@ -1,5 +1,42 @@
 [
   {
+    "id": "26485-20261124143432",
+    "inmateNumber": "26485",
+    "name": "JACKSON, TIM LLOYD",
+    "bookedAt": "2026-11-24T14:34:32",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KAPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 2 DV",
+        "offenseDate": "2026-11-24T14:37:48",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-11-24T14:38:51",
+        "arrestingAgency": "KAPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T15:15:23",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "316989-20261124140230",
     "inmateNumber": "316989",
     "name": "ENOCKSON, BRENDA JEAN",
