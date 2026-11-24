@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:35:19",
+  "generatedAt": "2026-11-24T09:55:22",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 781,
@@ -172,13 +172,13 @@
       "pct": 8.5
     },
     {
-      "name": "THEFT 3RD DEG",
+      "name": "DOC HOLD",
       "count": 121,
       "pct": 6.7
     },
     {
-      "name": "DOC HOLD",
-      "count": 120,
+      "name": "THEFT 3RD DEG",
+      "count": 121,
       "pct": 6.7
     },
     {
@@ -343,12 +343,12 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 220,
-      "pct": 12.3
+      "pct": 12.2
     },
     {
       "name": "DOC COURT",
-      "count": 101,
-      "pct": 5.6
+      "count": 102,
+      "pct": 5.7
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
@@ -389,8 +389,8 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 35,
-      "pct": 20.3
+      "count": 36,
+      "pct": 20.9
     },
     {
       "name": "B",
@@ -399,8 +399,8 @@
     },
     {
       "name": "C",
-      "count": 21,
-      "pct": 12.2
+      "count": 20,
+      "pct": 11.6
     },
     {
       "name": "D",
