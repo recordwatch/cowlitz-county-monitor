@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T14:35:28",
+  "generatedAt": "2026-11-24T14:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 787,
     "bookingsObserved": 621,
-    "releasesObserved": 610,
-    "inCustody": 177,
+    "releasesObserved": 613,
+    "inCustody": 174,
     "uniquePeople": 715
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-24",
       "booked": 8,
-      "released": 4
+      "released": 7
     }
   ],
   "topCharges": [
@@ -332,13 +332,13 @@
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 538,
-      "pct": 29.8
+      "count": 541,
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 230,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -389,38 +389,38 @@
   "housingUnits": [
     {
       "name": "A",
-      "count": 34,
-      "pct": 19.3
+      "count": 33,
+      "pct": 19.1
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 15.9
+      "pct": 16.2
     },
     {
       "name": "C",
-      "count": 21,
-      "pct": 11.9
+      "count": 19,
+      "pct": 11
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 6.8
+      "pct": 6.9
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.2
+      "pct": 14.5
     },
     {
       "name": "F",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.9
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 15.9
+      "pct": 16.2
     },
     {
       "name": "H",
@@ -435,21 +435,21 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.5
+      "pct": 8.7
     }
   ],
   "stay": {
-    "releasedCount": 610,
+    "releasedCount": 613,
     "medianDays": 2,
     "meanDays": 13.4,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 218
+        "count": 219
       },
       {
         "label": "1–3 days",
-        "count": 148
+        "count": 149
       },
       {
         "label": "3–7 days",
@@ -457,7 +457,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 125
+        "count": 126
       },
       {
         "label": "1–3 months",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.2,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 530.9
   },
   "bond": {
-    "withBond": 124,
-    "noBond": 53,
+    "withBond": 122,
+    "noBond": 52,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3957950
+    "totalBond": 4045200
   },
   "chargesPerBooking": 2.3
 }

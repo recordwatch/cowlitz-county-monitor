@@ -6,8 +6,42 @@
     "bookedAt": "2026-11-24T14:02:30",
     "location": "1-PENDING BOOKING",
     "arrestingAgency": "CCCD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 100000,
+    "charges": [
+      {
+        "description": "ASSAULT 1ST",
+        "offenseDate": "2026-11-24T14:05:34",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2310028408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 100000
+      },
+      {
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-11-24T14:06:40",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2310028408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "MALICIOUS MISCHIEF-2",
+        "offenseDate": "2026-11-24T14:07:18",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "2310028408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-24T14:35:28",
     "releasedAt": null,
@@ -238,9 +272,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T19:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T14:55:17",
     "baseline": false
   },
   {
@@ -604,9 +638,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T08:35:32",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T14:55:17",
     "baseline": false
   },
   {
@@ -12688,9 +12722,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-31T04:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T14:55:17",
     "baseline": false
   },
   {
