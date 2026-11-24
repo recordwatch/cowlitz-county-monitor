@@ -1,5 +1,19 @@
 [
   {
+    "id": "316989-20261124140230",
+    "inmateNumber": "316989",
+    "name": "ENOCKSON, BRENDA JEAN",
+    "bookedAt": "2026-11-24T14:02:30",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T14:35:28",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "287821-20261124124354",
     "inmateNumber": "287821",
     "name": "SHELDONE, BENJIE HYMAN",
@@ -197,7 +211,7 @@
     "inmateNumber": "362098",
     "name": "MILNE, CHRISTOPHER LESLY",
     "bookedAt": "2026-11-23T18:45:30",
-    "location": "INTAKE H1",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 7500,
     "charges": [
