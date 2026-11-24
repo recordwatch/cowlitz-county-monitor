@@ -4,7 +4,7 @@
     "inmateNumber": "287821",
     "name": "SHELDONE, BENJIE HYMAN",
     "bookedAt": "2026-11-24T12:43:54",
-    "location": "1-PENDING BOOKING",
+    "location": "D25",
     "arrestingAgency": "KEPD",
     "bondTotal": null,
     "charges": [
@@ -181,10 +181,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "5A0292300",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -199,7 +199,7 @@
     "bookedAt": "2026-11-23T18:45:30",
     "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 7500,
     "charges": [
       {
         "description": "VEHICULAR ASSAULT",
@@ -209,8 +209,8 @@
         "warrantNumber": "2610076008",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "DUI",
@@ -288,7 +288,7 @@
     "bookedAt": "2026-11-23T12:50:28",
     "location": "INTAKE H7",
     "arrestingAgency": "WDPD",
-    "bondTotal": 1000,
+    "bondTotal": 8500,
     "charges": [
       {
         "description": "ATTEMPT TO ELUDE",
@@ -298,8 +298,8 @@
         "warrantNumber": "2610076108",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 7500
       },
       {
         "description": "DWLS 3RD",
@@ -421,7 +421,7 @@
     "bookedAt": "2026-11-23T10:47:24",
     "location": "C12",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 35000,
     "charges": [
       {
         "description": "THEFT OF MOTOR VEHICLE",
@@ -431,8 +431,8 @@
         "warrantNumber": "2610075808",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 35000
       },
       {
         "description": "ATTEMPT TO ELUDE",
@@ -584,10 +584,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0438775",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 250
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -1907,7 +1907,7 @@
     "inmateNumber": "71515",
     "name": "COTHREN, CIARA CATHY",
     "bookedAt": "2026-11-20T18:29:44",
-    "location": "E14",
+    "location": "E24",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -4749,8 +4749,8 @@
         "warrantNumber": "6A0438951",
         "disposition": null,
         "billingAgency": "LVPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 2000
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
@@ -10173,25 +10173,25 @@
         "bondAmount": null
       },
       {
-        "description": "DWLS 3RD",
-        "offenseDate": "2026-11-05T12:10:41",
-        "arrestingAgency": "LVPD",
-        "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0010083",
-        "disposition": null,
-        "billingAgency": "LVPD",
-        "bondType": "Secured",
-        "bondAmount": 2000
-      },
-      {
         "description": "OPER VEH W/O IGN INTERLOCK",
         "offenseDate": "2026-11-05T12:13:08",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0010083",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
-        "bondType": null,
+        "bondType": "Secured",
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-05T12:10:41",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0010083",
+        "disposition": "Dismissed",
+        "billingAgency": "LVPD",
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -12657,10 +12657,10 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412983",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 5000
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -12668,7 +12668,7 @@
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0412983",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "LVPD",
         "bondType": null,
         "bondAmount": null

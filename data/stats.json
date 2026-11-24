@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:35:18",
+  "generatedAt": "2026-11-24T13:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 786,
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "B",
       "count": 28,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "C",
@@ -404,23 +404,23 @@
     },
     {
       "name": "D",
-      "count": 10,
-      "pct": 5.7
+      "count": 11,
+      "pct": 6.3
     },
     {
       "name": "E",
       "count": 25,
-      "pct": 14.3
+      "pct": 14.2
     },
     {
       "name": "F",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 16
+      "pct": 15.9
     },
     {
       "name": "H",
@@ -435,7 +435,7 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.5
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 530.9
   },
   "bond": {
-    "withBond": 122,
-    "noBond": 54,
-    "medianBond": 3750,
+    "withBond": 124,
+    "noBond": 52,
+    "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3906450
+    "totalBond": 3956450
   },
   "chargesPerBooking": 2.3
 }
