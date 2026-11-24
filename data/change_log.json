@@ -4,14 +4,14 @@
     "inmateNumber": "68562",
     "name": "RODRIGUEZ, CASEY DAWN",
     "bookedAt": "2026-11-24T11:17:12",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
+    "location": "E23",
+    "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-24T11:23:38",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "6A0221224",
         "disposition": null,
@@ -5061,7 +5061,7 @@
         "arrestingAgency": "DOC",
         "court": "DOC COURT",
         "warrantNumber": "011008878",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5224,7 +5224,7 @@
         "arrestingAgency": "LVPD",
         "court": "DOC COURT",
         "warrantNumber": "141011374",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
@@ -5287,7 +5287,7 @@
         "arrestingAgency": "KEPD",
         "court": "DOC COURT",
         "warrantNumber": "2510070108",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
