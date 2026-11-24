@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:55:18",
+  "generatedAt": "2026-11-24T11:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 781,
@@ -163,8 +163,8 @@
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 245,
-      "pct": 13.6
+      "count": 246,
+      "pct": 13.7
     },
     {
       "name": "DWLS 3RD",
@@ -333,17 +333,17 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 538,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 229,
-      "pct": 12.8
+      "pct": 12.7
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 220,
-      "pct": 12.2
+      "count": 221,
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -476,7 +476,7 @@
     "noBond": 52,
     "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3803950
+    "totalBond": 3803450
   },
   "chargesPerBooking": 2.3
 }
