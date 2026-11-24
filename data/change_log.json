@@ -236,7 +236,7 @@
     "bookedAt": "2026-11-23T16:29:19",
     "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 2500,
     "charges": [
       {
         "description": "DUI",
@@ -247,7 +247,7 @@
         "disposition": null,
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": 2500
       }
     ],
     "status": "in_custody",
@@ -14777,7 +14777,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "INTAKE H5",
+    "location": "D13",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [
