@@ -1,10 +1,36 @@
 [
   {
+    "id": "287821-20261124124354",
+    "inmateNumber": "287821",
+    "name": "SHELDONE, BENJIE HYMAN",
+    "bookedAt": "2026-11-24T12:43:54",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-24T12:55:31",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0346293",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T13:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "113365-20261124123942",
     "inmateNumber": "113365",
     "name": "VIVIAN, BENJAMIN JAMES",
     "bookedAt": "2026-11-24T12:39:42",
-    "location": "1-PENDING BOOKING",
+    "location": "B21",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -67,7 +93,7 @@
     "inmateNumber": "9890",
     "name": "NELSON, TANYA BEVERLY",
     "bookedAt": "2026-11-24T11:54:41",
-    "location": "1-PENDING BOOKING",
+    "location": "E13",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
@@ -93,7 +119,7 @@
     "inmateNumber": "68562",
     "name": "RODRIGUEZ, CASEY DAWN",
     "bookedAt": "2026-11-24T11:17:12",
-    "location": "E23",
+    "location": "E11",
     "arrestingAgency": "CCSO",
     "bondTotal": null,
     "charges": [
@@ -145,7 +171,7 @@
     "inmateNumber": "71458",
     "name": "BOYER, BRITTANY GAYLE",
     "bookedAt": "2026-11-24T02:05:06",
-    "location": "INTAKE H5",
+    "location": "INTAKE H6",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
@@ -369,7 +395,7 @@
     "bookedAt": "2026-11-23T11:24:48",
     "location": "E12",
     "arrestingAgency": "CCSO",
-    "bondTotal": null,
+    "bondTotal": 5000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
@@ -379,8 +405,8 @@
         "warrantNumber": "2610054208",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 5000
       }
     ],
     "status": "in_custody",
@@ -524,7 +550,7 @@
     "bookedAt": "2026-11-23T09:28:36",
     "location": "C13",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "BURGLARY 2ND",
@@ -534,8 +560,8 @@
         "warrantNumber": "2610075908",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -14751,7 +14777,7 @@
     "inmateNumber": "307862",
     "name": "OKUTSU, SAVANNAH RAE",
     "bookedAt": "2026-10-26T19:17:14",
-    "location": "D13",
+    "location": "INTAKE H5",
     "arrestingAgency": "CCSO",
     "bondTotal": 10000,
     "charges": [

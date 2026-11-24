@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T13:15:19",
+  "generatedAt": "2026-11-24T13:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 785,
-    "bookingsObserved": 619,
+    "bookingsTracked": 786,
+    "bookingsObserved": 620,
     "releasesObserved": 610,
-    "inCustody": 175,
-    "uniquePeople": 713
+    "inCustody": 176,
+    "uniquePeople": 714
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 6,
+      "booked": 7,
       "released": 4
     }
   ],
@@ -213,7 +213,7 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 34,
+      "count": 35,
       "pct": 1.9
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "KEPD",
-      "count": 111,
-      "pct": 14.2,
+      "count": 112,
+      "pct": 14.3,
       "label": "Kelso Police"
     },
     {
@@ -333,7 +333,7 @@
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 538,
-      "pct": 29.9
+      "pct": 29.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,7 +342,7 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 221,
+      "count": 222,
       "pct": 12.3
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.7
+      "pct": 19.4
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 15.6
+      "count": 28,
+      "pct": 16
     },
     {
       "name": "C",
       "count": 20,
-      "pct": 11.6
+      "pct": 11.4
     },
     {
       "name": "D",
-      "count": 11,
-      "pct": 6.4
+      "count": 10,
+      "pct": 5.7
     },
     {
       "name": "E",
-      "count": 24,
-      "pct": 13.9
+      "count": 25,
+      "pct": 14.3
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.2
+      "pct": 16
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.9
+      "count": 6,
+      "pct": 3.4
     },
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.7
+      "pct": 8.6
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.4,
+    "currentMedianDaysHeld": 16.3,
     "currentLongestDaysHeld": 530.9
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 55,
+    "withBond": 122,
+    "noBond": 54,
     "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3900450
+    "totalBond": 3906450
   },
   "chargesPerBooking": 2.3
 }
