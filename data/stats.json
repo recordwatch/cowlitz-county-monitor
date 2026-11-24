@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T05:35:18",
+  "generatedAt": "2026-11-24T05:55:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 780,
     "bookingsObserved": 614,
-    "releasesObserved": 606,
-    "inCustody": 174,
+    "releasesObserved": 608,
+    "inCustody": 172,
     "uniquePeople": 710
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-24",
       "booked": 1,
-      "released": 0
+      "released": 2
     }
   ],
   "topCharges": [
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.5
+      "pct": 19.8
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 15.5
+      "count": 26,
+      "pct": 15.1
     },
     {
       "name": "C",
       "count": 22,
-      "pct": 12.6
+      "pct": 12.8
     },
     {
       "name": "D",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.8
     },
     {
       "name": "E",
-      "count": 24,
-      "pct": 13.8
+      "count": 23,
+      "pct": 13.4
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.1
+      "pct": 16.3
     },
     {
       "name": "H",
@@ -435,11 +435,11 @@
     {
       "name": "WSH",
       "count": 15,
-      "pct": 8.6
+      "pct": 8.7
     }
   ],
   "stay": {
-    "releasedCount": 606,
+    "releasedCount": 608,
     "medianDays": 2,
     "meanDays": 13.5,
     "buckets": [
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 146
+        "count": 147
       },
       {
         "label": "3–7 days",
@@ -457,7 +457,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 123
+        "count": 124
       },
       {
         "label": "1–3 months",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 17.1,
+    "currentMedianDaysHeld": 17.5,
     "currentLongestDaysHeld": 530.5
   },
   "bond": {
     "withBond": 121,
-    "noBond": 53,
+    "noBond": 51,
     "medianBond": 3500,
     "maxBond": 500000,
     "totalBond": 3803950
