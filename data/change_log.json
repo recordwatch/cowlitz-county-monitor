@@ -1,5 +1,19 @@
 [
   {
+    "id": "352673-20261124090209",
+    "inmateNumber": "352673",
+    "name": "COONROD, ZACHARY LEE",
+    "bookedAt": "2026-11-24T09:02:09",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T09:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "71458-20261124020506",
     "inmateNumber": "71458",
     "name": "BOYER, BRITTANY GAYLE",
@@ -2849,7 +2863,7 @@
     "inmateNumber": "359969",
     "name": "CRUZ VAZQUEZ, JESUS ALBERTO",
     "bookedAt": "2026-11-19T11:41:14",
-    "location": "C10",
+    "location": "A15",
     "arrestingAgency": "CCCD",
     "bondTotal": 4500,
     "charges": [
