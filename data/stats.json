@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T12:55:17",
+  "generatedAt": "2026-11-24T13:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 784,
-    "bookingsObserved": 618,
+    "bookingsTracked": 785,
+    "bookingsObserved": 619,
     "releasesObserved": 610,
-    "inCustody": 174,
+    "inCustody": 175,
     "uniquePeople": 713
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 5,
+      "booked": 6,
       "released": 4
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 121,
-      "pct": 6.7
+      "count": 122,
+      "pct": 6.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 308,
-      "pct": 39.5,
+      "pct": 39.4,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 144,
-      "pct": 18.5,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "name": "DOC",
-      "count": 45,
-      "pct": 5.8,
+      "count": 46,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 102,
+      "count": 103,
       "pct": 5.7
     },
     {
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.8
+      "pct": 19.7
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.7
+      "pct": 15.6
     },
     {
       "name": "C",
@@ -404,13 +404,13 @@
     },
     {
       "name": "D",
-      "count": 10,
-      "pct": 5.8
+      "count": 11,
+      "pct": 6.4
     },
     {
       "name": "E",
       "count": 24,
-      "pct": 14
+      "pct": 13.9
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 16.3
+      "pct": 16.2
     },
     {
       "name": "H",
@@ -469,11 +469,11 @@
       }
     ],
     "currentMedianDaysHeld": 17.4,
-    "currentLongestDaysHeld": 530.8
+    "currentLongestDaysHeld": 530.9
   },
   "bond": {
     "withBond": 120,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 3750,
     "maxBond": 500000,
     "totalBond": 3900450

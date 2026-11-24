@@ -1,10 +1,36 @@
 [
   {
+    "id": "113365-20261124123942",
+    "inmateNumber": "113365",
+    "name": "VIVIAN, BENJAMIN JAMES",
+    "bookedAt": "2026-11-24T12:39:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-24T12:40:26",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2110049008",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T13:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362122-20261124115701",
     "inmateNumber": "362122",
     "name": "BREWER, NATHANIEL LEE",
     "bookedAt": "2026-11-24T11:57:01",
-    "location": "1-PENDING BOOKING",
+    "location": "D23",
     "arrestingAgency": "CCCD",
     "bondTotal": 100000,
     "charges": [
@@ -1418,7 +1444,7 @@
     "inmateNumber": "36946",
     "name": "HUMBLE, RALEIGH ROBERT",
     "bookedAt": "2026-11-21T10:00:00",
-    "location": "B12",
+    "location": "B24",
     "arrestingAgency": "911",
     "bondTotal": null,
     "charges": [
