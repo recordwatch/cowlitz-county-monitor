@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T15:55:17",
+  "generatedAt": "2026-11-24T16:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 790,
-    "bookingsObserved": 624,
+    "bookingsTracked": 791,
+    "bookingsObserved": 625,
     "releasesObserved": 613,
-    "inCustody": 177,
-    "uniquePeople": 717
+    "inCustody": 178,
+    "uniquePeople": 718
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 11,
+      "booked": 12,
       "released": 7
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 153,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DOC HOLD",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 308,
-      "pct": 39.2,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "CRPD",
-      "count": 17,
-      "pct": 2.2,
+      "count": 18,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 544,
-      "pct": 30.1
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 230,
-      "pct": 12.7
+      "count": 232,
+      "pct": 12.8
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 14.9,
+    "currentMedianDaysHeld": 14.6,
     "currentLongestDaysHeld": 531
   },
   "bond": {
     "withBond": 123,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4036200

@@ -1,5 +1,42 @@
 [
   {
+    "id": "75165-20261124154125",
+    "inmateNumber": "75165",
+    "name": "TURNER RISMOEN, CHASE M T",
+    "bookedAt": "2026-11-24T15:41:25",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-24T15:42:50",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0403141",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "DISORDERLY CONDUCT",
+        "offenseDate": "2026-11-24T15:43:55",
+        "arrestingAgency": "CRPD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "5A0403141",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T16:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "349733-20261124150350",
     "inmateNumber": "349733",
     "name": "BRANON CHESLEY, GABRIELLE VERONICA",
