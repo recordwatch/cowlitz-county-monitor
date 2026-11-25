@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-24T23:55:19",
+  "generatedAt": "2026-11-25T00:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 793,
-    "bookingsObserved": 627,
+    "bookingsTracked": 794,
+    "bookingsObserved": 628,
     "releasesObserved": 615,
-    "inCustody": 178,
-    "uniquePeople": 719
+    "inCustody": 179,
+    "uniquePeople": 720
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-26",
-      "booked": 16,
-      "released": 16
-    },
     {
       "date": "2026-10-27",
       "booked": 7,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 14,
+      "booked": 15,
       "released": 9
+    },
+    {
+      "date": "2026-11-25",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 308,
-      "pct": 39,
+      "count": 309,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 232,
-      "pct": 12.8
+      "count": 234,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -468,12 +468,12 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 14.9,
+    "currentMedianDaysHeld": 14.6,
     "currentLongestDaysHeld": 531.3
   },
   "bond": {
     "withBond": 122,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 4034200
