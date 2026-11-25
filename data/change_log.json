@@ -7,7 +7,19 @@
     "location": "E22",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-25T08:31:16",
+        "arrestingAgency": "CCCD",
+        "court": "DOC COURT",
+        "warrantNumber": "2410044208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-25T08:35:19",
     "releasedAt": null,
