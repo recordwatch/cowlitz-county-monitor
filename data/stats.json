@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T10:55:18",
+  "generatedAt": "2026-11-25T11:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 796,
-    "bookingsObserved": 630,
-    "releasesObserved": 621,
+    "bookingsTracked": 797,
+    "bookingsObserved": 631,
+    "releasesObserved": 622,
     "inCustody": 175,
-    "uniquePeople": 722
+    "uniquePeople": 723
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 2,
-      "released": 6
+      "booked": 3,
+      "released": 7
     }
   ],
   "topCharges": [
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 85,
-      "pct": 10.7,
+      "count": 86,
+      "pct": 10.8,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.4
+      "pct": 19.5
     },
     {
       "name": "B",
       "count": 27,
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "name": "C",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 27,
-      "pct": 15.4
+      "pct": 15.5
     },
     {
       "name": "F",
-      "count": 6,
-      "pct": 3.4
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "G",
       "count": 28,
-      "pct": 16
+      "pct": 16.1
     },
     {
       "name": "H",
@@ -439,7 +439,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 621,
+    "releasedCount": 622,
     "medianDays": 2,
     "meanDays": 13.4,
     "buckets": [
@@ -449,7 +449,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 151
+        "count": 152
       },
       {
         "label": "3–7 days",

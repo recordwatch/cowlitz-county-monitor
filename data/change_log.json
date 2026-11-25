@@ -1,5 +1,19 @@
 [
   {
+    "id": "202631-20261125104313",
+    "inmateNumber": "202631",
+    "name": "BURGENER, WENDY LYNN",
+    "bookedAt": "2026-11-25T10:43:13",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T11:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "336494-20261125075846",
     "inmateNumber": "336494",
     "name": "DEW, DASHAYLIA DENISE",
@@ -613,9 +627,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T15:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T11:15:18",
     "baseline": false
   },
   {
