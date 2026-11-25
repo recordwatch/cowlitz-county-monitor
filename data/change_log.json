@@ -53,7 +53,7 @@
         "offenseDate": "2026-11-25T04:58:05",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610076208",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
@@ -64,7 +64,7 @@
         "offenseDate": "2026-11-25T05:00:30",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610076208",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -75,7 +75,7 @@
         "offenseDate": "2026-11-25T04:59:48",
         "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": null,
+        "warrantNumber": "2610076208",
         "disposition": null,
         "billingAgency": null,
         "bondType": null,
@@ -272,7 +272,7 @@
     "bookedAt": "2026-11-24T14:34:32",
     "location": "A12",
     "arrestingAgency": "KAPD",
-    "bondTotal": null,
+    "bondTotal": 20000,
     "charges": [
       {
         "description": "ASSAULT 2 DV",
@@ -282,8 +282,8 @@
         "warrantNumber": "2610076308",
         "disposition": null,
         "billingAgency": null,
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 20000
       },
       {
         "description": "FELONY HARASSMENT",
@@ -20459,8 +20459,8 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-15T18:36:45",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -20470,8 +20470,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -21718,10 +21718,10 @@
         "arrestingAgency": "KEPD",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0372695",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
-        "bondAmount": 2500
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -28609,7 +28609,7 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0380745",
-        "disposition": "Per. Recogn.",
+        "disposition": "Guilty",
         "billingAgency": "LVPD",
         "bondType": "Secured",
         "bondAmount": null
@@ -28620,9 +28620,9 @@
         "arrestingAgency": "CCSO",
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0380745",
-        "disposition": "Per. Recogn.",
+        "disposition": "Dismissed",
         "billingAgency": "LVPD",
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
@@ -28929,8 +28929,8 @@
         "warrantNumber": "2610053408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
         "description": "DWLS 3RD",
@@ -28944,19 +28944,19 @@
         "bondAmount": null
       },
       {
-        "description": "BURGLARY 1ST",
-        "offenseDate": "2026-08-17T10:13:27",
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-08-17T10:17:23",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": null,
+        "bondAmount": null
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-08-17T10:17:23",
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-08-17T10:13:27",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
