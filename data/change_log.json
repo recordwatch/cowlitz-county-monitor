@@ -113,7 +113,7 @@
   {
     "id": "362080-20261124230538",
     "inmateNumber": "362080",
-    "name": "MEDAL, MACKSON NONE",
+    "name": "MEDAL, MACKSON",
     "bookedAt": "2026-11-24T23:05:38",
     "location": "INTAKE H3",
     "arrestingAgency": "KEPD",
@@ -126,7 +126,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0384768",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "Secured",
         "bondAmount": 1000
       }
@@ -152,7 +152,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2410075208",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -215,7 +215,7 @@
         "court": "DOC COURT",
         "warrantNumber": "231502126",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -352,7 +352,7 @@
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0346293",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "KEPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -378,7 +378,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2110049008",
         "disposition": "Guilty",
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
@@ -441,7 +441,7 @@
         "court": "LONGVIEW MUNICIPAL COURT",
         "warrantNumber": "6A0069490",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "LVPD",
         "bondType": "None",
         "bondAmount": null
       }
@@ -493,7 +493,7 @@
         "court": "DOC COURT",
         "warrantNumber": "2510092108",
         "disposition": null,
-        "billingAgency": null,
+        "billingAgency": "WDOC",
         "bondType": "None",
         "bondAmount": null
       }
