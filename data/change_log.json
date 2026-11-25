@@ -1,5 +1,31 @@
 [
   {
+    "id": "362080-20261124230538",
+    "inmateNumber": "362080",
+    "name": "MEDAL, MACKSON NONE",
+    "bookedAt": "2026-11-24T23:05:38",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-24T23:15:51",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0384768",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T23:55:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "34958-20261124160802",
     "inmateNumber": "34958",
     "name": "BYRUM, JEFFERY LEE",
