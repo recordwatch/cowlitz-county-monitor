@@ -343,7 +343,7 @@
     "bookedAt": "2026-11-24T12:43:54",
     "location": "D25",
     "arrestingAgency": "KEPD",
-    "bondTotal": null,
+    "bondTotal": 1000,
     "charges": [
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
@@ -353,8 +353,8 @@
         "warrantNumber": "6A0346293",
         "disposition": null,
         "billingAgency": "KEPD",
-        "bondType": "None",
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
@@ -1178,7 +1178,7 @@
     "inmateNumber": "15064",
     "name": "JORDAN, JENNIFER RENAE",
     "bookedAt": "2026-11-22T16:58:11",
-    "location": "INTAKE H2",
+    "location": "INTAKE H7",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
