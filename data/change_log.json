@@ -1,5 +1,31 @@
 [
   {
+    "id": "34958-20261124160802",
+    "inmateNumber": "34958",
+    "name": "BYRUM, JEFFERY LEE",
+    "bookedAt": "2026-11-24T16:08:02",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "DOC",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-24T16:11:08",
+        "arrestingAgency": "DOC",
+        "court": "DOC COURT",
+        "warrantNumber": "2410075208",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-24T16:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "75165-20261124154125",
     "inmateNumber": "75165",
     "name": "TURNER RISMOEN, CHASE M T",
@@ -408,7 +434,7 @@
     "inmateNumber": "316417",
     "name": "BLAKE, BRETT RYAN",
     "bookedAt": "2026-11-23T16:29:19",
-    "location": "INTAKE H3",
+    "location": "C11",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
@@ -3143,9 +3169,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-19T14:35:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-24T16:55:16",
     "baseline": false
   },
   {
