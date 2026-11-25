@@ -8,9 +8,9 @@
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-25T11:15:18",
-    "releasedAt": null,
+    "releasedAt": "2026-11-25T11:35:16",
     "baseline": false
   },
   {
@@ -102,7 +102,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3A0570886",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -113,7 +113,7 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "3A0570886",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
@@ -191,7 +191,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0403141",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
@@ -202,7 +202,7 @@
         "arrestingAgency": "CRPD",
         "court": "COWLITZ COUNTY DISTRICT COURT",
         "warrantNumber": "5A0403141",
-        "disposition": null,
+        "disposition": "Guilty",
         "billingAgency": null,
         "bondType": null,
         "bondAmount": null
