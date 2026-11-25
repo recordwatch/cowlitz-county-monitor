@@ -1,5 +1,53 @@
 [
   {
+    "id": "360153-20261125044736",
+    "inmateNumber": "360153",
+    "name": "FLETCHER, JOHN EDWARD",
+    "bookedAt": "2026-11-25T04:47:36",
+    "location": "INTAKE H1",
+    "arrestingAgency": "KEPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "FELONY HARASSMENT",
+        "offenseDate": "2026-11-25T04:58:05",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-25T05:00:30",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "UNLAWFUL IMPRISONMMT",
+        "offenseDate": "2026-11-25T04:59:48",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T05:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "69239-20261124234322",
     "inmateNumber": "69239",
     "name": "SMITH, LANCE RONALD",
