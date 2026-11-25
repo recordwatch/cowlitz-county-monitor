@@ -4,7 +4,7 @@
     "inmateNumber": "34958",
     "name": "BYRUM, JEFFERY LEE",
     "bookedAt": "2026-11-24T16:08:02",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H5",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -30,7 +30,7 @@
     "inmateNumber": "75165",
     "name": "TURNER RISMOEN, CHASE M T",
     "bookedAt": "2026-11-24T15:41:25",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H6",
     "arrestingAgency": "CRPD",
     "bondTotal": null,
     "charges": [
@@ -67,7 +67,7 @@
     "inmateNumber": "349733",
     "name": "BRANON CHESLEY, GABRIELLE VERONICA",
     "bookedAt": "2026-11-24T15:03:50",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "DOC",
     "bondTotal": null,
     "charges": [
@@ -93,7 +93,7 @@
     "inmateNumber": "57786",
     "name": "KORDENAT, KEITH ALLEN",
     "bookedAt": "2026-11-24T15:01:18",
-    "location": "A15",
+    "location": "INTAKE H8",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
@@ -371,7 +371,7 @@
     "inmateNumber": "71458",
     "name": "BOYER, BRITTANY GAYLE",
     "bookedAt": "2026-11-24T02:05:06",
-    "location": "INTAKE H6",
+    "location": "E14",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
