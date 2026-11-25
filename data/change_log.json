@@ -1280,10 +1280,10 @@
         "arrestingAgency": "LVPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2430021708",
-        "disposition": null,
+        "disposition": "Per. Recogn.",
         "billingAgency": "SUPR",
         "bondType": "Secured",
-        "bondAmount": 600
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
