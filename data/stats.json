@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:35:19",
+  "generatedAt": "2026-11-25T08:55:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 796,
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 309,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "CCCD",
-      "count": 84,
-      "pct": 10.6,
+      "count": 85,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -390,7 +390,7 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "name": "B",
@@ -400,7 +400,7 @@
     {
       "name": "C",
       "count": 20,
-      "pct": 11.4
+      "pct": 11.3
     },
     {
       "name": "D",
@@ -409,8 +409,8 @@
     },
     {
       "name": "E",
-      "count": 26,
-      "pct": 14.8
+      "count": 27,
+      "pct": 15.3
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 28,
-      "pct": 15.9
+      "pct": 15.8
     },
     {
       "name": "H",
