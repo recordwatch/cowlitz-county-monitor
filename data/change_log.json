@@ -4,10 +4,21 @@
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
     "bookedAt": "2026-11-25T15:39:45",
-    "location": "1-PENDING BOOKING",
+    "location": "E11",
     "arrestingAgency": "KEPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-25T15:45:20",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "DWLS 3RD",
         "offenseDate": "2026-11-25T15:44:22",
