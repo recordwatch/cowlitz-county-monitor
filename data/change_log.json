@@ -10,17 +10,6 @@
     "charges": [
       {
         "description": "DWLS 3RD",
-        "offenseDate": "2026-11-26T01:35:35",
-        "arrestingAgency": "WSP",
-        "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": "T000995427",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 500
-      },
-      {
-        "description": "DWLS 3RD",
         "offenseDate": "2026-11-26T01:35:01",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
@@ -29,6 +18,17 @@
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-26T01:35:35",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "T00995427",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
       },
       {
         "description": "DUI",
