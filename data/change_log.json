@@ -131,7 +131,7 @@
         "bondAmount": 1000
       },
       {
-        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "description": "NEG DRIVING 1ST ALCOHOL INVOL",
         "offenseDate": "2026-11-25T22:13:45",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
@@ -1133,9 +1133,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-23T10:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T08:15:19",
     "baseline": false
   },
   {
