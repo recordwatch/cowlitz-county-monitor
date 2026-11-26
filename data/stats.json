@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:35:17",
+  "generatedAt": "2026-11-25T23:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 800,
@@ -394,8 +394,8 @@
     },
     {
       "name": "B",
-      "count": 28,
-      "pct": 16.2
+      "count": 29,
+      "pct": 16.8
     },
     {
       "name": "C",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 3,
+      "pct": 1.7
     },
     {
       "name": "WSH",
