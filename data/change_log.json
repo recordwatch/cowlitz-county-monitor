@@ -452,9 +452,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-24T16:15:19",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T05:55:17",
     "baseline": false
   },
   {
@@ -7704,9 +7704,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-11T12:58:01",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T05:55:17",
     "baseline": false
   },
   {
@@ -10790,9 +10790,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-05T12:35:23",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T05:55:17",
     "baseline": false
   },
   {
@@ -20703,8 +20703,8 @@
         "bondAmount": null
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-10-15T18:40:59",
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-10-15T18:36:45",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -20714,8 +20714,8 @@
         "bondAmount": null
       },
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-10-15T18:36:45",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-10-15T18:40:59",
         "arrestingAgency": "LVPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0228372",
@@ -22926,8 +22926,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -22937,8 +22937,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -29173,8 +29173,8 @@
         "warrantNumber": "2610053408",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 75000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -29188,19 +29188,19 @@
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 4TH DEGREE",
-        "offenseDate": "2026-08-17T10:17:23",
+        "description": "BURGLARY 1ST",
+        "offenseDate": "2026-08-17T10:13:27",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 75000
       },
       {
-        "description": "BURGLARY 1ST",
-        "offenseDate": "2026-08-17T10:13:27",
+        "description": "ASSAULT 4TH DEGREE",
+        "offenseDate": "2026-08-17T10:17:23",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610053508",
@@ -30381,9 +30381,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-10T15:31:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-26T05:55:17",
     "baseline": true
   },
   {
