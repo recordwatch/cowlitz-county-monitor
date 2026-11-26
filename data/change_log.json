@@ -1,5 +1,42 @@
 [
   {
+    "id": "123345-20261126082340",
+    "inmateNumber": "123345",
+    "name": "CARSTEN, BLAKE ALLEN",
+    "bookedAt": "2026-11-26T08:23:40",
+    "location": "B23",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-26T08:30:31",
+        "arrestingAgency": "LVPD",
+        "court": "DOC COURT",
+        "warrantNumber": "2610059508",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "offenseDate": "2026-11-26T08:30:00",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6a0442542",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T09:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361321-20261126033544",
     "inmateNumber": "361321",
     "name": "ONDUSKO, MICHAEL L",

@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T08:55:18",
+  "generatedAt": "2026-11-26T09:15:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 803,
-    "bookingsObserved": 637,
+    "bookingsTracked": 804,
+    "bookingsObserved": 638,
     "releasesObserved": 633,
-    "inCustody": 170,
+    "inCustody": 171,
     "uniquePeople": 727
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 3,
+      "booked": 4,
       "released": 6
     }
   ],
@@ -173,12 +173,12 @@
     },
     {
       "name": "DOC HOLD",
-      "count": 125,
-      "pct": 6.8
+      "count": 126,
+      "pct": 6.9
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 122,
+      "count": 123,
       "pct": 6.7
     },
     {
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 312,
-      "pct": 39,
+      "count": 313,
+      "pct": 39.1,
       "label": "Longview Police"
     },
     {
@@ -327,13 +327,13 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 551,
-      "pct": 30
+      "count": 552,
+      "pct": 30.1
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 546,
-      "pct": 29.8
+      "pct": 29.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -347,7 +347,7 @@
     },
     {
       "name": "DOC COURT",
-      "count": 106,
+      "count": 107,
       "pct": 5.8
     },
     {
@@ -390,27 +390,27 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "name": "B",
-      "count": 27,
-      "pct": 15.9
+      "count": 28,
+      "pct": 16.4
     },
     {
       "name": "C",
       "count": 18,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "D",
       "count": 12,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "E",
       "count": 26,
-      "pct": 15.3
+      "pct": 15.2
     },
     {
       "name": "F",
@@ -420,12 +420,12 @@
     {
       "name": "G",
       "count": 25,
-      "pct": 14.7
+      "pct": 14.6
     },
     {
       "name": "H",
       "count": 4,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "INTAKE",
@@ -468,15 +468,15 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 15.2,
+    "currentMedianDaysHeld": 14.8,
     "currentLongestDaysHeld": 532.7
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 49,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4024700
+    "totalBond": 4025700
   },
   "chargesPerBooking": 2.3
 }
