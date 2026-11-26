@@ -1,5 +1,31 @@
 [
   {
+    "id": "361321-20261126033544",
+    "inmateNumber": "361321",
+    "name": "ONDUSKO, MICHAEL L",
+    "bookedAt": "2026-11-26T03:35:44",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "ASSAULT 4 DOMESTIC VIOLENCE",
+        "offenseDate": "2026-11-26T03:42:06",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0436072",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T04:15:21",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362166-20261126023941",
     "inmateNumber": "362166",
     "name": "ASEPH, ERIC LEE",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T03:55:20",
+  "generatedAt": "2026-11-26T04:15:21",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 802,
-    "bookingsObserved": 636,
+    "bookingsTracked": 803,
+    "bookingsObserved": 637,
     "releasesObserved": 627,
-    "inCustody": 175,
-    "uniquePeople": 726
+    "inCustody": 176,
+    "uniquePeople": 727
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -213,8 +213,8 @@
     },
     {
       "name": "ASSAULT 4 DOMESTIC VIOLENCE",
-      "count": 35,
-      "pct": 1.9
+      "count": 36,
+      "pct": 2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -265,14 +265,14 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 311,
+      "count": 312,
       "pct": 39,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
       "count": 145,
-      "pct": 18.2,
+      "pct": 18.1,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 550,
+      "count": 551,
       "pct": 30
     },
     {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.5,
+    "currentMedianDaysHeld": 15.1,
     "currentLongestDaysHeld": 532.5
   },
   "bond": {
-    "withBond": 122,
+    "withBond": 123,
     "noBond": 53,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4026700
+    "totalBond": 4027700
   },
   "chargesPerBooking": 2.3
 }
