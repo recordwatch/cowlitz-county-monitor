@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T01:55:18",
+  "generatedAt": "2026-11-26T02:15:25",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 800,
-    "bookingsObserved": 634,
+    "bookingsTracked": 801,
+    "bookingsObserved": 635,
     "releasesObserved": 627,
-    "inCustody": 173,
-    "uniquePeople": 724
+    "inCustody": 174,
+    "uniquePeople": 725
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 156,
-      "pct": 8.5
+      "count": 158,
+      "pct": 8.6
     },
     {
       "name": "DOC HOLD",
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 110,
-      "pct": 6
+      "count": 111,
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -194,7 +194,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 54,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -204,7 +204,7 @@
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
       "count": 43,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 311,
-      "pct": 39.1,
+      "pct": 39,
       "label": "Longview Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 37,
-      "pct": 4.6,
+      "count": 38,
+      "pct": 4.8,
       "label": "Washington State Patrol"
     },
     {
@@ -328,22 +328,22 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 550,
-      "pct": 30.1
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
       "count": 546,
-      "pct": 29.9
+      "pct": 29.8
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 234,
-      "pct": 12.8
+      "count": 237,
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 226,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 19.1
+      "pct": 19
     },
     {
       "name": "B",
       "count": 29,
-      "pct": 16.8
+      "pct": 16.7
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11
+      "pct": 10.9
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 27,
-      "pct": 15.6
+      "pct": 15.5
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 3,
-      "pct": 1.7
+      "count": 4,
+      "pct": 2.3
     },
     {
       "name": "WSH",
       "count": 14,
-      "pct": 8.1
+      "pct": 8
     }
   ],
   "stay": {
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.7,
+    "currentMedianDaysHeld": 15.5,
     "currentLongestDaysHeld": 532.4
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 52,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4025200
+    "totalBond": 4026700
   },
   "chargesPerBooking": 2.3
 }
