@@ -67,7 +67,7 @@
     "inmateNumber": "362166",
     "name": "ASEPH, ERIC LEE",
     "bookedAt": "2026-11-26T02:39:41",
-    "location": "INTAKE H3",
+    "location": "A15",
     "arrestingAgency": "WSP",
     "bondTotal": null,
     "charges": [
@@ -93,7 +93,7 @@
     "inmateNumber": "360270",
     "name": "CIENEGA, LISA HELEN",
     "bookedAt": "2026-11-26T01:32:48",
-    "location": "INTAKE H1",
+    "location": "E20",
     "arrestingAgency": "WSP",
     "bondTotal": 1500,
     "charges": [
@@ -141,7 +141,7 @@
     "inmateNumber": "330810",
     "name": "PENA, ISAIAH ANTONIO",
     "bookedAt": "2026-11-25T21:50:07",
-    "location": "INTAKE H3",
+    "location": "A11",
     "arrestingAgency": "LVPD",
     "bondTotal": 3000,
     "charges": [
@@ -725,7 +725,7 @@
     "inmateNumber": "9890",
     "name": "NELSON, TANYA BEVERLY",
     "bookedAt": "2026-11-24T11:54:41",
-    "location": "E13",
+    "location": "E11",
     "arrestingAgency": "LVPD",
     "bondTotal": null,
     "charges": [
