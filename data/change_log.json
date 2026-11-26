@@ -1,5 +1,19 @@
 [
   {
+    "id": "362166-20261126023941",
+    "inmateNumber": "362166",
+    "name": "ASEPH, ERIC LEE",
+    "bookedAt": "2026-11-26T02:39:41",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T03:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "360270-20261126013248",
     "inmateNumber": "360270",
     "name": "CIENEGA, LISA HELEN",
