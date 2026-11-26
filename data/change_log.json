@@ -1,5 +1,42 @@
 [
   {
+    "id": "36678-20261125191400",
+    "inmateNumber": "36678",
+    "name": "KENNEDY, NATHAN JAMES",
+    "bookedAt": "2026-11-25T19:14:00",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-25T19:15:18",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438954",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT & RUN",
+        "offenseDate": "2026-11-25T19:16:59",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438954",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T19:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "128778-20261125153945",
     "inmateNumber": "128778",
     "name": "FLOYD, MALLORY ELIZABETH",
