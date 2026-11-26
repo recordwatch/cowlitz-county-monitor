@@ -4,10 +4,22 @@
     "inmateNumber": "362166",
     "name": "ASEPH, ERIC LEE",
     "bookedAt": "2026-11-26T02:39:41",
-    "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "location": "INTAKE H3",
+    "arrestingAgency": "WSP",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-26T02:48:14",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-26T03:15:20",
     "releasedAt": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:15:20",
+  "generatedAt": "2026-11-26T03:35:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 802,
@@ -183,7 +183,7 @@
     },
     {
       "name": "DUI",
-      "count": 111,
+      "count": 112,
       "pct": 6.1
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 38,
-      "pct": 4.8,
+      "count": 39,
+      "pct": 4.9,
       "label": "Washington State Patrol"
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 237,
-      "pct": 12.9
+      "count": 238,
+      "pct": 13
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 33,
-      "pct": 19
+      "pct": 18.9
     },
     {
       "name": "B",
       "count": 29,
-      "pct": 16.7
+      "pct": 16.6
     },
     {
       "name": "C",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 27,
-      "pct": 15.5
+      "pct": 15.4
     },
     {
       "name": "H",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 4,
-      "pct": 2.3
+      "count": 5,
+      "pct": 2.9
     },
     {
       "name": "WSH",
@@ -468,7 +468,7 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.4,
+    "currentMedianDaysHeld": 15.5,
     "currentLongestDaysHeld": 532.4
   },
   "bond": {
