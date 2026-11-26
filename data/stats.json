@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:35:19",
+  "generatedAt": "2026-11-25T22:55:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 800,
@@ -168,7 +168,7 @@
     },
     {
       "name": "DWLS 3RD",
-      "count": 155,
+      "count": 156,
       "pct": 8.5
     },
     {
@@ -203,8 +203,8 @@
     },
     {
       "name": "OPER VEH W/O IGN INTERLOCK",
-      "count": 42,
-      "pct": 2.3
+      "count": 43,
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -239,12 +239,12 @@
     {
       "name": "DWLS 2ND",
       "count": 21,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "POSS W/INTENT",
       "count": 21,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "UNLAWFUL CAMPING",
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 547,
-      "pct": 30
+      "count": 550,
+      "pct": 30.1
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -468,15 +468,15 @@
         "count": 19
       }
     ],
-    "currentMedianDaysHeld": 15.5,
-    "currentLongestDaysHeld": 532.2
+    "currentMedianDaysHeld": 15.6,
+    "currentLongestDaysHeld": 532.3
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 53,
+    "withBond": 121,
+    "noBond": 52,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 4022200
+    "totalBond": 4025200
   },
   "chargesPerBooking": 2.3
 }

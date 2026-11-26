@@ -6,18 +6,51 @@
     "bookedAt": "2026-11-25T21:50:07",
     "location": "INTAKE H3",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
+    "bondTotal": 3000,
     "charges": [
       {
-        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "description": "DWLS 3RD",
         "offenseDate": "2026-11-25T21:58:49",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0438956",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "HIT RUN UNATTENDED VEHICLE",
+        "offenseDate": "2026-11-25T22:12:20",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438956",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "NEG DRIVING 1ST DEGREE-AID/ABET",
+        "offenseDate": "2026-11-25T22:13:45",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438956",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "OPER VEH W/O IGN INTERLOCK",
+        "offenseDate": "2026-11-25T22:10:31",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0438956",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
