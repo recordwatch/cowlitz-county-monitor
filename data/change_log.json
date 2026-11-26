@@ -1,5 +1,42 @@
 [
   {
+    "id": "128778-20261125153945",
+    "inmateNumber": "128778",
+    "name": "FLOYD, MALLORY ELIZABETH",
+    "bookedAt": "2026-11-25T15:39:45",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-25T15:44:22",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-11-25T15:43:23",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-25T16:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "202631-20261125104313",
     "inmateNumber": "202631",
     "name": "BURGENER, WENDY LYNN",
