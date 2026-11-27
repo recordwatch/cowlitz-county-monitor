@@ -2208,7 +2208,7 @@
         "disposition": null,
         "billingAgency": "KEPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 3RD",
@@ -2241,7 +2241,7 @@
         "disposition": null,
         "billingAgency": "WDPD",
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       },
       {
         "description": "DWLS 2ND",
@@ -7142,7 +7142,7 @@
     "inmateNumber": "71297",
     "name": "BOWEN, DARYL KEITH",
     "bookedAt": "2026-11-12T20:38:57",
-    "location": "C23",
+    "location": "G-G08",
     "arrestingAgency": "KEPD",
     "bondTotal": 100,
     "charges": [
@@ -23130,9 +23130,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-10-12T08:35:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-27T11:55:20",
     "baseline": false
   },
   {
@@ -23215,8 +23215,8 @@
         "warrantNumber": "2610021808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": "Secured",
-        "bondAmount": 10000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "SEX OFFEND/FLN FAIL TO REG 2 PRIORS",
@@ -23226,8 +23226,8 @@
         "warrantNumber": "2610066808",
         "disposition": null,
         "billingAgency": "SUPR",
-        "bondType": null,
-        "bondAmount": null
+        "bondType": "Secured",
+        "bondAmount": 10000
       }
     ],
     "status": "in_custody",
