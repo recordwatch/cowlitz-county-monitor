@@ -20,9 +20,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-27T02:55:17",
-    "releasedAt": null,
+    "releasedAt": "2026-11-27T10:35:17",
     "baseline": false
   },
   {
@@ -280,7 +280,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 1000
+        "bondAmount": null
       }
     ],
     "status": "in_custody",
@@ -2791,7 +2791,7 @@
     "inmateNumber": "146301",
     "name": "MCGEE, JOSEPH RONALD",
     "bookedAt": "2026-11-20T17:01:22",
-    "location": "B23",
+    "location": "C10",
     "arrestingAgency": "LVPD",
     "bondTotal": 1000,
     "charges": [
