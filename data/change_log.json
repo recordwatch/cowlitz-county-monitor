@@ -1,5 +1,19 @@
 [
   {
+    "id": "2403-20261126190227",
+    "inmateNumber": "2403",
+    "name": "REHAK, MICHAEL ANTHONY SR",
+    "bookedAt": "2026-11-26T19:02:27",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": null,
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T19:35:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "271631-20261126182655",
     "inmateNumber": "271631",
     "name": "BLAIN, JOHN FRANKLYN",
@@ -12,34 +26,45 @@
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-11-26T18:30:07",
         "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6A0307141",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": "None",
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-11-26T18:30:07",
         "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6A0307141",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
       },
       {
         "description": "ASSAULT 4 DOMESTIC VIOLENCE",
         "offenseDate": "2026-11-26T18:30:07",
         "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": "6A0307141",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
         "disposition": null,
         "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "FIREARM POSSESSION UNLAWFUL-2",
+        "offenseDate": "2026-11-26T18:57:09",
+        "arrestingAgency": "KEPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
       }
     ],
     "status": "in_custody",

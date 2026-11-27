@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T19:15:20",
+  "generatedAt": "2026-11-26T19:35:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 806,
-    "bookingsObserved": 640,
+    "bookingsTracked": 807,
+    "bookingsObserved": 641,
     "releasesObserved": 636,
-    "inCustody": 170,
-    "uniquePeople": 728
+    "inCustody": 171,
+    "uniquePeople": 729
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 6,
+      "booked": 7,
       "released": 9
     }
   ],
@@ -332,8 +332,8 @@
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 546,
-      "pct": 29.7
+      "count": 550,
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -342,8 +342,8 @@
     },
     {
       "name": "KELSO MUNICIPAL COURT",
-      "count": 231,
-      "pct": 12.5
+      "count": 228,
+      "pct": 12.4
     },
     {
       "name": "DOC COURT",
@@ -468,12 +468,12 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 15.6,
+    "currentMedianDaysHeld": 15.2,
     "currentLongestDaysHeld": 533.1
   },
   "bond": {
     "withBond": 121,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3977200
