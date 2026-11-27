@@ -5297,7 +5297,7 @@
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
-        "bondAmount": 50000
+        "bondAmount": null
       },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
