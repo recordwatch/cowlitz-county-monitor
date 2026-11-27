@@ -1,5 +1,42 @@
 [
   {
+    "id": "165564-20261127112810",
+    "inmateNumber": "165564",
+    "name": "COGDILL, THOMAS EARL RUDOLPH",
+    "bookedAt": "2026-11-27T11:28:10",
+    "location": "INTAKE H1",
+    "arrestingAgency": "CCSO",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "MAL MISCH 1ST > $5000",
+        "offenseDate": "2026-11-27T11:31:02",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "24-1-00722-08",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      },
+      {
+        "description": "ASSAULT 3RD",
+        "offenseDate": "2026-11-27T11:34:53",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": "24-1-00736-08",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T12:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "361606-20261127104711",
     "inmateNumber": "361606",
     "name": "SPLAINE, JUSTIN TYLOR",
@@ -2266,9 +2303,9 @@
         "bondAmount": null
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-21T17:15:20",
-    "releasedAt": null,
+    "releasedAt": "2026-11-27T12:15:19",
     "baseline": false
   },
   {

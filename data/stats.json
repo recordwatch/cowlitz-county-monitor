@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T11:55:20",
+  "generatedAt": "2026-11-27T12:15:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 812,
-    "bookingsObserved": 646,
-    "releasesObserved": 642,
+    "bookingsTracked": 813,
+    "bookingsObserved": 647,
+    "releasesObserved": 643,
     "inCustody": 170,
     "uniquePeople": 732
   },
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 2,
-      "released": 5
+      "booked": 3,
+      "released": 6
     }
   ],
   "topCharges": [
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 123,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "DUI",
@@ -266,19 +266,19 @@
     {
       "name": "LVPD",
       "count": 314,
-      "pct": 38.9,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 147,
-      "pct": 18.2,
+      "count": 148,
+      "pct": 18.3,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
       "count": 116,
-      "pct": 14.4,
+      "pct": 14.3,
       "label": "Kelso Police"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "WSP",
       "count": 40,
-      "pct": 5,
+      "pct": 4.9,
       "label": "Washington State Patrol"
     },
     {
@@ -308,7 +308,7 @@
     {
       "name": "CRPD",
       "count": 19,
-      "pct": 2.4,
+      "pct": 2.3,
       "label": "Castle Rock Police"
     },
     {
@@ -332,7 +332,7 @@
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 550,
+      "count": 552,
       "pct": 29.8
     },
     {
@@ -394,8 +394,8 @@
     },
     {
       "name": "B",
-      "count": 25,
-      "pct": 14.8
+      "count": 24,
+      "pct": 14.2
     },
     {
       "name": "C",
@@ -429,8 +429,8 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 6,
+      "pct": 3.6
     },
     {
       "name": "WSH",
@@ -439,7 +439,7 @@
     }
   ],
   "stay": {
-    "releasedCount": 642,
+    "releasedCount": 643,
     "medianDays": 2,
     "meanDays": 13.7,
     "buckets": [
@@ -453,7 +453,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 54
+        "count": 55
       },
       {
         "label": "1–4 weeks",
@@ -468,15 +468,15 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 15.7,
+    "currentMedianDaysHeld": 15.8,
     "currentLongestDaysHeld": 533.8
   },
   "bond": {
-    "withBond": 121,
-    "noBond": 49,
+    "withBond": 120,
+    "noBond": 50,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3977200
+    "totalBond": 3975200
   },
   "chargesPerBooking": 2.3
 }
