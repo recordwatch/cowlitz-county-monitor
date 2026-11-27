@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-27T11:15:18",
+  "generatedAt": "2026-11-27T11:35:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 811,
-    "bookingsObserved": 645,
+    "bookingsTracked": 812,
+    "bookingsObserved": 646,
     "releasesObserved": 641,
-    "inCustody": 170,
+    "inCustody": 171,
     "uniquePeople": 732
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 1,
+      "booked": 2,
       "released": 4
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DWLS 3RD",
       "count": 158,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "DOC HOLD",
@@ -193,8 +193,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 54,
-      "pct": 2.9
+      "count": 55,
+      "pct": 3
     },
     {
       "name": "OBSTRUCTING PUBLIC SERVANT",
@@ -301,8 +301,8 @@
     },
     {
       "name": "WDPD",
-      "count": 22,
-      "pct": 2.7,
+      "count": 23,
+      "pct": 2.8,
       "label": "Woodland Police"
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "name": "WOODLAND MUNICIPAL COURT",
-      "count": 66,
+      "count": 67,
       "pct": 3.6
     },
     {
@@ -468,15 +468,15 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 16.3,
+    "currentMedianDaysHeld": 15.8,
     "currentLongestDaysHeld": 533.8
   },
   "bond": {
-    "withBond": 120,
+    "withBond": 121,
     "noBond": 50,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3976200
+    "totalBond": 3977200
   },
   "chargesPerBooking": 2.3
 }
