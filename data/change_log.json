@@ -1,5 +1,31 @@
 [
   {
+    "id": "362183-20261127021856",
+    "inmateNumber": "362183",
+    "name": "QUALL, THOMAS MICHAEL",
+    "bookedAt": "2026-11-27T02:18:56",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CRPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-27T02:20:08",
+        "arrestingAgency": "CRPD",
+        "court": "CASTLE ROCK MUNICIPAL COURT",
+        "warrantNumber": "6A0396118",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T02:55:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "9117-20261126215630",
     "inmateNumber": "9117",
     "name": "LARSEN, TERENCE MICHAEL",

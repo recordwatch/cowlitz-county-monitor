@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T02:35:19",
+  "generatedAt": "2026-11-27T02:55:17",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 810,
-    "bookingsObserved": 644,
+    "bookingsTracked": 811,
+    "bookingsObserved": 645,
     "releasesObserved": 637,
-    "inCustody": 173,
-    "uniquePeople": 731
+    "inCustody": 174,
+    "uniquePeople": 732
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 251,
+      "count": 252,
       "pct": 13.6
     },
     {
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 314,
-      "pct": 39,
+      "pct": 38.9,
       "label": "Longview Police"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "DOC",
       "count": 48,
-      "pct": 6,
+      "pct": 5.9,
       "label": "Dept. of Corrections"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
       "name": "CRPD",
-      "count": 18,
-      "pct": 2.2,
+      "count": 19,
+      "pct": 2.4,
       "label": "Castle Rock Police"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 553,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -343,7 +343,7 @@
     {
       "name": "KELSO MUNICIPAL COURT",
       "count": 228,
-      "pct": 12.4
+      "pct": 12.3
     },
     {
       "name": "DOC COURT",
@@ -357,8 +357,8 @@
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
-      "count": 28,
-      "pct": 1.5
+      "count": 29,
+      "pct": 1.6
     },
     {
       "name": "DOC CONTRACT COURT",
@@ -373,12 +373,12 @@
     {
       "name": "KALAMA MUNICIPAL COURT",
       "count": 12,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "MENTAL HEALTH COURT",
       "count": 12,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "name": "OTHER - OUT OF COUNTY",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 533.4
   },
   "bond": {
-    "withBond": 121,
+    "withBond": 122,
     "noBond": 52,
-    "medianBond": 4000,
+    "medianBond": 3750,
     "maxBond": 500000,
-    "totalBond": 3977200
+    "totalBond": 3978200
   },
   "chargesPerBooking": 2.3
 }
