@@ -9,22 +9,22 @@
     "bondTotal": null,
     "charges": [
       {
-        "description": "MAL MISCH 1ST > $5000",
+        "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-27T11:31:02",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "24-1-00722-08",
+        "warrantNumber": "2410072208",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
       },
       {
-        "description": "ASSAULT 3RD",
+        "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-11-27T11:34:53",
         "arrestingAgency": "CCSO",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "24-1-00736-08",
+        "warrantNumber": "2410073608",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:55:17",
+  "generatedAt": "2026-11-27T13:15:18",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 813,
@@ -188,8 +188,8 @@
     },
     {
       "name": "CONTEMPT OF COURT",
-      "count": 61,
-      "pct": 3.3
+      "count": 63,
+      "pct": 3.4
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -469,7 +469,7 @@
       }
     ],
     "currentMedianDaysHeld": 15.9,
-    "currentLongestDaysHeld": 533.8
+    "currentLongestDaysHeld": 533.9
   },
   "bond": {
     "withBond": 119,
