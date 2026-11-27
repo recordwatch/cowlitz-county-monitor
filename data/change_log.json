@@ -1,5 +1,31 @@
 [
   {
+    "id": "105773-20261126200431",
+    "inmateNumber": "105773",
+    "name": "NOLAN, JOSIAH DAVID",
+    "bookedAt": "2026-11-26T20:04:31",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WSP",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-26T20:07:02",
+        "arrestingAgency": "WSP",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T20:46:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "2403-20261126190227",
     "inmateNumber": "2403",
     "name": "REHAK, MICHAEL ANTHONY SR",

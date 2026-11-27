@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T20:35:20",
+  "generatedAt": "2026-11-26T20:46:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 807,
-    "bookingsObserved": 641,
+    "bookingsTracked": 808,
+    "bookingsObserved": 642,
     "releasesObserved": 636,
-    "inCustody": 171,
-    "uniquePeople": 729
+    "inCustody": 172,
+    "uniquePeople": 730
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 7,
+      "booked": 8,
       "released": 9
     }
   ],
@@ -183,8 +183,8 @@
     },
     {
       "name": "DUI",
-      "count": 113,
-      "pct": 6.1
+      "count": 114,
+      "pct": 6.2
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -266,7 +266,7 @@
     {
       "name": "LVPD",
       "count": 313,
-      "pct": 39,
+      "pct": 38.9,
       "label": "Longview Police"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "WSP",
-      "count": 39,
-      "pct": 4.9,
+      "count": 40,
+      "pct": 5,
       "label": "Washington State Patrol"
     },
     {
@@ -328,7 +328,7 @@
     {
       "name": "LONGVIEW MUNICIPAL COURT",
       "count": 552,
-      "pct": 30
+      "pct": 29.9
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 239,
+      "count": 240,
       "pct": 13
     },
     {
@@ -468,12 +468,12 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 15.2,
+    "currentMedianDaysHeld": 15.1,
     "currentLongestDaysHeld": 533.2
   },
   "bond": {
     "withBond": 121,
-    "noBond": 50,
+    "noBond": 51,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3977200
