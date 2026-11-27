@@ -5,9 +5,21 @@
     "name": "REHAK, MICHAEL ANTHONY SR",
     "bookedAt": "2026-11-26T19:02:27",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": null,
+    "arrestingAgency": "CCCD",
     "bondTotal": null,
-    "charges": [],
+    "charges": [
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-26T19:20:01",
+        "arrestingAgency": "CCCD",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0350497",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-26T19:35:18",
     "releasedAt": null,
@@ -1483,7 +1495,7 @@
     "inmateNumber": "204086",
     "name": "ZAINES, RAFAEL",
     "bookedAt": "2026-11-22T18:16:45",
-    "location": "B12",
+    "location": "A12",
     "arrestingAgency": "LVPD",
     "bondTotal": 2500,
     "charges": [
