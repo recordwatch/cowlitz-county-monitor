@@ -1,5 +1,42 @@
 [
   {
+    "id": "361561-20261126152631",
+    "inmateNumber": "361561",
+    "name": "HERNANDEZ ROMAN, HELIAN",
+    "bookedAt": "2026-11-26T15:26:31",
+    "location": "A10",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-26T15:30:18",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0438732",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-26T15:29:35",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0438733",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T16:15:20",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "123345-20261126082340",
     "inmateNumber": "123345",
     "name": "CARSTEN, BLAKE ALLEN",
