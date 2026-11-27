@@ -1,5 +1,19 @@
 [
   {
+    "id": "194185-20261127135842",
+    "inmateNumber": "194185",
+    "name": "CHINN, ALEXANDER WAYNE",
+    "bookedAt": "2026-11-27T13:58:42",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T14:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "165564-20261127112810",
     "inmateNumber": "165564",
     "name": "COGDILL, THOMAS EARL RUDOLPH",
