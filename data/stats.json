@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T22:15:20",
+  "generatedAt": "2026-11-26T22:35:23",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 809,
-    "bookingsObserved": 643,
+    "bookingsTracked": 810,
+    "bookingsObserved": 644,
     "releasesObserved": 637,
-    "inCustody": 172,
-    "uniquePeople": 730
+    "inCustody": 173,
+    "uniquePeople": 731
   },
   "bookingsByDay": [
     {
@@ -156,14 +156,14 @@
     },
     {
       "date": "2026-11-26",
-      "booked": 9,
+      "booked": 10,
       "released": 10
     }
   ],
   "topCharges": [
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
-      "count": 250,
+      "count": 251,
       "pct": 13.6
     },
     {
@@ -271,8 +271,8 @@
     },
     {
       "name": "CCSO",
-      "count": 146,
-      "pct": 18.1,
+      "count": 147,
+      "pct": 18.2,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -327,8 +327,8 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 552,
-      "pct": 29.9
+      "count": 553,
+      "pct": 30
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
@@ -468,12 +468,12 @@
         "count": 21
       }
     ],
-    "currentMedianDaysHeld": 15.2,
+    "currentMedianDaysHeld": 15.1,
     "currentLongestDaysHeld": 533.2
   },
   "bond": {
     "withBond": 121,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 4000,
     "maxBond": 500000,
     "totalBond": 3977200
