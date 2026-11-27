@@ -1,5 +1,31 @@
 [
   {
+    "id": "157598-20261126203030",
+    "inmateNumber": "157598",
+    "name": "SHULER, TREVOR LEE",
+    "bookedAt": "2026-11-26T20:30:30",
+    "location": "D20",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "DOC HOLD",
+        "offenseDate": "2026-11-26T20:35:53",
+        "arrestingAgency": "LVPD",
+        "court": "DOC CONTRACT COURT",
+        "warrantNumber": "2110121408",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-26T21:15:17",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "105773-20261126200431",
     "inmateNumber": "105773",
     "name": "NOLAN, JOSIAH DAVID",
@@ -13,8 +39,8 @@
         "offenseDate": "2026-11-26T20:07:02",
         "arrestingAgency": "WSP",
         "court": "COWLITZ COUNTY DISTRICT COURT",
-        "warrantNumber": null,
-        "disposition": null,
+        "warrantNumber": "T00876956",
+        "disposition": "Per. Recogn.",
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": null
