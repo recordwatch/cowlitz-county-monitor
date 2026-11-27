@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:35:15",
+  "generatedAt": "2026-11-27T14:55:24",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 814,
@@ -327,7 +327,7 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 553,
+      "count": 554,
       "pct": 29.9
     },
     {
@@ -390,12 +390,12 @@
     {
       "name": "A",
       "count": 35,
-      "pct": 20.7
+      "pct": 20.6
     },
     {
       "name": "B",
       "count": 24,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "C",
@@ -410,17 +410,17 @@
     {
       "name": "E",
       "count": 26,
-      "pct": 15.4
+      "pct": 15.3
     },
     {
       "name": "F",
       "count": 6,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "G",
       "count": 24,
-      "pct": 14.2
+      "pct": 14.1
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 3
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "WSH",
       "count": 14,
-      "pct": 8.3
+      "pct": 8.2
     }
   ],
   "stay": {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 533.9
   },
   "bond": {
-    "withBond": 119,
-    "noBond": 51,
+    "withBond": 120,
+    "noBond": 50,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3973700
+    "totalBond": 3974700
   },
   "chargesPerBooking": 2.3
 }

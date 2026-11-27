@@ -4,10 +4,22 @@
     "inmateNumber": "194185",
     "name": "CHINN, ALEXANDER WAYNE",
     "bookedAt": "2026-11-27T13:58:42",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "LVPD",
-    "bondTotal": null,
-    "charges": [],
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "HARASSMENT DV",
+        "offenseDate": "2026-11-27T14:11:50",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0442543",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-27T14:35:15",
     "releasedAt": null,
