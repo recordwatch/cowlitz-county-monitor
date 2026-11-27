@@ -4,7 +4,7 @@
     "inmateNumber": "2403",
     "name": "REHAK, MICHAEL ANTHONY SR",
     "bookedAt": "2026-11-26T19:02:27",
-    "location": "1-PENDING BOOKING",
+    "location": "D20",
     "arrestingAgency": "CCCD",
     "bondTotal": null,
     "charges": [
@@ -16,7 +16,7 @@
         "warrantNumber": "6A0350497",
         "disposition": null,
         "billingAgency": null,
-        "bondType": null,
+        "bondType": "None",
         "bondAmount": null
       }
     ],
