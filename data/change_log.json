@@ -1,5 +1,19 @@
 [
   {
+    "id": "159189-20261127151617",
+    "inmateNumber": "159189",
+    "name": "MERKWAN, NIKOLAS ALLEN",
+    "bookedAt": "2026-11-27T15:16:17",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCCD",
+    "bondTotal": null,
+    "charges": [],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T15:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "194185-20261127135842",
     "inmateNumber": "194185",
     "name": "CHINN, ALEXANDER WAYNE",
@@ -16845,13 +16859,13 @@
     "name": "PARKER, KEVIN RENE",
     "bookedAt": "2026-10-24T13:55:21",
     "location": "G-G12",
-    "arrestingAgency": "KEPD",
+    "arrestingAgency": "CCCD",
     "bondTotal": 4000,
     "charges": [
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-24T13:57:27",
-        "arrestingAgency": "KEPD",
+        "arrestingAgency": "CCCD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610051508",
         "disposition": null,
@@ -16862,7 +16876,7 @@
       {
         "description": "PROB/PAROLE VIOL",
         "offenseDate": "2026-11-10T10:07:54",
-        "arrestingAgency": "KEPD",
+        "arrestingAgency": "CCCD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0076167",
         "disposition": "Guilty",
