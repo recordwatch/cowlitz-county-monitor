@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T04:15:19",
+  "generatedAt": "2026-11-28T04:35:19",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 819,
-    "bookingsObserved": 653,
+    "bookingsTracked": 820,
+    "bookingsObserved": 654,
     "releasesObserved": 648,
-    "inCustody": 171,
-    "uniquePeople": 737
+    "inCustody": 172,
+    "uniquePeople": 738
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -193,7 +193,7 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 55,
+      "count": 56,
       "pct": 3
     },
     {
@@ -266,13 +266,13 @@
     {
       "name": "LVPD",
       "count": 316,
-      "pct": 38.8,
+      "pct": 38.7,
       "label": "Longview Police"
     },
     {
       "name": "CCSO",
-      "count": 149,
-      "pct": 18.3,
+      "count": 150,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
-      "count": 240,
+      "count": 241,
       "pct": 12.9
     },
     {
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 534.5
   },
   "bond": {
-    "withBond": 122,
+    "withBond": 123,
     "noBond": 49,
-    "medianBond": 3750,
+    "medianBond": 3500,
     "maxBond": 500000,
-    "totalBond": 3977700
+    "totalBond": 3978700
   },
   "chargesPerBooking": 2.3
 }

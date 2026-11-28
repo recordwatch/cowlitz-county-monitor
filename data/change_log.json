@@ -1,5 +1,31 @@
 [
   {
+    "id": "362192-20261128035351",
+    "inmateNumber": "362192",
+    "name": "VALLADARES PINEDA, KOLVIN JOSE",
+    "bookedAt": "2026-11-28T03:53:51",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "offenseDate": "2026-11-28T03:59:03",
+        "arrestingAgency": "CCSO",
+        "court": "COWLITZ COUNTY DISTRICT COURT",
+        "warrantNumber": "6A0339280",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T04:35:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "31016-20261128032502",
     "inmateNumber": "31016",
     "name": "GROGAN, JASON ROBERT",
@@ -9,26 +35,26 @@
     "bondTotal": 1000,
     "charges": [
       {
-        "description": "OBSTRUCTING PUBLIC SERVANT",
-        "offenseDate": "2026-11-28T03:33:35",
-        "arrestingAgency": "KEPD",
-        "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 1000
-      },
-      {
         "description": "DUI",
         "offenseDate": "2026-11-28T03:26:48",
         "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
-        "warrantNumber": null,
+        "warrantNumber": "6A0261654",
         "disposition": null,
         "billingAgency": null,
         "bondType": "None",
         "bondAmount": null
+      },
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-28T03:33:35",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6A0261655",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
       }
     ],
     "status": "in_custody",
