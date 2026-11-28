@@ -1,5 +1,42 @@
 [
   {
+    "id": "31016-20261128032502",
+    "inmateNumber": "31016",
+    "name": "GROGAN, JASON ROBERT",
+    "bookedAt": "2026-11-28T03:25:02",
+    "location": "INTAKE H3",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 1000,
+    "charges": [
+      {
+        "description": "OBSTRUCTING PUBLIC SERVANT",
+        "offenseDate": "2026-11-28T03:33:35",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "DUI",
+        "offenseDate": "2026-11-28T03:26:48",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T04:15:19",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "240574-20261127202115",
     "inmateNumber": "240574",
     "name": "NELSON, DARRYL EDWARD",
