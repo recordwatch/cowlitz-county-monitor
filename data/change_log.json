@@ -6,8 +6,19 @@
     "bookedAt": "2026-11-27T20:21:15",
     "location": "INTAKE H2",
     "arrestingAgency": "LVPD",
-    "bondTotal": 1000,
+    "bondTotal": 2000,
     "charges": [
+      {
+        "description": "DANGEROUS WEAPON POSSESSION MANUFACTURE/SELL",
+        "offenseDate": "2026-11-27T22:42:24",
+        "arrestingAgency": "LVPD",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
       {
         "description": "CONTROLLED SUBSTANCE KNOW POSSES",
         "offenseDate": "2026-11-27T20:24:40",
