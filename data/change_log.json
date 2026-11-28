@@ -1,5 +1,31 @@
 [
   {
+    "id": "308787-20261127195824",
+    "inmateNumber": "308787",
+    "name": "MONAGHAN, ARIES CHAYSE",
+    "bookedAt": "2026-11-27T19:58:24",
+    "location": "D21",
+    "arrestingAgency": "KEPD",
+    "bondTotal": 2000,
+    "charges": [
+      {
+        "description": "MAL MISCH 3RD > $50",
+        "offenseDate": "2026-11-27T19:59:13",
+        "arrestingAgency": "KEPD",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "6a0317316",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T20:35:15",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "302203-20261127160853",
     "inmateNumber": "302203",
     "name": "THIERRY, MICHAEL DAVID",
