@@ -135,22 +135,22 @@
     "bondTotal": 2000,
     "charges": [
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-11-27T20:24:40",
+        "description": "CARRY CONCEAL WEAPON",
+        "offenseDate": "2026-11-27T22:42:24",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6A0439151",
+        "warrantNumber": "6a0439151",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
         "bondAmount": 1000
       },
       {
-        "description": "DANGEROUS WEAPON POSSESSION MANUFACTURE/SELL",
-        "offenseDate": "2026-11-27T22:42:24",
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-27T20:24:40",
         "arrestingAgency": "LVPD",
         "court": "LONGVIEW MUNICIPAL COURT",
-        "warrantNumber": "6a0439151",
+        "warrantNumber": "6A0439151",
         "disposition": null,
         "billingAgency": null,
         "bondType": "Secured",
