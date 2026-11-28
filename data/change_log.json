@@ -1,5 +1,42 @@
 [
   {
+    "id": "40699-20261128063721",
+    "inmateNumber": "40699",
+    "name": "COLLIER, DAVID ANDREW",
+    "bookedAt": "2026-11-28T06:37:21",
+    "location": "INTAKE H6",
+    "arrestingAgency": "CCSO",
+    "bondTotal": 1500,
+    "charges": [
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-28T06:42:19",
+        "arrestingAgency": "CCSO",
+        "court": "KELSO MUNICIPAL COURT",
+        "warrantNumber": "5A0900893",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-28T06:43:10",
+        "arrestingAgency": "CCSO",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "6A0073064",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T07:15:18",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "38920-20261128041936",
     "inmateNumber": "38920",
     "name": "JONES, BRADFORD LANDRIS",
