@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T04:35:19",
+  "generatedAt": "2026-11-28T04:55:16",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
-    "bookingsTracked": 820,
-    "bookingsObserved": 654,
+    "bookingsTracked": 821,
+    "bookingsObserved": 655,
     "releasesObserved": 648,
-    "inCustody": 172,
-    "uniquePeople": 738
+    "inCustody": 173,
+    "uniquePeople": 739
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-28",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -265,8 +265,8 @@
   "topAgencies": [
     {
       "name": "LVPD",
-      "count": 316,
-      "pct": 38.7,
+      "count": 317,
+      "pct": 38.8,
       "label": "Longview Police"
     },
     {
@@ -278,13 +278,13 @@
     {
       "name": "KEPD",
       "count": 118,
-      "pct": 14.5,
+      "pct": 14.4,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
       "count": 87,
-      "pct": 10.7,
+      "pct": 10.6,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -332,8 +332,8 @@
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 552,
-      "pct": 29.6
+      "count": 553,
+      "pct": 29.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
@@ -353,7 +353,7 @@
     {
       "name": "WOODLAND MUNICIPAL COURT",
       "count": 68,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "CASTLE ROCK MUNICIPAL COURT",
@@ -390,17 +390,17 @@
     {
       "name": "A",
       "count": 34,
-      "pct": 19.9
+      "pct": 19.8
     },
     {
       "name": "B",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "C",
       "count": 19,
-      "pct": 11.1
+      "pct": 11
     },
     {
       "name": "D",
@@ -410,7 +410,7 @@
     {
       "name": "E",
       "count": 26,
-      "pct": 15.2
+      "pct": 15.1
     },
     {
       "name": "F",
@@ -420,7 +420,7 @@
     {
       "name": "G",
       "count": 25,
-      "pct": 14.6
+      "pct": 14.5
     },
     {
       "name": "H",
@@ -429,13 +429,13 @@
     },
     {
       "name": "INTAKE",
-      "count": 5,
-      "pct": 2.9
+      "count": 6,
+      "pct": 3.5
     },
     {
       "name": "WSH",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     }
   ],
   "stay": {
@@ -473,7 +473,7 @@
   },
   "bond": {
     "withBond": 123,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 3500,
     "maxBond": 500000,
     "totalBond": 3978700

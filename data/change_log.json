@@ -1,10 +1,36 @@
 [
   {
+    "id": "38920-20261128041936",
+    "inmateNumber": "38920",
+    "name": "JONES, BRADFORD LANDRIS",
+    "bookedAt": "2026-11-28T04:19:36",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "LVPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "CONT SUBST SCHED I/II-NARC/IV-FLN",
+        "offenseDate": "2026-11-28T04:22:49",
+        "arrestingAgency": "LVPD",
+        "court": "COWLITZ COUNTY SUPERIOR COURT",
+        "warrantNumber": null,
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-28T04:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "362192-20261128035351",
     "inmateNumber": "362192",
     "name": "VALLADARES PINEDA, KOLVIN JOSE",
     "bookedAt": "2026-11-28T03:53:51",
-    "location": "1-PENDING BOOKING",
+    "location": "INTAKE H1",
     "arrestingAgency": "CCSO",
     "bondTotal": 1000,
     "charges": [
