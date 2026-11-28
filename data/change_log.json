@@ -1,5 +1,31 @@
 [
   {
+    "id": "302203-20261127160853",
+    "inmateNumber": "302203",
+    "name": "THIERRY, MICHAEL DAVID",
+    "bookedAt": "2026-11-27T16:08:53",
+    "location": "1-PENDING BOOKING",
+    "arrestingAgency": "WDPD",
+    "bondTotal": null,
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "offenseDate": "2026-11-27T16:11:33",
+        "arrestingAgency": "WDPD",
+        "court": "WOODLAND MUNICIPAL COURT",
+        "warrantNumber": "3A0490464",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "None",
+        "bondAmount": null
+      }
+    ],
+    "status": "in_custody",
+    "firstSeen": "2026-11-27T16:55:16",
+    "releasedAt": null,
+    "baseline": false
+  },
+  {
     "id": "159189-20261127151617",
     "inmateNumber": "159189",
     "name": "MERKWAN, NIKOLAS ALLEN",
@@ -64,9 +90,9 @@
         "bondAmount": 1000
       }
     ],
-    "status": "in_custody",
+    "status": "released",
     "firstSeen": "2026-11-27T15:55:16",
-    "releasedAt": null,
+    "releasedAt": "2026-11-27T16:55:16",
     "baseline": false
   },
   {
