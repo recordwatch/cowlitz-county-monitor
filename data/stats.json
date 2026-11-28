@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:15:20",
+  "generatedAt": "2026-11-27T16:35:20",
   "monitoringSince": "2026-10-10T15:31:20",
   "totals": {
     "bookingsTracked": 815,
@@ -164,17 +164,17 @@
     {
       "name": "CONTROLLED SUBSTANCE KNOW POSSES",
       "count": 253,
-      "pct": 13.7
+      "pct": 13.6
     },
     {
       "name": "DWLS 3RD",
-      "count": 158,
-      "pct": 8.5
+      "count": 160,
+      "pct": 8.6
     },
     {
       "name": "DOC HOLD",
       "count": 127,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,7 +184,7 @@
     {
       "name": "DUI",
       "count": 114,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "CONTEMPT OF COURT",
@@ -214,7 +214,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 38,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -257,7 +257,7 @@
       "pct": 1.1
     },
     {
-      "name": "RECKLESS DRIVING",
+      "name": "NVOL - WITHOUT ID",
       "count": 19,
       "pct": 1
     }
@@ -271,20 +271,20 @@
     },
     {
       "name": "CCSO",
-      "count": 148,
-      "pct": 18.2,
+      "count": 149,
+      "pct": 18.4,
       "label": "Cowlitz County Sheriff's Office"
     },
     {
       "name": "KEPD",
-      "count": 115,
-      "pct": 14.2,
+      "count": 116,
+      "pct": 14.3,
       "label": "Kelso Police"
     },
     {
       "name": "CCCD",
-      "count": 89,
-      "pct": 11,
+      "count": 87,
+      "pct": 10.7,
       "label": "Cowlitz County Corrections"
     },
     {
@@ -327,18 +327,18 @@
   "courts": [
     {
       "name": "LONGVIEW MUNICIPAL COURT",
-      "count": 554,
-      "pct": 29.9
+      "count": 559,
+      "pct": 30.1
     },
     {
       "name": "COWLITZ COUNTY SUPERIOR COURT",
-      "count": 554,
-      "pct": 29.9
+      "count": 552,
+      "pct": 29.7
     },
     {
       "name": "COWLITZ COUNTY DISTRICT COURT",
       "count": 240,
-      "pct": 13
+      "pct": 12.9
     },
     {
       "name": "KELSO MUNICIPAL COURT",
@@ -472,11 +472,11 @@
     "currentLongestDaysHeld": 534
   },
   "bond": {
-    "withBond": 120,
-    "noBond": 51,
+    "withBond": 121,
+    "noBond": 50,
     "medianBond": 4000,
     "maxBond": 500000,
-    "totalBond": 3977200
+    "totalBond": 3979200
   },
   "chargesPerBooking": 2.3
 }

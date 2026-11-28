@@ -5,9 +5,65 @@
     "name": "MERKWAN, NIKOLAS ALLEN",
     "bookedAt": "2026-11-27T15:16:17",
     "location": "1-PENDING BOOKING",
-    "arrestingAgency": "CCCD",
-    "bondTotal": null,
-    "charges": [],
+    "arrestingAgency": "CCSO",
+    "bondTotal": 4500,
+    "charges": [
+      {
+        "description": "FAIL TO TRANSFER TITLE W/I 45 DAYS",
+        "offenseDate": "2026-11-27T15:56:30",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0042228",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 2500
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-27T15:58:17",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "3A0042228",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "DWLS 3RD",
+        "offenseDate": "2026-11-27T15:45:47",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0273663",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      },
+      {
+        "description": "NVOL - WITHOUT ID",
+        "offenseDate": "2026-11-27T15:47:37",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0273663",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": null,
+        "bondAmount": null
+      },
+      {
+        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
+        "offenseDate": "2026-11-27T15:34:48",
+        "arrestingAgency": "CCSO",
+        "court": "LONGVIEW MUNICIPAL COURT",
+        "warrantNumber": "6A0273665",
+        "disposition": null,
+        "billingAgency": null,
+        "bondType": "Secured",
+        "bondAmount": 1000
+      }
+    ],
     "status": "in_custody",
     "firstSeen": "2026-11-27T15:55:16",
     "releasedAt": null,
@@ -16859,24 +16915,13 @@
     "name": "PARKER, KEVIN RENE",
     "bookedAt": "2026-10-24T13:55:21",
     "location": "G-G12",
-    "arrestingAgency": "CCCD",
-    "bondTotal": 6500,
+    "arrestingAgency": "KEPD",
+    "bondTotal": 4000,
     "charges": [
-      {
-        "description": "ARSON 2ND DEGREE",
-        "offenseDate": "2026-11-27T15:20:26",
-        "arrestingAgency": "CCCD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610051508",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": "Secured",
-        "bondAmount": 2500
-      },
       {
         "description": "CONTEMPT OF COURT",
         "offenseDate": "2026-10-24T13:57:27",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "KEPD",
         "court": "COWLITZ COUNTY SUPERIOR COURT",
         "warrantNumber": "2610051508",
         "disposition": null,
@@ -16885,20 +16930,9 @@
         "bondAmount": 4000
       },
       {
-        "description": "CONTROLLED SUBSTANCE KNOW POSSES",
-        "offenseDate": "2026-11-27T15:25:46",
-        "arrestingAgency": "CCCD",
-        "court": "COWLITZ COUNTY SUPERIOR COURT",
-        "warrantNumber": "2610051508",
-        "disposition": null,
-        "billingAgency": null,
-        "bondType": null,
-        "bondAmount": null
-      },
-      {
         "description": "PROB/PAROLE VIOL",
         "offenseDate": "2026-11-10T10:07:54",
-        "arrestingAgency": "CCCD",
+        "arrestingAgency": "KEPD",
         "court": "KELSO MUNICIPAL COURT",
         "warrantNumber": "6A0076167",
         "disposition": "Guilty",
